@@ -108,3 +108,310 @@ Pano_Lexical_List	107	12	Knee	359.*rã-	SK	rãβoʂo
 Pano_Lexical_List	108	12	Knee	359.*rã-	Kap	rãβoʂo	
 Pano_Lexical_List	109	12	Knee	359.*rã-	Mar	ravuʃɨ	
 Pano_Lexical_List	110	12	Knee	359.*rã-	Kax	tʃãburu	
+Pano_Lexical_List	111	13	Blood	141.*himi	ProPa	himi	
+Pano_Lexical_List	112	13	Blood	141.*himi	Ksh	imi	
+Pano_Lexical_List	113	13	Blood	141.*himi	SK	himi	
+Pano_Lexical_List	114	13	Blood	141.*himi	Kap	himi	
+Pano_Lexical_List	115	13	Blood	141.*himi	Mar	imbi	/b/ as superscript
+Pano_Lexical_List	116	13	Blood	141.*himi	Chak	himi	
+Pano_Lexical_List	117	13	Blood	141.*himi	Kax	himi	
+Pano_Lexical_List	118	13	Blood	141.*himi	Yam	im	
+Pano_Lexical_List	119	13	Blood	141.*himi	Chan	ibi	
+Pano_Lexical_List	120	13	Blood	141.*himi	Shar	imi	
+Pano_Lexical_List	121	14	Breast	429.*ʂo	ProPa	ʂo	
+Pano_Lexical_List	122	14	Breast	429.*ʂo	Ksh	ʂoma	
+Pano_Lexical_List	123	14	Breast	429.*ʂo	SK	ʂoma	
+Pano_Lexical_List	124	14	Breast	429.*ʂo	Kap	ʂoma	
+Pano_Lexical_List	125	14	Breast	429.*ʂo	Mar	ʂoma	
+Pano_Lexical_List	126	14	Breast	429.*ʂo	Chak	ʂoma	
+Pano_Lexical_List	127	14	Breast	429.*ʂo	Chan	ʂoma	
+Pano_Lexical_List	128	14	Breast	429.*ʂo	Shar	ʂoma	
+Pano_Lexical_List	129	15	Sun	63.*βari	ProPa	βari	
+Pano_Lexical_List	130	15	Sun	63.*βari	Ksh	βaɾi	
+Pano_Lexical_List	131	15	Sun	63.*βari	SK	βaɾi	
+Pano_Lexical_List	132	15	Sun	63.*βari	Kap	βaɾi	
+Pano_Lexical_List	133	15	Sun	63.*βari	Mar	vaɾi	
+Pano_Lexical_List	134	15	Sun	63.*βari	Chak	βaɾi	
+Pano_Lexical_List	135	15	Sun	63.*βari	Kax	βatʃi	
+Pano_Lexical_List	136	15	Sun	63.*βari	Chan	ɸaɾi	
+Pano_Lexical_List	137	15	Sun	63.*βari	Shar	ɸari	
+Pano_Lexical_List	138	16	You	246.*mi	ProPa	mi	
+Pano_Lexical_List	139	16	You	246.*mi	Ksh	miː	
+Pano_Lexical_List	140	16	You	246.*mi	SK	mia	
+Pano_Lexical_List	141	16	You	246.*mi	Kap	mia	
+Pano_Lexical_List	142	16	You	246.*mi	Chak	mia	object form
+Pano_Lexical_List	143	17	Come	70.*βɨ-	ProPa	βɨ-	'come,bring'
+Pano_Lexical_List	144	17	Come	70.*βɨ-	Ksh	βɨ-	
+Pano_Lexical_List	145	17	Come	70.*βɨ-	SK	βɨ-	
+Pano_Lexical_List	146	17	Come	70.*βɨ-	Kap	βɨ-	
+Pano_Lexical_List	147	17	Come	70.*βɨ-	Chak	βɨ-	
+Pano_Lexical_List	148	17	Come	70.*βɨ-	Kax	bɨ-	
+Pano_Lexical_List	149	17	Come	70.*βɨ-	Yam	ɸɨ-	
+Pano_Lexical_List	150	17	Come	70.*βɨ-	Chan	ɸɨ-	
+Pano_Lexical_List	151	17	Come	70.*βɨ-	Shar	ɸɨ-	
+Pano_Lexical_List	152	18	I	11.*ʔɨ	ProPa	ʔɨ	
+Pano_Lexical_List	153	18	I	11.*ʔɨ	Ksh	ʔɨ	
+Pano_Lexical_List	154	18	I	11.*ʔɨ	SK	ʔɨ	
+Pano_Lexical_List	155	18	I	11.*ʔɨ	Kap	ʔɨ	
+Pano_Lexical_List	156	18	I	11.*ʔɨ	Chak	ɨ	
+Pano_Lexical_List	157		Flesh	258.*nami	ProPa	nami	Additional cognates refering to body parts
+Pano_Lexical_List	158		Flesh	258.*nami	Ksh	nami	
+Pano_Lexical_List	159		Flesh	258.*nami	SK	nami	
+Pano_Lexical_List	160		Flesh	258.*nami	Kap	nami	
+Pano_Lexical_List	161		Flesh	258.*nami	Mar	nami	
+Pano_Lexical_List	162		Flesh	258.*nami	Chak	nami	
+Pano_Lexical_List	163		Flesh	258.*nami	Kax	lami	
+Pano_Lexical_List	164		Flesh	258.*nami	Yam	nami,nãmi	
+Pano_Lexical_List	165		Flesh	258.*nami	Chan	nabi,dami	
+Pano_Lexical_List	166		Flesh	258.*nami	Shar	nami,namin	
+Pano_Lexical_List	167		Fat	412.*ʂɨni	ProPa	ʂɨni	
+Pano_Lexical_List	168		Fat	412.*ʂɨni	Ksh	ʂɨni	
+Pano_Lexical_List	169		Fat	412.*ʂɨni	SK	ʂɨni	
+Pano_Lexical_List	170		Fat	412.*ʂɨni	Kap	ʂɨni	
+Pano_Lexical_List	171		Fat	412.*ʂɨni	Mar	ʂɨni	
+Pano_Lexical_List	172		Fat	412.*ʂɨni	Chak	ʂɨni	
+Pano_Lexical_List	173		Fat	412.*ʂɨni	Yam	ʂɨnĩ	
+Pano_Lexical_List	174		Fat	412.*ʂɨni	Chan	ʃɨdi,ʃidi,ʂidi	
+Pano_Lexical_List	175		Fat	412.*ʂɨni	Shar	ʂɨni	
+Pano_Lexical_List	176		Fingernail	239.*mɨ̃-tsis[i]	ProPa	mɨ̃-tsis[i]	See footnote 56.
+Pano_Lexical_List	177		Fingernail	239.*mɨ̃-tsis[i]	Ksh	Untsis,untsɨs	
+Pano_Lexical_List	178		Fingernail	239.*mɨ̃-tsis[i]	SK	mɨ̃ntsis,mɨ̃tsis	
+Pano_Lexical_List	179		Fingernail	239.*mɨ̃-tsis[i]	Kap	mɨ̃ntsis	
+Pano_Lexical_List	180		Fingernail	239.*mɨ̃-tsis[i]	Mar	mɨ̃tsisi	
+Pano_Lexical_List	181		Fingernail	239.*mɨ̃-tsis[i]	Chak	mɨ̃tsis,mɨ̃tsisi	
+Pano_Lexical_List	182		Fingernail	239.*mɨ̃-tsis[i]	Kax	mɨ̃tʃisi	
+Pano_Lexical_List	183		Fingernail	239.*mɨ̃-tsis[i]	Yam	mitsis,mitsisi	
+Pano_Lexical_List	184		Fingernail	239.*mɨ̃-tsis[i]	Chan	bitsis(otsis)	
+Pano_Lexical_List	185		Fingernail	239.*mɨ̃-tsis[i]	Shar	mɨtsisi,otsisi	
+Pano_Lexical_List	186		Foot,leg	*ta-	ProPa	ta-	'foot'
+Pano_Lexical_List	187		Foot,leg	*ta-	Ksh	taɨ	
+Pano_Lexical_List	188		Foot,leg	*ta-	SK	taɨ	
+Pano_Lexical_List	189		Foot,leg	*ta-	Kap	taʔɨ	
+Pano_Lexical_List	190		Foot,leg	*ta-	Mar	taɨ	
+Pano_Lexical_List	191		Foot,leg	*ta-	Chak	taʔɨ	
+Pano_Lexical_List	192		Foot,leg	*ta-	Kax	taʔɨ	
+Pano_Lexical_List	193		Foot,leg	*ta-	Yam	taɨ,taɨ̃	
+Pano_Lexical_List	194		Foot,leg	*ta-	Chan	taɨ	
+Pano_Lexical_List	195		Foot,leg	*ta-	Shar	taɨ,taɨn	
+Pano_Lexical_List	196		Lip,edge	155.*kʷɨ-	ProPa	kʷɨ-	
+Pano_Lexical_List	197		Lip,edge	155.*kʷɨ-	Ksh	kʷɨβi-	
+Pano_Lexical_List	198		Lip,edge	155.*kʷɨ-	SK	kɨβi-	
+Pano_Lexical_List	199		Lip,edge	155.*kʷɨ-	Chak	kɨβitʃi	
+Pano_Lexical_List	200		Lip,edge	155.*kʷɨ-	Shar	kuɸirisika	
+Pano_Lexical_List	201		Cheek	440.*tamo	ProPa	tamo	
+Pano_Lexical_List	202		Cheek	440.*tamo	Ksh	tamo	
+Pano_Lexical_List	203		Cheek	440.*tamo	SK	tamo	
+Pano_Lexical_List	204		Cheek	440.*tamo	Kap	tamo	
+Pano_Lexical_List	205		Cheek	440.*tamo	Mar	tambo	/m/ as superscript
+Pano_Lexical_List	206		Cheek	440.*tamo	Chak	tamo	
+Pano_Lexical_List	207		Cheek	440.*tamo	Kax	tamu	
+Pano_Lexical_List	208		Cheek	440.*tamo	Yam	tamo,tamõ	
+Pano_Lexical_List	209		Cheek	440.*tamo	Shar	tamo,tamon	
+Pano_Lexical_List	210		Mouth	158.*kʷɨʂa[CV]	ProPa	kʷɨʂa[CV]	
+Pano_Lexical_List	211		Mouth	158.*kʷɨʂa[CV]	Ksh	kʷɨʂa	
+Pano_Lexical_List	212		Mouth	158.*kʷɨʂa[CV]	SK	kɨʂa	
+Pano_Lexical_List	213		Mouth	158.*kʷɨʂa[CV]	Kap	kɨʂa	
+Pano_Lexical_List	214		Mouth	158.*kʷɨʂa[CV]	Mar	kɨʃa	
+Pano_Lexical_List	215		Mouth	158.*kʷɨʂa[CV]	Kax	kɨʂaka	
+Pano_Lexical_List	216		Mouth	158.*kʷɨʂa[CV]	Yam	kɨʂã,kɨʂamã	
+Pano_Lexical_List	217		Mouth	158.*kʷɨʂa[CV]	Chan	kɨʃa,kɨʂa	
+Pano_Lexical_List	218		Mouth	158.*kʷɨʂa[CV]	Shar	kɨʂa,kɨʂan	
+Pano_Lexical_List	219		Elbow	*βaʂ(u)-	ProPa	βaʂ(u)-	
+Pano_Lexical_List	220		Elbow	*βaʂ(u)-	Ksh	banbuxu	
+Pano_Lexical_List	221		Elbow	*βaʂ(u)-	SK	põtõko	
+Pano_Lexical_List	222		Elbow	*βaʂ(u)-	Kap	baʂpoʂko	
+Pano_Lexical_List	223		Elbow	*βaʂ(u)-	Chak	baspoto	
+Pano_Lexical_List	224		Elbow	*βaʂ(u)-	Kax	paxuxu	
+Pano_Lexical_List	225		Elbow	*βaʂ(u)-	Yam	po-to-ṣ̌ko	
+Pano_Lexical_List	226	1	Tree	*hiwi	Shan	iwi	
+Pano_Lexical_List	227	1	Tree	*hiwi	Kat	hiwi	
+Pano_Lexical_List	228	1	Tree	*hiwi	Poy	iwi	
+Pano_Lexical_List	229	1	Tree	*hiwi	Ama	hiː	
+Pano_Lexical_List	230	1	Tree	*hiwi	HanKax	hi	
+Pano_Lexical_List	231	1	Tree	*hiwi	Maw	iwi	
+Pano_Lexical_List	232	1	Tree	*hiwi	Kor	iwi	
+Pano_Lexical_List	233	1	Tree	*hiwi	MatMay	iwi	
+Pano_Lexical_List	234	2	Tooth	414.*ʂɨ-	Shan	ʂɨta	
+Pano_Lexical_List	235	2	Tooth	414.*ʂɨ-	Kat	ʂita	
+Pano_Lexical_List	236	2	Tooth	414.*ʂɨ-	Ama	xɨta	
+Pano_Lexical_List	237	2	Tooth	414.*ʂɨ-	HanKax	ʂɨta	
+Pano_Lexical_List	238	2	Tooth	414.*ʂɨ-	Maw	ʂɨta	
+Pano_Lexical_List	239	2	Tooth	414.*ʂɨ-	Yaw	ʂɨta	
+Pano_Lexical_List	240	2	Tooth	414.*ʂɨ-	Kor	ʂɨta	
+Pano_Lexical_List	241	2	Tooth	414.*ʂɨ-	Mat	ʂɨta	
+Pano_Lexical_List	242	2	Tooth	414.*ʂɨ-	MatMay	ʂɨta	
+Pano_Lexical_List	243	3	Two	352.*ra-βɨta	Shan	rafu	
+Pano_Lexical_List	244	3	Two	352.*ra-βɨta	Kat	raβi	
+Pano_Lexical_List	245	3	Two	352.*ra-βɨta	Poy	raβu	
+Pano_Lexical_List	246	3	Two	352.*ra-βɨta	Ama	raβɨ	
+Pano_Lexical_List	247	3	Two	352.*ra-βɨta	Maw	raɸɨ	
+Pano_Lexical_List	248	3	Two	352.*ra-βɨta	Yaw	raβɨ	
+Pano_Lexical_List	249	3	Two	352.*ra-βɨta	Kor	ɬaβɨtpa	
+Pano_Lexical_List	250	3	Two	352.*ra-βɨta	Mat	dabɨdpa	
+Pano_Lexical_List	251	3	Two	352.*ra-βɨta	MatMay	daɨd	
+Pano_Lexical_List	252	4	Liver	438.*takʷa	Shan	taka	
+Pano_Lexical_List	253	4	Liver	438.*takʷa	Kat	taka	
+Pano_Lexical_List	254	4	Liver	438.*takʷa	Poy	taka	
+Pano_Lexical_List	255	4	Liver	438.*takʷa	Ama	taka	
+Pano_Lexical_List	256	4	Liver	438.*takʷa	HanKax	taka	
+Pano_Lexical_List	257	4	Liver	438.*takʷa	Maw	taka	
+Pano_Lexical_List	258	4	Liver	438.*takʷa	Yaw	taka	
+Pano_Lexical_List	259	4	Liver	438.*takʷa	Kor	takʷa	
+Pano_Lexical_List	260	4	Liver	438.*takʷa	Mat	takua	
+Pano_Lexical_List	261	4	Liver	438.*takʷa	MatMay	takʷa	
+Pano_Lexical_List	262	5	Leaf	325.*pɨʔi	Shan	pɨj	
+Pano_Lexical_List	263	5	Leaf	325.*pɨʔi	Kat	pɨi	
+Pano_Lexical_List	264	5	Leaf	325.*pɨʔi	Poy	puy	
+Pano_Lexical_List	265	5	Leaf	325.*pɨʔi	Ama	pɨʔi	
+Pano_Lexical_List	266	5	Leaf	325.*pɨʔi	HanKax	pɨi	
+Pano_Lexical_List	267	5	Leaf	325.*pɨʔi	Maw	pɨi	
+Pano_Lexical_List	268	5	Leaf	325.*pɨʔi	Yaw	pɨi	
+Pano_Lexical_List	269	5	Leaf	325.*pɨʔi	Mat	pɨi	
+Pano_Lexical_List	270	5	Leaf	325.*pɨʔi	MatMay	pɨ	
+Pano_Lexical_List	271	6	Bone	398.*ʂao	Shan	ʂaw	See footnote 46.
+Pano_Lexical_List	271	6	Bone	398.*ʂao	Kat	ʃau	
+Pano_Lexical_List	271	6	Bone	398.*ʂao	Poy	haw	
+Pano_Lexical_List	271	6	Bone	398.*ʂao	Ama	xao	
+Pano_Lexical_List	271	6	Bone	398.*ʂao	HanKax	ʂau	
+Pano_Lexical_List	271	6	Bone	398.*ʂao	Maw	ʂao	
+Pano_Lexical_List	271	6	Bone	398.*ʂao	Yaw	ʃau	
+Pano_Lexical_List	271	6	Bone	398.*ʂao	MatMay	mɨ-ʂ 'wrist bone',taɨ-ʂ 'ankle bone', ʂomoʂ 'needle made of bone'	
+Pano_Lexical_List	272	7	Tongue	47.*hana	Shan	ana	
+Pano_Lexical_List	273	7	Tongue	47.*hana	Kat	ana	
+Pano_Lexical_List	274	7	Tongue	47.*hana	Poy	ãda	
+Pano_Lexical_List	275	7	Tongue	47.*hana	Ama	hana	
+Pano_Lexical_List	276	7	Tongue	47.*hana	HanKax	hana	
+Pano_Lexical_List	277	7	Tongue	47.*hana	Maw	ana	
+Pano_Lexical_List	278	7	Tongue	47.*hana	Yaw	anna	
+Pano_Lexical_List	279	7	Tongue	47.*hana	Kor	ana	
+Pano_Lexical_List	280	7	Tongue	47.*hana	Mat	ana	
+Pano_Lexical_List	281	8	Hand	*mɨ-	Ama	mɨkɨ̃	
+Pano_Lexical_List	282	8	Hand	*mɨ-	HanKax	mɨkɨ̃	
+Pano_Lexical_List	283	8	Hand	*mɨ-	Maw	mɨkɨ	
+Pano_Lexical_List	284	8	Hand	*mɨ-	Mat	mɨkɨn	
+Pano_Lexical_List	285	8	Hand	*mɨ-	MatMay	mɨdante	
+Pano_Lexical_List	286	9	Night	494.*yamɨtV	Shan	yamɨ	
+Pano_Lexical_List	287	9	Night	494.*yamɨtV	Kat	yamɨ	
+Pano_Lexical_List	288	9	Night	494.*yamɨtV	Poy	iãvu	
+Pano_Lexical_List	289	9	Night	494.*yamɨtV	Ama	yamɨː	
+Pano_Lexical_List	290	9	Night	494.*yamɨtV	HanKax	yamɨ	
+Pano_Lexical_List	291	9	Night	494.*yamɨtV	Maw	yamɨ	
+Pano_Lexical_List	292	9	Night	494.*yamɨtV	Yaw	iamɨ	
+Pano_Lexical_List	293	9	Night	494.*yamɨtV	Kor	imɨt	
+Pano_Lexical_List	294	9	Night	494.*yamɨtV	Mat	imɨd	
+Pano_Lexical_List	295	10	Skin	89.*βitsi	Shan	fitʃi	
+Pano_Lexical_List	296	10	Skin	89.*βitsi	HanKax	bitʃi	
+Pano_Lexical_List	297	10	Skin	89.*βitsi	Maw	ɸitʃi	
+Pano_Lexical_List	298	10	Skin	89.*βitsi	Yaw	βɨtʃi	
+Pano_Lexical_List	299	10	Skin	89.*βitsi	Mat	bitsi	
+Pano_Lexical_List	300	10	Skin	89.*βitsi	MatMay	bitsi	
+Pano_Lexical_List	301	11	Fire	125.*tsiʔi	Shan	tʃi	
+Pano_Lexical_List	302	11	Fire	125.*tsiʔi	Kat	tʃii	
+Pano_Lexical_List	303	11	Fire	125.*tsiʔi	Ama	tʃiʔi	
+Pano_Lexical_List	304	11	Fire	125.*tsiʔi	HanKax	tʃi	
+Pano_Lexical_List	305	11	Fire	125.*tsiʔi	Maw	tʃi	
+Pano_Lexical_List	306	11	Fire	125.*tsiʔi	Yaw	tʃi	
+Pano_Lexical_List	307	12	Knee	359.*rã-	Kat	raβɨʂo	
+Pano_Lexical_List	308	12	Knee	359.*rã-	Ama	rawoxko	
+Pano_Lexical_List	309	13	Blood	141.*himi	Shan	imi	
+Pano_Lexical_List	310	13	Blood	141.*himi	Kat	himi	
+Pano_Lexical_List	311	13	Blood	141.*himi	Poy	ibi	
+Pano_Lexical_List	312	13	Blood	141.*himi	Ama	himi	
+Pano_Lexical_List	313	13	Blood	141.*himi	HanKax	himi	
+Pano_Lexical_List	314	13	Blood	141.*himi	Maw	imi	
+Pano_Lexical_List	315	13	Blood	141.*himi	Yaw	imi	
+Pano_Lexical_List	316	13	Blood	141.*himi	Kor	inta	
+Pano_Lexical_List	317	13	Blood	141.*himi	Mat	imi	
+Pano_Lexical_List	318	13	Blood	141.*himi	MatMay	imi	
+Pano_Lexical_List	319	14	Breast	429.*ʂo	Shan	ʂuma	
+Pano_Lexical_List	320	14	Breast	429.*ʂo	Kat	ʃuma	
+Pano_Lexical_List	321	14	Breast	429.*ʂo	Poy	hũba	
+Pano_Lexical_List	322	14	Breast	429.*ʂo	Ama	xoma	
+Pano_Lexical_List	323	14	Breast	429.*ʂo	HanKax	ʂuma	
+Pano_Lexical_List	324	14	Breast	429.*ʂo	Maw	ʂoma	
+Pano_Lexical_List	325	14	Breast	429.*ʂo	Yaw	ʃuma	
+Pano_Lexical_List	326	14	Breast	429.*ʂo	Kor	ʂuma	
+Pano_Lexical_List	327	14	Breast	429.*ʂo	Mat	ʂuma	
+Pano_Lexical_List	328	14	Breast	429.*ʂo	MatMay	ʂuma	
+Pano_Lexical_List	329	15	Sun	63.*βari	Shan	faɾi	
+Pano_Lexical_List	330	15	Sun	63.*βari	Kat	βaɾi	
+Pano_Lexical_List	331	15	Sun	63.*βari	Poy	βaɾi	
+Pano_Lexical_List	332	15	Sun	63.*βari	Ama	bari	
+Pano_Lexical_List	333	15	Sun	63.*βari	HanKax	badi	
+Pano_Lexical_List	334	15	Sun	63.*βari	Maw	ɸaɾi	
+Pano_Lexical_List	335	15	Sun	63.*βari	Yaw	βaɾi	
+Pano_Lexical_List	336	15	Sun	63.*βari	Kor	βaɬi	
+Pano_Lexical_List	337	15	Sun	63.*βari	Mat	badi	
+Pano_Lexical_List	338	15	Sun	63.*βari	MatMay	badiad	
+Pano_Lexical_List	339	16	You	246.*mi	Ama	miya	
+Pano_Lexical_List	340	16	You	246.*mi	HanKax	mia	
+Pano_Lexical_List	341	16	You	246.*mi	Maw	mia	
+Pano_Lexical_List	342	16	You	246.*mi	Kor	mi	
+Pano_Lexical_List	343	16	You	246.*mi	Mat	mi (minbi,mibi,min)	
+Pano_Lexical_List	344	16	You	246.*mi	MatMay	mi (minbi,mibi,min)	
+Pano_Lexical_List	345	17	Come	70.*βɨ-	Ama	βɨ-	
+Pano_Lexical_List	346	17	Come	70.*βɨ-	HanKax	bɨ-	
+Pano_Lexical_List	347	17	Come	70.*βɨ-	Maw	ɸɨ-	
+Pano_Lexical_List	348	17	Come	70.*βɨ-	Yaw	βɨ-	
+Pano_Lexical_List	349	17	Come	70.*βɨ-	Kor	βɨ-	
+Pano_Lexical_List	350	17	Come	70.*βɨ-	Mat	βɨ-	
+Pano_Lexical_List	351	17	Come	70.*βɨ-	MatMay	bɨ-	
+Pano_Lexical_List	352	18	I	11.*ʔɨ	Ama	ɨ	
+Pano_Lexical_List	353	18	I	11.*ʔɨ	HanKax	ɨ	
+Pano_Lexical_List	354	18	I	11.*ʔɨ	Maw	ɨ	
+Pano_Lexical_List	355		Flesh	258.*nami	Shan	nami	
+Pano_Lexical_List	356		Flesh	258.*nami	Kat	nami	
+Pano_Lexical_List	357		Flesh	258.*nami	Poy	nãbi	
+Pano_Lexical_List	358		Flesh	258.*nami	Ama	nami	
+Pano_Lexical_List	359		Flesh	258.*nami	HanKax	nami	
+Pano_Lexical_List	360		Flesh	258.*nami	Maw	nami	
+Pano_Lexical_List	361		Flesh	258.*nami	Yaw	nami	
+Pano_Lexical_List	362		Flesh	258.*nami	Mat	nami	
+Pano_Lexical_List	363		Flesh	258.*nami	MatMay	nami	
+Pano_Lexical_List	364		Fat	412.*ʂɨni	Shan	ʂɨni	
+Pano_Lexical_List	365		Fat	412.*ʂɨni	Kat	ʃɨni	
+Pano_Lexical_List	366		Fat	412.*ʂɨni	Poy	hãdi	
+Pano_Lexical_List	367		Fat	412.*ʂɨni	Ama	xɨni	
+Pano_Lexical_List	368		Fat	412.*ʂɨni	HanKax	ʂɨni	
+Pano_Lexical_List	369		Fat	412.*ʂɨni	Maw	ʂɨni	
+Pano_Lexical_List	370		Fat	412.*ʂɨni	Yaw	ʂɨni	
+Pano_Lexical_List	371		Fat	412.*ʂɨni	Kor	ʃɨni	
+Pano_Lexical_List	372		Fat	412.*ʂɨni	Mat	ʂɨni	
+Pano_Lexical_List	373		Fingernail	239.*mɨ̃-tsis[i]	Shan	mɨtʃiʃi	
+Pano_Lexical_List	374		Fingernail	239.*mɨ̃-tsis[i]	Kat	mɨ̃tʃiʃi	
+Pano_Lexical_List	375		Fingernail	239.*mɨ̃-tsis[i]	Ama	mɨntsis	
+Pano_Lexical_List	376		Fingernail	239.*mɨ̃-tsis[i]	HanKax	mɨ̃tsis	
+Pano_Lexical_List	377		Fingernail	239.*mɨ̃-tsis[i]	Maw	mɨ̃tsisi	
+Pano_Lexical_List	378		Fingernail	239.*mɨ̃-tsis[i]	Yaw	mɨtsisi	
+Pano_Lexical_List	379		Fingernail	239.*mɨ̃-tsis[i]	Kor	mɨtʃiun	
+Pano_Lexical_List	380		Fingernail	239.*mɨ̃-tsis[i]	Mat	mɨntis	
+Pano_Lexical_List	381		Fingernail	239.*mɨ̃-tsis[i]	MatMay	mɨntsis	
+Pano_Lexical_List	382		Foot,leg	*ta-	Shan	taɨ	
+Pano_Lexical_List	383		Foot,leg	*ta-	Kat	taɨ	
+Pano_Lexical_List	384		Foot,leg	*ta-	Poy	tay	
+Pano_Lexical_List	385		Foot,leg	*ta-	Ama	taʔɨ	
+Pano_Lexical_List	386		Foot,leg	*ta-	HanKax	taɨ	
+Pano_Lexical_List	387		Foot,leg	*ta-	Maw	taɨ	
+Pano_Lexical_List	388		Foot,leg	*ta-	Yaw	tai	
+Pano_Lexical_List	389		Foot,leg	*ta-	Kor	taɨ	
+Pano_Lexical_List	390		Foot,leg	*ta-	Mat	taɨ	
+Pano_Lexical_List	391		Foot,leg	*ta-	MatMay	taɨ	
+Pano_Lexical_List	392		Lip,edge	155.*kʷɨ-	HanKax	kɨbitʃi	
+Pano_Lexical_List	393		Lip,edge	155.*kʷɨ-	MatMay	kwibi	
+Pano_Lexical_List	394		Cheek	440.*tamo	Kat	tamu	
+Pano_Lexical_List	395		Cheek	440.*tamo	Poy	tãbu	
+Pano_Lexical_List	396		Cheek	440.*tamo	Ama	tamo	
+Pano_Lexical_List	397		Cheek	440.*tamo	HanKax	tamu	
+Pano_Lexical_List	398		Cheek	440.*tamo	Maw	tamo	
+Pano_Lexical_List	399		Cheek	440.*tamo	MatMay	tambu	'beard'
+Pano_Lexical_List	400		Mouth	158.*kʷɨʂa[CV]	Shan	kɨʂa	
+Pano_Lexical_List	401		Mouth	158.*kʷɨʂa[CV]	Kat	kɨʂa	
+Pano_Lexical_List	402		Mouth	158.*kʷɨʂa[CV]	Poy	kɨxaa	
+Pano_Lexical_List	403		Mouth	158.*kʷɨʂa[CV]	Ama	kɨʂa	
+Pano_Lexical_List	404		Mouth	158.*kʷɨʂa[CV]	HanKax	kɨʂ̃ã	
+Pano_Lexical_List	405		Mouth	158.*kʷɨʂa[CV]	Maw	kɨʃa	
+Pano_Lexical_List	406		Mouth	158.*kʷɨʂa[CV]	Yaw	kɨha	
+Pano_Lexical_List	407		Elbow	*βaʂ(u)-	Ama	vapoxko	
+Pano_Lexical_List	408		Elbow	*βaʂ(u)-	HanKax	baʂtunku	
+Pano_Lexical_List	409		Elbow	*βaʂ(u)-	Mat	mɨntʂinβuru	
+Pano_Lexical_List	410		Elbow	*βaʂ(u)-	MatMay	mɨntsimpis	
