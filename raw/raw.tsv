@@ -643,16 +643,16 @@ Pano_Grammatical_Morphemes	636	12	AUGMENTATIVE	*pa	SK	-n ewá
 Pano_Grammatical_Morphemes	637	12	AUGMENTATIVE	*pa	Kap	-ahhuan	
 Pano_Grammatical_Morphemes	638	12	AUGMENTATIVE	*pa	Chak	-wa	
 Pano_Grammatical_Morphemes	639	12	AUGMENTATIVE	*pa	Yam	-nfã	
-Pano_Grammatical_Morphemes	640	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	ProPa	ʔak-	
-Pano_Grammatical_Morphemes	641	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	Ksh	ʔa-	
-Pano_Grammatical_Morphemes	642	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	SK	ʔa-	
-Pano_Grammatical_Morphemes	643	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	Kap	ʔa-	
-Pano_Grammatical_Morphemes	644	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	Mar	a	
-Pano_Grammatical_Morphemes	645	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	Chak	ʔa-	
-Pano_Grammatical_Morphemes	646	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	Kax	a-	
-Pano_Grammatical_Morphemes	647	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	Yam	ak-	
-Pano_Grammatical_Morphemes	648	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	Chan	a-	
-Pano_Grammatical_Morphemes	649	13	DO (TR.), AUXILIARY (TR.)	1.*ʔak-	Shar	a-	
+Pano_Grammatical_Morphemes	640	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	ProPa	ʔak-	
+Pano_Grammatical_Morphemes	641	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Ksh	ʔa-	
+Pano_Grammatical_Morphemes	642	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	SK	ʔa-	
+Pano_Grammatical_Morphemes	643	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Kap	ʔa-	
+Pano_Grammatical_Morphemes	644	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Mar	a	
+Pano_Grammatical_Morphemes	645	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Chak	ʔa-	
+Pano_Grammatical_Morphemes	646	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Kax	a-	
+Pano_Grammatical_Morphemes	647	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Yam	ak-	
+Pano_Grammatical_Morphemes	648	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Chan	a-	
+Pano_Grammatical_Morphemes	649	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Shar	a-	
 Pano_Grammatical_Morphemes	650	14	TRANSITIVIZER	466.*-wa	ProPa	-wa	
 Pano_Grammatical_Morphemes	651	14	TRANSITIVIZER	466.*-wa	Ksh	-ɔ	
 Pano_Grammatical_Morphemes	652	14	TRANSITIVIZER	466.*-wa	Chak	-wa	
@@ -663,64 +663,151 @@ Pano_Grammatical_Morphemes	656	16	ERGATIVE	*-n	ProPa	-n
 Pano_Grammatical_Morphemes	657	16	ERGATIVE	*-n	Ksh	=(a)n	
 Pano_Grammatical_Morphemes	658	16	ERGATIVE	*-n	SK	=n	
 Pano_Grammatical_Morphemes	659	16	ERGATIVE	*-n	Kap	-n	
-Pano_Grammatical_Morphemes	660	17	PREVIOUS EVENT,SAME-SUBJECT	*-ʂo-n	ProPa	-ʂo-n	
-Pano_Grammatical_Morphemes	661	17	PREVIOUS EVENT,SAME-SUBJECT	*-ʂo-n	Ksh	-ʂun	
-Pano_Grammatical_Morphemes	662	17	PREVIOUS EVENT,SAME-SUBJECT	*-ʂo-n	SK	-ʂon	
-Pano_Grammatical_Morphemes	663	17	PREVIOUS EVENT,SAME-SUBJECT	*-ʂo-n	Chak	-ʂo	
-Pano_Grammatical_Morphemes	664	17	PREVIOUS EVENT,SAME-SUBJECT	*-ʂo-n	Kax	-ʂu	
+Pano_Grammatical_Morphemes	660	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	ProPa	-ʂo-n	
+Pano_Grammatical_Morphemes	661	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Ksh	-ʂun	
+Pano_Grammatical_Morphemes	662	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	SK	-ʂon	
+Pano_Grammatical_Morphemes	663	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Chak	-ʂo	
+Pano_Grammatical_Morphemes	664	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Kax	-ʂu	
 Pano_Grammatical_Morphemes	665	18	COMITATIVE,'ALONG WITH'	*βɨta	ProPa	βɨta	
 Pano_Grammatical_Morphemes	666	18	COMITATIVE,'ALONG WITH'	*βɨta	Ksh	-bɨ~-bɨtan	
 Pano_Grammatical_Morphemes	667	18	COMITATIVE,'ALONG WITH'	*βɨta	SK	-bɨ	
 Pano_Grammatical_Morphemes	668	18	COMITATIVE,'ALONG WITH'	*βɨta	Chak	-bɨta	
 Pano_Grammatical_Morphemes	669	18	COMITATIVE,'ALONG WITH'	*βɨta	Yam	-fɨtã	
-Pano_Grammatical_Morphemes	670	1	1st SG 'I'	11.*ʔɨ	ProPa	ʔɨ	
-Pano_Grammatical_Morphemes	671	1	1st SG 'I'	11.*ʔɨ	Ama	ɨ	
-Pano_Grammatical_Morphemes	672	1	1st SG 'I'	11.*ʔɨ	HanKax	ɨ	
-Pano_Grammatical_Morphemes	673	1	1st SG 'I'	11.*ʔɨ	Maw	ɨ	
-Pano_Grammatical_Morphemes	674	2	2nd SG 'you'	246.*mi	ProPa	mi	
-Pano_Grammatical_Morphemes	675	2	2nd SG 'you'	246.*mi	Ama	miya	
-Pano_Grammatical_Morphemes	676	2	2nd SG 'you'	246.*mi	HanKax	mia	
-Pano_Grammatical_Morphemes	677	2	2nd SG 'you'	246.*mi	Maw	mia	
-Pano_Grammatical_Morphemes	678	2	2nd SG 'you'	246.*mi	Kor	mi	
-Pano_Grammatical_Morphemes	679	2	2nd SG 'you'	246.*mi	Mat	mi (minbi,mibi,min)	
-Pano_Grammatical_Morphemes	680	2	2nd SG 'you'	246.*mi	MatMay	mi (minbi,mibi,min)	
-Pano_Grammatical_Morphemes	681	3	DEMONSTRATIVE distal	*ʔo-	ProPa	ʔo-	
-Pano_Grammatical_Morphemes	682	3	DEMONSTRATIVE distal	*ʔo-	MatMay	uid	
-Pano_Grammatical_Morphemes	683	4	DEMONSTRATIVE proximate	*nɨ-	ProPa	nɨ-	
-Pano_Grammatical_Morphemes	684	4	DEMONSTRATIVE proximate	*nɨ-	MatMay	nɨid	
-Pano_Grammatical_Morphemes	685	5	GENITIVE	*-wɨ̃	ProPa	-wɨ̃	
-Pano_Grammatical_Morphemes	686	6	IMPERATIVE	477.*-wɨ	ProPa	-wɨ	
-Pano_Grammatical_Morphemes	687	6	IMPERATIVE	477.*-wɨ	Ksh	-wɨ	
-Pano_Grammatical_Morphemes	688	6	IMPERATIVE	477.*-wɨ	SK	wɨ	
-Pano_Grammatical_Morphemes	689	6	IMPERATIVE	477.*-wɨ	HanKax	-wɨ	
-Pano_Grammatical_Morphemes	690	6	IMPERATIVE	477.*-wɨ	Maw	-wɨ	
-Pano_Grammatical_Morphemes	691	6	IMPERATIVE	477.*-wɨ	Yaw	-wɨ	
-Pano_Grammatical_Morphemes	692	7	GOING DOWN,DOWNWARD	*-βut	ProPa	-βut	
-Pano_Grammatical_Morphemes	693	7	GOING DOWN,DOWNWARD	*-βut	MatMay	-bud	
-Pano_Grammatical_Morphemes	694	8	DO COMING	*-βɨ[...]	ProPa	-βɨ[...]	Guillaume 2017:254
-Pano_Grammatical_Morphemes	695	8	DO COMING	*-βɨ[...]	Ama	-vɨran	
-Pano_Grammatical_Morphemes	696	8	DO COMING	*-βɨ[...]	MatMay	-bɨtsen		
-Pano_Grammatical_Morphemes	697	9	DESIDERATIVE	*-katsa	ProPa	-katsa	
-Pano_Grammatical_Morphemes	698	9	DESIDERATIVE	*-katsa	Ama	-katsi	
-Pano_Grammatical_Morphemes	699	9	DESIDERATIVE	*-katsa	MatMay	-kas-,katsi	
-Pano_Grammatical_Morphemes	700	10	NEGATIVE	493.*-[ya]ma	ProPa	-[ya]ma	verbal
-Pano_Grammatical_Morphemes	701	10	NEGATIVE	493.*-[ya]ma	Shan	-ma,-yama,	'negación general','negación de imperativo
-Pano_Grammatical_Morphemes	702	10	NEGATIVE	493.*-[ya]ma	Kat	yama,ma	'no tener,negativo','no'
-Pano_Grammatical_Morphemes	703	10	NEGATIVE	493.*-[ya]ma	Poy	ba	'asertivo negativo'
-Pano_Grammatical_Morphemes	704	10	NEGATIVE	493.*-[ya]ma	Ama	-yama	
-Pano_Grammatical_Morphemes	705	10	NEGATIVE	493.*-[ya]ma	HanKax	-ma,-yama	
-Pano_Grammatical_Morphemes	706	10	NEGATIVE	493.*-[ya]ma	Maw	-ma	
-Pano_Grammatical_Morphemes	707	10	NEGATIVE	493.*-[ya]ma	Yaw	-ma	'negación'
-Pano_Grammatical_Morphemes	708	10	NEGATIVE	493.*-[ya]ma	Kor	-ma	'negación pasado'
-Pano_Grammatical_Morphemes	709	10	NEGATIVE	493.*-[ya]ma	Mat	-ama	'negación pasado'
-Pano_Grammatical_Morphemes	710	11	CAUSATIVE	202.*-m[a]	ProPa	-m[a]	
-Pano_Grammatical_Morphemes	711	11	CAUSATIVE	202.*-m[a]	Shan	-ma	
-Pano_Grammatical_Morphemes	712	11	CAUSATIVE	202.*-m[a]	Ama	-ma-	
-Pano_Grammatical_Morphemes	713	11	CAUSATIVE	202.*-m[a]	HanKax	-ma-	
-Pano_Grammatical_Morphemes	714	11	CAUSATIVE	202.*-m[a]	Maw	-ma	
-Pano_Grammatical_Morphemes	715	11	CAUSATIVE	202.*-m[a]	Yaw	-ma-	
-Pano_Grammatical_Morphemes	716	11	CAUSATIVE	202.*-m[a]	Kor	-me	
-Pano_Grammatical_Morphemes	717	11	CAUSATIVE	202.*-m[a]	Mat	-me	
-Pano_Grammatical_Morphemes	718	11	CAUSATIVE	202.*-m[a]	MatMay	-me	
-Pano_Grammatical_Morphemes	719	12	AUGMENTATIVE	*pa	ProPa	pa	
-Pano_Grammatical_Morphemes	720	12	AUGMENTATIVE	*pa	MatMay	-pa	
+Pano_Grammatical_Morphemes	670	1	1st SG 'I'	11.*ʔɨ	Ama	ɨ	
+Pano_Grammatical_Morphemes	671	1	1st SG 'I'	11.*ʔɨ	HanKax	ɨ	
+Pano_Grammatical_Morphemes	672	1	1st SG 'I'	11.*ʔɨ	Maw	ɨ	
+Pano_Grammatical_Morphemes	673	2	2nd SG 'you'	246.*mi	Ama	miya	
+Pano_Grammatical_Morphemes	674	2	2nd SG 'you'	246.*mi	HanKax	mia	
+Pano_Grammatical_Morphemes	675	2	2nd SG 'you'	246.*mi	Maw	mia	
+Pano_Grammatical_Morphemes	676	2	2nd SG 'you'	246.*mi	Kor	mi	
+Pano_Grammatical_Morphemes	677	2	2nd SG 'you'	246.*mi	Mat	mi (minbi,mibi,min)	
+Pano_Grammatical_Morphemes	678	2	2nd SG 'you'	246.*mi	MatMay	mi (minbi,mibi,min)	
+Pano_Grammatical_Morphemes	679	3	DEMONSTRATIVE distal	*ʔo-	MatMay	uid	
+Pano_Grammatical_Morphemes	680	4	DEMONSTRATIVE proximate	*nɨ-	MatMay	nɨid	
+Pano_Grammatical_Morphemes	681	6	IMPERATIVE	477.*-wɨ	Shan	-wɨ	
+Pano_Grammatical_Morphemes	682	6	IMPERATIVE	477.*-wɨ	Kat	wɨ	
+Pano_Grammatical_Morphemes	683	6	IMPERATIVE	477.*-wɨ	HanKax	-wɨ	
+Pano_Grammatical_Morphemes	684	6	IMPERATIVE	477.*-wɨ	Maw	-wɨ	
+Pano_Grammatical_Morphemes	685	6	IMPERATIVE	477.*-wɨ	Yaw	-wɨ	
+Pano_Grammatical_Morphemes	686	7	GOING DOWN,DOWNWARD	*-βut	MatMay	-bud	
+Pano_Grammatical_Morphemes	687	8	DO COMING	*-βɨ[...]	Ama	-vɨran	
+Pano_Grammatical_Morphemes	688	8	DO COMING	*-βɨ[...]	MatMay	-bɨtsen	
+Pano_Grammatical_Morphemes	689	9	DESIDERATIVE	*-katsa	Ama	-katsi	
+Pano_Grammatical_Morphemes	690	9	DESIDERATIVE	*-katsa	MatMay	-kas-,katsi	
+Pano_Grammatical_Morphemes	691	10	NEGATIVE	493.*-[ya]ma	Shan	-ma,-yama,	'negación general','negación de imperativo
+Pano_Grammatical_Morphemes	692	10	NEGATIVE	493.*-[ya]ma	Kat	yama,ma	'no tener,negativo','no'
+Pano_Grammatical_Morphemes	693	10	NEGATIVE	493.*-[ya]ma	Poy	ba	'asertivo negativo'
+Pano_Grammatical_Morphemes	694	10	NEGATIVE	493.*-[ya]ma	Ama	-yama	
+Pano_Grammatical_Morphemes	695	10	NEGATIVE	493.*-[ya]ma	HanKax	-ma,-yama	
+Pano_Grammatical_Morphemes	696	10	NEGATIVE	493.*-[ya]ma	Maw	-ma	
+Pano_Grammatical_Morphemes	697	10	NEGATIVE	493.*-[ya]ma	Yaw	-ma	'negación'
+Pano_Grammatical_Morphemes	698	10	NEGATIVE	493.*-[ya]ma	Kor	-ma	'negación pasado'
+Pano_Grammatical_Morphemes	699	10	NEGATIVE	493.*-[ya]ma	Mat	-ama	'negación pasado'
+Pano_Grammatical_Morphemes	700	11	CAUSATIVE	202.*-m[a]	Shan	-ma	
+Pano_Grammatical_Morphemes	701	11	CAUSATIVE	202.*-m[a]	Ama	-ma-	
+Pano_Grammatical_Morphemes	702	11	CAUSATIVE	202.*-m[a]	HanKax	-ma-	
+Pano_Grammatical_Morphemes	703	11	CAUSATIVE	202.*-m[a]	Maw	-ma	
+Pano_Grammatical_Morphemes	704	11	CAUSATIVE	202.*-m[a]	Yaw	-ma-	
+Pano_Grammatical_Morphemes	705	11	CAUSATIVE	202.*-m[a]	Kor	-me	
+Pano_Grammatical_Morphemes	706	11	CAUSATIVE	202.*-m[a]	Mat	-me	
+Pano_Grammatical_Morphemes	707	11	CAUSATIVE	202.*-m[a]	MatMay	-me	
+Pano_Grammatical_Morphemes	708	12	AUGMENTATIVE	*pa	MatMay	-pa	
+Pano_Grammatical_Morphemes	709	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Ama	ʔa-	
+Pano_Grammatical_Morphemes	710	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	HanKax	a-	
+Pano_Grammatical_Morphemes	711	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Maw	a-	
+Pano_Grammatical_Morphemes	712	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Kor	ak-	
+Pano_Grammatical_Morphemes	713	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Mat	ak-	
+Pano_Grammatical_Morphemes	714	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	MatMay	ak-	
+Pano_Grammatical_Morphemes	715	14	TRANSITIVIZER	466.*-wa	HanKax	wa-,-wa	
+Pano_Grammatical_Morphemes	716	16	ERGATIVE	*-n	MatMay	-n	
+Pano_Grammatical_Morphemes	717	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Ama	=çon	
+Pano_Grammatical_Morphemes	718	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	HanKax	=ʂun	
+Pano_Grammatical_Morphemes	719	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Mat	=ʂun	
+Pano_Grammatical_Morphemes	720	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	MatMay	=ʂun	
+Pano_Grammatical_Morphemes	721	18	COMITATIVE	*βɨta	Ama	-wɨ,-wɨtã	
+Pano_Grammatical_Morphemes	722	18	COMITATIVE	*βɨta	HanKax	-bɨ,-bɨtã	
+Pano_Grammatical_Morphemes	723	18	COMITATIVE	*βɨta	Maw	-fɨta,fɨtã	
+Pano_Grammatical_Morphemes	724	18	COMITATIVE	*βɨta	MatMay	-bid (S),-bɨta (O),-bɨtan (A)	
+Takana_Grammatical_Morphemes	725	1	1st SG 'I'	151.*e	ProTa	e	
+Takana_Grammatical_Morphemes	726	1	1st SG 'I'	151.*e	Tac	e-ma	
+Takana_Grammatical_Morphemes	727	1	1st SG 'I'	151.*e	ReyMar	e-me/éme	
+Takana_Grammatical_Morphemes	728	1	1st SG 'I'	151.*e	Aro	ema,yama	
+Takana_Grammatical_Morphemes	729	1	1st SG 'I'	151.*e	Cav	e-ra	
+Takana_Grammatical_Morphemes	730	1	1st SG 'I'	151.*e	Ese	ea,eyaya	
+Takana_Grammatical_Morphemes	731	2	2nd SG 'you'	292.*mi	ProTa	mi	Girard additionally lists -mikia for Arasa.
+Takana_Grammatical_Morphemes	732	2	2nd SG 'you'	292.*mi	Tac	mi-ke	
+Takana_Grammatical_Morphemes	733	2	2nd SG 'you'	292.*mi	ReyMar	mibe/mive	
+Takana_Grammatical_Morphemes	734	2	2nd SG 'you'	292.*mi	Aro	mitya	
+Takana_Grammatical_Morphemes	735	2	2nd SG 'you'	292.*mi	Cav	mi-kwana	
+Takana_Grammatical_Morphemes	736	2	2nd SG 'you'	292.*mi	Ese	mi-a	
+Takana_Grammatical_Morphemes	737	3	DEMONSTRATIVE 'this' 'he'	442.*u-	ProTa	u-	
+Takana_Grammatical_Morphemes	738	3	DEMONSTRATIVE 'this' 'he'	Tac	u-ha	
+Takana_Grammatical_Morphemes	739	3	DEMONSTRATIVE 'this' 'he'	Cav	o-ho	
+Takana_Grammatical_Morphemes	740	3	DEMONSTRATIVE 'this' 'he'	Ese	o-haya	
+Takana_Grammatical_Morphemes	741	4	DEMONSTRATIVE proximate	*ree-	ProTa	ree-	
+Takana_Grammatical_Morphemes	742	4	DEMONSTRATIVE proximate	*ree-	Tac	ye	
+Takana_Grammatical_Morphemes	743	4	DEMONSTRATIVE proximate	*ree-	Cav	reeke	
+Takana_Grammatical_Morphemes	744	4	DEMONSTRATIVE proximate	*ree-	Ese	hikio	
+Takana_Grammatical_Morphemes	745	5	GENITIVE	241.*-kʷe	ProTa	-kʷe	Girard additionally lists -kwe for Warayo.
+Takana_Grammatical_Morphemes	746	5	GENITIVE	241.*-kʷe	Tac	-ke	
+Takana_Grammatical_Morphemes	747	5	GENITIVE	241.*-kʷe	ReyMar	ki-/-	'possessive prefix'
+Takana_Grammatical_Morphemes	748	5	GENITIVE	241.*-kʷe	Cav	-kwe	
+Takana_Grammatical_Morphemes	749	5	GENITIVE	241.*-kʷe	Ese	-kwe	
+Takana_Grammatical_Morphemes	750	6	IMPERATIVE	240.*-kʷe	ProTa	-kʷe	Girard additionally lists -he for Warisa.
+Takana_Grammatical_Morphemes	751	6	IMPERATIVE	240.*-kʷe	Tac	-ke	
+Takana_Grammatical_Morphemes	752	6	IMPERATIVE	240.*-kʷe	Cav	-kwe	
+Takana_Grammatical_Morphemes	753	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	ProTa	-bu,-bute	For first form, Girard additionally lists -anibuteni for Warisa. For second form, see footnote 67.
+Takana_Grammatical_Morphemes	754	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	Tac	e-bute-hi,-ute	
+Takana_Grammatical_Morphemes	755	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	ReyMar	-/animabotia,-bute/-	
+Takana_Grammatical_Morphemes	756	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	Aro	-bote	
+Takana_Grammatical_Morphemes	757	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	Cav	e-bote,-bute/-butya	
+Takana_Grammatical_Morphemes	758	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	Ese	'oke/-'okya	
+Takana_Grammatical_Morphemes	759	8	DO COMING	*-be	ProTa	-be	Guillaume 2017:233
+Takana_Grammatical_Morphemes	760	8	DO COMING	*-be	Tac	-be	
+Takana_Grammatical_Morphemes	761	8	DO COMING	*-be	ReyMar	-bebe/-	
+Takana_Grammatical_Morphemes	762	8	DO COMING	*-be	Cav	-be	
+Takana_Grammatical_Morphemes	763	8	DO COMING	*-be	Ese	-jebe	
+Takana_Grammatical_Morphemes	764	9	DESIDERATIVE	*-katsa	ProTa	-katsa	
+Takana_Grammatical_Morphemes	765	9	DESIDERATIVE	*-katsa	Tac	-tsa	
+Takana_Grammatical_Morphemes	766	9	DESIDERATIVE	*-katsa	Aro	-hae	
+Takana_Grammatical_Morphemes	767	9	DESIDERATIVE	*-katsa	Cav	-kara	
+Takana_Grammatical_Morphemes	768	9	DESIDERATIVE	*-katsa	Ese	-sa	
+Takana_Grammatical_Morphemes	769	10	NEGATIVE	9.*-(a)ma	ProTa	-(a)ma	verbal and nominal
+Takana_Grammatical_Morphemes	770	10	NEGATIVE	9.*-(a)ma	Tac	-(a)ma	
+Takana_Grammatical_Morphemes	771	10	NEGATIVE	9.*-(a)ma	Cav	-(a)ma	
+Takana_Grammatical_Morphemes	772	10	NEGATIVE	9.*-(a)ma	Ese	-(a)ma	
+Takana_Grammatical_Morphemes	773	11	CAUSATIVE	289.*-me[re]	ProTa	-me[re]	See footnote 73.
+Takana_Grammatical_Morphemes	774	11	CAUSATIVE	289.*-me[re]	Tac	-me	
+Takana_Grammatical_Morphemes	775	11	CAUSATIVE	289.*-me[re]	Aro	-me	
+Takana_Grammatical_Morphemes	776	11	CAUSATIVE	289.*-me[re]	Cav	-mere	
+Takana_Grammatical_Morphemes	777	11	CAUSATIVE	289.*-me[re]	Ese	-mee	
+Takana_Grammatical_Morphemes	778	12	AUGMENTATIVE	330.*-pa	ProTa	-pa	
+Takana_Grammatical_Morphemes	779	12	AUGMENTATIVE	330.*-pa	Tac	-pa	
+Takana_Grammatical_Morphemes	780	12	AUGMENTATIVE	330.*-pa	Cav	-pa	
+Takana_Grammatical_Morphemes	781	13	DO (TR.),AUXILIARY (TR.)	1.*a-	ProTa	a-	Girard additionally lists age for Warisa.
+Takana_Grammatical_Morphemes	782	13	DO (TR.),AUXILIARY (TR.)	1.*a-	Tac	a-	
+Takana_Grammatical_Morphemes	783	13	DO (TR.),AUXILIARY (TR.)	1.*a-	Cav	a-	
+Takana_Grammatical_Morphemes	784	13	DO (TR.),AUXILIARY (TR.)	1.*a-	Ese	a-ka-	
+Takana_Grammatical_Morphemes	785	14	TRANSITIVIZER	2.*-a	ProTa	-a	Girard additionally lists -a(-) for the Warayo.
+Takana_Grammatical_Morphemes	786	14	TRANSITIVIZER	2.*-a	Tac	-a(-)	
+Takana_Grammatical_Morphemes	787	14	TRANSITIVIZER	2.*-a	ReyMar	-a(-)/-
+Takana_Grammatical_Morphemes	788	14	TRANSITIVIZER	2.*-a	Cav	-a(-)	
+Takana_Grammatical_Morphemes	789	14	TRANSITIVIZER	2.*-a	Ese	-a(-)	
+Takana_Grammatical_Morphemes	790	15	DETRANSITIVIZER,REFLEXIVE	422.*-ti	ProTa	-ti	
+Takana_Grammatical_Morphemes	791	15	DETRANSITIVIZER,REFLEXIVE	422.*-ti	Tac	-ti	
+Takana_Grammatical_Morphemes	792	15	DETRANSITIVIZER,REFLEXIVE	422.*-ti	Cav	-ti	
+Takana_Grammatical_Morphemes	793	15	DETRANSITIVIZER,REFLEXIVE	422.*-ti	Ese	-ki	
+Takana_Grammatical_Morphemes	794	16	ERGATIVE	361.*-ra	ProTa	-ra	Girard additionally lists -a for Warayo.
+Takana_Grammatical_Morphemes	795	16	ERGATIVE	361.*-ra	Tac	-a	
+Takana_Grammatical_Morphemes	796	16	ERGATIVE	361.*-ra	Cav	-ra	
+Takana_Grammatical_Morphemes	797	16	ERGATIVE	361.*-ra	Ese	-(y)a	
+Takana_Grammatical_Morphemes	798	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	ProTa	-ṭṣu	
+Takana_Grammatical_Morphemes	799	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	Tac	-su	
+Takana_Grammatical_Morphemes	800	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	Aro	-tso	
+Takana_Grammatical_Morphemes	801	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	Cav	-atsu~-tsu	
+Takana_Grammatical_Morphemes	802	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	ProTa	beta	Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.
+Takana_Grammatical_Morphemes	803	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	Tac	beta	
+Takana_Grammatical_Morphemes	804	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	ReyMar	mbeta/beta	
+Takana_Grammatical_Morphemes	805	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	Aro	beta	
+Takana_Grammatical_Morphemes	806	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	Cav	beta	
+Takana_Grammatical_Morphemes	807	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	Ese	beka	
