@@ -33,7 +33,7 @@ for i in wl:
     # Proto-Concepts
     if wl[i, "doculect"] == "ProPa" or wl[i, "doculect"] == "ProTa":
         # print(wl[i])
-        mapped = to_concepticon([{"gloss": concept}], language="es")
+        mapped = to_concepticon([{"gloss": concept}], language="en")
 
         if mapped[concept]:
             cid, cgl = mapped[concept][0][:2]

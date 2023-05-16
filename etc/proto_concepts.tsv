@@ -1,69 +1,69 @@
 GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	PROTO_ID	PROTO_CONCEPT
-Tree				
-Tooth				
-Two				
-Liver				
-Leaf				
-Bone				
-Tongue				
-Hand				
-Night				
-Skin				
-Fire				
-Knee				
-Blood				
-Breast				
-Sun				
-You				
-Come				
-I				
-Flesh				
-Fat				
-Fingernail				
-Foot,leg				
-Lip,edge				
-Cheek				
-Mouth				
-Elbow				
-Tree				
-Tooth				
-Two				
-Liver				
-To fan				
-Bone				
-Tongue				
-Hand				
-Night,tomorrow				
-Skin				
-Fire				
-Knee				
-Blood				
-Breast				
-Moon				
-You				
-Come				
-I				
-Flesh				
-Fat				
-Fingernail				
-Foot,leg				
-Lip,edge				
-Cheek				
-Mouth				
-Elbow				
+Tree	906	TREE		
+Tooth	1380	TOOTH		
+Two	1498	TWO		
+Liver	1224	LIVER		
+Leaf	628	LEAF		
+Bone	1394	BONE		
+Tongue	1205	TONGUE		
+Hand	1277	HAND		
+Night	1233	NIGHT		
+Skin	763	SKIN		
+Fire	221	FIRE		
+Knee	1371	KNEE		
+Blood	946	BLOOD		
+Breast	1402	BREAST		
+Sun	1343	SUN		
+You	1215	THOU		
+Come	1446	COME		
+I	1209	I		
+Flesh	2259	FLESH		
+Fat	323	FAT (ORGANIC SUBSTANCE)		
+Fingernail	1258	FINGERNAIL		
+Foot,leg	1297	LEG		
+Lip,edge	863	EDGE		
+Cheek	1730	CHEEK		
+Mouth	674	MOUTH		
+Elbow	981	ELBOW		
+Tree	906	TREE		
+Tooth	1380	TOOTH		
+Two	1498	TWO		
+Liver	1224	LIVER		
+To fan	360	FAN (ACTION)		
+Bone	1394	BONE		
+Tongue	1205	TONGUE		
+Hand	1277	HAND		
+Night,tomorrow	1329	TOMORROW		
+Skin	763	SKIN		
+Fire	221	FIRE		
+Knee	1371	KNEE		
+Blood	946	BLOOD		
+Breast	1402	BREAST		
+Moon	1313	MOON		
+You	1215	THOU		
+Come	1446	COME		
+I	1209	I		
+Flesh	2259	FLESH		
+Fat	323	FAT (ORGANIC SUBSTANCE)		
+Fingernail	1258	FINGERNAIL		
+Foot,leg	1297	LEG		
+Lip,edge	863	EDGE		
+Cheek	1730	CHEEK		
+Mouth	674	MOUTH		
+Elbow	981	ELBOW		
 1st SG 'I'				
 2nd SG 'you'				
 DEMONSTRATIVE distal				
 DEMONSTRATIVE proximate				
 GENITIVE				
 IMPERATIVE				
-GOING DOWN,DOWNWARD				
+GOING DOWN,DOWNWARD	1326	DOWN		
 DO COMING				
 DESIDERATIVE				
-NEGATIVE				
+NEGATIVE	1240	NOT		
 CAUSATIVE				
 AUGMENTATIVE				
-DO (TR.),AUXILIARY (TR.)				
+DO (TR.),AUXILIARY (TR.)	813	DO		
 TRANSITIVIZER				
 DETRANSITIVIZER,REFLEXIVE				
 ERGATIVE				
@@ -75,13 +75,13 @@ DEMONSTRATIVE 'this' 'he'
 DEMONSTRATIVE proximate				
 GENITIVE				
 IMPERATIVE				
-GOING DOWN,DOWNWARD				
+GOING DOWN,DOWNWARD	1326	DOWN		
 DO COMING				
 DESIDERATIVE				
-NEGATIVE				
+NEGATIVE	1240	NOT		
 CAUSATIVE				
 AUGMENTATIVE				
-DO (TR.),AUXILIARY (TR.)				
+DO (TR.),AUXILIARY (TR.)	813	DO		
 TRANSITIVIZER				
 DETRANSITIVIZER,REFLEXIVE				
 ERGATIVE				
