@@ -51,7 +51,7 @@ Pano_Lexical_List	49	6	Bone	398.*ʂao	SK	ʂao
 Pano_Lexical_List	50	6	Bone	398.*ʂao	Kap	ʂao	
 Pano_Lexical_List	51	6	Bone	398.*ʂao	Mar	ʃau	
 Pano_Lexical_List	52	6	Bone	398.*ʂao	Chak	ʂao	
-Pano_Lexical_List	53	6	Bone	398.*ʂao	Kax	ʂahʷu
+Pano_Lexical_List	53	6	Bone	398.*ʂao	Kax	ʂahʷu	
 Pano_Lexical_List	54	6	Bone	398.*ʂao	Yam	ʂao	
 Pano_Lexical_List	55	6	Bone	398.*ʂao	Chan	ʃao,ʂao	
 Pano_Lexical_List	56	6	Bone	398.*ʂao	Shar	ʂao	
@@ -502,7 +502,7 @@ Takana_Lexical_List	494	13	Blood	11.*ami	Tac	ami
 Takana_Lexical_List	495	13	Blood	11.*ami	ReyMar	ami/ami	
 Takana_Lexical_List	496	13	Blood	11.*ami	Cav	ami	
 Takana_Lexical_List	497	14	Breast	53.*aṭṣu	ProTa	aṭṣu	
-Takana_Lexical_List	498	15	Moon	37.*badi	ProTa	badi
+Takana_Lexical_List	498	15	Moon	37.*badi	ProTa	badi	
 Takana_Lexical_List	499	15	Moon	37.*badi	Tac	badi	
 Takana_Lexical_List	500	15	Moon	37.*badi	ReyMar	mbandzi/bansri	
 Takana_Lexical_List	501	15	Moon	37.*badi	Sap	bari	
@@ -542,7 +542,7 @@ Takana_Lexical_List	534		Fingernail	*metiji	Tac	e-me-haca
 Takana_Lexical_List	535		Fingernail	*metiji	ReyMar	-/emechuja,emetichi	'fingers','nails'
 Takana_Lexical_List	536		Fingernail	*metiji	Cav	e-me-šoro	'nail'
 Takana_Lexical_List	537		Fingernail	*metiji	Ese	e-me-kiše	'nail'
-Takana_Lexical_List	538		Foot,leg	398.*ta-	ProTa	ta-	'leg'	
+Takana_Lexical_List	538		Foot,leg	398.*ta-	ProTa	ta-	'leg'
 Takana_Lexical_List	539		Foot,leg	398.*ta-	Tac	e-ta-buce	'shin bone'
 Takana_Lexical_List	540		Foot,leg	398.*ta-	Mab	itha	
 Takana_Lexical_List	541		Foot,leg	398.*ta-	Cav	awa-taka	'tapir-foot (plant)'
@@ -573,7 +573,7 @@ Takana_Lexical_List	565		Elbow	29.-baṭṣu	Ara	ebaša
 Pano_Grammatical_Morphemes	566	1	1st SG 'I'	11.*ʔɨ	ProPa	ʔɨ	
 Pano_Grammatical_Morphemes	567	1	1st SG 'I'	11.*ʔɨ	Ksh	ʔɨ	
 Pano_Grammatical_Morphemes	568	1	1st SG 'I'	11.*ʔɨ	SK	ʔɨ	
-Pano_Grammatical_Morphemes	569	1	1st SG 'I'	11.*ʔɨ	Kap	ʔɨ
+Pano_Grammatical_Morphemes	569	1	1st SG 'I'	11.*ʔɨ	Kap	ʔɨ	
 Pano_Grammatical_Morphemes	570	1	1st SG 'I'	11.*ʔɨ	Chak	ɨ	
 Pano_Grammatical_Morphemes	571	1	1st SG 'I'	11.*ʔɨ	Yam	ɨ̃	
 Pano_Grammatical_Morphemes	572	2	2nd SG 'you'	246.*mi	ProPa	mi	
@@ -741,9 +741,9 @@ Takana_Grammatical_Morphemes	734	2	2nd SG 'you'	292.*mi	Aro	mitya
 Takana_Grammatical_Morphemes	735	2	2nd SG 'you'	292.*mi	Cav	mi-kwana	
 Takana_Grammatical_Morphemes	736	2	2nd SG 'you'	292.*mi	Ese	mi-a	
 Takana_Grammatical_Morphemes	737	3	DEMONSTRATIVE 'this' 'he'	442.*u-	ProTa	u-	
-Takana_Grammatical_Morphemes	738	3	DEMONSTRATIVE 'this' 'he'	Tac	u-ha	
-Takana_Grammatical_Morphemes	739	3	DEMONSTRATIVE 'this' 'he'	Cav	o-ho	
-Takana_Grammatical_Morphemes	740	3	DEMONSTRATIVE 'this' 'he'	Ese	o-haya	
+Takana_Grammatical_Morphemes	738	3	DEMONSTRATIVE 'this' 'he'	442.*u-	Tac	u-ha	
+Takana_Grammatical_Morphemes	739	3	DEMONSTRATIVE 'this' 'he'	442.*u-	Cav	o-ho	
+Takana_Grammatical_Morphemes	740	3	DEMONSTRATIVE 'this' 'he'	442.*u-	Ese	o-haya	
 Takana_Grammatical_Morphemes	741	4	DEMONSTRATIVE proximate	*ree-	ProTa	ree-	
 Takana_Grammatical_Morphemes	742	4	DEMONSTRATIVE proximate	*ree-	Tac	ye	
 Takana_Grammatical_Morphemes	743	4	DEMONSTRATIVE proximate	*ree-	Cav	reeke	
@@ -790,7 +790,7 @@ Takana_Grammatical_Morphemes	783	13	DO (TR.),AUXILIARY (TR.)	1.*a-	Cav	a-
 Takana_Grammatical_Morphemes	784	13	DO (TR.),AUXILIARY (TR.)	1.*a-	Ese	a-ka-	
 Takana_Grammatical_Morphemes	785	14	TRANSITIVIZER	2.*-a	ProTa	-a	Girard additionally lists -a(-) for the Warayo.
 Takana_Grammatical_Morphemes	786	14	TRANSITIVIZER	2.*-a	Tac	-a(-)	
-Takana_Grammatical_Morphemes	787	14	TRANSITIVIZER	2.*-a	ReyMar	-a(-)/-
+Takana_Grammatical_Morphemes	787	14	TRANSITIVIZER	2.*-a	ReyMar	-a(-)/-	
 Takana_Grammatical_Morphemes	788	14	TRANSITIVIZER	2.*-a	Cav	-a(-)	
 Takana_Grammatical_Morphemes	789	14	TRANSITIVIZER	2.*-a	Ese	-a(-)	
 Takana_Grammatical_Morphemes	790	15	DETRANSITIVIZER,REFLEXIVE	422.*-ti	ProTa	-ti	
