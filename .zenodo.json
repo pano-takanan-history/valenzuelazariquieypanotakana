@@ -1,0 +1,40 @@
+{
+    "title": "CLDF dataset derived from Valenzuela, Pilar and Roberto Zariquiey's \"Classifica\u00e7\u00e3o das l\u00ednguas na Amaz\u00f4nia Ocidental: avan\u00e7os a favor da hip\u00f3tese Pano-Takana\" from 2023",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Pilar Valenzuela"
+        },
+        {
+            "name": "Roberto Zariquiey"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Frederic Blum",
+            "type": "Other"
+        },
+        {
+            "name": "Carlos M. B. Ugarte",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Valenzuela, Pilar and Zariquiey, Roberto (2023). Classifica\u00e7\u00e3o das l\u00ednguas na Amaz\u00f4nia Ocidental: avan\u00e7os a favor da hip\u00f3tese Pano-Takana. LIAMES: L\u00ednguas Ind\u00edgenas Americanas, Campinas, SP.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
