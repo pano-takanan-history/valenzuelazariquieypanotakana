@@ -1,4 +1,4 @@
-TABLE	NUMBER	NUMBER_IN_SOURCE	GLOSS	PROTO_FORM	DOCULECT	VALUE	NOTE
+TABLE	NUMBER	NUMBER_IN_SOURCE	CONCEPT	PROTO_FORM	DOCULECT	VALUE	NOTE
 Pano_Lexical_List	1	1	Tree	147.*hiwi	ProPa	hiwi	
 Pano_Lexical_List	2	1	Tree	147.*hiwi	Ksh	i	
 Pano_Lexical_List	3	1	Tree	147.*hiwi	SK	hiwi	
@@ -668,11 +668,11 @@ Pano_Grammatical_Morphemes	661	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Ksh	-ʂun
 Pano_Grammatical_Morphemes	662	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	SK	-ʂon	
 Pano_Grammatical_Morphemes	663	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Chak	-ʂo	
 Pano_Grammatical_Morphemes	664	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Kax	-ʂu	
-Pano_Grammatical_Morphemes	665	18	COMITATIVE,'ALONG WITH'	*βɨta	ProPa	βɨta	
-Pano_Grammatical_Morphemes	666	18	COMITATIVE,'ALONG WITH'	*βɨta	Ksh	-bɨ~-bɨtan	
-Pano_Grammatical_Morphemes	667	18	COMITATIVE,'ALONG WITH'	*βɨta	SK	-bɨ	
-Pano_Grammatical_Morphemes	668	18	COMITATIVE,'ALONG WITH'	*βɨta	Chak	-bɨta	
-Pano_Grammatical_Morphemes	669	18	COMITATIVE,'ALONG WITH'	*βɨta	Yam	-fɨtã	
+Pano_Grammatical_Morphemes	665	18	COMITATIVE,ALONG WITH	*βɨta	ProPa	βɨta	
+Pano_Grammatical_Morphemes	666	18	COMITATIVE,ALONG WITH	*βɨta	Ksh	-bɨ~-bɨtan	
+Pano_Grammatical_Morphemes	667	18	COMITATIVE,ALONG WITH	*βɨta	SK	-bɨ	
+Pano_Grammatical_Morphemes	668	18	COMITATIVE,ALONG WITH	*βɨta	Chak	-bɨta	
+Pano_Grammatical_Morphemes	669	18	COMITATIVE,ALONG WITH	*βɨta	Yam	-fɨtã	
 Pano_Grammatical_Morphemes	670	1	1st SG 'I'	11.*ʔɨ	Ama	ɨ	
 Pano_Grammatical_Morphemes	671	1	1st SG 'I'	11.*ʔɨ	HanKax	ɨ	
 Pano_Grammatical_Morphemes	672	1	1st SG 'I'	11.*ʔɨ	Maw	ɨ	
@@ -805,9 +805,9 @@ Takana_Grammatical_Morphemes	798	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	ProTa
 Takana_Grammatical_Morphemes	799	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	Tac	-su	
 Takana_Grammatical_Morphemes	800	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	Aro	-tso	
 Takana_Grammatical_Morphemes	801	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	Cav	-atsu~-tsu	
-Takana_Grammatical_Morphemes	802	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	ProTa	beta	Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.
-Takana_Grammatical_Morphemes	803	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	Tac	beta	
-Takana_Grammatical_Morphemes	804	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	ReyMar	mbeta/beta	
-Takana_Grammatical_Morphemes	805	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	Aro	beta	
-Takana_Grammatical_Morphemes	806	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	Cav	beta	
-Takana_Grammatical_Morphemes	807	18	COMITATIVE,'ALONG WITH' TWO	61.*beta	Ese	beka	
+Takana_Grammatical_Morphemes	802	18	COMITATIVE,ALONG WITH TWO	61.*beta	ProTa	beta	Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.
+Takana_Grammatical_Morphemes	803	18	COMITATIVE,ALONG WITH TWO	61.*beta	Tac	beta	
+Takana_Grammatical_Morphemes	804	18	COMITATIVE,ALONG WITH TWO	61.*beta	ReyMar	mbeta/beta	
+Takana_Grammatical_Morphemes	805	18	COMITATIVE,ALONG WITH TWO	61.*beta	Aro	beta	
+Takana_Grammatical_Morphemes	806	18	COMITATIVE,ALONG WITH TWO	61.*beta	Cav	beta	
+Takana_Grammatical_Morphemes	807	18	COMITATIVE,ALONG WITH TWO	61.*beta	Ese	beka	

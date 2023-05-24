@@ -51,7 +51,6 @@ class Dataset(BaseDataset):
                 Concepticon_ID=concept["CONCEPTICON_ID"],
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
             )
-        #print(concepts)
 
 
         args.log.info("added concepts")
@@ -69,6 +68,7 @@ class Dataset(BaseDataset):
             idx,
             number,
             number_in_source,
+            concept,
             proto_form,
             doculect,
             value,
@@ -78,6 +78,7 @@ class Dataset(BaseDataset):
             data.iter_rows(
                 "number",
                 "number_in_source",
+                "concept",
                 "proto_form",
                 "doculect",
                 "value",
@@ -88,7 +89,7 @@ class Dataset(BaseDataset):
         ):
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[doculect],
-                    Parameter_ID=concepts[str(concept["GLOSS"])],
+                    Parameter_ID=concepts[(concept)],
                     Value=value,
                     FormFromProto=proto_form,
                     Comment=note,

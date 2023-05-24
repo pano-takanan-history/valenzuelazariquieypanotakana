@@ -18,16 +18,16 @@ Available online at https://doi.org/10.20396/liames.v23i00.8670150
 
 
 ![Glottolog: 85%](https://img.shields.io/badge/Glottolog-85%25-yellowgreen.svg "Glottolog: 85%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 71%](https://img.shields.io/badge/Concepticon-71%25-yellow.svg "Concepticon: 71%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
 - **Varieties:** 32
-- **Concepts:** 1
+- **Concepts:** 49
 - **Lexemes:** 812
 - **Sources:** 0
-- **Synonymy:** 25.38
+- **Synonymy:** 1.00
 - **Cognacy:** 812 cognates in 85 cognate sets (2 singletons)
-- **Cognate Diversity:** 0.10
+- **Cognate Diversity:** 0.05
 
 ## Possible Improvements:
 

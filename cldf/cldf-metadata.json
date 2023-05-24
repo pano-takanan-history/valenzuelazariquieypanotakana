@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/valzarpanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "8d68c10",
+            "dc:created": "34bef3a",
             "dc:title": "Repository"
         },
         {
@@ -242,7 +242,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1,
+            "dc:extent": 49,
             "tableSchema": {
                 "columns": [
                     {
