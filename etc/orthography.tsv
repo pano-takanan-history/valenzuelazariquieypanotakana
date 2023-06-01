@@ -1,44 +1,63 @@
 Grapheme	IPA	Languages
-h	h	Proto-Panoan,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Yawanawa
-i	i	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
-w	w	Proto-Panoan,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matsés/Mayoruna
+h	h	Proto-Panoan,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Yawanawa,Tacanan,Sapibokona,Araona,Cavineña,EseEjja
+i	i	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Araona,Mabenaro,Cavineña,EseEjja,Warayo,Arasa,Reyesano/Maropa,Sapibokona,Tiatinawa,Chama
+w	w	Proto-Panoan,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matsés/Mayoruna,Caviveña,EseEjja,Tiatinawa
 ʂ	ʂ	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
 ɨ/ɨ́	ɨ/ɨ́	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
-r	r	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Yaminawa,Chaninawa,Sharanawa,Katukina,Poyanawa,Amahuaca,Marinawa,Yawanawa
-a/á	a/á	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
+r	r	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Yaminawa,Chaninawa,Sharanawa,Katukina,Poyanawa,Amahuaca,Marinawa,Yawanawa,Proto-Tacanan,Reyesano/Maropa,Sapibokona,Cavineña
+a/á	a/á	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Reyesano/Maropa,Sapibokona,Araona,Mabenaro,Cavineña,EseEjja,Warayo,Tiatinawa,Chama,Arasa
 β	β	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Katukina,Poyanawa,Amahuaca,Yawanawa,Korubo,Matis
-t	t	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
-kʷ	kʷ	Proto-Panoan,Kakataibo,Korubo,Matsés/Mayoruna
-p	p	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
-ʔ	ʔ	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Amahuaca
-o	o	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Yaminawa,Chaninawa,Sharanawa,Katukina,Amahuaca,Marinawa
-n	n	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
-m	m	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
-y	j	Proto-Panoan,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Poyanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa
-ts	ts	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Matis,Matsés/Mayoruna
-tʃ	tʃ	Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo
+t	t	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Sapibokona,Araona,Cavineña,Arasa
+kʷ	kʷ	Proto-Panoan,Kakataibo,Korubo,Matsés/Mayoruna,Proto-Tacanan
+p	p	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Cavineña,EseEjja,Warayo,Tiatinawa
+ʔ	ʔ	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Amahuaca,EseEjja
+o	o	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Yaminawa,Chaninawa,Sharanawa,Katukina,Amahuaca,Marinawa,Reyesano/Maropa,Araona,Cavineña,EseEjja,Warayo
+n	n	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Reyesano/Maropa,Sapibokona,Cavineña,EseEjja,Warayo,Tiatinawa,Arasa
+m	m	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Reyesano/Maropa,Sapibokona,Araona,Cavineña,EseEjja,Warayo,Chama,Arasa
+y	j	Proto-Panoan,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Poyanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Tacanan,Reyesano/Maropa,Araona,Cavineña,EseEjja,Warayo,Tiatinawa,Arasa
+ts	ʈs	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Araona,Mabenaro,Cavineña
+tʃ	ʈʃ	Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo
 v	v	Marubo,Poyanawa,Amahuaca
-b	b	Kakataibo,ShipiboKonibo,Marubo,Chakobo,Kaxarari,Chaninawa,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Matis,Matsés/Mayoruna
+b	b	Kakataibo,ShipiboKonibo,Marubo,Chakobo,Kaxarari,Chaninawa,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Reyesano/Maropa,Sapibokona,Araona,Cavineña,EseEjja,Warayo,Chama,Arasa
 ã	ã	Proto-Panoan,Kakataibo,ShipiboKonibo,Kaxarari,Yaminawa,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa
 ɨ̃	ɨ̃	Proto-Panoan,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa
-s	s	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa
-u	u	Proto-Panoan,Kakataibo,Kaxarari,Sharanawa,Shanenawa,Katukina,Poyanawa,Hantxakuin/Kaxinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
+s	s	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Tacanan,Reyesano/Maropa,Araona,Cavineña,EseEjja,Warayo,Tiatinawa,Chama,Arasa
+u	u	Proto-Panoan,Kakataibo,Kaxarari,Sharanawa,Shanenawa,Katukina,Poyanawa,Hantxakuin/Kaxinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Cavineña,Warayo
 ĩ	ĩ	Marubo,Yaminawa,Katukina,Amahuaca,Hantxakuin/Kaxinawa,Marinawa
 ɔ	ɔ	Kakataibo
 ɸ	ɸ	Yaminawa,Chaninawa,Sharanawa,Marinawa
 ʃ	ʃ	Marubo,Chaninawa,Shanenawa,Katukina,Marinawa,Yawanawa,Korubo
 hʷ	hʷ	Kaxarari
-d	d	Chaninawa,Poyanawa,Hantxakuin/Kaxinawa,Matis,Matsés/Mayoruna
-ɾ	ɾ	Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Marinawa,Yawanawa,Matis
+d	d	Chaninawa,Poyanawa,Hantxakuin/Kaxinawa,Matis,Matsés/Mayoruna,Proto-Tacanan,Araona,Cavineña
+ɾ	ɾ	Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Marinawa,Yawanawa,Matis,Proto-Tacanan
 l	l	Kaxarari
 ñ	ɲ	Yaminawa
-k	k	Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
+k	k	Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Tacanan,Reyesano/Maropa,EseEjja,Tiatinawa,Chama,Cavineña,EseEjja,Tiatinawa,Chama,Arasa
 õ	õ	ShipiboKonibo,Yaminawa
-x	x	Kakataibo,Kaxarari,Amahuaca
+x	x	Kakataibo,Kaxarari,Amahuaca,EseEjja
 ṣ̌		Yaminawa
 f	f	Yaminawa,Shanenawa,Marinawa
-e	e	ShipiboKonibo,Korubo,Matis,Matsés/Mayoruna
+e/é	e/é	ShipiboKonibo,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Reyesano/Maropa,Sapibokona,Araona,Cavineña,EseEjja,Warayo,Tiatinawa,Chama,Arasa
 ɬ	ɬ	Korubo
 ũ	ũ	Poyanawa
-tʂ	tʂ	Matis
+tʂ	ʈʂ	Matis,Proto-Tacanan
 ç		Amahuaca
+cui	kʷ i	Araona
+cua	kʷ a	Sapibokona
+kw	kʷ	Tacanan,Reyesano/Maropa,Mabenaro,Cavineña,EseEjja,Warayo,Arasa
+kui	kʷ i	Arasa
+kua	kʷ a	Matis
+kwi	kʷ i	Matsés/Mayoruna
+ṭṣ	ʈs	Proto-Tacanan
+j	ʃ	Proto-Tacanan
+c	ʈʂ	Tacanan
+ř	ɽ	Tacanan
+c	ʈs	Reyesano/Maropa,Cavineña,Tiatinawa
+tr		Reyesano/Maropa
+ch	ʈʃ	Reyesano/Maropa,Sapibokona
+j	j	Reyesano/Maropa,EseEjja
+dz	dz	Reyesano/Maropa
+v	β	Reyesano/Maropa
+th	tʰ	Mabenaro
+š	ʃ	Cavineña,EseEjja,Warayo
+sh	ʃ	EseEjja

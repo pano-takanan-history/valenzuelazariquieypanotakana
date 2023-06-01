@@ -20,8 +20,8 @@ Available online at https://doi.org/10.20396/liames.v23i00.8670150
 ![Glottolog: 85%](https://img.shields.io/badge/Glottolog-85%25-yellowgreen.svg "Glottolog: 85%")
 ![Concepticon: 71%](https://img.shields.io/badge/Concepticon-71%25-yellow.svg "Concepticon: 71%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 61%](https://img.shields.io/badge/BIPA-61%25-orange.svg "BIPA: 61%")
-![CLTS SoundClass: 61%](https://img.shields.io/badge/CLTS%20SoundClass-61%25-orange.svg "CLTS SoundClass: 61%")
+![BIPA: 67%](https://img.shields.io/badge/BIPA-67%25-orange.svg "BIPA: 67%")
+![CLTS SoundClass: 67%](https://img.shields.io/badge/CLTS%20SoundClass-67%25-orange.svg "CLTS SoundClass: 67%")
 
 - **Varieties:** 32
 - **Concepts:** 49
@@ -31,9 +31,9 @@ Available online at https://doi.org/10.20396/liames.v23i00.8670150
 - **Cognacy:** 812 cognates in 85 cognate sets (2 singletons)
 - **Cognate Diversity:** 0.05
 - **Invalid lexemes:** 0
-- **Tokens:** 3,372
-- **Segments:** 62 (24 BIPA errors, 24 CTLS sound class errors, 38 CLTS modified)
-- **Inventory size (avg):** 20.44
+- **Tokens:** 3,320
+- **Segments:** 60 (20 BIPA errors, 20 CTLS sound class errors, 40 CLTS modified)
+- **Inventory size (avg):** 20.38
 
 ## Possible Improvements:
 
