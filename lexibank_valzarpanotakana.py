@@ -27,11 +27,15 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
     form_spec = FormSpec(
-        separators="~;,",
+        separators="~;,/-",
         missing_data=["--", "- -", "-", "-- **", "--.", "- --"],
         replacements=[
             (" ", "_"),
             ("[i]", "i"),
+            ("=", "_"),
+            ("[", ""),
+            ("]", ""),
+            ("[...]", "")
         ],
         first_form_only=True
         )
