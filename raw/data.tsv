@@ -1,813 +1,813 @@
-TABLE	NUMBER	NUMBER_IN_SOURCE	CONCEPT	PROTO_FORM	DOCULECT	VALUE	NOTE
-Pano_Lexical_List	1	1	Tree	147.*hiwi	ProPa	hiwi	
-Pano_Lexical_List	2	1	Tree	147.*hiwi	Ksh	i	
-Pano_Lexical_List	3	1	Tree	147.*hiwi	SK	hiwi	
-Pano_Lexical_List	4	1	Tree	147.*hiwi	Kap	hiwi	
-Pano_Lexical_List	5	1	Tree	147.*hiwi	Mar	iwi	
-Pano_Lexical_List	6	1	Tree	147.*hiwi	Chak	hiwi	
-Pano_Lexical_List	7	1	Tree	147.*hiwi	Kax	hiwi	
-Pano_Lexical_List	8	1	Tree	147.*hiwi	Yam	iɸi	
-Pano_Lexical_List	9	1	Tree	147.*hiwi	Shar	iɸi	
-Pano_Lexical_List	10	2	Tooth	414.*ʂɨ-	ProPa	ʂɨ-	
-Pano_Lexical_List	11	2	Tooth	414.*ʂɨ-	Ksh	ʂɨta	
-Pano_Lexical_List	12	2	Tooth	414.*ʂɨ-	SK	ʂɨta	
-Pano_Lexical_List	13	2	Tooth	414.*ʂɨ-	Kap	ʂɨta	
-Pano_Lexical_List	14	2	Tooth	414.*ʂɨ-	Mar	ʃɨta	
-Pano_Lexical_List	15	2	Tooth	414.*ʂɨ-	Chak	ʂɨta	
-Pano_Lexical_List	16	2	Tooth	414.*ʂɨ-	Kax	ʂɨta	
-Pano_Lexical_List	17	2	Tooth	414.*ʂɨ-	Shar	ʂɨta	
-Pano_Lexical_List	18	3	Two	352.*ra-βɨta	ProPa	ra-βɨta	
-Pano_Lexical_List	19	3	Two	352.*ra-βɨta	Ksh	raβɨ	
-Pano_Lexical_List	20	3	Two	352.*ra-βɨta	SK	raβɨ	
-Pano_Lexical_List	21	3	Two	352.*ra-βɨta	Kap	raβɨ	
-Pano_Lexical_List	22	3	Two	352.*ra-βɨta	Mar	ravɨvakĩ	
-Pano_Lexical_List	23	3	Two	352.*ra-βɨta	Chak	raβɨ	
-Pano_Lexical_List	24	3	Two	352.*ra-βɨta	Kax	tʃabɨta	
-Pano_Lexical_List	25	3	Two	352.*ra-βɨta	Yam	raɸɨ	
-Pano_Lexical_List	26	3	Two	352.*ra-βɨta	Chan	raɸɨ	
-Pano_Lexical_List	27	3	Two	352.*ra-βɨta	Shar	raɸɨ	
-Pano_Lexical_List	28	4	Liver	438.*takʷa	ProPa	takʷa	
-Pano_Lexical_List	29	4	Liver	438.*takʷa	Ksh	takʷa	
-Pano_Lexical_List	30	4	Liver	438.*takʷa	SK	taka	
-Pano_Lexical_List	31	4	Liver	438.*takʷa	Kap	taka	
-Pano_Lexical_List	32	4	Liver	438.*takʷa	Mar	taka	
-Pano_Lexical_List	33	4	Liver	438.*takʷa	Chak	taka	
-Pano_Lexical_List	34	4	Liver	438.*takʷa	Kax	taka	
-Pano_Lexical_List	35	4	Liver	438.*takʷa	Chan	taka	
-Pano_Lexical_List	36	4	Liver	438.*takʷa	Shar	taka	
-Pano_Lexical_List	37	5	Leaf	325.*pɨʔi	ProPa	pɨʔi	
-Pano_Lexical_List	38	5	Leaf	325.*pɨʔi	Ksh	pɨi	
-Pano_Lexical_List	39	5	Leaf	325.*pɨʔi	SK	pɨi	
-Pano_Lexical_List	40	5	Leaf	325.*pɨʔi	Kap	pɨʔi	
-Pano_Lexical_List	41	5	Leaf	325.*pɨʔi	Mar	pɨi	
-Pano_Lexical_List	42	5	Leaf	325.*pɨʔi	Chak	pɨʔi	
-Pano_Lexical_List	43	5	Leaf	325.*pɨʔi	Kax	pɨʔi	
-Pano_Lexical_List	44	5	Leaf	325.*pɨʔi	Yam	pɨi	
-Pano_Lexical_List	45	5	Leaf	325.*pɨʔi	Chan	pɨi	
-Pano_Lexical_List	46	5	Leaf	325.*pɨʔi	Shar	pɨi	
-Pano_Lexical_List	47	6	Bone	398.*ʂao	ProPa	ʂao	
-Pano_Lexical_List	48	6	Bone	398.*ʂao	Ksh	ʂɔː	
-Pano_Lexical_List	49	6	Bone	398.*ʂao	SK	ʂao	
-Pano_Lexical_List	50	6	Bone	398.*ʂao	Kap	ʂao	
-Pano_Lexical_List	51	6	Bone	398.*ʂao	Mar	ʃau	
-Pano_Lexical_List	52	6	Bone	398.*ʂao	Chak	ʂao	
-Pano_Lexical_List	53	6	Bone	398.*ʂao	Kax	ʂahʷu	
-Pano_Lexical_List	54	6	Bone	398.*ʂao	Yam	ʂao	
-Pano_Lexical_List	55	6	Bone	398.*ʂao	Chan	ʃao,ʂao	
-Pano_Lexical_List	56	6	Bone	398.*ʂao	Shar	ʂao	
-Pano_Lexical_List	57	7	Tongue	47.*hana	ProPa	hana	
-Pano_Lexical_List	58	7	Tongue	47.*hana	Ksh	ana	
-Pano_Lexical_List	59	7	Tongue	47.*hana	SK	hana	
-Pano_Lexical_List	60	7	Tongue	47.*hana	Kap	hana	
-Pano_Lexical_List	61	7	Tongue	47.*hana	Mar	ana	
-Pano_Lexical_List	62	7	Tongue	47.*hana	Chak	hana	
-Pano_Lexical_List	63	7	Tongue	47.*hana	Kax	hana	
-Pano_Lexical_List	64	7	Tongue	47.*hana	Yam	ana	
-Pano_Lexical_List	65	7	Tongue	47.*hana	Chan	ada	
-Pano_Lexical_List	66	7	Tongue	47.*hana	Shar	ana	
-Pano_Lexical_List	67	8	Hand	*mɨ-	ProPa	mɨ-	
-Pano_Lexical_List	68	8	Hand	*mɨ-	Ksh	mɨkɨ̃	
-Pano_Lexical_List	69	8	Hand	*mɨ-	SK	mɨkɨ̃	
-Pano_Lexical_List	70	8	Hand	*mɨ-	Kap	mɨkɨn	
-Pano_Lexical_List	71	8	Hand	*mɨ-	Chak	mɨkɨnɨ	
-Pano_Lexical_List	72	8	Hand	*mɨ-	Kax	mɨkɨlɨ	
-Pano_Lexical_List	73	8	Hand	*mɨ-	Yam	mɨkɨ̃	
-Pano_Lexical_List	74	8	Hand	*mɨ-	Chan	mɨkɨ	
-Pano_Lexical_List	75	8	Hand	*mɨ-	Shar	mɨkɨ	
-Pano_Lexical_List	76	9	Night	494.*yamɨtV	ProPa	yamɨtV	
-Pano_Lexical_List	77	9	Night	494.*yamɨtV	Ksh	imɨ	
-Pano_Lexical_List	78	9	Night	494.*yamɨtV	SK	yamɨ	
-Pano_Lexical_List	79	9	Night	494.*yamɨtV	Kap	yamɨ	
-Pano_Lexical_List	80	9	Night	494.*yamɨtV	Mar	yamɨ	
-Pano_Lexical_List	81	9	Night	494.*yamɨtV	Kax	yamɨta	
-Pano_Lexical_List	82	9	Night	494.*yamɨtV	Yam	yamɨa	
-Pano_Lexical_List	83	9	Night	494.*yamɨtV	Chan	yabɨ	
-Pano_Lexical_List	84	9	Night	494.*yamɨtV	Shar	yamɨ	
-Pano_Lexical_List	85	10	Skin	89.*βitsi	ProPa	βitsi	
-Pano_Lexical_List	86	10	Skin	89.*βitsi	Ksh	βitʃi	
-Pano_Lexical_List	87	10	Skin	89.*βitsi	SK	βitʃi	
-Pano_Lexical_List	88	10	Skin	89.*βitsi	Kap	βitʃi	
-Pano_Lexical_List	89	10	Skin	89.*βitsi	Mar	vitʃi	
-Pano_Lexical_List	90	10	Skin	89.*βitsi	Chak	βitʃi	
-Pano_Lexical_List	91	10	Skin	89.*βitsi	Kax	bitʃi	
-Pano_Lexical_List	92	10	Skin	89.*βitsi	Chan	ɸitʃi	
-Pano_Lexical_List	93	10	Skin	89.*βitsi	Shar	ɸitʃi	
-Pano_Lexical_List	94	11	Fire	125.*tsiʔi	ProPa	tsiʔi	
-Pano_Lexical_List	95	11	Fire	125.*tsiʔi	Ksh	tʃii	
-Pano_Lexical_List	96	11	Fire	125.*tsiʔi	SK	tʃii	
-Pano_Lexical_List	97	11	Fire	125.*tsiʔi	Kap	tʃiʔi	
-Pano_Lexical_List	99	11	Fire	125.*tsiʔi	Mar	tʃi	
-Pano_Lexical_List	100	11	Fire	125.*tsiʔi	Chak	tʃiʔi	
-Pano_Lexical_List	101	11	Fire	125.*tsiʔi	Kax	tʃiʔi	
-Pano_Lexical_List	102	11	Fire	125.*tsiʔi	Yam	tʃii	
-Pano_Lexical_List	103	11	Fire	125.*tsiʔi	Chan	tʃii	
-Pano_Lexical_List	104	11	Fire	125.*tsiʔi	Shar	tʃii	
-Pano_Lexical_List	105	12	Knee	359.*rã-	ProPa	rã-	
-Pano_Lexical_List	106	12	Knee	359.*rã-	Ksh	rãβoʂo	
-Pano_Lexical_List	107	12	Knee	359.*rã-	SK	rãβoʂo	
-Pano_Lexical_List	108	12	Knee	359.*rã-	Kap	rãβoʂo	
-Pano_Lexical_List	109	12	Knee	359.*rã-	Mar	ravuʃɨ	
-Pano_Lexical_List	110	12	Knee	359.*rã-	Kax	tʃãburu	
-Pano_Lexical_List	111	13	Blood	141.*himi	ProPa	himi	
-Pano_Lexical_List	112	13	Blood	141.*himi	Ksh	imi	
-Pano_Lexical_List	113	13	Blood	141.*himi	SK	himi	
-Pano_Lexical_List	114	13	Blood	141.*himi	Kap	himi	
-Pano_Lexical_List	115	13	Blood	141.*himi	Mar	imbi	/b/ as superscript
-Pano_Lexical_List	116	13	Blood	141.*himi	Chak	himi	
-Pano_Lexical_List	117	13	Blood	141.*himi	Kax	himi	
-Pano_Lexical_List	118	13	Blood	141.*himi	Yam	im	
-Pano_Lexical_List	119	13	Blood	141.*himi	Chan	ibi	
-Pano_Lexical_List	120	13	Blood	141.*himi	Shar	imi	
-Pano_Lexical_List	121	14	Breast	429.*ʂo	ProPa	ʂo	
-Pano_Lexical_List	122	14	Breast	429.*ʂo	Ksh	ʂoma	
-Pano_Lexical_List	123	14	Breast	429.*ʂo	SK	ʂoma	
-Pano_Lexical_List	124	14	Breast	429.*ʂo	Kap	ʂoma	
-Pano_Lexical_List	125	14	Breast	429.*ʂo	Mar	ʂoma	
-Pano_Lexical_List	126	14	Breast	429.*ʂo	Chak	ʂoma	
-Pano_Lexical_List	127	14	Breast	429.*ʂo	Chan	ʂoma	
-Pano_Lexical_List	128	14	Breast	429.*ʂo	Shar	ʂoma	
-Pano_Lexical_List	129	15	Sun	63.*βari	ProPa	βari	
-Pano_Lexical_List	130	15	Sun	63.*βari	Ksh	βaɾi	
-Pano_Lexical_List	131	15	Sun	63.*βari	SK	βaɾi	
-Pano_Lexical_List	132	15	Sun	63.*βari	Kap	βaɾi	
-Pano_Lexical_List	133	15	Sun	63.*βari	Mar	vaɾi	
-Pano_Lexical_List	134	15	Sun	63.*βari	Chak	βaɾi	
-Pano_Lexical_List	135	15	Sun	63.*βari	Kax	βatʃi	
-Pano_Lexical_List	136	15	Sun	63.*βari	Chan	ɸaɾi	
-Pano_Lexical_List	137	15	Sun	63.*βari	Shar	ɸari	
-Pano_Lexical_List	138	16	You	246.*mi	ProPa	mi	
-Pano_Lexical_List	139	16	You	246.*mi	Ksh	miː	
-Pano_Lexical_List	140	16	You	246.*mi	SK	mia	
-Pano_Lexical_List	141	16	You	246.*mi	Kap	mia	
-Pano_Lexical_List	142	16	You	246.*mi	Chak	mia	object form
-Pano_Lexical_List	143	17	Come	70.*βɨ-	ProPa	βɨ-	'come,bring'
-Pano_Lexical_List	144	17	Come	70.*βɨ-	Ksh	βɨ-	
-Pano_Lexical_List	145	17	Come	70.*βɨ-	SK	βɨ-	
-Pano_Lexical_List	146	17	Come	70.*βɨ-	Kap	βɨ-	
-Pano_Lexical_List	147	17	Come	70.*βɨ-	Chak	βɨ-	
-Pano_Lexical_List	148	17	Come	70.*βɨ-	Kax	bɨ-	
-Pano_Lexical_List	149	17	Come	70.*βɨ-	Yam	ɸɨ-	
-Pano_Lexical_List	150	17	Come	70.*βɨ-	Chan	ɸɨ-	
-Pano_Lexical_List	151	17	Come	70.*βɨ-	Shar	ɸɨ-	
-Pano_Lexical_List	152	18	I	11.*ʔɨ	ProPa	ʔɨ	
-Pano_Lexical_List	153	18	I	11.*ʔɨ	Ksh	ʔɨ	
-Pano_Lexical_List	154	18	I	11.*ʔɨ	SK	ʔɨ	
-Pano_Lexical_List	155	18	I	11.*ʔɨ	Kap	ʔɨ	
-Pano_Lexical_List	156	18	I	11.*ʔɨ	Chak	ɨ	
-Pano_Lexical_List	157		Flesh	258.*nami	ProPa	nami	Additional cognates refering to body parts
-Pano_Lexical_List	158		Flesh	258.*nami	Ksh	nami	
-Pano_Lexical_List	159		Flesh	258.*nami	SK	nami	
-Pano_Lexical_List	160		Flesh	258.*nami	Kap	nami	
-Pano_Lexical_List	161		Flesh	258.*nami	Mar	nami	
-Pano_Lexical_List	162		Flesh	258.*nami	Chak	nami	
-Pano_Lexical_List	163		Flesh	258.*nami	Kax	lami	
-Pano_Lexical_List	164		Flesh	258.*nami	Yam	nami,nãmi	
-Pano_Lexical_List	165		Flesh	258.*nami	Chan	nabi,dami	
-Pano_Lexical_List	166		Flesh	258.*nami	Shar	nami,namin	
-Pano_Lexical_List	167		Fat	412.*ʂɨni	ProPa	ʂɨni	
-Pano_Lexical_List	168		Fat	412.*ʂɨni	Ksh	ʂɨni	
-Pano_Lexical_List	169		Fat	412.*ʂɨni	SK	ʂɨni	
-Pano_Lexical_List	170		Fat	412.*ʂɨni	Kap	ʂɨni	
-Pano_Lexical_List	171		Fat	412.*ʂɨni	Mar	ʂɨni	
-Pano_Lexical_List	172		Fat	412.*ʂɨni	Chak	ʂɨni	
-Pano_Lexical_List	173		Fat	412.*ʂɨni	Yam	ʂɨnĩ	
-Pano_Lexical_List	174		Fat	412.*ʂɨni	Chan	ʃɨdi,ʃidi,ʂidi	
-Pano_Lexical_List	175		Fat	412.*ʂɨni	Shar	ʂɨni	
-Pano_Lexical_List	176		Fingernail	239.*mɨ̃-tsis[i]	ProPa	mɨ̃-tsis[i]	See footnote 56.
-Pano_Lexical_List	177		Fingernail	239.*mɨ̃-tsis[i]	Ksh	Untsis,untsɨs	
-Pano_Lexical_List	178		Fingernail	239.*mɨ̃-tsis[i]	SK	mɨ̃ntsis,mɨ̃tsis	
-Pano_Lexical_List	179		Fingernail	239.*mɨ̃-tsis[i]	Kap	mɨ̃ntsis	
-Pano_Lexical_List	180		Fingernail	239.*mɨ̃-tsis[i]	Mar	mɨ̃tsisi	
-Pano_Lexical_List	181		Fingernail	239.*mɨ̃-tsis[i]	Chak	mɨ̃tsis,mɨ̃tsisi	
-Pano_Lexical_List	182		Fingernail	239.*mɨ̃-tsis[i]	Kax	mɨ̃tʃisi	
-Pano_Lexical_List	183		Fingernail	239.*mɨ̃-tsis[i]	Yam	mitsis,mitsisi	
-Pano_Lexical_List	184		Fingernail	239.*mɨ̃-tsis[i]	Chan	bitsis(otsis)	
-Pano_Lexical_List	185		Fingernail	239.*mɨ̃-tsis[i]	Shar	mɨtsisi,otsisi	
-Pano_Lexical_List	186		Foot,leg	*ta-	ProPa	ta-	'foot'
-Pano_Lexical_List	187		Foot,leg	*ta-	Ksh	taɨ	
-Pano_Lexical_List	188		Foot,leg	*ta-	SK	taɨ	
-Pano_Lexical_List	189		Foot,leg	*ta-	Kap	taʔɨ	
-Pano_Lexical_List	190		Foot,leg	*ta-	Mar	taɨ	
-Pano_Lexical_List	191		Foot,leg	*ta-	Chak	taʔɨ	
-Pano_Lexical_List	192		Foot,leg	*ta-	Kax	taʔɨ	
-Pano_Lexical_List	193		Foot,leg	*ta-	Yam	taɨ,taɨ̃	
-Pano_Lexical_List	194		Foot,leg	*ta-	Chan	taɨ	
-Pano_Lexical_List	195		Foot,leg	*ta-	Shar	taɨ,taɨn	
-Pano_Lexical_List	196		Lip,edge	155.*kʷɨ-	ProPa	kʷɨ-	
-Pano_Lexical_List	197		Lip,edge	155.*kʷɨ-	Ksh	kʷɨβi-	
-Pano_Lexical_List	198		Lip,edge	155.*kʷɨ-	SK	kɨβi-	
-Pano_Lexical_List	199		Lip,edge	155.*kʷɨ-	Chak	kɨβitʃi	
-Pano_Lexical_List	200		Lip,edge	155.*kʷɨ-	Shar	kuɸirisika	
-Pano_Lexical_List	201		Cheek	440.*tamo	ProPa	tamo	
-Pano_Lexical_List	202		Cheek	440.*tamo	Ksh	tamo	
-Pano_Lexical_List	203		Cheek	440.*tamo	SK	tamo	
-Pano_Lexical_List	204		Cheek	440.*tamo	Kap	tamo	
-Pano_Lexical_List	205		Cheek	440.*tamo	Mar	tambo	/m/ as superscript
-Pano_Lexical_List	206		Cheek	440.*tamo	Chak	tamo	
-Pano_Lexical_List	207		Cheek	440.*tamo	Kax	tamu	
-Pano_Lexical_List	208		Cheek	440.*tamo	Yam	tamo,tamõ	
-Pano_Lexical_List	209		Cheek	440.*tamo	Shar	tamo,tamon	
-Pano_Lexical_List	210		Mouth	158.*kʷɨʂa[CV]	ProPa	kʷɨʂa[CV]	
-Pano_Lexical_List	211		Mouth	158.*kʷɨʂa[CV]	Ksh	kʷɨʂa	
-Pano_Lexical_List	212		Mouth	158.*kʷɨʂa[CV]	SK	kɨʂa	
-Pano_Lexical_List	213		Mouth	158.*kʷɨʂa[CV]	Kap	kɨʂa	
-Pano_Lexical_List	214		Mouth	158.*kʷɨʂa[CV]	Mar	kɨʃa	
-Pano_Lexical_List	215		Mouth	158.*kʷɨʂa[CV]	Kax	kɨʂaka	
-Pano_Lexical_List	216		Mouth	158.*kʷɨʂa[CV]	Yam	kɨʂã,kɨʂamã	
-Pano_Lexical_List	217		Mouth	158.*kʷɨʂa[CV]	Chan	kɨʃa,kɨʂa	
-Pano_Lexical_List	218		Mouth	158.*kʷɨʂa[CV]	Shar	kɨʂa,kɨʂan	
-Pano_Lexical_List	219		Elbow	*βaʂ(u)-	ProPa	βaʂ(u)-	
-Pano_Lexical_List	220		Elbow	*βaʂ(u)-	Ksh	banbuxu	
-Pano_Lexical_List	221		Elbow	*βaʂ(u)-	SK	põtõko	
-Pano_Lexical_List	222		Elbow	*βaʂ(u)-	Kap	baʂpoʂko	
-Pano_Lexical_List	223		Elbow	*βaʂ(u)-	Chak	baspoto	
-Pano_Lexical_List	224		Elbow	*βaʂ(u)-	Kax	paxuxu	
-Pano_Lexical_List	225		Elbow	*βaʂ(u)-	Yam	po-to-ṣ̌ko	
-Pano_Lexical_List	226	1	Tree	*hiwi	Shan	iwi	
-Pano_Lexical_List	227	1	Tree	*hiwi	Kat	hiwi	
-Pano_Lexical_List	228	1	Tree	*hiwi	Poy	iwi	
-Pano_Lexical_List	229	1	Tree	*hiwi	Ama	hiː	
-Pano_Lexical_List	230	1	Tree	*hiwi	HanKax	hi	
-Pano_Lexical_List	231	1	Tree	*hiwi	Maw	iwi	
-Pano_Lexical_List	232	1	Tree	*hiwi	Kor	iwi	
-Pano_Lexical_List	233	1	Tree	*hiwi	MatMay	iwi	
-Pano_Lexical_List	234	2	Tooth	414.*ʂɨ-	Shan	ʂɨta	
-Pano_Lexical_List	235	2	Tooth	414.*ʂɨ-	Kat	ʂita	
-Pano_Lexical_List	236	2	Tooth	414.*ʂɨ-	Ama	xɨta	
-Pano_Lexical_List	237	2	Tooth	414.*ʂɨ-	HanKax	ʂɨta	
-Pano_Lexical_List	238	2	Tooth	414.*ʂɨ-	Maw	ʂɨta	
-Pano_Lexical_List	239	2	Tooth	414.*ʂɨ-	Yaw	ʂɨta	
-Pano_Lexical_List	240	2	Tooth	414.*ʂɨ-	Kor	ʂɨta	
-Pano_Lexical_List	241	2	Tooth	414.*ʂɨ-	Mat	ʂɨta	
-Pano_Lexical_List	242	2	Tooth	414.*ʂɨ-	MatMay	ʂɨta	
-Pano_Lexical_List	243	3	Two	352.*ra-βɨta	Shan	rafu	
-Pano_Lexical_List	244	3	Two	352.*ra-βɨta	Kat	raβi	
-Pano_Lexical_List	245	3	Two	352.*ra-βɨta	Poy	raβu	
-Pano_Lexical_List	246	3	Two	352.*ra-βɨta	Ama	raβɨ	
-Pano_Lexical_List	247	3	Two	352.*ra-βɨta	Maw	raɸɨ	
-Pano_Lexical_List	248	3	Two	352.*ra-βɨta	Yaw	raβɨ	
-Pano_Lexical_List	249	3	Two	352.*ra-βɨta	Kor	ɬaβɨtpa	
-Pano_Lexical_List	250	3	Two	352.*ra-βɨta	Mat	dabɨdpa	
-Pano_Lexical_List	251	3	Two	352.*ra-βɨta	MatMay	daɨd	
-Pano_Lexical_List	252	4	Liver	438.*takʷa	Shan	taka	
-Pano_Lexical_List	253	4	Liver	438.*takʷa	Kat	taka	
-Pano_Lexical_List	254	4	Liver	438.*takʷa	Poy	taka	
-Pano_Lexical_List	255	4	Liver	438.*takʷa	Ama	taka	
-Pano_Lexical_List	256	4	Liver	438.*takʷa	HanKax	taka	
-Pano_Lexical_List	257	4	Liver	438.*takʷa	Maw	taka	
-Pano_Lexical_List	258	4	Liver	438.*takʷa	Yaw	taka	
-Pano_Lexical_List	259	4	Liver	438.*takʷa	Kor	takʷa	
-Pano_Lexical_List	260	4	Liver	438.*takʷa	Mat	takua	
-Pano_Lexical_List	261	4	Liver	438.*takʷa	MatMay	takʷa	
-Pano_Lexical_List	262	5	Leaf	325.*pɨʔi	Shan	pɨj	
-Pano_Lexical_List	263	5	Leaf	325.*pɨʔi	Kat	pɨi	
-Pano_Lexical_List	264	5	Leaf	325.*pɨʔi	Poy	puy	
-Pano_Lexical_List	265	5	Leaf	325.*pɨʔi	Ama	pɨʔi	
-Pano_Lexical_List	266	5	Leaf	325.*pɨʔi	HanKax	pɨi	
-Pano_Lexical_List	267	5	Leaf	325.*pɨʔi	Maw	pɨi	
-Pano_Lexical_List	268	5	Leaf	325.*pɨʔi	Yaw	pɨi	
-Pano_Lexical_List	269	5	Leaf	325.*pɨʔi	Mat	pɨi	
-Pano_Lexical_List	270	5	Leaf	325.*pɨʔi	MatMay	pɨ	
-Pano_Lexical_List	271	6	Bone	398.*ʂao	Shan	ʂaw	See footnote 46.
-Pano_Lexical_List	271	6	Bone	398.*ʂao	Kat	ʃau	
-Pano_Lexical_List	271	6	Bone	398.*ʂao	Poy	haw	
-Pano_Lexical_List	271	6	Bone	398.*ʂao	Ama	xao	
-Pano_Lexical_List	271	6	Bone	398.*ʂao	HanKax	ʂau	
-Pano_Lexical_List	271	6	Bone	398.*ʂao	Maw	ʂao	
-Pano_Lexical_List	271	6	Bone	398.*ʂao	Yaw	ʃau	
-Pano_Lexical_List	271	6	Bone	398.*ʂao	MatMay	mɨ-ʂ,taɨ-ʂ,ʂomoʂ	'wrist bone','ankle bone','needle made of bone'
-Pano_Lexical_List	272	7	Tongue	47.*hana	Shan	ana	
-Pano_Lexical_List	273	7	Tongue	47.*hana	Kat	ana	
-Pano_Lexical_List	274	7	Tongue	47.*hana	Poy	ãda	
-Pano_Lexical_List	275	7	Tongue	47.*hana	Ama	hana	
-Pano_Lexical_List	276	7	Tongue	47.*hana	HanKax	hana	
-Pano_Lexical_List	277	7	Tongue	47.*hana	Maw	ana	
-Pano_Lexical_List	278	7	Tongue	47.*hana	Yaw	anna	
-Pano_Lexical_List	279	7	Tongue	47.*hana	Kor	ana	
-Pano_Lexical_List	280	7	Tongue	47.*hana	Mat	ana	
-Pano_Lexical_List	281	8	Hand	*mɨ-	Ama	mɨkɨ̃	
-Pano_Lexical_List	282	8	Hand	*mɨ-	HanKax	mɨkɨ̃	
-Pano_Lexical_List	283	8	Hand	*mɨ-	Maw	mɨkɨ	
-Pano_Lexical_List	284	8	Hand	*mɨ-	Mat	mɨkɨn	
-Pano_Lexical_List	285	8	Hand	*mɨ-	MatMay	mɨdante	
-Pano_Lexical_List	286	9	Night	494.*yamɨtV	Shan	yamɨ	
-Pano_Lexical_List	287	9	Night	494.*yamɨtV	Kat	yamɨ	
-Pano_Lexical_List	288	9	Night	494.*yamɨtV	Poy	iãvu	
-Pano_Lexical_List	289	9	Night	494.*yamɨtV	Ama	yamɨː	
-Pano_Lexical_List	290	9	Night	494.*yamɨtV	HanKax	yamɨ	
-Pano_Lexical_List	291	9	Night	494.*yamɨtV	Maw	yamɨ	
-Pano_Lexical_List	292	9	Night	494.*yamɨtV	Yaw	iamɨ	
-Pano_Lexical_List	293	9	Night	494.*yamɨtV	Kor	imɨt	
-Pano_Lexical_List	294	9	Night	494.*yamɨtV	Mat	imɨd	
-Pano_Lexical_List	295	10	Skin	89.*βitsi	Shan	fitʃi	
-Pano_Lexical_List	296	10	Skin	89.*βitsi	HanKax	bitʃi	
-Pano_Lexical_List	297	10	Skin	89.*βitsi	Maw	ɸitʃi	
-Pano_Lexical_List	298	10	Skin	89.*βitsi	Yaw	βɨtʃi	
-Pano_Lexical_List	299	10	Skin	89.*βitsi	Mat	bitsi	
-Pano_Lexical_List	300	10	Skin	89.*βitsi	MatMay	bitsi	
-Pano_Lexical_List	301	11	Fire	125.*tsiʔi	Shan	tʃi	
-Pano_Lexical_List	302	11	Fire	125.*tsiʔi	Kat	tʃii	
-Pano_Lexical_List	303	11	Fire	125.*tsiʔi	Ama	tʃiʔi	
-Pano_Lexical_List	304	11	Fire	125.*tsiʔi	HanKax	tʃi	
-Pano_Lexical_List	305	11	Fire	125.*tsiʔi	Maw	tʃi	
-Pano_Lexical_List	306	11	Fire	125.*tsiʔi	Yaw	tʃi	
-Pano_Lexical_List	307	12	Knee	359.*rã-	Kat	raβɨʂo	
-Pano_Lexical_List	308	12	Knee	359.*rã-	Ama	rawoxko	
-Pano_Lexical_List	309	13	Blood	141.*himi	Shan	imi	
-Pano_Lexical_List	310	13	Blood	141.*himi	Kat	himi	
-Pano_Lexical_List	311	13	Blood	141.*himi	Poy	ibi	
-Pano_Lexical_List	312	13	Blood	141.*himi	Ama	himi	
-Pano_Lexical_List	313	13	Blood	141.*himi	HanKax	himi	
-Pano_Lexical_List	314	13	Blood	141.*himi	Maw	imi	
-Pano_Lexical_List	315	13	Blood	141.*himi	Yaw	imi	
-Pano_Lexical_List	316	13	Blood	141.*himi	Kor	inta	
-Pano_Lexical_List	317	13	Blood	141.*himi	Mat	imi	
-Pano_Lexical_List	318	13	Blood	141.*himi	MatMay	imi	
-Pano_Lexical_List	319	14	Breast	429.*ʂo	Shan	ʂuma	
-Pano_Lexical_List	320	14	Breast	429.*ʂo	Kat	ʃuma	
-Pano_Lexical_List	321	14	Breast	429.*ʂo	Poy	hũba	
-Pano_Lexical_List	322	14	Breast	429.*ʂo	Ama	xoma	
-Pano_Lexical_List	323	14	Breast	429.*ʂo	HanKax	ʂuma	
-Pano_Lexical_List	324	14	Breast	429.*ʂo	Maw	ʂoma	
-Pano_Lexical_List	325	14	Breast	429.*ʂo	Yaw	ʃuma	
-Pano_Lexical_List	326	14	Breast	429.*ʂo	Kor	ʂuma	
-Pano_Lexical_List	327	14	Breast	429.*ʂo	Mat	ʂuma	
-Pano_Lexical_List	328	14	Breast	429.*ʂo	MatMay	ʂuma	
-Pano_Lexical_List	329	15	Sun	63.*βari	Shan	faɾi	
-Pano_Lexical_List	330	15	Sun	63.*βari	Kat	βaɾi	
-Pano_Lexical_List	331	15	Sun	63.*βari	Poy	βaɾi	
-Pano_Lexical_List	332	15	Sun	63.*βari	Ama	bari	
-Pano_Lexical_List	333	15	Sun	63.*βari	HanKax	badi	
-Pano_Lexical_List	334	15	Sun	63.*βari	Maw	ɸaɾi	
-Pano_Lexical_List	335	15	Sun	63.*βari	Yaw	βaɾi	
-Pano_Lexical_List	336	15	Sun	63.*βari	Kor	βaɬi	
-Pano_Lexical_List	337	15	Sun	63.*βari	Mat	badi	
-Pano_Lexical_List	338	15	Sun	63.*βari	MatMay	badiad	
-Pano_Lexical_List	339	16	You	246.*mi	Ama	miya	
-Pano_Lexical_List	340	16	You	246.*mi	HanKax	mia	
-Pano_Lexical_List	341	16	You	246.*mi	Maw	mia	
-Pano_Lexical_List	342	16	You	246.*mi	Kor	mi	
-Pano_Lexical_List	343	16	You	246.*mi	Mat	mi (minbi,mibi,min)	
-Pano_Lexical_List	344	16	You	246.*mi	MatMay	mi (minbi,mibi,min)	
-Pano_Lexical_List	345	17	Come	70.*βɨ-	Ama	βɨ-	
-Pano_Lexical_List	346	17	Come	70.*βɨ-	HanKax	bɨ-	
-Pano_Lexical_List	347	17	Come	70.*βɨ-	Maw	ɸɨ-	
-Pano_Lexical_List	348	17	Come	70.*βɨ-	Yaw	βɨ-	
-Pano_Lexical_List	349	17	Come	70.*βɨ-	Kor	βɨ-	
-Pano_Lexical_List	350	17	Come	70.*βɨ-	Mat	βɨ-	
-Pano_Lexical_List	351	17	Come	70.*βɨ-	MatMay	bɨ-	
-Pano_Lexical_List	352	18	I	11.*ʔɨ	Ama	ɨ	
-Pano_Lexical_List	353	18	I	11.*ʔɨ	HanKax	ɨ	
-Pano_Lexical_List	354	18	I	11.*ʔɨ	Maw	ɨ	
-Pano_Lexical_List	355		Flesh	258.*nami	Shan	nami	
-Pano_Lexical_List	356		Flesh	258.*nami	Kat	nami	
-Pano_Lexical_List	357		Flesh	258.*nami	Poy	nãbi	
-Pano_Lexical_List	358		Flesh	258.*nami	Ama	nami	
-Pano_Lexical_List	359		Flesh	258.*nami	HanKax	nami	
-Pano_Lexical_List	360		Flesh	258.*nami	Maw	nami	
-Pano_Lexical_List	361		Flesh	258.*nami	Yaw	nami	
-Pano_Lexical_List	362		Flesh	258.*nami	Mat	nami	
-Pano_Lexical_List	363		Flesh	258.*nami	MatMay	nami	
-Pano_Lexical_List	364		Fat	412.*ʂɨni	Shan	ʂɨni	
-Pano_Lexical_List	365		Fat	412.*ʂɨni	Kat	ʃɨni	
-Pano_Lexical_List	366		Fat	412.*ʂɨni	Poy	hãdi	
-Pano_Lexical_List	367		Fat	412.*ʂɨni	Ama	xɨni	
-Pano_Lexical_List	368		Fat	412.*ʂɨni	HanKax	ʂɨni	
-Pano_Lexical_List	369		Fat	412.*ʂɨni	Maw	ʂɨni	
-Pano_Lexical_List	370		Fat	412.*ʂɨni	Yaw	ʂɨni	
-Pano_Lexical_List	371		Fat	412.*ʂɨni	Kor	ʃɨni	
-Pano_Lexical_List	372		Fat	412.*ʂɨni	Mat	ʂɨni	
-Pano_Lexical_List	373		Fingernail	239.*mɨ̃-tsis[i]	Shan	mɨtʃiʃi	
-Pano_Lexical_List	374		Fingernail	239.*mɨ̃-tsis[i]	Kat	mɨ̃tʃiʃi	
-Pano_Lexical_List	375		Fingernail	239.*mɨ̃-tsis[i]	Ama	mɨntsis	
-Pano_Lexical_List	376		Fingernail	239.*mɨ̃-tsis[i]	HanKax	mɨ̃tsis	
-Pano_Lexical_List	377		Fingernail	239.*mɨ̃-tsis[i]	Maw	mɨ̃tsisi	
-Pano_Lexical_List	378		Fingernail	239.*mɨ̃-tsis[i]	Yaw	mɨtsisi	
-Pano_Lexical_List	379		Fingernail	239.*mɨ̃-tsis[i]	Kor	mɨtʃiun	
-Pano_Lexical_List	380		Fingernail	239.*mɨ̃-tsis[i]	Mat	mɨntis	
-Pano_Lexical_List	381		Fingernail	239.*mɨ̃-tsis[i]	MatMay	mɨntsis	
-Pano_Lexical_List	382		Foot,leg	*ta-	Shan	taɨ	
-Pano_Lexical_List	383		Foot,leg	*ta-	Kat	taɨ	
-Pano_Lexical_List	384		Foot,leg	*ta-	Poy	tay	
-Pano_Lexical_List	385		Foot,leg	*ta-	Ama	taʔɨ	
-Pano_Lexical_List	386		Foot,leg	*ta-	HanKax	taɨ	
-Pano_Lexical_List	387		Foot,leg	*ta-	Maw	taɨ	
-Pano_Lexical_List	388		Foot,leg	*ta-	Yaw	tai	
-Pano_Lexical_List	389		Foot,leg	*ta-	Kor	taɨ	
-Pano_Lexical_List	390		Foot,leg	*ta-	Mat	taɨ	
-Pano_Lexical_List	391		Foot,leg	*ta-	MatMay	taɨ	
-Pano_Lexical_List	392		Lip,edge	155.*kʷɨ-	HanKax	kɨbitʃi	
-Pano_Lexical_List	393		Lip,edge	155.*kʷɨ-	MatMay	kwibi	
-Pano_Lexical_List	394		Cheek	440.*tamo	Kat	tamu	
-Pano_Lexical_List	395		Cheek	440.*tamo	Poy	tãbu	
-Pano_Lexical_List	396		Cheek	440.*tamo	Ama	tamo	
-Pano_Lexical_List	397		Cheek	440.*tamo	HanKax	tamu	
-Pano_Lexical_List	398		Cheek	440.*tamo	Maw	tamo	
-Pano_Lexical_List	399		Cheek	440.*tamo	MatMay	tambu	'beard'
-Pano_Lexical_List	400		Mouth	158.*kʷɨʂa[CV]	Shan	kɨʂa	
-Pano_Lexical_List	401		Mouth	158.*kʷɨʂa[CV]	Kat	kɨʂa	
-Pano_Lexical_List	402		Mouth	158.*kʷɨʂa[CV]	Poy	kɨxaa	
-Pano_Lexical_List	403		Mouth	158.*kʷɨʂa[CV]	Ama	kɨʂa	
-Pano_Lexical_List	404		Mouth	158.*kʷɨʂa[CV]	HanKax	kɨʂ̃ã	
-Pano_Lexical_List	405		Mouth	158.*kʷɨʂa[CV]	Maw	kɨʃa	
-Pano_Lexical_List	406		Mouth	158.*kʷɨʂa[CV]	Yaw	kɨha	
-Pano_Lexical_List	407		Elbow	*βaʂ(u)-	Ama	vapoxko	
-Pano_Lexical_List	408		Elbow	*βaʂ(u)-	HanKax	baʂtunku	
-Pano_Lexical_List	409		Elbow	*βaʂ(u)-	Mat	mɨntʂinβuru	
-Pano_Lexical_List	410		Elbow	*βaʂ(u)-	MatMay	mɨntsimpis	
-Takana_Lexical_List	411	1	Tree	8.*akʷi	ProTa	akʷi	
-Takana_Lexical_List	412	1	Tree	8.*akʷi	Tac	aki	
-Takana_Lexical_List	413	1	Tree	8.*akʷi	ReyMar	-/ekená	
-Takana_Lexical_List	414	1	Tree	8.*akʷi	Aro	acui	
-Takana_Lexical_List	415	1	Tree	8.*akʷi	Mab	akwi	
-Takana_Lexical_List	416	1	Tree	8.*akʷi	Cav	akwi	
-Takana_Lexical_List	417	1	Tree	8.*akʷi	Ese	akwi	
-Takana_Lexical_List	418	1	Tree	8.*akʷi	War	akwi	
-Takana_Lexical_List	419	1	Tree	8.*akʷi	Ara	akui	
-Takana_Lexical_List	420	2	Tooth	98.*tʂe-	ProTa	e-ce	
-Takana_Lexical_List	421	2	Tooth	98.*tʂe-	ReyMar	e-ce/etre	
-Takana_Lexical_List	422	2	Tooth	98.*tʂe-	Sap	echee	
-Takana_Lexical_List	423	2	Tooth	98.*tʂe-	Mab	itsi	
-Takana_Lexical_List	424	2	Tooth	98.*tʂe-	Cav	e-ce	
-Takana_Lexical_List	425	2	Tooth	98.*tʂe-	Ese	e-se	
-Takana_Lexical_List	426	2	Tooth	98.*tʂe-	War	e-sé	
-Takana_Lexical_List	427	2	Tooth	98.*tʂe-	Tia	ese	
-Takana_Lexical_List	428	2	Tooth	98.*tʂe-	Cham	e-sé	
-Takana_Lexical_List	429	2	Tooth	98.*tʂe-	Ara	ese	
-Takana_Lexical_List	430	3	Two	61.*beta	ProTa	beta	
-Takana_Lexical_List	431	3	Two	61.*beta	Tac	beta	
-Takana_Lexical_List	432	3	Two	61.*beta	ReyMar	mbeta/beta	
-Takana_Lexical_List	433	3	Two	61.*beta	Sap	beta	
-Takana_Lexical_List	434	3	Two	61.*beta	Aro	beta	
-Takana_Lexical_List	435	3	Two	61.*beta	Cav	beta	
-Takana_Lexical_List	436	3	Two	61.*beta	Ese	beka	
-Takana_Lexical_List	437	3	Two	61.*beta	War	beabué	
-Takana_Lexical_List	438	3	Two	61.*beta	Tia	bikapiai	
-Takana_Lexical_List	439	3	Two	61.*beta	Cham	béka	
-Takana_Lexical_List	440	4	Liver	403.*takʷa	ProTa	takʷa	
-Takana_Lexical_List	441	4	Liver	403.*takʷa	Tac	e-takwa	
-Takana_Lexical_List	442	4	Liver	403.*takʷa	ReyMar	e-takwa/-	
-Takana_Lexical_List	443	4	Liver	403.*takʷa	Cav	e-takwa	
-Takana_Lexical_List	444	4	Liver	403.*takʷa	Ese	e-kakwa	
-Takana_Lexical_List	445	4	Liver	403.*takʷa	War	e-takwe	
-Takana_Lexical_List	446	4	Liver	403.*takʷa	Ara	etákua	
-Takana_Lexical_List	447	5	To fan	337.*pei	ProTa	pei	
-Takana_Lexical_List	448	5	To fan	337.*pei	Cav	pei-	
-Takana_Lexical_List	449	5	To fan	337.*pei	Ese	e-pexi	
-Takana_Lexical_List	450	5	To fan	337.*pei	War	pio-	
-Takana_Lexical_List	451	6	Bone	96.*tʂau	ProTa	tʂau	
-Takana_Lexical_List	452	6	Bone	96.*tʂau	Tac	e-cau	
-Takana_Lexical_List	453	6	Bone	96.*tʂau	ReyMar	e-cao/etrá	
-Takana_Lexical_List	454	6	Bone	96.*tʂau	Cav	e-cao	
-Takana_Lexical_List	455	6	Bone	96.*tʂau	Ese	e-sá	
-Takana_Lexical_List	456	6	Bone	96.*tʂau	War	e-sá	
-Takana_Lexical_List	457	7	Tongue	12.*ana	ProTa	ana	
-Takana_Lexical_List	458	7	Tongue	12.*ana	Tac	y-ana	
-Takana_Lexical_List	459	7	Tongue	12.*ana	ReyMar	y-ana/eana	
-Takana_Lexical_List	460	7	Tongue	12.*ana	Sap	eana	
-Takana_Lexical_List	461	7	Tongue	12.*ana	Cav	y-ana	
-Takana_Lexical_List	462	7	Tongue	12.*ana	Ese	eyana	
-Takana_Lexical_List	463	7	Tongue	12.*ana	War	y-ana	
-Takana_Lexical_List	464	7	Tongue	12.*ana	Tia	yana	
-Takana_Lexical_List	465	7	Tongue	12.*ana	Ara	eána	
-Takana_Lexical_List	466	8	Hand	282.*me-	ProTa	me-	
-Takana_Lexical_List	467	8	Hand	282.*me-	Tac	e-me	
-Takana_Lexical_List	468	8	Hand	282.*me-	ReyMar	-/emechuja	
-Takana_Lexical_List	469	8	Hand	282.*me-	Sap	eme	
-Takana_Lexical_List	470	8	Hand	282.*me-	Aro	eme	
-Takana_Lexical_List	471	8	Hand	282.*me-	Cav	e-me	
-Takana_Lexical_List	472	8	Hand	282.*me-	Ese	e-me	
-Takana_Lexical_List	473	8	Hand	282.*me-	War	e-mé	
-Takana_Lexical_List	474	8	Hand	282.*me-	Ara	emã	
-Takana_Lexical_List	475	9	Night,tomorrow	290.*meta	ProTa	meta	
-Takana_Lexical_List	476	9	Night,tomorrow	290.*meta	Tac	mueta	
-Takana_Lexical_List	477	9	Night,tomorrow	290.*meta	ReyMar	-/maita	
-Takana_Lexical_List	478	9	Night,tomorrow	290.*meta	Sap	maetahe	
-Takana_Lexical_List	479	9	Night,tomorrow	290.*meta	Cav	meta	
-Takana_Lexical_List	480	9	Night,tomorrow	290.*meta	Ese	meka-waxe	
-Takana_Lexical_List	481	9	Night,tomorrow	290.*meta	Ara	eméte	
-Takana_Lexical_List	482	10	Skin	72.*biti	ProTa	biti	
-Takana_Lexical_List	483	10	Skin	72.*biti	Tac	e-biti	
-Takana_Lexical_List	484	10	Skin	72.*biti	ReyMar	e-mbiti/embiti	
-Takana_Lexical_List	485	10	Skin	72.*biti	Cav	e-biti	
-Takana_Lexical_List	486	11	Fire	*ti	ProTa	ti	
-Takana_Lexical_List	487	11	Fire	*ti	Tac	e-ti-ře	
-Takana_Lexical_List	488	11	Fire	*ti	ReyMar	-ti-/-	
-Takana_Lexical_List	489	11	Fire	*ti	Aro	etesi	
-Takana_Lexical_List	490	11	Fire	*ti	Cav	e-tiki	
-Takana_Lexical_List	491	12	Knee	128.*da	ProTa	da	
-Takana_Lexical_List	492	12	Knee	128.*da	Tac	e-ma-da-cua	
-Takana_Lexical_List	493	13	Blood	11.*ami	ProTa	ami	
-Takana_Lexical_List	494	13	Blood	11.*ami	Tac	ami	
-Takana_Lexical_List	495	13	Blood	11.*ami	ReyMar	ami/ami	
-Takana_Lexical_List	496	13	Blood	11.*ami	Cav	ami	
-Takana_Lexical_List	497	14	Breast	53.*aṭṣu	ProTa	aṭṣu	
-Takana_Lexical_List	498	15	Moon	37.*badi	ProTa	badi	
-Takana_Lexical_List	499	15	Moon	37.*badi	Tac	badi	
-Takana_Lexical_List	500	15	Moon	37.*badi	ReyMar	mbandzi/bansri	
-Takana_Lexical_List	501	15	Moon	37.*badi	Sap	bari	
-Takana_Lexical_List	502	15	Moon	37.*badi	Aro	badi	
-Takana_Lexical_List	503	15	Moon	37.*badi	Cav	badi	
-Takana_Lexical_List	504	15	Moon	37.*badi	Ese	baʔi	
-Takana_Lexical_List	505	15	Moon	37.*badi	Cham	mái	
-Takana_Lexical_List	506	16	You	292.*mi	ProTa	mi	
-Takana_Lexical_List	507	16	You	292.*mi	Tac	mi-ke	
-Takana_Lexical_List	508	16	You	292.*mi	ReyMar	mibe/mive	
-Takana_Lexical_List	509	16	You	292.*mi	Aro	mitya	
-Takana_Lexical_List	510	16	You	292.*mi	Cav	mi-kwana	
-Takana_Lexical_List	511	16	You	292.*mi	Ese	mi-a	
-Takana_Lexical_List	512	16	You	292.*mi	Ara	mikia	
-Takana_Lexical_List	513	17	Come	*be-	ProTa	be-	'bring'
-Takana_Lexical_List	514	18	I	151.*e	ProTa	e	
-Takana_Lexical_List	515	18	I	151.*e	Tac	e-ma	
-Takana_Lexical_List	516	18	I	151.*e	ReyMar	e-me/éme	
-Takana_Lexical_List	517	18	I	151.*e	Aro	ema,yama	
-Takana_Lexical_List	518	18	I	151.*e	Cav	e-ra	
-Takana_Lexical_List	519	18	I	151.*e	Ese	ea,eyaya	
-Takana_Lexical_List	520		Flesh	362.*ɾami	ProTa	ɾami	
-Takana_Lexical_List	521		Flesh	362.*ɾami	Tac	yami	
-Takana_Lexical_List	522		Flesh	362.*ɾami	ReyMar	yami/eami	
-Takana_Lexical_List	523		Flesh	362.*ɾami	Aro	yami	
-Takana_Lexical_List	524		Flesh	362.*ɾami	Cav	e-rami	
-Takana_Lexical_List	525		Flesh	362.*ɾami	Ese	eyami	
-Takana_Lexical_List	526		Flesh	362.*ɾami	War	eyami	
-Takana_Lexical_List	527		Flesh	362.*ɾami	Ara	éami	
-Takana_Lexical_List	528		Fat	105.*ṭṣeri	ProTa	ṭṣeri	
-Takana_Lexical_List	529		Fat	105.*ṭṣeri	Tac	e-cei	
-Takana_Lexical_List	530		Fat	105.*ṭṣeri	Cav	e-ceri	
-Takana_Lexical_List	531		Fat	105.*ṭṣeri	Ese	e-sei	
-Takana_Lexical_List	532		Fat	105.*ṭṣeri	Ara	ésey	
-Takana_Lexical_List	533		Fingernail	*metiji	ProTa	metiji	
-Takana_Lexical_List	534		Fingernail	*metiji	Tac	e-me-haca	
-Takana_Lexical_List	535		Fingernail	*metiji	ReyMar	-/emechuja,emetichi	'fingers','nails'
-Takana_Lexical_List	536		Fingernail	*metiji	Cav	e-me-šoro	'nail'
-Takana_Lexical_List	537		Fingernail	*metiji	Ese	e-me-kiše	'nail'
-Takana_Lexical_List	538		Foot,leg	398.*ta-	ProTa	ta-	'leg'
-Takana_Lexical_List	539		Foot,leg	398.*ta-	Tac	e-ta-buce	'shin bone'
-Takana_Lexical_List	540		Foot,leg	398.*ta-	Mab	itha	
-Takana_Lexical_List	541		Foot,leg	398.*ta-	Cav	awa-taka	'tapir-foot (plant)'
-Takana_Lexical_List	542		Lip,edge	243.*kʷe(i)-	ProTa	kʷe(i)-	
-Takana_Lexical_List	543		Lip,edge	243.*kʷe(i)-	Tac	e-ke-ke	
-Takana_Lexical_List	544		Lip,edge	243.*kʷe(i)-	ReyMar	kwesa/euesa	'beard'/'beard'
-Takana_Lexical_List	545		Lip,edge	243.*kʷe(i)-	Cav	kwesa	'beard'
-Takana_Lexical_List	546		Lip,edge	243.*kʷe(i)-	Ese	e-kwe-ša	'beard'
-Takana_Lexical_List	547		Cheek	*tamu	ProTa	tamu	
-Takana_Lexical_List	548		Cheek	*tamu	ReyMar	ebu-tamu/-	
-Takana_Lexical_List	549		Cheek	*tamu	Cav	-tamu	
-Takana_Lexical_List	550		Cheek	*tamu	Ese	-shemo	
-Takana_Lexical_List	551		Mouth	232.*kʷatʂa	ProTa	kʷatʂa	
-Takana_Lexical_List	552		Mouth	232.*kʷatʂa	Tac	e-kwaca	
-Takana_Lexical_List	553		Mouth	232.*kʷatʂa	ReyMar	e-kwaca/ekuatra	
-Takana_Lexical_List	554		Mouth	232.*kʷatʂa	Sap	ecuacha	
-Takana_Lexical_List	555		Mouth	232.*kʷatʂa	Mab	ikwatsa	
-Takana_Lexical_List	556		Mouth	232.*kʷatʂa	Cav	e-kwaca	
-Takana_Lexical_List	557		Mouth	232.*kʷatʂa	Ese	e-kwasa	
-Takana_Lexical_List	558		Mouth	232.*kʷatʂa	War	e-kwasa	
-Takana_Lexical_List	559		Elbow	29.-baṭṣu	ProTa	-baṭṣu	
-Takana_Lexical_List	560		Elbow	29.-baṭṣu	Tac	e-ba-cu	
-Takana_Lexical_List	561		Elbow	29.-baṭṣu	ReyMar	e-mba-co/-	
-Takana_Lexical_List	562		Elbow	29.-baṭṣu	Ese	e-bašo	
-Takana_Lexical_List	563		Elbow	29.-baṭṣu	War	e-bašo	
-Takana_Lexical_List	564		Elbow	29.-baṭṣu	Tia	wacu	
-Takana_Lexical_List	565		Elbow	29.-baṭṣu	Ara	ebaša	
-Pano_Grammatical_Morphemes	566	1	1st SG 'I'	11.*ʔɨ	ProPa	ʔɨ	
-Pano_Grammatical_Morphemes	567	1	1st SG 'I'	11.*ʔɨ	Ksh	ʔɨ	
-Pano_Grammatical_Morphemes	568	1	1st SG 'I'	11.*ʔɨ	SK	ʔɨ	
-Pano_Grammatical_Morphemes	569	1	1st SG 'I'	11.*ʔɨ	Kap	ʔɨ	
-Pano_Grammatical_Morphemes	570	1	1st SG 'I'	11.*ʔɨ	Chak	ɨ	
-Pano_Grammatical_Morphemes	571	1	1st SG 'I'	11.*ʔɨ	Yam	ɨ̃	
-Pano_Grammatical_Morphemes	572	2	2nd SG 'you'	246.*mi	ProPa	mi	
-Pano_Grammatical_Morphemes	573	2	2nd SG 'you'	246.*mi	Ksh	mii	
-Pano_Grammatical_Morphemes	574	2	2nd SG 'you'	246.*mi	SK	mia	
-Pano_Grammatical_Morphemes	575	2	2nd SG 'you'	246.*mi	Kap	mia	
-Pano_Grammatical_Morphemes	576	2	2nd SG 'you'	246.*mi	Chak	mia	object form
-Pano_Grammatical_Morphemes	577	2	2nd SG 'you'	246.*mi	Yam	mĩ	
-Pano_Grammatical_Morphemes	578	3	DEMONSTRATIVE distal	*ʔo-	ProPa	ʔo-	
-Pano_Grammatical_Morphemes	579	3	DEMONSTRATIVE distal	*ʔo-	Ksh	un (A),ux (S),u (O)	
-Pano_Grammatical_Morphemes	580	3	DEMONSTRATIVE distal	*ʔo-	SK	oa	
-Pano_Grammatical_Morphemes	581	3	DEMONSTRATIVE distal	*ʔo-	Chak	oa	
-Pano_Grammatical_Morphemes	582	3	DEMONSTRATIVE distal	*ʔo-	Yam	oa	
-Pano_Grammatical_Morphemes	583	4	DEMONSTRATIVE proximate	*nɨ-	ProPa	nɨ-	
-Pano_Grammatical_Morphemes	584	4	DEMONSTRATIVE proximate	*nɨ-	Ksh	ɨnɨn (A),ɨnɨx (S),ɨnɨ (O)	
-Pano_Grammatical_Morphemes	585	4	DEMONSTRATIVE proximate	*nɨ-	SK	nɨ-~nato	
-Pano_Grammatical_Morphemes	586	4	DEMONSTRATIVE proximate	*nɨ-	Chak	noa,toa	
-Pano_Grammatical_Morphemes	587	4	DEMONSTRATIVE proximate	*nɨ-	Yam	na	
-Pano_Grammatical_Morphemes	588	5	GENITIVE	*-wɨ̃	ProPa	-wɨ̃	
-Pano_Grammatical_Morphemes	589	5	GENITIVE	*-wɨ̃	Ksh	=(a)n	
-Pano_Grammatical_Morphemes	590	5	GENITIVE	*-wɨ̃	SK	-n	
-Pano_Grammatical_Morphemes	591	5	GENITIVE	*-wɨ̃	Yam	-na,-fɨna	
-Pano_Grammatical_Morphemes	592	6	IMPERATIVE	*-wɨ	ProPa	-wɨ	
-Pano_Grammatical_Morphemes	593	6	IMPERATIVE	*-wɨ	Ksh	-ɨ	
-Pano_Grammatical_Morphemes	594	6	IMPERATIVE	*-wɨ	SK	-wɨ	
-Pano_Grammatical_Morphemes	595	6	IMPERATIVE	*-wɨ	Kap	-wɨ	
-Pano_Grammatical_Morphemes	596	6	IMPERATIVE	*-wɨ	Mar	-wɨ	
-Pano_Grammatical_Morphemes	597	6	IMPERATIVE	*-wɨ	Chak	-wɨ	
-Pano_Grammatical_Morphemes	598	6	IMPERATIVE	*-wɨ	Kax	-wɨ	
-Pano_Grammatical_Morphemes	599	6	IMPERATIVE	*-wɨ	Yam	-ɸɨ	
-Pano_Grammatical_Morphemes	600	6	IMPERATIVE	*-wɨ	Shar	-wɨ	
-Pano_Grammatical_Morphemes	601	7	GOING DOWN,DOWNWARD	*-βut	ProPa	-βut	See footnote 66.
-Pano_Grammatical_Morphemes	602	7	GOING DOWN,DOWNWARD	*-βut	Ksh	-but	
-Pano_Grammatical_Morphemes	603	8	DO COMING	*-βɨ[...]	ProPa	-βɨ[...]	Guillaume 2017:254
-Pano_Grammatical_Morphemes	604	8	DO COMING	*-βɨ[...]	Ksh	-bɨtsin	
-Pano_Grammatical_Morphemes	605	8	DO COMING	*-βɨ[...]	SK	-bɨiran	
-Pano_Grammatical_Morphemes	606	8	DO COMING	*-βɨ[...]	Chak	-bɨna	
-Pano_Grammatical_Morphemes	607	8	DO COMING	*-βɨ[...]	Yam	-ɸɨran	
-Pano_Grammatical_Morphemes	608	9	DESIDERATIVE	*-katsa	ProPa	-katsa	
-Pano_Grammatical_Morphemes	609	9	DESIDERATIVE	*-katsa	Ksh	-kas,-katsi	
-Pano_Grammatical_Morphemes	610	9	DESIDERATIVE	*-katsa	SK	-kas	
-Pano_Grammatical_Morphemes	611	9	DESIDERATIVE	*-katsa	Kap	-katsiʔ-,-katsiʔki-	
-Pano_Grammatical_Morphemes	612	9	DESIDERATIVE	*-katsa	Mar	-katsi	
-Pano_Grammatical_Morphemes	613	9	DESIDERATIVE	*-katsa	Chak	-kas-	
-Pano_Grammatical_Morphemes	614	9	DESIDERATIVE	*-katsa	Kax	-katsa	
-Pano_Grammatical_Morphemes	615	9	DESIDERATIVE	*-katsa	Yam	kasma,kaspa,katsa	'not to want','desiderative negative','to have'
-Pano_Grammatical_Morphemes	616	9	DESIDERATIVE	*-katsa	Shar	-kas-mai	'not to want'
-Pano_Grammatical_Morphemes	617	10	NEGATIVE	493.*-[yá]ma	ProPa	-[yá]ma	verbal
-Pano_Grammatical_Morphemes	618	10	NEGATIVE	493.*-[yá]ma	Ksh	-ma	
-Pano_Grammatical_Morphemes	619	10	NEGATIVE	493.*-[yá]ma	SK	-yama	
-Pano_Grammatical_Morphemes	620	10	NEGATIVE	493.*-[yá]ma	Kap	yama	
-Pano_Grammatical_Morphemes	621	10	NEGATIVE	493.*-[yá]ma	Mar	-ma,-ama	
-Pano_Grammatical_Morphemes	622	10	NEGATIVE	493.*-[yá]ma	Chak	-yama	
-Pano_Grammatical_Morphemes	623	10	NEGATIVE	493.*-[yá]ma	Kax	-ma,maʔa	
-Pano_Grammatical_Morphemes	624	10	NEGATIVE	493.*-[yá]ma	Yam	maa,ma,yama	'not','negative','negative prohibitive'
-Pano_Grammatical_Morphemes	625	10	NEGATIVE	493.*-[yá]ma	Shar	-ma,-yama	'no','imperative,negative,prohibitive'
-Pano_Grammatical_Morphemes	626	11	CAUSATIVE	202.*-m[a]	ProPa	-m[a]	
-Pano_Grammatical_Morphemes	627	11	CAUSATIVE	202.*-m[a]	Ksh	-mi-	
-Pano_Grammatical_Morphemes	628	11	CAUSATIVE	202.*-m[a]	SK	-ma-	
-Pano_Grammatical_Morphemes	629	11	CAUSATIVE	202.*-m[a]	Kap	-ma-	
-Pano_Grammatical_Morphemes	630	11	CAUSATIVE	202.*-m[a]	Mar	-ma	
-Pano_Grammatical_Morphemes	631	11	CAUSATIVE	202.*-m[a]	Chak	-ma	
-Pano_Grammatical_Morphemes	632	11	CAUSATIVE	202.*-m[a]	Yam	-ma	
-Pano_Grammatical_Morphemes	634	11	CAUSATIVE	202.*-m[a]	Shar	-ma-	
-Pano_Grammatical_Morphemes	635	12	AUGMENTATIVE	*pa	ProPa	pa	
-Pano_Grammatical_Morphemes	636	12	AUGMENTATIVE	*pa	SK	-n ewá	
-Pano_Grammatical_Morphemes	637	12	AUGMENTATIVE	*pa	Kap	-ahhuan	
-Pano_Grammatical_Morphemes	638	12	AUGMENTATIVE	*pa	Chak	-wa	
-Pano_Grammatical_Morphemes	639	12	AUGMENTATIVE	*pa	Yam	-nfã	
-Pano_Grammatical_Morphemes	640	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	ProPa	ʔak-	
-Pano_Grammatical_Morphemes	641	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Ksh	ʔa-	
-Pano_Grammatical_Morphemes	642	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	SK	ʔa-	
-Pano_Grammatical_Morphemes	643	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Kap	ʔa-	
-Pano_Grammatical_Morphemes	644	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Mar	a	
-Pano_Grammatical_Morphemes	645	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Chak	ʔa-	
-Pano_Grammatical_Morphemes	646	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Kax	a-	
-Pano_Grammatical_Morphemes	647	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Yam	ak-	
-Pano_Grammatical_Morphemes	648	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Chan	a-	
-Pano_Grammatical_Morphemes	649	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Shar	a-	
-Pano_Grammatical_Morphemes	650	14	TRANSITIVIZER	466.*-wa	ProPa	-wa	
-Pano_Grammatical_Morphemes	651	14	TRANSITIVIZER	466.*-wa	Ksh	-ɔ	
-Pano_Grammatical_Morphemes	652	14	TRANSITIVIZER	466.*-wa	Chak	-wa	
-Pano_Grammatical_Morphemes	653	15	DETRANSITIVIZER,REFLEXIVE	*-t	ProPa	-t	
-Pano_Grammatical_Morphemes	654	15	DETRANSITIVIZER,REFLEXIVE	*-t	Ksh	-t	
-Pano_Grammatical_Morphemes	655	15	DETRANSITIVIZER,REFLEXIVE	*-t	SK	-t	
-Pano_Grammatical_Morphemes	656	16	ERGATIVE	*-n	ProPa	-n	
-Pano_Grammatical_Morphemes	657	16	ERGATIVE	*-n	Ksh	=(a)n	
-Pano_Grammatical_Morphemes	658	16	ERGATIVE	*-n	SK	=n	
-Pano_Grammatical_Morphemes	659	16	ERGATIVE	*-n	Kap	-n	
-Pano_Grammatical_Morphemes	660	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	ProPa	-ʂo-n	
-Pano_Grammatical_Morphemes	661	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Ksh	-ʂun	
-Pano_Grammatical_Morphemes	662	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	SK	-ʂon	
-Pano_Grammatical_Morphemes	663	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Chak	-ʂo	
-Pano_Grammatical_Morphemes	664	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Kax	-ʂu	
-Pano_Grammatical_Morphemes	665	18	COMITATIVE,ALONG WITH	*βɨta	ProPa	βɨta	
-Pano_Grammatical_Morphemes	666	18	COMITATIVE,ALONG WITH	*βɨta	Ksh	-bɨ~-bɨtan	
-Pano_Grammatical_Morphemes	667	18	COMITATIVE,ALONG WITH	*βɨta	SK	-bɨ	
-Pano_Grammatical_Morphemes	668	18	COMITATIVE,ALONG WITH	*βɨta	Chak	-bɨta	
-Pano_Grammatical_Morphemes	669	18	COMITATIVE,ALONG WITH	*βɨta	Yam	-fɨtã	
-Pano_Grammatical_Morphemes	670	1	1st SG 'I'	11.*ʔɨ	Ama	ɨ	
-Pano_Grammatical_Morphemes	671	1	1st SG 'I'	11.*ʔɨ	HanKax	ɨ	
-Pano_Grammatical_Morphemes	672	1	1st SG 'I'	11.*ʔɨ	Maw	ɨ	
-Pano_Grammatical_Morphemes	673	2	2nd SG 'you'	246.*mi	Ama	miya	
-Pano_Grammatical_Morphemes	674	2	2nd SG 'you'	246.*mi	HanKax	mia	
-Pano_Grammatical_Morphemes	675	2	2nd SG 'you'	246.*mi	Maw	mia	
-Pano_Grammatical_Morphemes	676	2	2nd SG 'you'	246.*mi	Kor	mi	
-Pano_Grammatical_Morphemes	677	2	2nd SG 'you'	246.*mi	Mat	mi (minbi,mibi,min)	
-Pano_Grammatical_Morphemes	678	2	2nd SG 'you'	246.*mi	MatMay	mi (minbi,mibi,min)	
-Pano_Grammatical_Morphemes	679	3	DEMONSTRATIVE distal	*ʔo-	MatMay	uid	
-Pano_Grammatical_Morphemes	680	4	DEMONSTRATIVE proximate	*nɨ-	MatMay	nɨid	
-Pano_Grammatical_Morphemes	681	6	IMPERATIVE	477.*-wɨ	Shan	-wɨ	
-Pano_Grammatical_Morphemes	682	6	IMPERATIVE	477.*-wɨ	Kat	wɨ	
-Pano_Grammatical_Morphemes	683	6	IMPERATIVE	477.*-wɨ	HanKax	-wɨ	
-Pano_Grammatical_Morphemes	684	6	IMPERATIVE	477.*-wɨ	Maw	-wɨ	
-Pano_Grammatical_Morphemes	685	6	IMPERATIVE	477.*-wɨ	Yaw	-wɨ	
-Pano_Grammatical_Morphemes	686	7	GOING DOWN,DOWNWARD	*-βut	MatMay	-bud	
-Pano_Grammatical_Morphemes	687	8	DO COMING	*-βɨ[...]	Ama	-vɨran	
-Pano_Grammatical_Morphemes	688	8	DO COMING	*-βɨ[...]	MatMay	-bɨtsen	
-Pano_Grammatical_Morphemes	689	9	DESIDERATIVE	*-katsa	Ama	-katsi	
-Pano_Grammatical_Morphemes	690	9	DESIDERATIVE	*-katsa	MatMay	-kas-,katsi	
-Pano_Grammatical_Morphemes	691	10	NEGATIVE	493.*-[ya]ma	Shan	-ma,-yama,	'negación general','negación de imperativo
-Pano_Grammatical_Morphemes	692	10	NEGATIVE	493.*-[ya]ma	Kat	yama,ma	'no tener,negativo','no'
-Pano_Grammatical_Morphemes	693	10	NEGATIVE	493.*-[ya]ma	Poy	ba	'asertivo negativo'
-Pano_Grammatical_Morphemes	694	10	NEGATIVE	493.*-[ya]ma	Ama	-yama	
-Pano_Grammatical_Morphemes	695	10	NEGATIVE	493.*-[ya]ma	HanKax	-ma,-yama	
-Pano_Grammatical_Morphemes	696	10	NEGATIVE	493.*-[ya]ma	Maw	-ma	
-Pano_Grammatical_Morphemes	697	10	NEGATIVE	493.*-[ya]ma	Yaw	-ma	'negación'
-Pano_Grammatical_Morphemes	698	10	NEGATIVE	493.*-[ya]ma	Kor	-ma	'negación pasado'
-Pano_Grammatical_Morphemes	699	10	NEGATIVE	493.*-[ya]ma	Mat	-ama	'negación pasado'
-Pano_Grammatical_Morphemes	700	11	CAUSATIVE	202.*-m[a]	Shan	-ma	
-Pano_Grammatical_Morphemes	701	11	CAUSATIVE	202.*-m[a]	Ama	-ma-	
-Pano_Grammatical_Morphemes	702	11	CAUSATIVE	202.*-m[a]	HanKax	-ma-	
-Pano_Grammatical_Morphemes	703	11	CAUSATIVE	202.*-m[a]	Maw	-ma	
-Pano_Grammatical_Morphemes	704	11	CAUSATIVE	202.*-m[a]	Yaw	-ma-	
-Pano_Grammatical_Morphemes	705	11	CAUSATIVE	202.*-m[a]	Kor	-me	
-Pano_Grammatical_Morphemes	706	11	CAUSATIVE	202.*-m[a]	Mat	-me	
-Pano_Grammatical_Morphemes	707	11	CAUSATIVE	202.*-m[a]	MatMay	-me	
-Pano_Grammatical_Morphemes	708	12	AUGMENTATIVE	*pa	MatMay	-pa	
-Pano_Grammatical_Morphemes	709	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Ama	ʔa-	
-Pano_Grammatical_Morphemes	710	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	HanKax	a-	
-Pano_Grammatical_Morphemes	711	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Maw	a-	
-Pano_Grammatical_Morphemes	712	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Kor	ak-	
-Pano_Grammatical_Morphemes	713	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	Mat	ak-	
-Pano_Grammatical_Morphemes	714	13	DO (TR.),AUXILIARY (TR.)	1.*ʔak-	MatMay	ak-	
-Pano_Grammatical_Morphemes	715	14	TRANSITIVIZER	466.*-wa	HanKax	wa-,-wa	
-Pano_Grammatical_Morphemes	716	16	ERGATIVE	*-n	MatMay	-n	
-Pano_Grammatical_Morphemes	717	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Ama	=çon	
-Pano_Grammatical_Morphemes	718	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	HanKax	=ʂun	
-Pano_Grammatical_Morphemes	719	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	Mat	=ʂun	
-Pano_Grammatical_Morphemes	720	17	PREVIOUS EVENT, SAME-SUBJECT	*-ʂo-n	MatMay	=ʂun	
-Pano_Grammatical_Morphemes	721	18	COMITATIVE,ALONG WITH	*βɨta	Ama	-wɨ,-wɨtã	
-Pano_Grammatical_Morphemes	722	18	COMITATIVE,ALONG WITH	*βɨta	HanKax	-bɨ,-bɨtã	
-Pano_Grammatical_Morphemes	723	18	COMITATIVE,ALONG WITH	*βɨta	Maw	-fɨta,fɨtã	
-Pano_Grammatical_Morphemes	724	18	COMITATIVE,ALONG WITH	*βɨta	MatMay	-bid (S),-bɨta (O),-bɨtan (A)	
-Takana_Grammatical_Morphemes	725	1	1st SG 'I'	151.*e	ProTa	e	
-Takana_Grammatical_Morphemes	726	1	1st SG 'I'	151.*e	Tac	e-ma	
-Takana_Grammatical_Morphemes	727	1	1st SG 'I'	151.*e	ReyMar	e-me/éme	
-Takana_Grammatical_Morphemes	728	1	1st SG 'I'	151.*e	Aro	ema,yama	
-Takana_Grammatical_Morphemes	729	1	1st SG 'I'	151.*e	Cav	e-ra	
-Takana_Grammatical_Morphemes	730	1	1st SG 'I'	151.*e	Ese	ea,eyaya	
-Takana_Grammatical_Morphemes	731	2	2nd SG 'you'	292.*mi	ProTa	mi	Girard additionally lists -mikia for Arasa.
-Takana_Grammatical_Morphemes	732	2	2nd SG 'you'	292.*mi	Tac	mi-ke	
-Takana_Grammatical_Morphemes	733	2	2nd SG 'you'	292.*mi	ReyMar	mibe/mive	
-Takana_Grammatical_Morphemes	734	2	2nd SG 'you'	292.*mi	Aro	mitya	
-Takana_Grammatical_Morphemes	735	2	2nd SG 'you'	292.*mi	Cav	mi-kwana	
-Takana_Grammatical_Morphemes	736	2	2nd SG 'you'	292.*mi	Ese	mi-a	
-Takana_Grammatical_Morphemes	737	3	DEMONSTRATIVE 'this' 'he'	442.*u-	ProTa	u-	
-Takana_Grammatical_Morphemes	738	3	DEMONSTRATIVE 'this' 'he'	442.*u-	Tac	u-ha	
-Takana_Grammatical_Morphemes	739	3	DEMONSTRATIVE 'this' 'he'	442.*u-	Cav	o-ho	
-Takana_Grammatical_Morphemes	740	3	DEMONSTRATIVE 'this' 'he'	442.*u-	Ese	o-haya	
-Takana_Grammatical_Morphemes	741	4	DEMONSTRATIVE proximate	*ree-	ProTa	ree-	
-Takana_Grammatical_Morphemes	742	4	DEMONSTRATIVE proximate	*ree-	Tac	ye	
-Takana_Grammatical_Morphemes	743	4	DEMONSTRATIVE proximate	*ree-	Cav	reeke	
-Takana_Grammatical_Morphemes	744	4	DEMONSTRATIVE proximate	*ree-	Ese	hikio	
-Takana_Grammatical_Morphemes	745	5	GENITIVE	241.*-kʷe	ProTa	-kʷe	Girard additionally lists -kwe for Warayo.
-Takana_Grammatical_Morphemes	746	5	GENITIVE	241.*-kʷe	Tac	-ke	
-Takana_Grammatical_Morphemes	747	5	GENITIVE	241.*-kʷe	ReyMar	ki-/-	'possessive prefix'
-Takana_Grammatical_Morphemes	748	5	GENITIVE	241.*-kʷe	Cav	-kwe	
-Takana_Grammatical_Morphemes	749	5	GENITIVE	241.*-kʷe	Ese	-kwe	
-Takana_Grammatical_Morphemes	750	6	IMPERATIVE	240.*-kʷe	ProTa	-kʷe	Girard additionally lists -he for Warisa.
-Takana_Grammatical_Morphemes	751	6	IMPERATIVE	240.*-kʷe	Tac	-ke	
-Takana_Grammatical_Morphemes	752	6	IMPERATIVE	240.*-kʷe	Cav	-kwe	
-Takana_Grammatical_Morphemes	753	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	ProTa	-bu,-bute	For first form, Girard additionally lists -anibuteni for Warisa. For second form, see footnote 67.
-Takana_Grammatical_Morphemes	754	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	Tac	e-bute-hi,-ute	
-Takana_Grammatical_Morphemes	755	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	ReyMar	-/animabotia,-bute/-	
-Takana_Grammatical_Morphemes	756	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	Aro	-bote	
-Takana_Grammatical_Morphemes	757	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	Cav	e-bote,-bute/-butya	
-Takana_Grammatical_Morphemes	758	7	GOING DOWN,DOWNWARD	78.*-bu,*-bute	Ese	'oke/-'okya	
-Takana_Grammatical_Morphemes	759	8	DO COMING	*-be	ProTa	-be	Guillaume 2017:233
-Takana_Grammatical_Morphemes	760	8	DO COMING	*-be	Tac	-be	
-Takana_Grammatical_Morphemes	761	8	DO COMING	*-be	ReyMar	-bebe/-	
-Takana_Grammatical_Morphemes	762	8	DO COMING	*-be	Cav	-be	
-Takana_Grammatical_Morphemes	763	8	DO COMING	*-be	Ese	-jebe	
-Takana_Grammatical_Morphemes	764	9	DESIDERATIVE	*-katsa	ProTa	-katsa	
-Takana_Grammatical_Morphemes	765	9	DESIDERATIVE	*-katsa	Tac	-tsa	
-Takana_Grammatical_Morphemes	766	9	DESIDERATIVE	*-katsa	Aro	-hae	
-Takana_Grammatical_Morphemes	767	9	DESIDERATIVE	*-katsa	Cav	-kara	
-Takana_Grammatical_Morphemes	768	9	DESIDERATIVE	*-katsa	Ese	-sa	
-Takana_Grammatical_Morphemes	769	10	NEGATIVE	9.*-(a)ma	ProTa	-(a)ma	verbal and nominal
-Takana_Grammatical_Morphemes	770	10	NEGATIVE	9.*-(a)ma	Tac	-(a)ma	
-Takana_Grammatical_Morphemes	771	10	NEGATIVE	9.*-(a)ma	Cav	-(a)ma	
-Takana_Grammatical_Morphemes	772	10	NEGATIVE	9.*-(a)ma	Ese	-(a)ma	
-Takana_Grammatical_Morphemes	773	11	CAUSATIVE	289.*-me[re]	ProTa	-me[re]	See footnote 73.
-Takana_Grammatical_Morphemes	774	11	CAUSATIVE	289.*-me[re]	Tac	-me	
-Takana_Grammatical_Morphemes	775	11	CAUSATIVE	289.*-me[re]	Aro	-me	
-Takana_Grammatical_Morphemes	776	11	CAUSATIVE	289.*-me[re]	Cav	-mere	
-Takana_Grammatical_Morphemes	777	11	CAUSATIVE	289.*-me[re]	Ese	-mee	
-Takana_Grammatical_Morphemes	778	12	AUGMENTATIVE	330.*-pa	ProTa	-pa	
-Takana_Grammatical_Morphemes	779	12	AUGMENTATIVE	330.*-pa	Tac	-pa	
-Takana_Grammatical_Morphemes	780	12	AUGMENTATIVE	330.*-pa	Cav	-pa	
-Takana_Grammatical_Morphemes	781	13	DO (TR.),AUXILIARY (TR.)	1.*a-	ProTa	a-	Girard additionally lists age for Warisa.
-Takana_Grammatical_Morphemes	782	13	DO (TR.),AUXILIARY (TR.)	1.*a-	Tac	a-	
-Takana_Grammatical_Morphemes	783	13	DO (TR.),AUXILIARY (TR.)	1.*a-	Cav	a-	
-Takana_Grammatical_Morphemes	784	13	DO (TR.),AUXILIARY (TR.)	1.*a-	Ese	a-ka-	
-Takana_Grammatical_Morphemes	785	14	TRANSITIVIZER	2.*-a	ProTa	-a	Girard additionally lists -a(-) for the Warayo.
-Takana_Grammatical_Morphemes	786	14	TRANSITIVIZER	2.*-a	Tac	-a(-)	
-Takana_Grammatical_Morphemes	787	14	TRANSITIVIZER	2.*-a	ReyMar	-a(-)/-	
-Takana_Grammatical_Morphemes	788	14	TRANSITIVIZER	2.*-a	Cav	-a(-)	
-Takana_Grammatical_Morphemes	789	14	TRANSITIVIZER	2.*-a	Ese	-a(-)	
-Takana_Grammatical_Morphemes	790	15	DETRANSITIVIZER,REFLEXIVE	422.*-ti	ProTa	-ti	
-Takana_Grammatical_Morphemes	791	15	DETRANSITIVIZER,REFLEXIVE	422.*-ti	Tac	-ti	
-Takana_Grammatical_Morphemes	792	15	DETRANSITIVIZER,REFLEXIVE	422.*-ti	Cav	-ti	
-Takana_Grammatical_Morphemes	793	15	DETRANSITIVIZER,REFLEXIVE	422.*-ti	Ese	-ki	
-Takana_Grammatical_Morphemes	794	16	ERGATIVE	361.*-ra	ProTa	-ra	Girard additionally lists -a for Warayo.
-Takana_Grammatical_Morphemes	795	16	ERGATIVE	361.*-ra	Tac	-a	
-Takana_Grammatical_Morphemes	796	16	ERGATIVE	361.*-ra	Cav	-ra	
-Takana_Grammatical_Morphemes	797	16	ERGATIVE	361.*-ra	Ese	-(y)a	
-Takana_Grammatical_Morphemes	798	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	ProTa	-ṭṣu	
-Takana_Grammatical_Morphemes	799	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	Tac	-su	
-Takana_Grammatical_Morphemes	800	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	Aro	-tso	
-Takana_Grammatical_Morphemes	801	17	PREVIOUS EVENT, SAME-SUBJECT	*-ṭṣu	Cav	-atsu~-tsu	
-Takana_Grammatical_Morphemes	802	18	COMITATIVE,ALONG WITH TWO	61.*beta	ProTa	beta	Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.
-Takana_Grammatical_Morphemes	803	18	COMITATIVE,ALONG WITH TWO	61.*beta	Tac	beta	
-Takana_Grammatical_Morphemes	804	18	COMITATIVE,ALONG WITH TWO	61.*beta	ReyMar	mbeta/beta	
-Takana_Grammatical_Morphemes	805	18	COMITATIVE,ALONG WITH TWO	61.*beta	Aro	beta	
-Takana_Grammatical_Morphemes	806	18	COMITATIVE,ALONG WITH TWO	61.*beta	Cav	beta	
-Takana_Grammatical_Morphemes	807	18	COMITATIVE,ALONG WITH TWO	61.*beta	Ese	beka	
+TABLE	NUMBER	NUMBER_IN_SOURCE	CONCEPT	NUMBERING_ORIGINAL_SOURCE	PROTO_FORM	DOCULECT	VALUE	NOTE
+Pano_Lexical_List	A1	1	Tree	147	*hiwi	ProPa	hiwi	
+Pano_Lexical_List	A2	1	Tree	147	*hiwi	Ksh	i	
+Pano_Lexical_List	A3	1	Tree	147	*hiwi	SK	hiwi	
+Pano_Lexical_List	A4	1	Tree	147	*hiwi	Kap	hiwi	
+Pano_Lexical_List	A5	1	Tree	147	*hiwi	Mar	iwi	
+Pano_Lexical_List	A6	1	Tree	147	*hiwi	Chak	hiwi	
+Pano_Lexical_List	A7	1	Tree	147	*hiwi	Kax	hiwi	
+Pano_Lexical_List	A8	1	Tree	147	*hiwi	Yam	iɸi	
+Pano_Lexical_List	A9	1	Tree	147	*hiwi	Shar	iɸi	
+Pano_Lexical_List	A10	2	Tooth	414	*ʂɨ-	ProPa	ʂɨ-	
+Pano_Lexical_List	A11	2	Tooth	414	*ʂɨ-	Ksh	ʂɨta	
+Pano_Lexical_List	A12	2	Tooth	414	*ʂɨ-	SK	ʂɨta	
+Pano_Lexical_List	A13	2	Tooth	414	*ʂɨ-	Kap	ʂɨta	
+Pano_Lexical_List	A14	2	Tooth	414	*ʂɨ-	Mar	ʃɨta	
+Pano_Lexical_List	A15	2	Tooth	414	*ʂɨ-	Chak	ʂɨta	
+Pano_Lexical_List	A16	2	Tooth	414	*ʂɨ-	Kax	ʂɨta	
+Pano_Lexical_List	A17	2	Tooth	414	*ʂɨ-	Shar	ʂɨta	
+Pano_Lexical_List	A18	3	Two	352	*ra-βɨta	ProPa	ra-βɨta	
+Pano_Lexical_List	A19	3	Two	352	*ra-βɨta	Ksh	raβɨ	
+Pano_Lexical_List	A20	3	Two	352	*ra-βɨta	SK	raβɨ	
+Pano_Lexical_List	A21	3	Two	352	*ra-βɨta	Kap	raβɨ	
+Pano_Lexical_List	A22	3	Two	352	*ra-βɨta	Mar	ravɨvakĩ	
+Pano_Lexical_List	A23	3	Two	352	*ra-βɨta	Chak	raβɨ	
+Pano_Lexical_List	A24	3	Two	352	*ra-βɨta	Kax	tʃabɨta	
+Pano_Lexical_List	A25	3	Two	352	*ra-βɨta	Yam	raɸɨ	
+Pano_Lexical_List	A26	3	Two	352	*ra-βɨta	Chan	raɸɨ	
+Pano_Lexical_List	A27	3	Two	352	*ra-βɨta	Shar	raɸɨ	
+Pano_Lexical_List	A28	4	Liver	438	*takʷa	ProPa	takʷa	
+Pano_Lexical_List	A29	4	Liver	438	*takʷa	Ksh	takʷa	
+Pano_Lexical_List	A30	4	Liver	438	*takʷa	SK	taka	
+Pano_Lexical_List	A31	4	Liver	438	*takʷa	Kap	taka	
+Pano_Lexical_List	A32	4	Liver	438	*takʷa	Mar	taka	
+Pano_Lexical_List	A33	4	Liver	438	*takʷa	Chak	taka	
+Pano_Lexical_List	A34	4	Liver	438	*takʷa	Kax	taka	
+Pano_Lexical_List	A35	4	Liver	438	*takʷa	Chan	taka	
+Pano_Lexical_List	A36	4	Liver	438	*takʷa	Shar	taka	
+Pano_Lexical_List	A37	5	Leaf	325	*pɨʔi	ProPa	pɨʔi	
+Pano_Lexical_List	A38	5	Leaf	325	*pɨʔi	Ksh	pɨi	
+Pano_Lexical_List	A39	5	Leaf	325	*pɨʔi	SK	pɨi	
+Pano_Lexical_List	A40	5	Leaf	325	*pɨʔi	Kap	pɨʔi	
+Pano_Lexical_List	A41	5	Leaf	325	*pɨʔi	Mar	pɨi	
+Pano_Lexical_List	A42	5	Leaf	325	*pɨʔi	Chak	pɨʔi	
+Pano_Lexical_List	A43	5	Leaf	325	*pɨʔi	Kax	pɨʔi	
+Pano_Lexical_List	A44	5	Leaf	325	*pɨʔi	Yam	pɨi	
+Pano_Lexical_List	A45	5	Leaf	325	*pɨʔi	Chan	pɨi	
+Pano_Lexical_List	A46	5	Leaf	325	*pɨʔi	Shar	pɨi	
+Pano_Lexical_List	A47	6	Bone	398	*ʂao	ProPa	ʂao	
+Pano_Lexical_List	A48	6	Bone	398	*ʂao	Ksh	ʂɔː	
+Pano_Lexical_List	A49	6	Bone	398	*ʂao	SK	ʂao	
+Pano_Lexical_List	A50	6	Bone	398	*ʂao	Kap	ʂao	
+Pano_Lexical_List	A51	6	Bone	398	*ʂao	Mar	ʃau	
+Pano_Lexical_List	A52	6	Bone	398	*ʂao	Chak	ʂao	
+Pano_Lexical_List	A53	6	Bone	398	*ʂao	Kax	ʂahʷu	
+Pano_Lexical_List	A54	6	Bone	398	*ʂao	Yam	ʂao	
+Pano_Lexical_List	A55	6	Bone	398	*ʂao	Chan	ʃao,ʂao	
+Pano_Lexical_List	A56	6	Bone	398	*ʂao	Shar	ʂao	
+Pano_Lexical_List	A57	7	Tongue	47	*hana	ProPa	hana	
+Pano_Lexical_List	A58	7	Tongue	47	*hana	Ksh	ana	
+Pano_Lexical_List	A59	7	Tongue	47	*hana	SK	hana	
+Pano_Lexical_List	A60	7	Tongue	47	*hana	Kap	hana	
+Pano_Lexical_List	A61	7	Tongue	47	*hana	Mar	ana	
+Pano_Lexical_List	A62	7	Tongue	47	*hana	Chak	hana	
+Pano_Lexical_List	A63	7	Tongue	47	*hana	Kax	hana	
+Pano_Lexical_List	A64	7	Tongue	47	*hana	Yam	ana	
+Pano_Lexical_List	A65	7	Tongue	47	*hana	Chan	ada	
+Pano_Lexical_List	A66	7	Tongue	47	*hana	Shar	ana	
+Pano_Lexical_List	A67	8	Hand		*mɨ-	ProPa	mɨ-	
+Pano_Lexical_List	A68	8	Hand		*mɨ-	Ksh	mɨkɨ̃	
+Pano_Lexical_List	A69	8	Hand		*mɨ-	SK	mɨkɨ̃	
+Pano_Lexical_List	A70	8	Hand		*mɨ-	Kap	mɨkɨn	
+Pano_Lexical_List	A71	8	Hand		*mɨ-	Chak	mɨkɨnɨ	
+Pano_Lexical_List	A72	8	Hand		*mɨ-	Kax	mɨkɨlɨ	
+Pano_Lexical_List	A73	8	Hand		*mɨ-	Yam	mɨkɨ̃	
+Pano_Lexical_List	A74	8	Hand		*mɨ-	Chan	mɨkɨ	
+Pano_Lexical_List	A75	8	Hand		*mɨ-	Shar	mɨkɨ	
+Pano_Lexical_List	A76	9	Night	494	*yamɨtV	ProPa	yamɨtV	
+Pano_Lexical_List	A77	9	Night	494	*yamɨtV	Ksh	imɨ	
+Pano_Lexical_List	A78	9	Night	494	*yamɨtV	SK	yamɨ	
+Pano_Lexical_List	A79	9	Night	494	*yamɨtV	Kap	yamɨ	
+Pano_Lexical_List	A80	9	Night	494	*yamɨtV	Mar	yamɨ	
+Pano_Lexical_List	A81	9	Night	494	*yamɨtV	Kax	yamɨta	
+Pano_Lexical_List	A82	9	Night	494	*yamɨtV	Yam	yamɨa	
+Pano_Lexical_List	A83	9	Night	494	*yamɨtV	Chan	yabɨ	
+Pano_Lexical_List	A84	9	Night	494	*yamɨtV	Shar	yamɨ	
+Pano_Lexical_List	A85	10	Skin	89	*βitsi	ProPa	βitsi	
+Pano_Lexical_List	A86	10	Skin	89	*βitsi	Ksh	βitʃi	
+Pano_Lexical_List	A87	10	Skin	89	*βitsi	SK	βitʃi	
+Pano_Lexical_List	A88	10	Skin	89	*βitsi	Kap	βitʃi	
+Pano_Lexical_List	A89	10	Skin	89	*βitsi	Mar	vitʃi	
+Pano_Lexical_List	A90	10	Skin	89	*βitsi	Chak	βitʃi	
+Pano_Lexical_List	A91	10	Skin	89	*βitsi	Kax	bitʃi	
+Pano_Lexical_List	A92	10	Skin	89	*βitsi	Chan	ɸitʃi	
+Pano_Lexical_List	A93	10	Skin	89	*βitsi	Shar	ɸitʃi	
+Pano_Lexical_List	A94	11	Fire	125	*tsiʔi	ProPa	tsiʔi	
+Pano_Lexical_List	A95	11	Fire	125	*tsiʔi	Ksh	tʃii	
+Pano_Lexical_List	A96	11	Fire	125	*tsiʔi	SK	tʃii	
+Pano_Lexical_List	A97	11	Fire	125	*tsiʔi	Kap	tʃiʔi	
+Pano_Lexical_List	A99	11	Fire	125	*tsiʔi	Mar	tʃi	
+Pano_Lexical_List	A100	11	Fire	125	*tsiʔi	Chak	tʃiʔi	
+Pano_Lexical_List	A101	11	Fire	125	*tsiʔi	Kax	tʃiʔi	
+Pano_Lexical_List	A102	11	Fire	125	*tsiʔi	Yam	tʃii	
+Pano_Lexical_List	A103	11	Fire	125	*tsiʔi	Chan	tʃii	
+Pano_Lexical_List	A104	11	Fire	125	*tsiʔi	Shar	tʃii	
+Pano_Lexical_List	A105	12	Knee	359	*rã-	ProPa	rã-	
+Pano_Lexical_List	A106	12	Knee	359	*rã-	Ksh	rãβoʂo	
+Pano_Lexical_List	A107	12	Knee	359	*rã-	SK	rãβoʂo	
+Pano_Lexical_List	A108	12	Knee	359	*rã-	Kap	rãβoʂo	
+Pano_Lexical_List	A109	12	Knee	359	*rã-	Mar	ravuʃɨ	
+Pano_Lexical_List	A110	12	Knee	359	*rã-	Kax	tʃãburu	
+Pano_Lexical_List	A111	13	Blood	141	*himi	ProPa	himi	
+Pano_Lexical_List	A112	13	Blood	141	*himi	Ksh	imi	
+Pano_Lexical_List	A113	13	Blood	141	*himi	SK	himi	
+Pano_Lexical_List	A114	13	Blood	141	*himi	Kap	himi	
+Pano_Lexical_List	A115	13	Blood	141	*himi	Mar	imbi	/b/ as superscript
+Pano_Lexical_List	A116	13	Blood	141	*himi	Chak	himi	
+Pano_Lexical_List	A117	13	Blood	141	*himi	Kax	himi	
+Pano_Lexical_List	A118	13	Blood	141	*himi	Yam	im	
+Pano_Lexical_List	A119	13	Blood	141	*himi	Chan	ibi	
+Pano_Lexical_List	A120	13	Blood	141	*himi	Shar	imi	
+Pano_Lexical_List	A121	14	Breast	429	*ʂo	ProPa	ʂo	
+Pano_Lexical_List	A122	14	Breast	429	*ʂo	Ksh	ʂoma	
+Pano_Lexical_List	A123	14	Breast	429	*ʂo	SK	ʂoma	
+Pano_Lexical_List	A124	14	Breast	429	*ʂo	Kap	ʂoma	
+Pano_Lexical_List	A125	14	Breast	429	*ʂo	Mar	ʂoma	
+Pano_Lexical_List	A126	14	Breast	429	*ʂo	Chak	ʂoma	
+Pano_Lexical_List	A127	14	Breast	429	*ʂo	Chan	ʂoma	
+Pano_Lexical_List	A128	14	Breast	429	*ʂo	Shar	ʂoma	
+Pano_Lexical_List	A129	15	Sun	63	*βari	ProPa	βari	
+Pano_Lexical_List	A130	15	Sun	63	*βari	Ksh	βaɾi	
+Pano_Lexical_List	A131	15	Sun	63	*βari	SK	βaɾi	
+Pano_Lexical_List	A132	15	Sun	63	*βari	Kap	βaɾi	
+Pano_Lexical_List	A133	15	Sun	63	*βari	Mar	vaɾi	
+Pano_Lexical_List	A134	15	Sun	63	*βari	Chak	βaɾi	
+Pano_Lexical_List	A135	15	Sun	63	*βari	Kax	βatʃi	
+Pano_Lexical_List	A136	15	Sun	63	*βari	Chan	ɸaɾi	
+Pano_Lexical_List	A137	15	Sun	63	*βari	Shar	ɸari	
+Pano_Lexical_List	A138	16	You	246	*mi	ProPa	mi	
+Pano_Lexical_List	A139	16	You	246	*mi	Ksh	miː	
+Pano_Lexical_List	A140	16	You	246	*mi	SK	mia	
+Pano_Lexical_List	A141	16	You	246	*mi	Kap	mia	
+Pano_Lexical_List	A142	16	You	246	*mi	Chak	mia	object form
+Pano_Lexical_List	A143	17	Come	70	*βɨ-	ProPa	βɨ-	'come,bring'
+Pano_Lexical_List	A144	17	Come	70	*βɨ-	Ksh	βɨ-	
+Pano_Lexical_List	A145	17	Come	70	*βɨ-	SK	βɨ-	
+Pano_Lexical_List	A146	17	Come	70	*βɨ-	Kap	βɨ-	
+Pano_Lexical_List	A147	17	Come	70	*βɨ-	Chak	βɨ-	
+Pano_Lexical_List	A148	17	Come	70	*βɨ-	Kax	bɨ-	
+Pano_Lexical_List	A149	17	Come	70	*βɨ-	Yam	ɸɨ-	
+Pano_Lexical_List	A150	17	Come	70	*βɨ-	Chan	ɸɨ-	
+Pano_Lexical_List	A151	17	Come	70	*βɨ-	Shar	ɸɨ-	
+Pano_Lexical_List	A152	18	I	11	*ʔɨ	ProPa	ʔɨ	
+Pano_Lexical_List	A153	18	I	11	*ʔɨ	Ksh	ʔɨ	
+Pano_Lexical_List	A154	18	I	11	*ʔɨ	SK	ʔɨ	
+Pano_Lexical_List	A155	18	I	11	*ʔɨ	Kap	ʔɨ	
+Pano_Lexical_List	A156	18	I	11	*ʔɨ	Chak	ɨ	
+Pano_Lexical_List	A157		Flesh	258	*nami	ProPa	nami	Additional cognates refering to body parts
+Pano_Lexical_List	A158		Flesh	258	*nami	Ksh	nami	
+Pano_Lexical_List	A159		Flesh	258	*nami	SK	nami	
+Pano_Lexical_List	A160		Flesh	258	*nami	Kap	nami	
+Pano_Lexical_List	A161		Flesh	258	*nami	Mar	nami	
+Pano_Lexical_List	A162		Flesh	258	*nami	Chak	nami	
+Pano_Lexical_List	A163		Flesh	258	*nami	Kax	lami	
+Pano_Lexical_List	A164		Flesh	258	*nami	Yam	nami,nãmi	
+Pano_Lexical_List	A165		Flesh	258	*nami	Chan	nabi,dami	
+Pano_Lexical_List	A166		Flesh	258	*nami	Shar	nami,namin	
+Pano_Lexical_List	A167		Fat	412	*ʂɨni	ProPa	ʂɨni	
+Pano_Lexical_List	A168		Fat	412	*ʂɨni	Ksh	ʂɨni	
+Pano_Lexical_List	A169		Fat	412	*ʂɨni	SK	ʂɨni	
+Pano_Lexical_List	A170		Fat	412	*ʂɨni	Kap	ʂɨni	
+Pano_Lexical_List	A171		Fat	412	*ʂɨni	Mar	ʂɨni	
+Pano_Lexical_List	A172		Fat	412	*ʂɨni	Chak	ʂɨni	
+Pano_Lexical_List	A173		Fat	412	*ʂɨni	Yam	ʂɨnĩ	
+Pano_Lexical_List	A174		Fat	412	*ʂɨni	Chan	ʃɨdi,ʃidi,ʂidi	
+Pano_Lexical_List	A175		Fat	412	*ʂɨni	Shar	ʂɨni	
+Pano_Lexical_List	A176		Fingernail	239	*mɨ̃-tsis[i]	ProPa	mɨ̃-tsis[i]	Zariquiey & Valenzuela (2022) benefited from the same talk that served as the basis for the present work (see footnote  1).  Both  articles  propose  the  same  set  of  body-part  cognates:  tooth,  liver,  leaf,  bone,  tongue,  hand, skin/hide, knee, blood, breast, flesh, fat, fingernail, foot/leg, lip/edge, cheek, mouth, elbow.
+Pano_Lexical_List	A177		Fingernail	239	*mɨ̃-tsis[i]	Ksh	Untsis,untsɨs	
+Pano_Lexical_List	A178		Fingernail	239	*mɨ̃-tsis[i]	SK	mɨ̃ntsis,mɨ̃tsis	
+Pano_Lexical_List	A179		Fingernail	239	*mɨ̃-tsis[i]	Kap	mɨ̃ntsis	
+Pano_Lexical_List	A180		Fingernail	239	*mɨ̃-tsis[i]	Mar	mɨ̃tsisi	
+Pano_Lexical_List	A181		Fingernail	239	*mɨ̃-tsis[i]	Chak	mɨ̃tsis,mɨ̃tsisi	
+Pano_Lexical_List	A182		Fingernail	239	*mɨ̃-tsis[i]	Kax	mɨ̃tʃisi	
+Pano_Lexical_List	A183		Fingernail	239	*mɨ̃-tsis[i]	Yam	mitsis,mitsisi	
+Pano_Lexical_List	A184		Fingernail	239	*mɨ̃-tsis[i]	Chan	bitsis(otsis)	
+Pano_Lexical_List	A185		Fingernail	239	*mɨ̃-tsis[i]	Shar	mɨtsisi,otsisi	
+Pano_Lexical_List	A186		Foot,leg		*ta-	ProPa	ta-	'foot'
+Pano_Lexical_List	A187		Foot,leg		*ta-	Ksh	taɨ	
+Pano_Lexical_List	A188		Foot,leg		*ta-	SK	taɨ	
+Pano_Lexical_List	A189		Foot,leg		*ta-	Kap	taʔɨ	
+Pano_Lexical_List	A190		Foot,leg		*ta-	Mar	taɨ	
+Pano_Lexical_List	A191		Foot,leg		*ta-	Chak	taʔɨ	
+Pano_Lexical_List	A192		Foot,leg		*ta-	Kax	taʔɨ	
+Pano_Lexical_List	A193		Foot,leg		*ta-	Yam	taɨ,taɨ̃	
+Pano_Lexical_List	A194		Foot,leg		*ta-	Chan	taɨ	
+Pano_Lexical_List	A195		Foot,leg		*ta-	Shar	taɨ,taɨn	
+Pano_Lexical_List	A196		Lip,edge	155	*kʷɨ-	ProPa	kʷɨ-	
+Pano_Lexical_List	A197		Lip,edge	155	*kʷɨ-	Ksh	kʷɨβi-	
+Pano_Lexical_List	A198		Lip,edge	155	*kʷɨ-	SK	kɨβi-	
+Pano_Lexical_List	A199		Lip,edge	155	*kʷɨ-	Chak	kɨβitʃi	
+Pano_Lexical_List	A200		Lip,edge	155	*kʷɨ-	Shar	kuɸirisika	
+Pano_Lexical_List	A201		Cheek	440	*tamo	ProPa	tamo	
+Pano_Lexical_List	A202		Cheek	440	*tamo	Ksh	tamo	
+Pano_Lexical_List	A203		Cheek	440	*tamo	SK	tamo	
+Pano_Lexical_List	A204		Cheek	440	*tamo	Kap	tamo	
+Pano_Lexical_List	A205		Cheek	440	*tamo	Mar	tambo	/m/ as superscript
+Pano_Lexical_List	A206		Cheek	440	*tamo	Chak	tamo	
+Pano_Lexical_List	A207		Cheek	440	*tamo	Kax	tamu	
+Pano_Lexical_List	A208		Cheek	440	*tamo	Yam	tamo,tamõ	
+Pano_Lexical_List	A209		Cheek	440	*tamo	Shar	tamo,tamon	
+Pano_Lexical_List	A210		Mouth	158	*kʷɨʂa[CV]	ProPa	kʷɨʂa[CV]	
+Pano_Lexical_List	A211		Mouth	158	*kʷɨʂa[CV]	Ksh	kʷɨʂa	
+Pano_Lexical_List	A212		Mouth	158	*kʷɨʂa[CV]	SK	kɨʂa	
+Pano_Lexical_List	A213		Mouth	158	*kʷɨʂa[CV]	Kap	kɨʂa	
+Pano_Lexical_List	A214		Mouth	158	*kʷɨʂa[CV]	Mar	kɨʃa	
+Pano_Lexical_List	A215		Mouth	158	*kʷɨʂa[CV]	Kax	kɨʂaka	
+Pano_Lexical_List	A216		Mouth	158	*kʷɨʂa[CV]	Yam	kɨʂã,kɨʂamã	
+Pano_Lexical_List	A217		Mouth	158	*kʷɨʂa[CV]	Chan	kɨʃa,kɨʂa	
+Pano_Lexical_List	A218		Mouth	158	*kʷɨʂa[CV]	Shar	kɨʂa,kɨʂan	
+Pano_Lexical_List	A219		Elbow		*βaʂ(u)-	ProPa	βaʂ(u)-	
+Pano_Lexical_List	A220		Elbow		*βaʂ(u)-	Ksh	banbuxu	
+Pano_Lexical_List	A221		Elbow		*βaʂ(u)-	SK	põtõko	
+Pano_Lexical_List	A222		Elbow		*βaʂ(u)-	Kap	baʂpoʂko	
+Pano_Lexical_List	A223		Elbow		*βaʂ(u)-	Chak	baspoto	
+Pano_Lexical_List	A224		Elbow		*βaʂ(u)-	Kax	paxuxu	
+Pano_Lexical_List	A225		Elbow		*βaʂ(u)-	Yam	po-to-ṣ̌ko	
+Pano_Lexical_List	A226	1	Tree		*hiwi	Shan	iwi	
+Pano_Lexical_List	A227	1	Tree		*hiwi	Kat	hiwi	
+Pano_Lexical_List	A228	1	Tree		*hiwi	Poy	iwi	
+Pano_Lexical_List	A229	1	Tree		*hiwi	Ama	hiː	
+Pano_Lexical_List	A230	1	Tree		*hiwi	HanKax	hi	
+Pano_Lexical_List	A231	1	Tree		*hiwi	Maw	iwi	
+Pano_Lexical_List	A232	1	Tree		*hiwi	Kor	iwi	
+Pano_Lexical_List	A233	1	Tree		*hiwi	MatMay	iwi	
+Pano_Lexical_List	A234	2	Tooth	414	*ʂɨ-	Shan	ʂɨta	
+Pano_Lexical_List	A235	2	Tooth	414	*ʂɨ-	Kat	ʂita	
+Pano_Lexical_List	A236	2	Tooth	414	*ʂɨ-	Ama	xɨta	
+Pano_Lexical_List	A237	2	Tooth	414	*ʂɨ-	HanKax	ʂɨta	
+Pano_Lexical_List	A238	2	Tooth	414	*ʂɨ-	Maw	ʂɨta	
+Pano_Lexical_List	A239	2	Tooth	414	*ʂɨ-	Yaw	ʂɨta	
+Pano_Lexical_List	A240	2	Tooth	414	*ʂɨ-	Kor	ʂɨta	
+Pano_Lexical_List	A241	2	Tooth	414	*ʂɨ-	Mat	ʂɨta	
+Pano_Lexical_List	A242	2	Tooth	414	*ʂɨ-	MatMay	ʂɨta	
+Pano_Lexical_List	A243	3	Two	352	*ra-βɨta	Shan	rafu	
+Pano_Lexical_List	A244	3	Two	352	*ra-βɨta	Kat	raβi	
+Pano_Lexical_List	A245	3	Two	352	*ra-βɨta	Poy	raβu	
+Pano_Lexical_List	A246	3	Two	352	*ra-βɨta	Ama	raβɨ	
+Pano_Lexical_List	A247	3	Two	352	*ra-βɨta	Maw	raɸɨ	
+Pano_Lexical_List	A248	3	Two	352	*ra-βɨta	Yaw	raβɨ	
+Pano_Lexical_List	A249	3	Two	352	*ra-βɨta	Kor	ɬaβɨtpa	
+Pano_Lexical_List	A250	3	Two	352	*ra-βɨta	Mat	dabɨdpa	
+Pano_Lexical_List	A251	3	Two	352	*ra-βɨta	MatMay	daɨd	
+Pano_Lexical_List	A252	4	Liver	438	*takʷa	Shan	taka	
+Pano_Lexical_List	A253	4	Liver	438	*takʷa	Kat	taka	
+Pano_Lexical_List	A254	4	Liver	438	*takʷa	Poy	taka	
+Pano_Lexical_List	A255	4	Liver	438	*takʷa	Ama	taka	
+Pano_Lexical_List	A256	4	Liver	438	*takʷa	HanKax	taka	
+Pano_Lexical_List	A257	4	Liver	438	*takʷa	Maw	taka	
+Pano_Lexical_List	A258	4	Liver	438	*takʷa	Yaw	taka	
+Pano_Lexical_List	A259	4	Liver	438	*takʷa	Kor	takʷa	
+Pano_Lexical_List	A260	4	Liver	438	*takʷa	Mat	takua	
+Pano_Lexical_List	A261	4	Liver	438	*takʷa	MatMay	takʷa	
+Pano_Lexical_List	A262	5	Leaf	325	*pɨʔi	Shan	pɨj	
+Pano_Lexical_List	A263	5	Leaf	325	*pɨʔi	Kat	pɨi	
+Pano_Lexical_List	A264	5	Leaf	325	*pɨʔi	Poy	puy	
+Pano_Lexical_List	A265	5	Leaf	325	*pɨʔi	Ama	pɨʔi	
+Pano_Lexical_List	A266	5	Leaf	325	*pɨʔi	HanKax	pɨi	
+Pano_Lexical_List	A267	5	Leaf	325	*pɨʔi	Maw	pɨi	
+Pano_Lexical_List	A268	5	Leaf	325	*pɨʔi	Yaw	pɨi	
+Pano_Lexical_List	A269	5	Leaf	325	*pɨʔi	Mat	pɨi	
+Pano_Lexical_List	A270	5	Leaf	325	*pɨʔi	MatMay	pɨ	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	Shan	ʂaw	Shell (1975: 174, 398) and Oliveira (2014: 459, 398) reconstruct *ʂao. Kasharari presents the form ʂahu [ʂa'hwu] (Lanes 2005, in Oliveira 2014). For Matses/Mayoruna we consider as evidence the final consonant in mɨ-ʂ‘wrist bone’, taɨ-ʂ‘ankle bone’, and ʂomoʂ‘needle made of bone’ (Fleck et al. 2012).
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	Kat	ʃau	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	Poy	haw	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	Ama	xao	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	HanKax	ʂau	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	Maw	ʂao	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	Yaw	ʃau	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	MatMay	mɨ-ʂ,taɨ-ʂ,ʂomoʂ	'wrist bone','ankle bone','needle made of bone'
+Pano_Lexical_List	A272	7	Tongue	47	*hana	Shan	ana	
+Pano_Lexical_List	A273	7	Tongue	47	*hana	Kat	ana	
+Pano_Lexical_List	A274	7	Tongue	47	*hana	Poy	ãda	
+Pano_Lexical_List	A275	7	Tongue	47	*hana	Ama	hana	
+Pano_Lexical_List	A276	7	Tongue	47	*hana	HanKax	hana	
+Pano_Lexical_List	A277	7	Tongue	47	*hana	Maw	ana	
+Pano_Lexical_List	A278	7	Tongue	47	*hana	Yaw	anna	
+Pano_Lexical_List	A279	7	Tongue	47	*hana	Kor	ana	
+Pano_Lexical_List	A280	7	Tongue	47	*hana	Mat	ana	
+Pano_Lexical_List	A281	8	Hand		*mɨ-	Ama	mɨkɨ̃	
+Pano_Lexical_List	A282	8	Hand		*mɨ-	HanKax	mɨkɨ̃	
+Pano_Lexical_List	A283	8	Hand		*mɨ-	Maw	mɨkɨ	
+Pano_Lexical_List	A284	8	Hand		*mɨ-	Mat	mɨkɨn	
+Pano_Lexical_List	A285	8	Hand		*mɨ-	MatMay	mɨdante	
+Pano_Lexical_List	A286	9	Night	494	*yamɨtV	Shan	yamɨ	
+Pano_Lexical_List	A287	9	Night	494	*yamɨtV	Kat	yamɨ	
+Pano_Lexical_List	A288	9	Night	494	*yamɨtV	Poy	iãvu	
+Pano_Lexical_List	A289	9	Night	494	*yamɨtV	Ama	yamɨː	
+Pano_Lexical_List	A290	9	Night	494	*yamɨtV	HanKax	yamɨ	
+Pano_Lexical_List	A291	9	Night	494	*yamɨtV	Maw	yamɨ	
+Pano_Lexical_List	A292	9	Night	494	*yamɨtV	Yaw	iamɨ	
+Pano_Lexical_List	A293	9	Night	494	*yamɨtV	Kor	imɨt	
+Pano_Lexical_List	A294	9	Night	494	*yamɨtV	Mat	imɨd	
+Pano_Lexical_List	A295	10	Skin	89	*βitsi	Shan	fitʃi	
+Pano_Lexical_List	A296	10	Skin	89	*βitsi	HanKax	bitʃi	
+Pano_Lexical_List	A297	10	Skin	89	*βitsi	Maw	ɸitʃi	
+Pano_Lexical_List	A298	10	Skin	89	*βitsi	Yaw	βɨtʃi	
+Pano_Lexical_List	A299	10	Skin	89	*βitsi	Mat	bitsi	
+Pano_Lexical_List	A300	10	Skin	89	*βitsi	MatMay	bitsi	
+Pano_Lexical_List	A301	11	Fire	125	*tsiʔi	Shan	tʃi	
+Pano_Lexical_List	A302	11	Fire	125	*tsiʔi	Kat	tʃii	
+Pano_Lexical_List	A303	11	Fire	125	*tsiʔi	Ama	tʃiʔi	
+Pano_Lexical_List	A304	11	Fire	125	*tsiʔi	HanKax	tʃi	
+Pano_Lexical_List	A305	11	Fire	125	*tsiʔi	Maw	tʃi	
+Pano_Lexical_List	A306	11	Fire	125	*tsiʔi	Yaw	tʃi	
+Pano_Lexical_List	A307	12	Knee	359	*rã-	Kat	raβɨʂo	
+Pano_Lexical_List	A308	12	Knee	359	*rã-	Ama	rawoxko	
+Pano_Lexical_List	A309	13	Blood	141	*himi	Shan	imi	
+Pano_Lexical_List	A310	13	Blood	141	*himi	Kat	himi	
+Pano_Lexical_List	A311	13	Blood	141	*himi	Poy	ibi	
+Pano_Lexical_List	A312	13	Blood	141	*himi	Ama	himi	
+Pano_Lexical_List	A313	13	Blood	141	*himi	HanKax	himi	
+Pano_Lexical_List	A314	13	Blood	141	*himi	Maw	imi	
+Pano_Lexical_List	A315	13	Blood	141	*himi	Yaw	imi	
+Pano_Lexical_List	A316	13	Blood	141	*himi	Kor	inta	
+Pano_Lexical_List	A317	13	Blood	141	*himi	Mat	imi	
+Pano_Lexical_List	A318	13	Blood	141	*himi	MatMay	imi	
+Pano_Lexical_List	A319	14	Breast	429	*ʂo	Shan	ʂuma	
+Pano_Lexical_List	A320	14	Breast	429	*ʂo	Kat	ʃuma	
+Pano_Lexical_List	A321	14	Breast	429	*ʂo	Poy	hũba	
+Pano_Lexical_List	A322	14	Breast	429	*ʂo	Ama	xoma	
+Pano_Lexical_List	A323	14	Breast	429	*ʂo	HanKax	ʂuma	
+Pano_Lexical_List	A324	14	Breast	429	*ʂo	Maw	ʂoma	
+Pano_Lexical_List	A325	14	Breast	429	*ʂo	Yaw	ʃuma	
+Pano_Lexical_List	A326	14	Breast	429	*ʂo	Kor	ʂuma	
+Pano_Lexical_List	A327	14	Breast	429	*ʂo	Mat	ʂuma	
+Pano_Lexical_List	A328	14	Breast	429	*ʂo	MatMay	ʂuma	
+Pano_Lexical_List	A329	15	Sun	63	*βari	Shan	faɾi	
+Pano_Lexical_List	A330	15	Sun	63	*βari	Kat	βaɾi	
+Pano_Lexical_List	A331	15	Sun	63	*βari	Poy	βaɾi	
+Pano_Lexical_List	A332	15	Sun	63	*βari	Ama	bari	
+Pano_Lexical_List	A333	15	Sun	63	*βari	HanKax	badi	
+Pano_Lexical_List	A334	15	Sun	63	*βari	Maw	ɸaɾi	
+Pano_Lexical_List	A335	15	Sun	63	*βari	Yaw	βaɾi	
+Pano_Lexical_List	A336	15	Sun	63	*βari	Kor	βaɬi	
+Pano_Lexical_List	A337	15	Sun	63	*βari	Mat	badi	
+Pano_Lexical_List	A338	15	Sun	63	*βari	MatMay	badiad	
+Pano_Lexical_List	A339	16	You	246	*mi	Ama	miya	
+Pano_Lexical_List	A340	16	You	246	*mi	HanKax	mia	
+Pano_Lexical_List	A341	16	You	246	*mi	Maw	mia	
+Pano_Lexical_List	A342	16	You	246	*mi	Kor	mi	
+Pano_Lexical_List	A343	16	You	246	*mi	Mat	mi (minbi,mibi,min)	
+Pano_Lexical_List	A344	16	You	246	*mi	MatMay	mi (minbi,mibi,min)	
+Pano_Lexical_List	A345	17	Come	70	*βɨ-	Ama	βɨ-	
+Pano_Lexical_List	A346	17	Come	70	*βɨ-	HanKax	bɨ-	
+Pano_Lexical_List	A347	17	Come	70	*βɨ-	Maw	ɸɨ-	
+Pano_Lexical_List	A348	17	Come	70	*βɨ-	Yaw	βɨ-	
+Pano_Lexical_List	A349	17	Come	70	*βɨ-	Kor	βɨ-	
+Pano_Lexical_List	A350	17	Come	70	*βɨ-	Mat	βɨ-	
+Pano_Lexical_List	A351	17	Come	70	*βɨ-	MatMay	bɨ-	
+Pano_Lexical_List	A352	18	I	11	*ʔɨ	Ama	ɨ	
+Pano_Lexical_List	A353	18	I	11	*ʔɨ	HanKax	ɨ	
+Pano_Lexical_List	A354	18	I	11	*ʔɨ	Maw	ɨ	
+Pano_Lexical_List	A355		Flesh	258	*nami	Shan	nami	
+Pano_Lexical_List	A356		Flesh	258	*nami	Kat	nami	
+Pano_Lexical_List	A357		Flesh	258	*nami	Poy	nãbi	
+Pano_Lexical_List	A358		Flesh	258	*nami	Ama	nami	
+Pano_Lexical_List	A359		Flesh	258	*nami	HanKax	nami	
+Pano_Lexical_List	A360		Flesh	258	*nami	Maw	nami	
+Pano_Lexical_List	A361		Flesh	258	*nami	Yaw	nami	
+Pano_Lexical_List	A362		Flesh	258	*nami	Mat	nami	
+Pano_Lexical_List	A363		Flesh	258	*nami	MatMay	nami	
+Pano_Lexical_List	A364		Fat	412	*ʂɨni	Shan	ʂɨni	
+Pano_Lexical_List	A365		Fat	412	*ʂɨni	Kat	ʃɨni	
+Pano_Lexical_List	A366		Fat	412	*ʂɨni	Poy	hãdi	
+Pano_Lexical_List	A367		Fat	412	*ʂɨni	Ama	xɨni	
+Pano_Lexical_List	A368		Fat	412	*ʂɨni	HanKax	ʂɨni	
+Pano_Lexical_List	A369		Fat	412	*ʂɨni	Maw	ʂɨni	
+Pano_Lexical_List	A370		Fat	412	*ʂɨni	Yaw	ʂɨni	
+Pano_Lexical_List	A371		Fat	412	*ʂɨni	Kor	ʃɨni	
+Pano_Lexical_List	A372		Fat	412	*ʂɨni	Mat	ʂɨni	
+Pano_Lexical_List	A373		Fingernail	239	*mɨ̃-tsis[i]	Shan	mɨtʃiʃi	
+Pano_Lexical_List	A374		Fingernail	239	*mɨ̃-tsis[i]	Kat	mɨ̃tʃiʃi	
+Pano_Lexical_List	A375		Fingernail	239	*mɨ̃-tsis[i]	Ama	mɨntsis	
+Pano_Lexical_List	A376		Fingernail	239	*mɨ̃-tsis[i]	HanKax	mɨ̃tsis	
+Pano_Lexical_List	A377		Fingernail	239	*mɨ̃-tsis[i]	Maw	mɨ̃tsisi	
+Pano_Lexical_List	A378		Fingernail	239	*mɨ̃-tsis[i]	Yaw	mɨtsisi	
+Pano_Lexical_List	A379		Fingernail	239	*mɨ̃-tsis[i]	Kor	mɨtʃiun	
+Pano_Lexical_List	A380		Fingernail	239	*mɨ̃-tsis[i]	Mat	mɨntis	
+Pano_Lexical_List	A381		Fingernail	239	*mɨ̃-tsis[i]	MatMay	mɨntsis	
+Pano_Lexical_List	A382		Foot,leg		*ta-	Shan	taɨ	
+Pano_Lexical_List	A383		Foot,leg		*ta-	Kat	taɨ	
+Pano_Lexical_List	A384		Foot,leg		*ta-	Poy	tay	
+Pano_Lexical_List	A385		Foot,leg		*ta-	Ama	taʔɨ	
+Pano_Lexical_List	A386		Foot,leg		*ta-	HanKax	taɨ	
+Pano_Lexical_List	A387		Foot,leg		*ta-	Maw	taɨ	
+Pano_Lexical_List	A388		Foot,leg		*ta-	Yaw	tai	
+Pano_Lexical_List	A389		Foot,leg		*ta-	Kor	taɨ	
+Pano_Lexical_List	A390		Foot,leg		*ta-	Mat	taɨ	
+Pano_Lexical_List	A391		Foot,leg		*ta-	MatMay	taɨ	
+Pano_Lexical_List	A392		Lip,edge	155	*kʷɨ-	HanKax	kɨbitʃi	
+Pano_Lexical_List	A393		Lip,edge	155	*kʷɨ-	MatMay	kwibi	
+Pano_Lexical_List	A394		Cheek	440	*tamo	Kat	tamu	
+Pano_Lexical_List	A395		Cheek	440	*tamo	Poy	tãbu	
+Pano_Lexical_List	A396		Cheek	440	*tamo	Ama	tamo	
+Pano_Lexical_List	A397		Cheek	440	*tamo	HanKax	tamu	
+Pano_Lexical_List	A398		Cheek	440	*tamo	Maw	tamo	
+Pano_Lexical_List	A399		Cheek	440	*tamo	MatMay	tambu	'beard'
+Pano_Lexical_List	A400		Mouth	158	*kʷɨʂa[CV]	Shan	kɨʂa	
+Pano_Lexical_List	A401		Mouth	158	*kʷɨʂa[CV]	Kat	kɨʂa	
+Pano_Lexical_List	A402		Mouth	158	*kʷɨʂa[CV]	Poy	kɨxaa	
+Pano_Lexical_List	A403		Mouth	158	*kʷɨʂa[CV]	Ama	kɨʂa	
+Pano_Lexical_List	A404		Mouth	158	*kʷɨʂa[CV]	HanKax	kɨʂ̃a	
+Pano_Lexical_List	A405		Mouth	158	*kʷɨʂa[CV]	Maw	kɨʃa	
+Pano_Lexical_List	A406		Mouth	158	*kʷɨʂa[CV]	Yaw	kɨha	
+Pano_Lexical_List	A407		Elbow		*βaʂ(u)-	Ama	vapoxko	
+Pano_Lexical_List	A408		Elbow		*βaʂ(u)-	HanKax	baʂtunku	
+Pano_Lexical_List	A409		Elbow		*βaʂ(u)-	Mat	mɨntʂinβuru	
+Pano_Lexical_List	A410		Elbow		*βaʂ(u)-	MatMay	mɨntsimpis	
+Takana_Lexical_List	B411	1	Tree	8	*akʷi	ProTa	akʷi	
+Takana_Lexical_List	B412	1	Tree	8	*akʷi	Tac	aki	
+Takana_Lexical_List	B413	1	Tree	8	*akʷi	ReyMar	-/ekená	
+Takana_Lexical_List	B414	1	Tree	8	*akʷi	Aro	acui	
+Takana_Lexical_List	B415	1	Tree	8	*akʷi	Mab	akwi	
+Takana_Lexical_List	B416	1	Tree	8	*akʷi	Cav	akwi	
+Takana_Lexical_List	B417	1	Tree	8	*akʷi	Ese	akwi	
+Takana_Lexical_List	B418	1	Tree	8	*akʷi	War	akwi	
+Takana_Lexical_List	B419	1	Tree	8	*akʷi	Ara	akui	
+Takana_Lexical_List	B420	2	Tooth	98	*tʂe-	ProTa	e-ce	
+Takana_Lexical_List	B421	2	Tooth	98	*tʂe-	ReyMar	e-ce/etre	
+Takana_Lexical_List	B422	2	Tooth	98	*tʂe-	Sap	echee	
+Takana_Lexical_List	B423	2	Tooth	98	*tʂe-	Mab	itsi	
+Takana_Lexical_List	B424	2	Tooth	98	*tʂe-	Cav	e-ce	
+Takana_Lexical_List	B425	2	Tooth	98	*tʂe-	Ese	e-se	
+Takana_Lexical_List	B426	2	Tooth	98	*tʂe-	War	e-sé	
+Takana_Lexical_List	B427	2	Tooth	98	*tʂe-	Tia	ese	
+Takana_Lexical_List	B428	2	Tooth	98	*tʂe-	Cham	e-sé	
+Takana_Lexical_List	B429	2	Tooth	98	*tʂe-	Ara	ese	
+Takana_Lexical_List	B430	3	Two	61	*beta	ProTa	beta	
+Takana_Lexical_List	B431	3	Two	61	*beta	Tac	beta	
+Takana_Lexical_List	B432	3	Two	61	*beta	ReyMar	mbeta/beta	
+Takana_Lexical_List	B433	3	Two	61	*beta	Sap	beta	
+Takana_Lexical_List	B434	3	Two	61	*beta	Aro	beta	
+Takana_Lexical_List	B435	3	Two	61	*beta	Cav	beta	
+Takana_Lexical_List	B436	3	Two	61	*beta	Ese	beka	
+Takana_Lexical_List	B437	3	Two	61	*beta	War	beabué	
+Takana_Lexical_List	B438	3	Two	61	*beta	Tia	bikapiai	
+Takana_Lexical_List	B439	3	Two	61	*beta	Cham	béka	
+Takana_Lexical_List	B440	4	Liver	403	*takʷa	ProTa	takʷa	
+Takana_Lexical_List	B441	4	Liver	403	*takʷa	Tac	e-takwa	
+Takana_Lexical_List	B442	4	Liver	403	*takʷa	ReyMar	e-takwa/-	
+Takana_Lexical_List	B443	4	Liver	403	*takʷa	Cav	e-takwa	
+Takana_Lexical_List	B444	4	Liver	403	*takʷa	Ese	e-kakwa	
+Takana_Lexical_List	B445	4	Liver	403	*takʷa	War	e-takwe	
+Takana_Lexical_List	B446	4	Liver	403	*takʷa	Ara	etákua	
+Takana_Lexical_List	B447	5	To fan	337	*pei	ProTa	pei	
+Takana_Lexical_List	B448	5	To fan	337	*pei	Cav	pei-	
+Takana_Lexical_List	B449	5	To fan	337	*pei	Ese	e-pexi	
+Takana_Lexical_List	B450	5	To fan	337	*pei	War	pio-	
+Takana_Lexical_List	B451	6	Bone	96	*tʂau	ProTa	tʂau	
+Takana_Lexical_List	B452	6	Bone	96	*tʂau	Tac	e-cau	
+Takana_Lexical_List	B453	6	Bone	96	*tʂau	ReyMar	e-cao/etrá	
+Takana_Lexical_List	B454	6	Bone	96	*tʂau	Cav	e-cao	
+Takana_Lexical_List	B455	6	Bone	96	*tʂau	Ese	e-sá	
+Takana_Lexical_List	B456	6	Bone	96	*tʂau	War	e-sá	
+Takana_Lexical_List	B457	7	Tongue	12	*ana	ProTa	ana	
+Takana_Lexical_List	B458	7	Tongue	12	*ana	Tac	y-ana	
+Takana_Lexical_List	B459	7	Tongue	12	*ana	ReyMar	y-ana/eana	
+Takana_Lexical_List	B460	7	Tongue	12	*ana	Sap	eana	
+Takana_Lexical_List	B461	7	Tongue	12	*ana	Cav	y-ana	
+Takana_Lexical_List	B462	7	Tongue	12	*ana	Ese	eyana	
+Takana_Lexical_List	B463	7	Tongue	12	*ana	War	y-ana	
+Takana_Lexical_List	B464	7	Tongue	12	*ana	Tia	yana	
+Takana_Lexical_List	B465	7	Tongue	12	*ana	Ara	eána	
+Takana_Lexical_List	B466	8	Hand	282	*me-	ProTa	me-	
+Takana_Lexical_List	B467	8	Hand	282	*me-	Tac	e-me	
+Takana_Lexical_List	B468	8	Hand	282	*me-	ReyMar	-/emechuja	
+Takana_Lexical_List	B469	8	Hand	282	*me-	Sap	eme	
+Takana_Lexical_List	B470	8	Hand	282	*me-	Aro	eme	
+Takana_Lexical_List	B471	8	Hand	282	*me-	Cav	e-me	
+Takana_Lexical_List	B472	8	Hand	282	*me-	Ese	e-me	
+Takana_Lexical_List	B473	8	Hand	282	*me-	War	e-mé	
+Takana_Lexical_List	B474	8	Hand	282	*me-	Ara	emã	
+Takana_Lexical_List	B475	9	Night,tomorrow	290	*meta	ProTa	meta	
+Takana_Lexical_List	B476	9	Night,tomorrow	290	*meta	Tac	mueta	
+Takana_Lexical_List	B477	9	Night,tomorrow	290	*meta	ReyMar	-/maita	
+Takana_Lexical_List	B478	9	Night,tomorrow	290	*meta	Sap	maetahe	
+Takana_Lexical_List	B479	9	Night,tomorrow	290	*meta	Cav	meta	
+Takana_Lexical_List	B480	9	Night,tomorrow	290	*meta	Ese	meka-waxe	
+Takana_Lexical_List	B481	9	Night,tomorrow	290	*meta	Ara	eméte	
+Takana_Lexical_List	B482	10	Skin	72	*biti	ProTa	biti	
+Takana_Lexical_List	B483	10	Skin	72	*biti	Tac	e-biti	
+Takana_Lexical_List	B484	10	Skin	72	*biti	ReyMar	e-mbiti/embiti	
+Takana_Lexical_List	B485	10	Skin	72	*biti	Cav	e-biti	
+Takana_Lexical_List	B486	11	Fire		*ti	ProTa	ti	
+Takana_Lexical_List	B487	11	Fire		*ti	Tac	e-ti-ře	
+Takana_Lexical_List	B488	11	Fire		*ti	ReyMar	-ti-/-	
+Takana_Lexical_List	B489	11	Fire		*ti	Aro	etesi	
+Takana_Lexical_List	B490	11	Fire		*ti	Cav	e-tiki	
+Takana_Lexical_List	B491	12	Knee	128	*da	ProTa	da	
+Takana_Lexical_List	B492	12	Knee	128	*da	Tac	e-ma-da-cua	
+Takana_Lexical_List	B493	13	Blood	11	*ami	ProTa	ami	
+Takana_Lexical_List	B494	13	Blood	11	*ami	Tac	ami	
+Takana_Lexical_List	B495	13	Blood	11	*ami	ReyMar	ami/ami	
+Takana_Lexical_List	B496	13	Blood	11	*ami	Cav	ami	
+Takana_Lexical_List	B497	14	Breast	53	*aṭṣu	ProTa	aṭṣu	
+Takana_Lexical_List	B498	15	Moon	37	*badi	ProTa	badi	
+Takana_Lexical_List	B499	15	Moon	37	*badi	Tac	badi	
+Takana_Lexical_List	B500	15	Moon	37	*badi	ReyMar	mbandzi/bansri	
+Takana_Lexical_List	B501	15	Moon	37	*badi	Sap	bari	
+Takana_Lexical_List	B502	15	Moon	37	*badi	Aro	badi	
+Takana_Lexical_List	B503	15	Moon	37	*badi	Cav	badi	
+Takana_Lexical_List	B504	15	Moon	37	*badi	Ese	baʔi	
+Takana_Lexical_List	B505	15	Moon	37	*badi	Cham	mái	
+Takana_Lexical_List	B506	16	You	292	*mi	ProTa	mi	
+Takana_Lexical_List	B507	16	You	292	*mi	Tac	mi-ke	
+Takana_Lexical_List	B508	16	You	292	*mi	ReyMar	mibe/mive	
+Takana_Lexical_List	B509	16	You	292	*mi	Aro	mitya	
+Takana_Lexical_List	B510	16	You	292	*mi	Cav	mi-kwana	
+Takana_Lexical_List	B511	16	You	292	*mi	Ese	mi-a	
+Takana_Lexical_List	B512	16	You	292	*mi	Ara	mikia	
+Takana_Lexical_List	B513	17	Come		*be-	ProTa	be-	'bring'
+Takana_Lexical_List	B514	18	I	151	*e	ProTa	e	
+Takana_Lexical_List	B515	18	I	151	*e	Tac	e-ma	
+Takana_Lexical_List	B516	18	I	151	*e	ReyMar	e-me/éme	
+Takana_Lexical_List	B517	18	I	151	*e	Aro	ema,yama	
+Takana_Lexical_List	B518	18	I	151	*e	Cav	e-ra	
+Takana_Lexical_List	B519	18	I	151	*e	Ese	ea,eyaya	
+Takana_Lexical_List	B520		Flesh	362	*ɾami	ProTa	ɾami	
+Takana_Lexical_List	B521		Flesh	362	*ɾami	Tac	yami	
+Takana_Lexical_List	B522		Flesh	362	*ɾami	ReyMar	yami/eami	
+Takana_Lexical_List	B523		Flesh	362	*ɾami	Aro	yami	
+Takana_Lexical_List	B524		Flesh	362	*ɾami	Cav	e-rami	
+Takana_Lexical_List	B525		Flesh	362	*ɾami	Ese	eyami	
+Takana_Lexical_List	B526		Flesh	362	*ɾami	War	eyami	
+Takana_Lexical_List	B527		Flesh	362	*ɾami	Ara	éami	
+Takana_Lexical_List	B528		Fat	105	*ṭṣeri	ProTa	ṭṣeri	
+Takana_Lexical_List	B529		Fat	105	*ṭṣeri	Tac	e-cei	
+Takana_Lexical_List	B530		Fat	105	*ṭṣeri	Cav	e-ceri	
+Takana_Lexical_List	B531		Fat	105	*ṭṣeri	Ese	e-sei	
+Takana_Lexical_List	B532		Fat	105	*ṭṣeri	Ara	ésey	
+Takana_Lexical_List	B533		Fingernail		*metiji	ProTa	metiji	
+Takana_Lexical_List	B534		Fingernail		*metiji	Tac	e-me-haca	
+Takana_Lexical_List	B535		Fingernail		*metiji	ReyMar	-/emechuja,emetichi	'fingers','nails'
+Takana_Lexical_List	B536		Fingernail		*metiji	Cav	e-me-šoro	'nail'
+Takana_Lexical_List	B537		Fingernail		*metiji	Ese	e-me-kiše	'nail'
+Takana_Lexical_List	B538		Foot,leg	398	*ta-	ProTa	ta-	'leg'
+Takana_Lexical_List	B539		Foot,leg	398	*ta-	Tac	e-ta-buce	'shin bone'
+Takana_Lexical_List	B540		Foot,leg	398	*ta-	Mab	itha	
+Takana_Lexical_List	B541		Foot,leg	398	*ta-	Cav	awa-taka	'tapir-foot (plant)'
+Takana_Lexical_List	B542		Lip,edge	243	*kʷe(i)-	ProTa	kʷe(i)-	
+Takana_Lexical_List	B543		Lip,edge	243	*kʷe(i)-	Tac	e-ke-ke	
+Takana_Lexical_List	B544		Lip,edge	243	*kʷe(i)-	ReyMar	kwesa/euesa	'beard'/'beard'
+Takana_Lexical_List	B545		Lip,edge	243	*kʷe(i)-	Cav	kwesa	'beard'
+Takana_Lexical_List	B546		Lip,edge	243	*kʷe(i)-	Ese	e-kwe-ša	'beard'
+Takana_Lexical_List	B547		Cheek		*tamu	ProTa	tamu	
+Takana_Lexical_List	B548		Cheek		*tamu	ReyMar	ebu-tamu/-	
+Takana_Lexical_List	B549		Cheek		*tamu	Cav	-tamu	
+Takana_Lexical_List	B550		Cheek		*tamu	Ese	-shemo	
+Takana_Lexical_List	B551		Mouth	232	*kʷatʂa	ProTa	kʷatʂa	
+Takana_Lexical_List	B552		Mouth	232	*kʷatʂa	Tac	e-kwaca	
+Takana_Lexical_List	B553		Mouth	232	*kʷatʂa	ReyMar	e-kwaca/ekuatra	
+Takana_Lexical_List	B554		Mouth	232	*kʷatʂa	Sap	ecuacha	
+Takana_Lexical_List	B555		Mouth	232	*kʷatʂa	Mab	ikwatsa	
+Takana_Lexical_List	B556		Mouth	232	*kʷatʂa	Cav	e-kwaca	
+Takana_Lexical_List	B557		Mouth	232	*kʷatʂa	Ese	e-kwasa	
+Takana_Lexical_List	B558		Mouth	232	*kʷatʂa	War	e-kwasa	
+Takana_Lexical_List	B559		Elbow	29	*-baṭṣu	ProTa	-baṭṣu	
+Takana_Lexical_List	B560		Elbow	29	*-baṭṣu	Tac	e-ba-cu	
+Takana_Lexical_List	B561		Elbow	29	*-baṭṣu	ReyMar	e-mba-co/-	
+Takana_Lexical_List	B562		Elbow	29	*-baṭṣu	Ese	e-bašo	
+Takana_Lexical_List	B563		Elbow	29	*-baṭṣu	War	e-bašo	
+Takana_Lexical_List	B564		Elbow	29	*-baṭṣu	Tia	wacu	
+Takana_Lexical_List	B565		Elbow	29	*-baṭṣu	Ara	ebaša	
+Pano_Grammatical_Morphemes	C566	1	1st SG 'I'	11	*ʔɨ	ProPa	ʔɨ	
+Pano_Grammatical_Morphemes	C567	1	1st SG 'I'	11	*ʔɨ	Ksh	ʔɨ	
+Pano_Grammatical_Morphemes	C568	1	1st SG 'I'	11	*ʔɨ	SK	ʔɨ	
+Pano_Grammatical_Morphemes	C569	1	1st SG 'I'	11	*ʔɨ	Kap	ʔɨ	
+Pano_Grammatical_Morphemes	C570	1	1st SG 'I'	11	*ʔɨ	Chak	ɨ	
+Pano_Grammatical_Morphemes	C571	1	1st SG 'I'	11	*ʔɨ	Yam	ɨ̃	
+Pano_Grammatical_Morphemes	C572	2	2nd SG 'you'	246	*mi	ProPa	mi	
+Pano_Grammatical_Morphemes	C573	2	2nd SG 'you'	246	*mi	Ksh	mii	
+Pano_Grammatical_Morphemes	C574	2	2nd SG 'you'	246	*mi	SK	mia	
+Pano_Grammatical_Morphemes	C575	2	2nd SG 'you'	246	*mi	Kap	mia	
+Pano_Grammatical_Morphemes	C576	2	2nd SG 'you'	246	*mi	Chak	mia	object form
+Pano_Grammatical_Morphemes	C577	2	2nd SG 'you'	246	*mi	Yam	mĩ	
+Pano_Grammatical_Morphemes	C578	3	DEMONSTRATIVE distal		*ʔo-	ProPa	ʔo-	
+Pano_Grammatical_Morphemes	C579	3	DEMONSTRATIVE distal		*ʔo-	Ksh	un (A),ux (S),u (O)	
+Pano_Grammatical_Morphemes	C580	3	DEMONSTRATIVE distal		*ʔo-	SK	oa	
+Pano_Grammatical_Morphemes	C581	3	DEMONSTRATIVE distal		*ʔo-	Chak	oa	
+Pano_Grammatical_Morphemes	C582	3	DEMONSTRATIVE distal		*ʔo-	Yam	oa	
+Pano_Grammatical_Morphemes	C583	4	DEMONSTRATIVE proximate		*nɨ-	ProPa	nɨ-	
+Pano_Grammatical_Morphemes	C584	4	DEMONSTRATIVE proximate		*nɨ-	Ksh	ɨnɨn (A),ɨnɨx (S),ɨnɨ (O)	
+Pano_Grammatical_Morphemes	C585	4	DEMONSTRATIVE proximate		*nɨ-	SK	nɨ-~nato	
+Pano_Grammatical_Morphemes	C586	4	DEMONSTRATIVE proximate		*nɨ-	Chak	noa,toa	
+Pano_Grammatical_Morphemes	C587	4	DEMONSTRATIVE proximate		*nɨ-	Yam	na	
+Pano_Grammatical_Morphemes	C588	5	GENITIVE		*-wɨ̃	ProPa	-wɨ̃	
+Pano_Grammatical_Morphemes	C589	5	GENITIVE		*-wɨ̃	Ksh	=(a)n	
+Pano_Grammatical_Morphemes	C590	5	GENITIVE		*-wɨ̃	SK	-n	
+Pano_Grammatical_Morphemes	C591	5	GENITIVE		*-wɨ̃	Yam	-na,-fɨna	
+Pano_Grammatical_Morphemes	C592	6	IMPERATIVE		*-wɨ	ProPa	-wɨ	
+Pano_Grammatical_Morphemes	C593	6	IMPERATIVE		*-wɨ	Ksh	-ɨ	
+Pano_Grammatical_Morphemes	C594	6	IMPERATIVE		*-wɨ	SK	-wɨ	
+Pano_Grammatical_Morphemes	C595	6	IMPERATIVE		*-wɨ	Kap	-wɨ	
+Pano_Grammatical_Morphemes	C596	6	IMPERATIVE		*-wɨ	Mar	-wɨ	
+Pano_Grammatical_Morphemes	C597	6	IMPERATIVE		*-wɨ	Chak	-wɨ	
+Pano_Grammatical_Morphemes	C598	6	IMPERATIVE		*-wɨ	Kax	-wɨ	
+Pano_Grammatical_Morphemes	C599	6	IMPERATIVE		*-wɨ	Yam	-ɸɨ	
+Pano_Grammatical_Morphemes	C600	6	IMPERATIVE		*-wɨ	Shar	-wɨ	
+Pano_Grammatical_Morphemes	C601	7	GOING DOWN,DOWNWARD		*-βut	ProPa	-βut	For  pP  Girard  (1971:  163,  26)  proposes  *-bu  ‘down’,  while  we  consider  *-but  more  accurate  based  on Matses/Mayoruna -budand Kakataibo -but.
+Pano_Grammatical_Morphemes	C602	7	GOING DOWN,DOWNWARD		*-βut	Ksh	-but	
+Pano_Grammatical_Morphemes	C603	8	DO COMING		*-βɨ[...]	ProPa	-βɨ[...]	Guillaume 2017:254
+Pano_Grammatical_Morphemes	C604	8	DO COMING		*-βɨ[...]	Ksh	-bɨtsin	
+Pano_Grammatical_Morphemes	C605	8	DO COMING		*-βɨ[...]	SK	-bɨiran	
+Pano_Grammatical_Morphemes	C606	8	DO COMING		*-βɨ[...]	Chak	-bɨna	
+Pano_Grammatical_Morphemes	C607	8	DO COMING		*-βɨ[...]	Yam	-ɸɨran	
+Pano_Grammatical_Morphemes	C608	9	DESIDERATIVE		*-katsa	ProPa	-katsa	
+Pano_Grammatical_Morphemes	C609	9	DESIDERATIVE		*-katsa	Ksh	-kas,-katsi	
+Pano_Grammatical_Morphemes	C610	9	DESIDERATIVE		*-katsa	SK	-kas	
+Pano_Grammatical_Morphemes	C611	9	DESIDERATIVE		*-katsa	Kap	-katsiʔ-,-katsiʔki-	
+Pano_Grammatical_Morphemes	C612	9	DESIDERATIVE		*-katsa	Mar	-katsi	
+Pano_Grammatical_Morphemes	C613	9	DESIDERATIVE		*-katsa	Chak	-kas-	
+Pano_Grammatical_Morphemes	C614	9	DESIDERATIVE		*-katsa	Kax	-katsa	
+Pano_Grammatical_Morphemes	C615	9	DESIDERATIVE		*-katsa	Yam	kasma,kaspa,katsa	'not to want','desiderative negative','to have'
+Pano_Grammatical_Morphemes	C616	9	DESIDERATIVE		*-katsa	Shar	-kas-mai	'not to want'
+Pano_Grammatical_Morphemes	C617	10	NEGATIVE	493	*-[yá]ma	ProPa	-[yá]ma	verbal
+Pano_Grammatical_Morphemes	C618	10	NEGATIVE	493	*-[yá]ma	Ksh	-ma	
+Pano_Grammatical_Morphemes	C619	10	NEGATIVE	493	*-[yá]ma	SK	-yama	
+Pano_Grammatical_Morphemes	C620	10	NEGATIVE	493	*-[yá]ma	Kap	yama	
+Pano_Grammatical_Morphemes	C621	10	NEGATIVE	493	*-[yá]ma	Mar	-ma,-ama	
+Pano_Grammatical_Morphemes	C622	10	NEGATIVE	493	*-[yá]ma	Chak	-yama	
+Pano_Grammatical_Morphemes	C623	10	NEGATIVE	493	*-[yá]ma	Kax	-ma,maʔa	
+Pano_Grammatical_Morphemes	C624	10	NEGATIVE	493	*-[yá]ma	Yam	maa,ma,yama	'not','negative','negative prohibitive'
+Pano_Grammatical_Morphemes	C625	10	NEGATIVE	493	*-[yá]ma	Shar	-ma,-yama	'no','imperative,negative,prohibitive'
+Pano_Grammatical_Morphemes	C626	11	CAUSATIVE	202	*-m[a]	ProPa	-m[a]	
+Pano_Grammatical_Morphemes	C627	11	CAUSATIVE	202	*-m[a]	Ksh	-mi-	
+Pano_Grammatical_Morphemes	C628	11	CAUSATIVE	202	*-m[a]	SK	-ma-	
+Pano_Grammatical_Morphemes	C629	11	CAUSATIVE	202	*-m[a]	Kap	-ma-	
+Pano_Grammatical_Morphemes	C630	11	CAUSATIVE	202	*-m[a]	Mar	-ma	
+Pano_Grammatical_Morphemes	C631	11	CAUSATIVE	202	*-m[a]	Chak	-ma	
+Pano_Grammatical_Morphemes	C632	11	CAUSATIVE	202	*-m[a]	Yam	-ma	
+Pano_Grammatical_Morphemes	C634	11	CAUSATIVE	202	*-m[a]	Shar	-ma-	
+Pano_Grammatical_Morphemes	C635	12	AUGMENTATIVE		*pa	ProPa	pa	
+Pano_Grammatical_Morphemes	C636	12	AUGMENTATIVE		*pa	SK	-n ewá	
+Pano_Grammatical_Morphemes	C637	12	AUGMENTATIVE		*pa	Kap	-ahhuan	
+Pano_Grammatical_Morphemes	C638	12	AUGMENTATIVE		*pa	Chak	-wa	
+Pano_Grammatical_Morphemes	C639	12	AUGMENTATIVE		*pa	Yam	-nfã	
+Pano_Grammatical_Morphemes	C640	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	ProPa	ʔak-	
+Pano_Grammatical_Morphemes	C641	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Ksh	ʔa-	
+Pano_Grammatical_Morphemes	C642	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	SK	ʔa-	
+Pano_Grammatical_Morphemes	C643	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Kap	ʔa-	
+Pano_Grammatical_Morphemes	C644	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Mar	a	
+Pano_Grammatical_Morphemes	C645	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Chak	ʔa-	
+Pano_Grammatical_Morphemes	C646	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Kax	a-	
+Pano_Grammatical_Morphemes	C647	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Yam	ak-	
+Pano_Grammatical_Morphemes	C648	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Chan	a-	
+Pano_Grammatical_Morphemes	C649	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Shar	a-	
+Pano_Grammatical_Morphemes	C650	14	TRANSITIVIZER	466	*-wa	ProPa	-wa	
+Pano_Grammatical_Morphemes	C651	14	TRANSITIVIZER	466	*-wa	Ksh	-ɔ	
+Pano_Grammatical_Morphemes	C652	14	TRANSITIVIZER	466	*-wa	Chak	-wa	
+Pano_Grammatical_Morphemes	C653	15	DETRANSITIVIZER,REFLEXIVE		*-t	ProPa	-t	
+Pano_Grammatical_Morphemes	C654	15	DETRANSITIVIZER,REFLEXIVE		*-t	Ksh	-t	
+Pano_Grammatical_Morphemes	C655	15	DETRANSITIVIZER,REFLEXIVE		*-t	SK	-t	
+Pano_Grammatical_Morphemes	C656	16	ERGATIVE		*-n	ProPa	-n	
+Pano_Grammatical_Morphemes	C657	16	ERGATIVE		*-n	Ksh	=(a)n	
+Pano_Grammatical_Morphemes	C658	16	ERGATIVE		*-n	SK	=n	
+Pano_Grammatical_Morphemes	C659	16	ERGATIVE		*-n	Kap	-n	
+Pano_Grammatical_Morphemes	C660	17	PREVIOUS EVENT, SAME-SUBJECT		*-ʂo-n	ProPa	-ʂo-n	
+Pano_Grammatical_Morphemes	C661	17	PREVIOUS EVENT, SAME-SUBJECT		*-ʂo-n	Ksh	-ʂun	
+Pano_Grammatical_Morphemes	C662	17	PREVIOUS EVENT, SAME-SUBJECT		*-ʂo-n	SK	-ʂon	
+Pano_Grammatical_Morphemes	C663	17	PREVIOUS EVENT, SAME-SUBJECT		*-ʂo-n	Chak	-ʂo	
+Pano_Grammatical_Morphemes	C664	17	PREVIOUS EVENT, SAME-SUBJECT		*-ʂo-n	Kax	-ʂu	
+Pano_Grammatical_Morphemes	C665	18	COMITATIVE,ALONG WITH		*βɨta	ProPa	βɨta	
+Pano_Grammatical_Morphemes	C666	18	COMITATIVE,ALONG WITH		*βɨta	Ksh	-bɨ~-bɨtan	
+Pano_Grammatical_Morphemes	C667	18	COMITATIVE,ALONG WITH		*βɨta	SK	-bɨ	
+Pano_Grammatical_Morphemes	C668	18	COMITATIVE,ALONG WITH		*βɨta	Chak	-bɨta	
+Pano_Grammatical_Morphemes	C669	18	COMITATIVE,ALONG WITH		*βɨta	Yam	-fɨtã	
+Pano_Grammatical_Morphemes	C670	1	1st SG 'I'	11	*ʔɨ	Ama	ɨ	
+Pano_Grammatical_Morphemes	C671	1	1st SG 'I'	11	*ʔɨ	HanKax	ɨ	
+Pano_Grammatical_Morphemes	C672	1	1st SG 'I'	11	*ʔɨ	Maw	ɨ	
+Pano_Grammatical_Morphemes	C673	2	2nd SG 'you'	246	*mi	Ama	miya	
+Pano_Grammatical_Morphemes	C674	2	2nd SG 'you'	246	*mi	HanKax	mia	
+Pano_Grammatical_Morphemes	C675	2	2nd SG 'you'	246	*mi	Maw	mia	
+Pano_Grammatical_Morphemes	C676	2	2nd SG 'you'	246	*mi	Kor	mi	
+Pano_Grammatical_Morphemes	C677	2	2nd SG 'you'	246	*mi	Mat	mi (minbi,mibi,min)	
+Pano_Grammatical_Morphemes	C678	2	2nd SG 'you'	246	*mi	MatMay	mi (minbi,mibi,min)	
+Pano_Grammatical_Morphemes	C679	3	DEMONSTRATIVE distal		*ʔo-	MatMay	uid	
+Pano_Grammatical_Morphemes	C680	4	DEMONSTRATIVE proximate		*nɨ-	MatMay	nɨid	
+Pano_Grammatical_Morphemes	C681	6	IMPERATIVE	477	*-wɨ	Shan	-wɨ	
+Pano_Grammatical_Morphemes	C682	6	IMPERATIVE	477	*-wɨ	Kat	wɨ	
+Pano_Grammatical_Morphemes	C683	6	IMPERATIVE	477	*-wɨ	HanKax	-wɨ	
+Pano_Grammatical_Morphemes	C684	6	IMPERATIVE	477	*-wɨ	Maw	-wɨ	
+Pano_Grammatical_Morphemes	C685	6	IMPERATIVE	477	*-wɨ	Yaw	-wɨ	
+Pano_Grammatical_Morphemes	C686	7	GOING DOWN,DOWNWARD		*-βut	MatMay	-bud	
+Pano_Grammatical_Morphemes	C687	8	DO COMING		*-βɨ[...]	Ama	-vɨran	
+Pano_Grammatical_Morphemes	C688	8	DO COMING		*-βɨ[...]	MatMay	-bɨtsen	
+Pano_Grammatical_Morphemes	C689	9	DESIDERATIVE		*-katsa	Ama	-katsi	
+Pano_Grammatical_Morphemes	C690	9	DESIDERATIVE		*-katsa	MatMay	-kas-,katsi	
+Pano_Grammatical_Morphemes	C691	10	NEGATIVE	493	*-[ya]ma	Shan	-ma,-yama,	'negación general','negación de imperativo
+Pano_Grammatical_Morphemes	C692	10	NEGATIVE	493	*-[ya]ma	Kat	yama,ma	'no tener,negativo','no'
+Pano_Grammatical_Morphemes	C693	10	NEGATIVE	493	*-[ya]ma	Poy	ba	'asertivo negativo'
+Pano_Grammatical_Morphemes	C694	10	NEGATIVE	493	*-[ya]ma	Ama	-yama	
+Pano_Grammatical_Morphemes	C695	10	NEGATIVE	493	*-[ya]ma	HanKax	-ma,-yama	
+Pano_Grammatical_Morphemes	C696	10	NEGATIVE	493	*-[ya]ma	Maw	-ma	
+Pano_Grammatical_Morphemes	C697	10	NEGATIVE	493	*-[ya]ma	Yaw	-ma	'negación'
+Pano_Grammatical_Morphemes	C698	10	NEGATIVE	493	*-[ya]ma	Kor	-ma	'negación pasado'
+Pano_Grammatical_Morphemes	C699	10	NEGATIVE	493	*-[ya]ma	Mat	-ama	'negación pasado'
+Pano_Grammatical_Morphemes	C700	11	CAUSATIVE	202	*-m[a]	Shan	-ma	
+Pano_Grammatical_Morphemes	C701	11	CAUSATIVE	202	*-m[a]	Ama	-ma-	
+Pano_Grammatical_Morphemes	C702	11	CAUSATIVE	202	*-m[a]	HanKax	-ma-	
+Pano_Grammatical_Morphemes	C703	11	CAUSATIVE	202	*-m[a]	Maw	-ma	
+Pano_Grammatical_Morphemes	C704	11	CAUSATIVE	202	*-m[a]	Yaw	-ma-	
+Pano_Grammatical_Morphemes	C705	11	CAUSATIVE	202	*-m[a]	Kor	-me	
+Pano_Grammatical_Morphemes	C706	11	CAUSATIVE	202	*-m[a]	Mat	-me	
+Pano_Grammatical_Morphemes	C707	11	CAUSATIVE	202	*-m[a]	MatMay	-me	
+Pano_Grammatical_Morphemes	C708	12	AUGMENTATIVE		*pa	MatMay	-pa	
+Pano_Grammatical_Morphemes	C709	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Ama	ʔa-	
+Pano_Grammatical_Morphemes	C710	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	HanKax	a-	
+Pano_Grammatical_Morphemes	C711	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Maw	a-	
+Pano_Grammatical_Morphemes	C712	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Kor	ak-	
+Pano_Grammatical_Morphemes	C713	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	Mat	ak-	
+Pano_Grammatical_Morphemes	C714	13	DO (TR.),AUXILIARY (TR.)	1	*ʔak-	MatMay	ak-	
+Pano_Grammatical_Morphemes	C715	14	TRANSITIVIZER	466	*-wa	HanKax	wa-,-wa	
+Pano_Grammatical_Morphemes	C716	16	ERGATIVE		*-n	MatMay	-n	
+Pano_Grammatical_Morphemes	C717	17	PREVIOUS EVENT, SAME-SUBJECT		*-ʂo-n	Ama	=çon	
+Pano_Grammatical_Morphemes	C718	17	PREVIOUS EVENT, SAME-SUBJECT		*-ʂo-n	HanKax	=ʂun	
+Pano_Grammatical_Morphemes	C719	17	PREVIOUS EVENT, SAME-SUBJECT		*-ʂo-n	Mat	=ʂun	
+Pano_Grammatical_Morphemes	C720	17	PREVIOUS EVENT, SAME-SUBJECT		*-ʂo-n	MatMay	=ʂun	
+Pano_Grammatical_Morphemes	C721	18	COMITATIVE,ALONG WITH		*βɨta	Ama	-wɨ,-wɨtã	
+Pano_Grammatical_Morphemes	C722	18	COMITATIVE,ALONG WITH		*βɨta	HanKax	-bɨ,-bɨtã	
+Pano_Grammatical_Morphemes	C723	18	COMITATIVE,ALONG WITH		*βɨta	Maw	-fɨta,fɨtã	
+Pano_Grammatical_Morphemes	C724	18	COMITATIVE,ALONG WITH		*βɨta	MatMay	-bid (S),-bɨta (O),-bɨtan (A)	
+Takana_Grammatical_Morphemes	D725	1	1st SG 'I'	151	*e	ProTa	e	
+Takana_Grammatical_Morphemes	D726	1	1st SG 'I'	151	*e	Tac	e-ma	
+Takana_Grammatical_Morphemes	D727	1	1st SG 'I'	151	*e	ReyMar	e-me/éme	
+Takana_Grammatical_Morphemes	D728	1	1st SG 'I'	151	*e	Aro	ema,yama	
+Takana_Grammatical_Morphemes	D729	1	1st SG 'I'	151	*e	Cav	e-ra	
+Takana_Grammatical_Morphemes	D730	1	1st SG 'I'	151	*e	Ese	ea,eyaya	
+Takana_Grammatical_Morphemes	D731	2	2nd SG 'you'	292	*mi	ProTa	mi	Girard additionally lists -mikia for Arasa.
+Takana_Grammatical_Morphemes	D732	2	2nd SG 'you'	292	*mi	Tac	mi-ke	
+Takana_Grammatical_Morphemes	D733	2	2nd SG 'you'	292	*mi	ReyMar	mibe/mive	
+Takana_Grammatical_Morphemes	D734	2	2nd SG 'you'	292	*mi	Aro	mitya	
+Takana_Grammatical_Morphemes	D735	2	2nd SG 'you'	292	*mi	Cav	mi-kwana	
+Takana_Grammatical_Morphemes	D736	2	2nd SG 'you'	292	*mi	Ese	mi-a	
+Takana_Grammatical_Morphemes	D737	3	DEMONSTRATIVE 'this' 'he'	442	*u-	ProTa	u-	
+Takana_Grammatical_Morphemes	D738	3	DEMONSTRATIVE 'this' 'he'	442	*u-	Tac	u-ha	
+Takana_Grammatical_Morphemes	D739	3	DEMONSTRATIVE 'this' 'he'	442	*u-	Cav	o-ho	
+Takana_Grammatical_Morphemes	D740	3	DEMONSTRATIVE 'this' 'he'	442	*u-	Ese	o-haya	
+Takana_Grammatical_Morphemes	D741	4	DEMONSTRATIVE proximate		*ree-	ProTa	ree-	
+Takana_Grammatical_Morphemes	D742	4	DEMONSTRATIVE proximate		*ree-	Tac	ye	
+Takana_Grammatical_Morphemes	D743	4	DEMONSTRATIVE proximate		*ree-	Cav	reeke	
+Takana_Grammatical_Morphemes	D744	4	DEMONSTRATIVE proximate		*ree-	Ese	hikio	
+Takana_Grammatical_Morphemes	D745	5	GENITIVE	241	*-kʷe	ProTa	-kʷe	Girard additionally lists -kwe for Warayo.
+Takana_Grammatical_Morphemes	D746	5	GENITIVE	241	*-kʷe	Tac	-ke	
+Takana_Grammatical_Morphemes	D747	5	GENITIVE	241	*-kʷe	ReyMar	ki-/-	'possessive prefix'
+Takana_Grammatical_Morphemes	D748	5	GENITIVE	241	*-kʷe	Cav	-kwe	
+Takana_Grammatical_Morphemes	D749	5	GENITIVE	241	*-kʷe	Ese	-kwe	
+Takana_Grammatical_Morphemes	D750	6	IMPERATIVE	240	*-kʷe	ProTa	-kʷe	Girard additionally lists -he for Warisa.
+Takana_Grammatical_Morphemes	D751	6	IMPERATIVE	240	*-kʷe	Tac	-ke	
+Takana_Grammatical_Morphemes	D752	6	IMPERATIVE	240	*-kʷe	Cav	-kwe	
+Takana_Grammatical_Morphemes	D753	7	GOING DOWN,DOWNWARD	78	*-bu,*-bute	ProTa	-bu,-bute	For first form, Girard additionally lists -anibuteni for Warisa. For second form, see footnote 67.
+Takana_Grammatical_Morphemes	D754	7	GOING DOWN,DOWNWARD	78	*-bu,*-bute	Tac	e-bute-hi,-ute	
+Takana_Grammatical_Morphemes	D755	7	GOING DOWN,DOWNWARD	78	*-bu,*-bute	ReyMar	-/animabotia,-bute/-	
+Takana_Grammatical_Morphemes	D756	7	GOING DOWN,DOWNWARD	78	*-bu,*-bute	Aro	-bote	
+Takana_Grammatical_Morphemes	D757	7	GOING DOWN,DOWNWARD	78	*-bu,*-bute	Cav	e-bote,-bute/-butya	
+Takana_Grammatical_Morphemes	D758	7	GOING DOWN,DOWNWARD	78	*-bu,*-bute	Ese	'oke/-'okya	
+Takana_Grammatical_Morphemes	D759	8	DO COMING		*-be	ProTa	-be	Guillaume 2017:233
+Takana_Grammatical_Morphemes	D760	8	DO COMING		*-be	Tac	-be	
+Takana_Grammatical_Morphemes	D761	8	DO COMING		*-be	ReyMar	-bebe/-	
+Takana_Grammatical_Morphemes	D762	8	DO COMING		*-be	Cav	-be	
+Takana_Grammatical_Morphemes	D763	8	DO COMING		*-be	Ese	-jebe	
+Takana_Grammatical_Morphemes	D764	9	DESIDERATIVE		*-katsa	ProTa	-katsa	
+Takana_Grammatical_Morphemes	D765	9	DESIDERATIVE		*-katsa	Tac	-tsa	
+Takana_Grammatical_Morphemes	D766	9	DESIDERATIVE		*-katsa	Aro	-hae	
+Takana_Grammatical_Morphemes	D767	9	DESIDERATIVE		*-katsa	Cav	-kara	
+Takana_Grammatical_Morphemes	D768	9	DESIDERATIVE		*-katsa	Ese	-sa	
+Takana_Grammatical_Morphemes	D769	10	NEGATIVE	9	*-(a)ma	ProTa	-(a)ma	verbal and nominal
+Takana_Grammatical_Morphemes	D770	10	NEGATIVE	9	*-(a)ma	Tac	-(a)ma	
+Takana_Grammatical_Morphemes	D771	10	NEGATIVE	9	*-(a)ma	Cav	-(a)ma	
+Takana_Grammatical_Morphemes	D772	10	NEGATIVE	9	*-(a)ma	Ese	-(a)ma	
+Takana_Grammatical_Morphemes	D773	11	CAUSATIVE	289	*-me[re]	ProTa	-me[re]	Girard reconstructs *-me[re] based on Tacana –meand Cavineña –mere. To this we can now add Ese’ Ejja -mee and Araona -me.
+Takana_Grammatical_Morphemes	D774	11	CAUSATIVE	289	*-me[re]	Tac	-me	
+Takana_Grammatical_Morphemes	D775	11	CAUSATIVE	289	*-me[re]	Aro	-me	
+Takana_Grammatical_Morphemes	D776	11	CAUSATIVE	289	*-me[re]	Cav	-mere	
+Takana_Grammatical_Morphemes	D777	11	CAUSATIVE	289	*-me[re]	Ese	-mee	
+Takana_Grammatical_Morphemes	D778	12	AUGMENTATIVE	330	*-pa	ProTa	-pa	
+Takana_Grammatical_Morphemes	D779	12	AUGMENTATIVE	330	*-pa	Tac	-pa	
+Takana_Grammatical_Morphemes	D780	12	AUGMENTATIVE	330	*-pa	Cav	-pa	
+Takana_Grammatical_Morphemes	D781	13	DO (TR.),AUXILIARY (TR.)	1	*a-	ProTa	a-	Girard additionally lists age for Warisa.
+Takana_Grammatical_Morphemes	D782	13	DO (TR.),AUXILIARY (TR.)	1	*a-	Tac	a-	
+Takana_Grammatical_Morphemes	D783	13	DO (TR.),AUXILIARY (TR.)	1	*a-	Cav	a-	
+Takana_Grammatical_Morphemes	D784	13	DO (TR.),AUXILIARY (TR.)	1	*a-	Ese	a-ka-	
+Takana_Grammatical_Morphemes	D785	14	TRANSITIVIZER	2	*-a	ProTa	-a	Girard additionally lists -a(-) for the Warayo.
+Takana_Grammatical_Morphemes	D786	14	TRANSITIVIZER	2	*-a	Tac	-a(-)	
+Takana_Grammatical_Morphemes	D787	14	TRANSITIVIZER	2	*-a	ReyMar	-a(-)/-	
+Takana_Grammatical_Morphemes	D788	14	TRANSITIVIZER	2	*-a	Cav	-a(-)	
+Takana_Grammatical_Morphemes	D789	14	TRANSITIVIZER	2	*-a	Ese	-a(-)	
+Takana_Grammatical_Morphemes	D790	15	DETRANSITIVIZER,REFLEXIVE	422	*-ti	ProTa	-ti	
+Takana_Grammatical_Morphemes	D791	15	DETRANSITIVIZER,REFLEXIVE	422	*-ti	Tac	-ti	
+Takana_Grammatical_Morphemes	D792	15	DETRANSITIVIZER,REFLEXIVE	422	*-ti	Cav	-ti	
+Takana_Grammatical_Morphemes	D793	15	DETRANSITIVIZER,REFLEXIVE	422	*-ti	Ese	-ki	
+Takana_Grammatical_Morphemes	D794	16	ERGATIVE	361	*-ra	ProTa	-ra	Girard additionally lists -a for Warayo.
+Takana_Grammatical_Morphemes	D795	16	ERGATIVE	361	*-ra	Tac	-a	
+Takana_Grammatical_Morphemes	D796	16	ERGATIVE	361	*-ra	Cav	-ra	
+Takana_Grammatical_Morphemes	D797	16	ERGATIVE	361	*-ra	Ese	-(y)a	
+Takana_Grammatical_Morphemes	D798	17	PREVIOUS EVENT, SAME-SUBJECT		*-ṭṣu	ProTa	-ṭṣu	
+Takana_Grammatical_Morphemes	D799	17	PREVIOUS EVENT, SAME-SUBJECT		*-ṭṣu	Tac	-su	
+Takana_Grammatical_Morphemes	D800	17	PREVIOUS EVENT, SAME-SUBJECT		*-ṭṣu	Aro	-tso	
+Takana_Grammatical_Morphemes	D801	17	PREVIOUS EVENT, SAME-SUBJECT		*-ṭṣu	Cav	-atsu~-tsu	
+Takana_Grammatical_Morphemes	D802	18	COMITATIVE,ALONG WITH TWO	61	*beta	ProTa	beta	Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.
+Takana_Grammatical_Morphemes	D803	18	COMITATIVE,ALONG WITH TWO	61	*beta	Tac	beta	
+Takana_Grammatical_Morphemes	D804	18	COMITATIVE,ALONG WITH TWO	61	*beta	ReyMar	mbeta/beta	
+Takana_Grammatical_Morphemes	D805	18	COMITATIVE,ALONG WITH TWO	61	*beta	Aro	beta	
+Takana_Grammatical_Morphemes	D806	18	COMITATIVE,ALONG WITH TWO	61	*beta	Cav	beta	
+Takana_Grammatical_Morphemes	D807	18	COMITATIVE,ALONG WITH TWO	61	*beta	Ese	beka	

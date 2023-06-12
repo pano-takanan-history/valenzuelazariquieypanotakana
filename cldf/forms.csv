@@ -1,813 +1,813 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Table,NumberInSource,FormFromProto
-ProPa-1_tree-1,,ProPa,1_tree,hiwi,hiwi,h i w i,,,33,,^ h i w i $,default,,,147.*hiwi
-Ksh-1_tree-1,,Ksh,1_tree,i,i,i,,,33,,^ i $,default,,,147.*hiwi
-SK-1_tree-1,,SK,1_tree,hiwi,hiwi,h i w i,,,33,,^ h i w i $,default,,,147.*hiwi
-Kap-1_tree-1,,Kap,1_tree,hiwi,hiwi,h i w i,,,33,,^ h i w i $,default,,,147.*hiwi
-Mar-1_tree-1,,Mar,1_tree,iwi,iwi,i w i,,,33,,^ i w i $,default,,,147.*hiwi
-Chak-1_tree-1,,Chak,1_tree,hiwi,hiwi,h i w i,,,33,,^ h i w i $,default,,,147.*hiwi
-Kax-1_tree-1,,Kax,1_tree,hiwi,hiwi,h i w i,,,33,,^ h i w i $,default,,,147.*hiwi
-Yam-1_tree-1,,Yam,1_tree,iɸi,iɸi,i ɸ i,,,33,,^ i ɸ i $,default,,,147.*hiwi
-Shar-1_tree-1,,Shar,1_tree,iɸi,iɸi,i ɸ i,,,33,,^ i ɸ i $,default,,,147.*hiwi
-ProPa-2_tooth-1,,ProPa,2_tooth,ʂɨ-,ʂɨ,ʂ ɨ,,,63,,^ ʂ ɨ $,default,,,414.*ʂɨ-
-Ksh-2_tooth-1,,Ksh,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-SK-2_tooth-1,,SK,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Kap-2_tooth-1,,Kap,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Mar-2_tooth-1,,Mar,2_tooth,ʃɨta,ʃɨta,ʃ ɨ t a,,,63,,^ ʃ ɨ t a $,default,,,414.*ʂɨ-
-Chak-2_tooth-1,,Chak,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Kax-2_tooth-1,,Kax,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Shar-2_tooth-1,,Shar,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-ProPa-3_two-1,,ProPa,3_two,ra-βɨta,ra,r a,,,54,,^ r a $,default,,,352.*ra-βɨta
-Ksh-3_two-1,,Ksh,3_two,raβɨ,raβɨ,r a β ɨ,,,54,,^ r a β ɨ $,default,,,352.*ra-βɨta
-SK-3_two-1,,SK,3_two,raβɨ,raβɨ,r a β ɨ,,,54,,^ r a β ɨ $,default,,,352.*ra-βɨta
-Kap-3_two-1,,Kap,3_two,raβɨ,raβɨ,r a β ɨ,,,54,,^ r a β ɨ $,default,,,352.*ra-βɨta
-Mar-3_two-1,,Mar,3_two,ravɨvakĩ,ravɨvakĩ,r a v ɨ v a k ĩ,,,54,,^ r a v ɨ v a k ĩ $,default,,,352.*ra-βɨta
-Chak-3_two-1,,Chak,3_two,raβɨ,raβɨ,r a β ɨ,,,54,,^ r a β ɨ $,default,,,352.*ra-βɨta
-Kax-3_two-1,,Kax,3_two,tʃabɨta,tʃabɨta,tʃ a b ɨ t a,,,54,,^ tʃ a b ɨ t a $,default,,,352.*ra-βɨta
-Yam-3_two-1,,Yam,3_two,raɸɨ,raɸɨ,r a ɸ ɨ,,,54,,^ r a ɸ ɨ $,default,,,352.*ra-βɨta
-Chan-3_two-1,,Chan,3_two,raɸɨ,raɸɨ,r a ɸ ɨ,,,54,,^ r a ɸ ɨ $,default,,,352.*ra-βɨta
-Shar-3_two-1,,Shar,3_two,raɸɨ,raɸɨ,r a ɸ ɨ,,,54,,^ r a ɸ ɨ $,default,,,352.*ra-βɨta
-ProPa-4_liver-1,,ProPa,4_liver,takʷa,takʷa,t a kʷ a,,,66,,^ t a kʷ a $,default,,,438.*takʷa
-Ksh-4_liver-1,,Ksh,4_liver,takʷa,takʷa,t a kʷ a,,,66,,^ t a kʷ a $,default,,,438.*takʷa
-SK-4_liver-1,,SK,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Kap-4_liver-1,,Kap,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Mar-4_liver-1,,Mar,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Chak-4_liver-1,,Chak,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Kax-4_liver-1,,Kax,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Chan-4_liver-1,,Chan,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Shar-4_liver-1,,Shar,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-ProPa-5_leaf-1,,ProPa,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,,51,,^ p ɨ ʔ i $,default,,,325.*pɨʔi
-Ksh-5_leaf-1,,Ksh,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-SK-5_leaf-1,,SK,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-Kap-5_leaf-1,,Kap,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,,51,,^ p ɨ ʔ i $,default,,,325.*pɨʔi
-Mar-5_leaf-1,,Mar,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-Chak-5_leaf-1,,Chak,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,,51,,^ p ɨ ʔ i $,default,,,325.*pɨʔi
-Kax-5_leaf-1,,Kax,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,,51,,^ p ɨ ʔ i $,default,,,325.*pɨʔi
-Yam-5_leaf-1,,Yam,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-Chan-5_leaf-1,,Chan,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-Shar-5_leaf-1,,Shar,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-ProPa-6_bone-1,,ProPa,6_bone,ʂao,ʂao,ʂ a o,,,60,,^ ʂ a o $,default,,,398.*ʂao
-Ksh-6_bone-1,,Ksh,6_bone,ʂɔː,ʂɔː,ʂ ɔː,,,60,,^ ʂ ɔː $,default,,,398.*ʂao
-SK-6_bone-1,,SK,6_bone,ʂao,ʂao,ʂ a o,,,60,,^ ʂ a o $,default,,,398.*ʂao
-Kap-6_bone-1,,Kap,6_bone,ʂao,ʂao,ʂ a o,,,60,,^ ʂ a o $,default,,,398.*ʂao
-Mar-6_bone-1,,Mar,6_bone,ʃau,ʃau,ʃ a u,,,60,,^ ʃ a u $,default,,,398.*ʂao
-Chak-6_bone-1,,Chak,6_bone,ʂao,ʂao,ʂ a o,,,60,,^ ʂ a o $,default,,,398.*ʂao
-Kax-6_bone-1,,Kax,6_bone,ʂahʷu,ʂahʷu,ʂ a hʷ u,,,60,,^ ʂ a hʷ u $,default,,,398.*ʂao
-Yam-6_bone-1,,Yam,6_bone,ʂao,ʂao,ʂ a o,,,60,,^ ʂ a o $,default,,,398.*ʂao
-Chan-6_bone-1,,Chan,6_bone,"ʃao,ʂao",ʃao,ʃ a o,,,60,,^ ʃ a o $,default,,,398.*ʂao
-Shar-6_bone-1,,Shar,6_bone,ʂao,ʂao,ʂ a o,,,60,,^ ʂ a o $,default,,,398.*ʂao
-ProPa-7_tongue-1,,ProPa,7_tongue,hana,hana,h a n a,,,70,,^ h a n a $,default,,,47.*hana
-Ksh-7_tongue-1,,Ksh,7_tongue,ana,ana,a n a,,,70,,^ a n a $,default,,,47.*hana
-SK-7_tongue-1,,SK,7_tongue,hana,hana,h a n a,,,70,,^ h a n a $,default,,,47.*hana
-Kap-7_tongue-1,,Kap,7_tongue,hana,hana,h a n a,,,70,,^ h a n a $,default,,,47.*hana
-Mar-7_tongue-1,,Mar,7_tongue,ana,ana,a n a,,,70,,^ a n a $,default,,,47.*hana
-Chak-7_tongue-1,,Chak,7_tongue,hana,hana,h a n a,,,70,,^ h a n a $,default,,,47.*hana
-Kax-7_tongue-1,,Kax,7_tongue,hana,hana,h a n a,,,70,,^ h a n a $,default,,,47.*hana
-Yam-7_tongue-1,,Yam,7_tongue,ana,ana,a n a,,,70,,^ a n a $,default,,,47.*hana
-Chan-7_tongue-1,,Chan,7_tongue,ada,ada,a d a,,,70,,^ a d a $,default,,,47.*hana
-Shar-7_tongue-1,,Shar,7_tongue,ana,ana,a n a,,,70,,^ a n a $,default,,,47.*hana
-ProPa-8_hand-1,,ProPa,8_hand,mɨ-,mɨ,m ɨ,,,14,,^ m ɨ $,default,,,*mɨ-
-Ksh-8_hand-1,,Ksh,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,,14,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
-SK-8_hand-1,,SK,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,,14,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
-Kap-8_hand-1,,Kap,8_hand,mɨkɨn,mɨkɨn,m ɨ k ɨ n,,,14,,^ m ɨ k ɨ n $,default,,,*mɨ-
-Chak-8_hand-1,,Chak,8_hand,mɨkɨnɨ,mɨkɨnɨ,m ɨ k ɨ n ɨ,,,14,,^ m ɨ k ɨ n ɨ $,default,,,*mɨ-
-Kax-8_hand-1,,Kax,8_hand,mɨkɨlɨ,mɨkɨlɨ,m ɨ k ɨ l ɨ,,,14,,^ m ɨ k ɨ l ɨ $,default,,,*mɨ-
-Yam-8_hand-1,,Yam,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,,14,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
-Chan-8_hand-1,,Chan,8_hand,mɨkɨ,mɨkɨ,m ɨ k ɨ,,,14,,^ m ɨ k ɨ $,default,,,*mɨ-
-Shar-8_hand-1,,Shar,8_hand,mɨkɨ,mɨkɨ,m ɨ k ɨ,,,14,,^ m ɨ k ɨ $,default,,,*mɨ-
-ProPa-9_night-1,,ProPa,9_night,yamɨtV,yamɨtV,j a m ɨ t <<V>>,,,74,,^ y a m ɨ t <V> $,default,,,494.*yamɨtV
-Ksh-9_night-1,,Ksh,9_night,imɨ,imɨ,i m ɨ,,,74,,^ i m ɨ $,default,,,494.*yamɨtV
-SK-9_night-1,,SK,9_night,yamɨ,yamɨ,j a m ɨ,,,74,,^ y a m ɨ $,default,,,494.*yamɨtV
-Kap-9_night-1,,Kap,9_night,yamɨ,yamɨ,j a m ɨ,,,74,,^ y a m ɨ $,default,,,494.*yamɨtV
-Mar-9_night-1,,Mar,9_night,yamɨ,yamɨ,j a m ɨ,,,74,,^ y a m ɨ $,default,,,494.*yamɨtV
-Kax-9_night-1,,Kax,9_night,yamɨta,yamɨta,j a m ɨ t a,,,74,,^ y a m ɨ t a $,default,,,494.*yamɨtV
-Yam-9_night-1,,Yam,9_night,yamɨa,yamɨa,j a m ɨ a,,,74,,^ y a m ɨ a $,default,,,494.*yamɨtV
-Chan-9_night-1,,Chan,9_night,yabɨ,yabɨ,j a b ɨ,,,74,,^ y a b ɨ $,default,,,494.*yamɨtV
-Shar-9_night-1,,Shar,9_night,yamɨ,yamɨ,j a m ɨ,,,74,,^ y a m ɨ $,default,,,494.*yamɨtV
-ProPa-10_skin-1,,ProPa,10_skin,βitsi,βitsi,β i ts i,,,82,,^ β i ts i $,default,,,89.*βitsi
-Ksh-10_skin-1,,Ksh,10_skin,βitʃi,βitʃi,β i tʃ i,,,82,,^ β i tʃ i $,default,,,89.*βitsi
-SK-10_skin-1,,SK,10_skin,βitʃi,βitʃi,β i tʃ i,,,82,,^ β i tʃ i $,default,,,89.*βitsi
-Kap-10_skin-1,,Kap,10_skin,βitʃi,βitʃi,β i tʃ i,,,82,,^ β i tʃ i $,default,,,89.*βitsi
-Mar-10_skin-1,,Mar,10_skin,vitʃi,vitʃi,v i tʃ i,,,82,,^ v i tʃ i $,default,,,89.*βitsi
-Chak-10_skin-1,,Chak,10_skin,βitʃi,βitʃi,β i tʃ i,,,82,,^ β i tʃ i $,default,,,89.*βitsi
-Kax-10_skin-1,,Kax,10_skin,bitʃi,bitʃi,b i tʃ i,,,82,,^ b i tʃ i $,default,,,89.*βitsi
-Chan-10_skin-1,,Chan,10_skin,ɸitʃi,ɸitʃi,ɸ i tʃ i,,,82,,^ ɸ i tʃ i $,default,,,89.*βitsi
-Shar-10_skin-1,,Shar,10_skin,ɸitʃi,ɸitʃi,ɸ i tʃ i,,,82,,^ ɸ i tʃ i $,default,,,89.*βitsi
-ProPa-11_fire-1,,ProPa,11_fire,tsiʔi,tsiʔi,ts i ʔ i,,,30,,^ ts i ʔ i $,default,,,125.*tsiʔi
-Ksh-11_fire-1,,Ksh,11_fire,tʃii,tʃii,tʃ i i,,,30,,^ tʃ i i $,default,,,125.*tsiʔi
-SK-11_fire-1,,SK,11_fire,tʃii,tʃii,tʃ i i,,,30,,^ tʃ i i $,default,,,125.*tsiʔi
-Kap-11_fire-1,,Kap,11_fire,tʃiʔi,tʃiʔi,tʃ i ʔ i,,,30,,^ tʃ i ʔ i $,default,,,125.*tsiʔi
-Mar-11_fire-1,,Mar,11_fire,tʃi,tʃi,tʃ i,,,30,,^ tʃ i $,default,,,125.*tsiʔi
-Chak-11_fire-1,,Chak,11_fire,tʃiʔi,tʃiʔi,tʃ i ʔ i,,,30,,^ tʃ i ʔ i $,default,,,125.*tsiʔi
-Kax-11_fire-1,,Kax,11_fire,tʃiʔi,tʃiʔi,tʃ i ʔ i,,,30,,^ tʃ i ʔ i $,default,,,125.*tsiʔi
-Yam-11_fire-1,,Yam,11_fire,tʃii,tʃii,tʃ i i,,,30,,^ tʃ i i $,default,,,125.*tsiʔi
-Chan-11_fire-1,,Chan,11_fire,tʃii,tʃii,tʃ i i,,,30,,^ tʃ i i $,default,,,125.*tsiʔi
-Shar-11_fire-1,,Shar,11_fire,tʃii,tʃii,tʃ i i,,,30,,^ tʃ i i $,default,,,125.*tsiʔi
-ProPa-12_knee-1,,ProPa,12_knee,rã-,rã,r ã,,,55,,^ r ã $,default,,,359.*rã-
-Ksh-12_knee-1,,Ksh,12_knee,rãβoʂo,rãβoʂo,r ã β o ʂ o,,,55,,^ r ã β o ʂ o $,default,,,359.*rã-
-SK-12_knee-1,,SK,12_knee,rãβoʂo,rãβoʂo,r ã β o ʂ o,,,55,,^ r ã β o ʂ o $,default,,,359.*rã-
-Kap-12_knee-1,,Kap,12_knee,rãβoʂo,rãβoʂo,r ã β o ʂ o,,,55,,^ r ã β o ʂ o $,default,,,359.*rã-
-Mar-12_knee-1,,Mar,12_knee,ravuʃɨ,ravuʃɨ,r a v u ʃ ɨ,,,55,,^ r a v u ʃ ɨ $,default,,,359.*rã-
-Kax-12_knee-1,,Kax,12_knee,tʃãburu,tʃãburu,tʃ ã b u r u,,,55,,^ tʃ ã b u r u $,default,,,359.*rã-
-ProPa-13_blood-1,,ProPa,13_blood,himi,himi,h i m i,,,32,,^ h i m i $,default,,,141.*himi
-Ksh-13_blood-1,,Ksh,13_blood,imi,imi,i m i,,,32,,^ i m i $,default,,,141.*himi
-SK-13_blood-1,,SK,13_blood,himi,himi,h i m i,,,32,,^ h i m i $,default,,,141.*himi
-Kap-13_blood-1,,Kap,13_blood,himi,himi,h i m i,,,32,,^ h i m i $,default,,,141.*himi
-Mar-13_blood-1,,Mar,13_blood,imbi,imbi,i m b i,/b/ as superscript,,32,,^ i m b i $,default,,,141.*himi
-Chak-13_blood-1,,Chak,13_blood,himi,himi,h i m i,,,32,,^ h i m i $,default,,,141.*himi
-Kax-13_blood-1,,Kax,13_blood,himi,himi,h i m i,,,32,,^ h i m i $,default,,,141.*himi
-Yam-13_blood-1,,Yam,13_blood,im,im,i m,,,32,,^ i m $,default,,,141.*himi
-Chan-13_blood-1,,Chan,13_blood,ibi,ibi,i b i,,,32,,^ i b i $,default,,,141.*himi
-Shar-13_blood-1,,Shar,13_blood,imi,imi,i m i,,,32,,^ i m i $,default,,,141.*himi
-ProPa-14_breast-1,,ProPa,14_breast,ʂo,ʂo,ʂ o,,,65,,^ ʂ o $,default,,,429.*ʂo
-Ksh-14_breast-1,,Ksh,14_breast,ʂoma,ʂoma,ʂ o m a,,,65,,^ ʂ o m a $,default,,,429.*ʂo
-SK-14_breast-1,,SK,14_breast,ʂoma,ʂoma,ʂ o m a,,,65,,^ ʂ o m a $,default,,,429.*ʂo
-Kap-14_breast-1,,Kap,14_breast,ʂoma,ʂoma,ʂ o m a,,,65,,^ ʂ o m a $,default,,,429.*ʂo
-Mar-14_breast-1,,Mar,14_breast,ʂoma,ʂoma,ʂ o m a,,,65,,^ ʂ o m a $,default,,,429.*ʂo
-Chak-14_breast-1,,Chak,14_breast,ʂoma,ʂoma,ʂ o m a,,,65,,^ ʂ o m a $,default,,,429.*ʂo
-Chan-14_breast-1,,Chan,14_breast,ʂoma,ʂoma,ʂ o m a,,,65,,^ ʂ o m a $,default,,,429.*ʂo
-Shar-14_breast-1,,Shar,14_breast,ʂoma,ʂoma,ʂ o m a,,,65,,^ ʂ o m a $,default,,,429.*ʂo
-ProPa-15_sun-1,,ProPa,15_sun,βari,βari,β a r i,,,77,,^ β a r i $,default,,,63.*βari
-Ksh-15_sun-1,,Ksh,15_sun,βaɾi,βaɾi,β a ɾ i,,,77,,^ β a ɾ i $,default,,,63.*βari
-SK-15_sun-1,,SK,15_sun,βaɾi,βaɾi,β a ɾ i,,,77,,^ β a ɾ i $,default,,,63.*βari
-Kap-15_sun-1,,Kap,15_sun,βaɾi,βaɾi,β a ɾ i,,,77,,^ β a ɾ i $,default,,,63.*βari
-Mar-15_sun-1,,Mar,15_sun,vaɾi,vaɾi,v a ɾ i,,,77,,^ v a ɾ i $,default,,,63.*βari
-Chak-15_sun-1,,Chak,15_sun,βaɾi,βaɾi,β a ɾ i,,,77,,^ β a ɾ i $,default,,,63.*βari
-Kax-15_sun-1,,Kax,15_sun,βatʃi,βatʃi,β a tʃ i,,,77,,^ β a tʃ i $,default,,,63.*βari
-Chan-15_sun-1,,Chan,15_sun,ɸaɾi,ɸaɾi,ɸ a ɾ i,,,77,,^ ɸ a ɾ i $,default,,,63.*βari
-Shar-15_sun-1,,Shar,15_sun,ɸari,ɸari,ɸ a r i,,,77,,^ ɸ a r i $,default,,,63.*βari
-ProPa-16_you-1,,ProPa,16_you,mi,mi,m i,,,44,,^ m i $,default,,,246.*mi
-Ksh-16_you-1,,Ksh,16_you,miː,miː,m iː,,,44,,^ m iː $,default,,,246.*mi
-SK-16_you-1,,SK,16_you,mia,mia,m i a,,,44,,^ m i a $,default,,,246.*mi
-Kap-16_you-1,,Kap,16_you,mia,mia,m i a,,,44,,^ m i a $,default,,,246.*mi
-Chak-16_you-1,,Chak,16_you,mia,mia,m i a,object form,,44,,^ m i a $,default,,,246.*mi
-ProPa-17_come-1,,ProPa,17_come,βɨ-,βɨ,β ɨ,"'come,bring'",,78,,^ β ɨ $,default,,,70.*βɨ-
-Ksh-17_come-1,,Ksh,17_come,βɨ-,βɨ,β ɨ,,,78,,^ β ɨ $,default,,,70.*βɨ-
-SK-17_come-1,,SK,17_come,βɨ-,βɨ,β ɨ,,,78,,^ β ɨ $,default,,,70.*βɨ-
-Kap-17_come-1,,Kap,17_come,βɨ-,βɨ,β ɨ,,,78,,^ β ɨ $,default,,,70.*βɨ-
-Chak-17_come-1,,Chak,17_come,βɨ-,βɨ,β ɨ,,,78,,^ β ɨ $,default,,,70.*βɨ-
-Kax-17_come-1,,Kax,17_come,bɨ-,bɨ,b ɨ,,,78,,^ b ɨ $,default,,,70.*βɨ-
-Yam-17_come-1,,Yam,17_come,ɸɨ-,ɸɨ,ɸ ɨ,,,78,,^ ɸ ɨ $,default,,,70.*βɨ-
-Chan-17_come-1,,Chan,17_come,ɸɨ-,ɸɨ,ɸ ɨ,,,78,,^ ɸ ɨ $,default,,,70.*βɨ-
-Shar-17_come-1,,Shar,17_come,ɸɨ-,ɸɨ,ɸ ɨ,,,78,,^ ɸ ɨ $,default,,,70.*βɨ-
-ProPa-18_i-1,,ProPa,18_i,ʔɨ,ʔɨ,ʔ ɨ,,,28,,^ ʔ ɨ $,default,,,11.*ʔɨ
-Ksh-18_i-1,,Ksh,18_i,ʔɨ,ʔɨ,ʔ ɨ,,,28,,^ ʔ ɨ $,default,,,11.*ʔɨ
-SK-18_i-1,,SK,18_i,ʔɨ,ʔɨ,ʔ ɨ,,,28,,^ ʔ ɨ $,default,,,11.*ʔɨ
-Kap-18_i-1,,Kap,18_i,ʔɨ,ʔɨ,ʔ ɨ,,,28,,^ ʔ ɨ $,default,,,11.*ʔɨ
-Chak-18_i-1,,Chak,18_i,ɨ,ɨ,ɨ,,,28,,^ ɨ $,default,,,11.*ʔɨ
-ProPa-19_flesh-1,,ProPa,19_flesh,nami,nami,n a m i,Additional cognates refering to body parts,,45,,^ n a m i $,default,,,258.*nami
-Ksh-19_flesh-1,,Ksh,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-SK-19_flesh-1,,SK,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Kap-19_flesh-1,,Kap,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Mar-19_flesh-1,,Mar,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Chak-19_flesh-1,,Chak,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Kax-19_flesh-1,,Kax,19_flesh,lami,lami,l a m i,,,45,,^ l a m i $,default,,,258.*nami
-Yam-19_flesh-1,,Yam,19_flesh,"nami,nãmi",nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Chan-19_flesh-1,,Chan,19_flesh,"nabi,dami",nabi,n a b i,,,45,,^ n a b i $,default,,,258.*nami
-Shar-19_flesh-1,,Shar,19_flesh,"nami,namin",nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-ProPa-20_fat-1,,ProPa,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Ksh-20_fat-1,,Ksh,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-SK-20_fat-1,,SK,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Kap-20_fat-1,,Kap,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Mar-20_fat-1,,Mar,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Chak-20_fat-1,,Chak,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Yam-20_fat-1,,Yam,20_fat,ʂɨnĩ,ʂɨnĩ,ʂ ɨ n ĩ,,,62,,^ ʂ ɨ n ĩ $,default,,,412.*ʂɨni
-Chan-20_fat-1,,Chan,20_fat,"ʃɨdi,ʃidi,ʂidi",ʃɨdi,ʃ ɨ d i,,,62,,^ ʃ ɨ d i $,default,,,412.*ʂɨni
-Shar-20_fat-1,,Shar,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-ProPa-21_fingernail-1,,ProPa,21_fingernail,mɨ̃-tsis[i],mɨ̃,m ɨ̃,See footnote 56.,,40,,^ m ɨ̃ $,default,,,239.*mɨ̃-tsis[i]
-Ksh-21_fingernail-1,,Ksh,21_fingernail,"Untsis,untsɨs",Untsis,<<U>> n ts i s,,,40,,^ <U> n ts i s $,default,,,239.*mɨ̃-tsis[i]
-SK-21_fingernail-1,,SK,21_fingernail,"mɨ̃ntsis,mɨ̃tsis",mɨ̃ntsis,m ɨ̃ n ts i s,,,40,,^ m ɨ̃ n ts i s $,default,,,239.*mɨ̃-tsis[i]
-Kap-21_fingernail-1,,Kap,21_fingernail,mɨ̃ntsis,mɨ̃ntsis,m ɨ̃ n ts i s,,,40,,^ m ɨ̃ n ts i s $,default,,,239.*mɨ̃-tsis[i]
-Mar-21_fingernail-1,,Mar,21_fingernail,mɨ̃tsisi,mɨ̃tsisi,m ɨ̃ ts i s i,,,40,,^ m ɨ̃ ts i s i $,default,,,239.*mɨ̃-tsis[i]
-Chak-21_fingernail-1,,Chak,21_fingernail,"mɨ̃tsis,mɨ̃tsisi",mɨ̃tsis,m ɨ̃ ts i s,,,40,,^ m ɨ̃ ts i s $,default,,,239.*mɨ̃-tsis[i]
-Kax-21_fingernail-1,,Kax,21_fingernail,mɨ̃tʃisi,mɨ̃tʃisi,m ɨ̃ tʃ i s i,,,40,,^ m ɨ̃ tʃ i s i $,default,,,239.*mɨ̃-tsis[i]
-Yam-21_fingernail-1,,Yam,21_fingernail,"mitsis,mitsisi",mitsis,m i ts i s,,,40,,^ m i ts i s $,default,,,239.*mɨ̃-tsis[i]
-Chan-21_fingernail-1,,Chan,21_fingernail,bitsis(otsis),bitsis,b i ts i s,,,40,,^ b i ts i s $,default,,,239.*mɨ̃-tsis[i]
-Shar-21_fingernail-1,,Shar,21_fingernail,"mɨtsisi,otsisi",mɨtsisi,m ɨ ts i s i,,,40,,^ m ɨ ts i s i $,default,,,239.*mɨ̃-tsis[i]
-ProPa-22_footleg-1,,ProPa,22_footleg,ta-,ta,t a,'foot',,18,,^ t a $,default,,,*ta-
-Ksh-22_footleg-1,,Ksh,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-SK-22_footleg-1,,SK,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-Kap-22_footleg-1,,Kap,22_footleg,taʔɨ,taʔɨ,t a ʔ ɨ,,,18,,^ t a ʔ ɨ $,default,,,*ta-
-Mar-22_footleg-1,,Mar,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-Chak-22_footleg-1,,Chak,22_footleg,taʔɨ,taʔɨ,t a ʔ ɨ,,,18,,^ t a ʔ ɨ $,default,,,*ta-
-Kax-22_footleg-1,,Kax,22_footleg,taʔɨ,taʔɨ,t a ʔ ɨ,,,18,,^ t a ʔ ɨ $,default,,,*ta-
-Yam-22_footleg-1,,Yam,22_footleg,"taɨ,taɨ̃",taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-Chan-22_footleg-1,,Chan,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-Shar-22_footleg-1,,Shar,22_footleg,"taɨ,taɨn",taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-ProPa-23_lipedge-1,,ProPa,23_lipedge,kʷɨ-,kʷɨ,kʷ ɨ,,,35,,^ kʷ ɨ $,default,,,155.*kʷɨ-
-Ksh-23_lipedge-1,,Ksh,23_lipedge,kʷɨβi-,kʷɨβi,kʷ ɨ β i,,,35,,^ kʷ ɨ β i $,default,,,155.*kʷɨ-
-SK-23_lipedge-1,,SK,23_lipedge,kɨβi-,kɨβi,k ɨ β i,,,35,,^ k ɨ β i $,default,,,155.*kʷɨ-
-Chak-23_lipedge-1,,Chak,23_lipedge,kɨβitʃi,kɨβitʃi,k ɨ β i tʃ i,,,35,,^ k ɨ β i tʃ i $,default,,,155.*kʷɨ-
-Shar-23_lipedge-1,,Shar,23_lipedge,kuɸirisika,kuɸirisika,k u ɸ i r i s i k a,,,35,,^ k u ɸ i r i s i k a $,default,,,155.*kʷɨ-
-ProPa-24_cheek-1,,ProPa,24_cheek,tamo,tamo,t a m o,,,67,,^ t a m o $,default,,,440.*tamo
-Ksh-24_cheek-1,,Ksh,24_cheek,tamo,tamo,t a m o,,,67,,^ t a m o $,default,,,440.*tamo
-SK-24_cheek-1,,SK,24_cheek,tamo,tamo,t a m o,,,67,,^ t a m o $,default,,,440.*tamo
-Kap-24_cheek-1,,Kap,24_cheek,tamo,tamo,t a m o,,,67,,^ t a m o $,default,,,440.*tamo
-Mar-24_cheek-1,,Mar,24_cheek,tambo,tambo,t a m b o,/m/ as superscript,,67,,^ t a m b o $,default,,,440.*tamo
-Chak-24_cheek-1,,Chak,24_cheek,tamo,tamo,t a m o,,,67,,^ t a m o $,default,,,440.*tamo
-Kax-24_cheek-1,,Kax,24_cheek,tamu,tamu,t a m u,,,67,,^ t a m u $,default,,,440.*tamo
-Yam-24_cheek-1,,Yam,24_cheek,"tamo,tamõ",tamo,t a m o,,,67,,^ t a m o $,default,,,440.*tamo
-Shar-24_cheek-1,,Shar,24_cheek,"tamo,tamon",tamo,t a m o,,,67,,^ t a m o $,default,,,440.*tamo
-ProPa-25_mouth-1,,ProPa,25_mouth,kʷɨʂa[CV],kʷɨʂaCV,kʷ ɨ ʂ a <<C>> <<V>>,,,36,,^ kʷ ɨ ʂ a <C> <V> $,default,,,158.*kʷɨʂa[CV]
-Ksh-25_mouth-1,,Ksh,25_mouth,kʷɨʂa,kʷɨʂa,kʷ ɨ ʂ a,,,36,,^ kʷ ɨ ʂ a $,default,,,158.*kʷɨʂa[CV]
-SK-25_mouth-1,,SK,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,,36,,^ k ɨ ʂ a $,default,,,158.*kʷɨʂa[CV]
-Kap-25_mouth-1,,Kap,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,,36,,^ k ɨ ʂ a $,default,,,158.*kʷɨʂa[CV]
-Mar-25_mouth-1,,Mar,25_mouth,kɨʃa,kɨʃa,k ɨ ʃ a,,,36,,^ k ɨ ʃ a $,default,,,158.*kʷɨʂa[CV]
-Kax-25_mouth-1,,Kax,25_mouth,kɨʂaka,kɨʂaka,k ɨ ʂ a k a,,,36,,^ k ɨ ʂ a k a $,default,,,158.*kʷɨʂa[CV]
-Yam-25_mouth-1,,Yam,25_mouth,"kɨʂã,kɨʂamã",kɨʂã,k ɨ ʂ ã,,,36,,^ k ɨ ʂ ã $,default,,,158.*kʷɨʂa[CV]
-Chan-25_mouth-1,,Chan,25_mouth,"kɨʃa,kɨʂa",kɨʃa,k ɨ ʃ a,,,36,,^ k ɨ ʃ a $,default,,,158.*kʷɨʂa[CV]
-Shar-25_mouth-1,,Shar,25_mouth,"kɨʂa,kɨʂan",kɨʂa,k ɨ ʂ a,,,36,,^ k ɨ ʂ a $,default,,,158.*kʷɨʂa[CV]
-ProPa-26_elbow-1,,ProPa,26_elbow,βaʂ(u)-,βaʂ,β a ʂ,,,22,,^ β a ʂ $,default,,,*βaʂ(u)-
-Ksh-26_elbow-1,,Ksh,26_elbow,banbuxu,banbuxu,b a n b u x u,,,22,,^ b a n b u x u $,default,,,*βaʂ(u)-
-SK-26_elbow-1,,SK,26_elbow,põtõko,põtõko,p õ t õ k o,,,22,,^ p õ t õ k o $,default,,,*βaʂ(u)-
-Kap-26_elbow-1,,Kap,26_elbow,baʂpoʂko,baʂpoʂko,b a ʂ p o ʂ k o,,,22,,^ b a ʂ p o ʂ k o $,default,,,*βaʂ(u)-
-Chak-26_elbow-1,,Chak,26_elbow,baspoto,baspoto,b a s p o t o,,,22,,^ b a s p o t o $,default,,,*βaʂ(u)-
-Kax-26_elbow-1,,Kax,26_elbow,paxuxu,paxuxu,p a x u x u,,,22,,^ p a x u x u $,default,,,*βaʂ(u)-
-Yam-26_elbow-1,,Yam,26_elbow,po-to-ṣ̌ko,po,p o,,,22,,^ p o $,default,,,*βaʂ(u)-
-Shan-1_tree-1,,Shan,1_tree,iwi,iwi,i w i,,,12,,^ i w i $,default,,,*hiwi
-Kat-1_tree-1,,Kat,1_tree,hiwi,hiwi,h i w i,,,12,,^ h i w i $,default,,,*hiwi
-Poy-1_tree-1,,Poy,1_tree,iwi,iwi,i w i,,,12,,^ i w i $,default,,,*hiwi
-Ama-1_tree-1,,Ama,1_tree,hiː,hiː,h iː,,,12,,^ h iː $,default,,,*hiwi
-HanKax-1_tree-1,,HanKax,1_tree,hi,hi,h i,,,12,,^ h i $,default,,,*hiwi
-Maw-1_tree-1,,Maw,1_tree,iwi,iwi,i w i,,,12,,^ i w i $,default,,,*hiwi
-Kor-1_tree-1,,Kor,1_tree,iwi,iwi,i w i,,,12,,^ i w i $,default,,,*hiwi
-MatMay-1_tree-1,,MatMay,1_tree,iwi,iwi,i w i,,,12,,^ i w i $,default,,,*hiwi
-Shan-2_tooth-1,,Shan,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Kat-2_tooth-1,,Kat,2_tooth,ʂita,ʂita,ʂ i t a,,,63,,^ ʂ i t a $,default,,,414.*ʂɨ-
-Ama-2_tooth-1,,Ama,2_tooth,xɨta,xɨta,x ɨ t a,,,63,,^ x ɨ t a $,default,,,414.*ʂɨ-
-HanKax-2_tooth-1,,HanKax,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Maw-2_tooth-1,,Maw,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Yaw-2_tooth-1,,Yaw,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Kor-2_tooth-1,,Kor,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Mat-2_tooth-1,,Mat,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-MatMay-2_tooth-1,,MatMay,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,,63,,^ ʂ ɨ t a $,default,,,414.*ʂɨ-
-Shan-3_two-1,,Shan,3_two,rafu,rafu,r a f u,,,54,,^ r a f u $,default,,,352.*ra-βɨta
-Kat-3_two-1,,Kat,3_two,raβi,raβi,r a β i,,,54,,^ r a β i $,default,,,352.*ra-βɨta
-Poy-3_two-1,,Poy,3_two,raβu,raβu,r a β u,,,54,,^ r a β u $,default,,,352.*ra-βɨta
-Ama-3_two-1,,Ama,3_two,raβɨ,raβɨ,r a β ɨ,,,54,,^ r a β ɨ $,default,,,352.*ra-βɨta
-Maw-3_two-1,,Maw,3_two,raɸɨ,raɸɨ,r a ɸ ɨ,,,54,,^ r a ɸ ɨ $,default,,,352.*ra-βɨta
-Yaw-3_two-1,,Yaw,3_two,raβɨ,raβɨ,r a β ɨ,,,54,,^ r a β ɨ $,default,,,352.*ra-βɨta
-Kor-3_two-1,,Kor,3_two,ɬaβɨtpa,ɬaβɨtpa,ɬ a β ɨ t p a,,,54,,^ ɬ a β ɨ t p a $,default,,,352.*ra-βɨta
-Mat-3_two-1,,Mat,3_two,dabɨdpa,dabɨdpa,d a b ɨ d p a,,,54,,^ d a b ɨ d p a $,default,,,352.*ra-βɨta
-MatMay-3_two-1,,MatMay,3_two,daɨd,daɨd,d a ɨ d,,,54,,^ d a ɨ d $,default,,,352.*ra-βɨta
-Shan-4_liver-1,,Shan,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Kat-4_liver-1,,Kat,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Poy-4_liver-1,,Poy,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Ama-4_liver-1,,Ama,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-HanKax-4_liver-1,,HanKax,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Maw-4_liver-1,,Maw,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Yaw-4_liver-1,,Yaw,4_liver,taka,taka,t a k a,,,66,,^ t a k a $,default,,,438.*takʷa
-Kor-4_liver-1,,Kor,4_liver,takʷa,takʷa,t a kʷ a,,,66,,^ t a kʷ a $,default,,,438.*takʷa
-Mat-4_liver-1,,Mat,4_liver,takua,takua,t a kʷ a,,,66,,^ t a kua $,default,,,438.*takʷa
-MatMay-4_liver-1,,MatMay,4_liver,takʷa,takʷa,t a kʷ a,,,66,,^ t a kʷ a $,default,,,438.*takʷa
-Shan-5_leaf-1,,Shan,5_leaf,pɨj,pɨj,p ɨ ʃ,,,51,,^ p ɨ j $,default,,,325.*pɨʔi
-Kat-5_leaf-1,,Kat,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-Poy-5_leaf-1,,Poy,5_leaf,puy,puy,p u j,,,51,,^ p u y $,default,,,325.*pɨʔi
-Ama-5_leaf-1,,Ama,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,,51,,^ p ɨ ʔ i $,default,,,325.*pɨʔi
-HanKax-5_leaf-1,,HanKax,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-Maw-5_leaf-1,,Maw,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-Yaw-5_leaf-1,,Yaw,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-Mat-5_leaf-1,,Mat,5_leaf,pɨi,pɨi,p ɨ i,,,51,,^ p ɨ i $,default,,,325.*pɨʔi
-MatMay-5_leaf-1,,MatMay,5_leaf,pɨ,pɨ,p ɨ,,,51,,^ p ɨ $,default,,,325.*pɨʔi
-Shan-6_bone-1,,Shan,6_bone,ʂaw,ʂaw,ʂ a w,See footnote 46.,,60,,^ ʂ a w $,default,,,398.*ʂao
-Kat-6_bone-1,,Kat,6_bone,ʃau,ʃau,ʃ a u,,,60,,^ ʃ a u $,default,,,398.*ʂao
-Poy-6_bone-1,,Poy,6_bone,haw,haw,h a w,,,60,,^ h a w $,default,,,398.*ʂao
-Ama-6_bone-1,,Ama,6_bone,xao,xao,x a o,,,60,,^ x a o $,default,,,398.*ʂao
-HanKax-6_bone-1,,HanKax,6_bone,ʂau,ʂau,ʂ a u,,,60,,^ ʂ a u $,default,,,398.*ʂao
-Maw-6_bone-1,,Maw,6_bone,ʂao,ʂao,ʂ a o,,,60,,^ ʂ a o $,default,,,398.*ʂao
-Yaw-6_bone-1,,Yaw,6_bone,ʃau,ʃau,ʃ a u,,,60,,^ ʃ a u $,default,,,398.*ʂao
-MatMay-6_bone-1,,MatMay,6_bone,"mɨ-ʂ,taɨ-ʂ,ʂomoʂ",mɨ,m ɨ,"'wrist bone','ankle bone','needle made of bone'",,60,,^ m ɨ $,default,,,398.*ʂao
-Shan-7_tongue-1,,Shan,7_tongue,ana,ana,a n a,,,70,,^ a n a $,default,,,47.*hana
-Kat-7_tongue-1,,Kat,7_tongue,ana,ana,a n a,,,70,,^ a n a $,default,,,47.*hana
-Poy-7_tongue-1,,Poy,7_tongue,ãda,ãda,ã d a,,,70,,^ ã d a $,default,,,47.*hana
-Ama-7_tongue-1,,Ama,7_tongue,hana,hana,h a n a,,,70,,^ h a n a $,default,,,47.*hana
-HanKax-7_tongue-1,,HanKax,7_tongue,hana,hana,h a n a,,,70,,^ h a n a $,default,,,47.*hana
-Maw-7_tongue-1,,Maw,7_tongue,ana,ana,a n a,,,70,,^ a n a $,default,,,47.*hana
-Yaw-7_tongue-1,,Yaw,7_tongue,anna,anna,a n n a,,,70,,^ a n n a $,default,,,47.*hana
-Kor-7_tongue-1,,Kor,7_tongue,ana,ana,a n a,,,70,,^ a n a $,default,,,47.*hana
-Mat-7_tongue-1,,Mat,7_tongue,ana,ana,a n a,,,70,,^ a n a $,default,,,47.*hana
-Ama-8_hand-1,,Ama,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,,14,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
-HanKax-8_hand-1,,HanKax,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,,14,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
-Maw-8_hand-1,,Maw,8_hand,mɨkɨ,mɨkɨ,m ɨ k ɨ,,,14,,^ m ɨ k ɨ $,default,,,*mɨ-
-Mat-8_hand-1,,Mat,8_hand,mɨkɨn,mɨkɨn,m ɨ k ɨ n,,,14,,^ m ɨ k ɨ n $,default,,,*mɨ-
-MatMay-8_hand-1,,MatMay,8_hand,mɨdante,mɨdante,m ɨ d a n t e,,,14,,^ m ɨ d a n t e $,default,,,*mɨ-
-Shan-9_night-1,,Shan,9_night,yamɨ,yamɨ,j a m ɨ,,,74,,^ y a m ɨ $,default,,,494.*yamɨtV
-Kat-9_night-1,,Kat,9_night,yamɨ,yamɨ,j a m ɨ,,,74,,^ y a m ɨ $,default,,,494.*yamɨtV
-Poy-9_night-1,,Poy,9_night,iãvu,iãvu,i ã v u,,,74,,^ i ã v u $,default,,,494.*yamɨtV
-Ama-9_night-1,,Ama,9_night,yamɨː,yamɨː,j a m ɨː,,,74,,^ y a m ɨː $,default,,,494.*yamɨtV
-HanKax-9_night-1,,HanKax,9_night,yamɨ,yamɨ,j a m ɨ,,,74,,^ y a m ɨ $,default,,,494.*yamɨtV
-Maw-9_night-1,,Maw,9_night,yamɨ,yamɨ,j a m ɨ,,,74,,^ y a m ɨ $,default,,,494.*yamɨtV
-Yaw-9_night-1,,Yaw,9_night,iamɨ,iamɨ,i a m ɨ,,,74,,^ i a m ɨ $,default,,,494.*yamɨtV
-Kor-9_night-1,,Kor,9_night,imɨt,imɨt,i m ɨ t,,,74,,^ i m ɨ t $,default,,,494.*yamɨtV
-Mat-9_night-1,,Mat,9_night,imɨd,imɨd,i m ɨ d,,,74,,^ i m ɨ d $,default,,,494.*yamɨtV
-Shan-10_skin-1,,Shan,10_skin,fitʃi,fitʃi,f i tʃ i,,,82,,^ f i tʃ i $,default,,,89.*βitsi
-HanKax-10_skin-1,,HanKax,10_skin,bitʃi,bitʃi,b i tʃ i,,,82,,^ b i tʃ i $,default,,,89.*βitsi
-Maw-10_skin-1,,Maw,10_skin,ɸitʃi,ɸitʃi,ɸ i tʃ i,,,82,,^ ɸ i tʃ i $,default,,,89.*βitsi
-Yaw-10_skin-1,,Yaw,10_skin,βɨtʃi,βɨtʃi,β ɨ tʃ i,,,82,,^ β ɨ tʃ i $,default,,,89.*βitsi
-Mat-10_skin-1,,Mat,10_skin,bitsi,bitsi,b i ts i,,,82,,^ b i ts i $,default,,,89.*βitsi
-MatMay-10_skin-1,,MatMay,10_skin,bitsi,bitsi,b i ts i,,,82,,^ b i ts i $,default,,,89.*βitsi
-Shan-11_fire-1,,Shan,11_fire,tʃi,tʃi,tʃ i,,,30,,^ tʃ i $,default,,,125.*tsiʔi
-Kat-11_fire-1,,Kat,11_fire,tʃii,tʃii,tʃ i i,,,30,,^ tʃ i i $,default,,,125.*tsiʔi
-Ama-11_fire-1,,Ama,11_fire,tʃiʔi,tʃiʔi,tʃ i ʔ i,,,30,,^ tʃ i ʔ i $,default,,,125.*tsiʔi
-HanKax-11_fire-1,,HanKax,11_fire,tʃi,tʃi,tʃ i,,,30,,^ tʃ i $,default,,,125.*tsiʔi
-Maw-11_fire-1,,Maw,11_fire,tʃi,tʃi,tʃ i,,,30,,^ tʃ i $,default,,,125.*tsiʔi
-Yaw-11_fire-1,,Yaw,11_fire,tʃi,tʃi,tʃ i,,,30,,^ tʃ i $,default,,,125.*tsiʔi
-Kat-12_knee-1,,Kat,12_knee,raβɨʂo,raβɨʂo,r a β ɨ ʂ o,,,55,,^ r a β ɨ ʂ o $,default,,,359.*rã-
-Ama-12_knee-1,,Ama,12_knee,rawoxko,rawoxko,r a w o x k o,,,55,,^ r a w o x k o $,default,,,359.*rã-
-Shan-13_blood-1,,Shan,13_blood,imi,imi,i m i,,,32,,^ i m i $,default,,,141.*himi
-Kat-13_blood-1,,Kat,13_blood,himi,himi,h i m i,,,32,,^ h i m i $,default,,,141.*himi
-Poy-13_blood-1,,Poy,13_blood,ibi,ibi,i b i,,,32,,^ i b i $,default,,,141.*himi
-Ama-13_blood-1,,Ama,13_blood,himi,himi,h i m i,,,32,,^ h i m i $,default,,,141.*himi
-HanKax-13_blood-1,,HanKax,13_blood,himi,himi,h i m i,,,32,,^ h i m i $,default,,,141.*himi
-Maw-13_blood-1,,Maw,13_blood,imi,imi,i m i,,,32,,^ i m i $,default,,,141.*himi
-Yaw-13_blood-1,,Yaw,13_blood,imi,imi,i m i,,,32,,^ i m i $,default,,,141.*himi
-Kor-13_blood-1,,Kor,13_blood,inta,inta,i n t a,,,32,,^ i n t a $,default,,,141.*himi
-Mat-13_blood-1,,Mat,13_blood,imi,imi,i m i,,,32,,^ i m i $,default,,,141.*himi
-MatMay-13_blood-1,,MatMay,13_blood,imi,imi,i m i,,,32,,^ i m i $,default,,,141.*himi
-Shan-14_breast-1,,Shan,14_breast,ʂuma,ʂuma,ʂ u m a,,,65,,^ ʂ u m a $,default,,,429.*ʂo
-Kat-14_breast-1,,Kat,14_breast,ʃuma,ʃuma,ʃ u m a,,,65,,^ ʃ u m a $,default,,,429.*ʂo
-Poy-14_breast-1,,Poy,14_breast,hũba,hũba,h ũ b a,,,65,,^ h ũ b a $,default,,,429.*ʂo
-Ama-14_breast-1,,Ama,14_breast,xoma,xoma,x o m a,,,65,,^ x o m a $,default,,,429.*ʂo
-HanKax-14_breast-1,,HanKax,14_breast,ʂuma,ʂuma,ʂ u m a,,,65,,^ ʂ u m a $,default,,,429.*ʂo
-Maw-14_breast-1,,Maw,14_breast,ʂoma,ʂoma,ʂ o m a,,,65,,^ ʂ o m a $,default,,,429.*ʂo
-Yaw-14_breast-1,,Yaw,14_breast,ʃuma,ʃuma,ʃ u m a,,,65,,^ ʃ u m a $,default,,,429.*ʂo
-Kor-14_breast-1,,Kor,14_breast,ʂuma,ʂuma,ʂ u m a,,,65,,^ ʂ u m a $,default,,,429.*ʂo
-Mat-14_breast-1,,Mat,14_breast,ʂuma,ʂuma,ʂ u m a,,,65,,^ ʂ u m a $,default,,,429.*ʂo
-MatMay-14_breast-1,,MatMay,14_breast,ʂuma,ʂuma,ʂ u m a,,,65,,^ ʂ u m a $,default,,,429.*ʂo
-Shan-15_sun-1,,Shan,15_sun,faɾi,faɾi,f a ɾ i,,,77,,^ f a ɾ i $,default,,,63.*βari
-Kat-15_sun-1,,Kat,15_sun,βaɾi,βaɾi,β a ɾ i,,,77,,^ β a ɾ i $,default,,,63.*βari
-Poy-15_sun-1,,Poy,15_sun,βaɾi,βaɾi,β a ɾ i,,,77,,^ β a ɾ i $,default,,,63.*βari
-Ama-15_sun-1,,Ama,15_sun,bari,bari,b a r i,,,77,,^ b a r i $,default,,,63.*βari
-HanKax-15_sun-1,,HanKax,15_sun,badi,badi,b a d i,,,77,,^ b a d i $,default,,,63.*βari
-Maw-15_sun-1,,Maw,15_sun,ɸaɾi,ɸaɾi,ɸ a ɾ i,,,77,,^ ɸ a ɾ i $,default,,,63.*βari
-Yaw-15_sun-1,,Yaw,15_sun,βaɾi,βaɾi,β a ɾ i,,,77,,^ β a ɾ i $,default,,,63.*βari
-Kor-15_sun-1,,Kor,15_sun,βaɬi,βaɬi,β a ɬ i,,,77,,^ β a ɬ i $,default,,,63.*βari
-Mat-15_sun-1,,Mat,15_sun,badi,badi,b a d i,,,77,,^ b a d i $,default,,,63.*βari
-MatMay-15_sun-1,,MatMay,15_sun,badiad,badiad,b a d i a d,,,77,,^ b a d i a d $,default,,,63.*βari
-Ama-16_you-1,,Ama,16_you,miya,miya,m i j a,,,44,,^ m i y a $,default,,,246.*mi
-HanKax-16_you-1,,HanKax,16_you,mia,mia,m i a,,,44,,^ m i a $,default,,,246.*mi
-Maw-16_you-1,,Maw,16_you,mia,mia,m i a,,,44,,^ m i a $,default,,,246.*mi
-Kor-16_you-1,,Kor,16_you,mi,mi,m i,,,44,,^ m i $,default,,,246.*mi
-Mat-16_you-1,,Mat,16_you,"mi (minbi,mibi,min)",mi_,m i <<_>>,,,44,,^ m i <_> $,default,,,246.*mi
-MatMay-16_you-1,,MatMay,16_you,"mi (minbi,mibi,min)",mi_,m i <<_>>,,,44,,^ m i <_> $,default,,,246.*mi
-Ama-17_come-1,,Ama,17_come,βɨ-,βɨ,β ɨ,,,78,,^ β ɨ $,default,,,70.*βɨ-
-HanKax-17_come-1,,HanKax,17_come,bɨ-,bɨ,b ɨ,,,78,,^ b ɨ $,default,,,70.*βɨ-
-Maw-17_come-1,,Maw,17_come,ɸɨ-,ɸɨ,ɸ ɨ,,,78,,^ ɸ ɨ $,default,,,70.*βɨ-
-Yaw-17_come-1,,Yaw,17_come,βɨ-,βɨ,β ɨ,,,78,,^ β ɨ $,default,,,70.*βɨ-
-Kor-17_come-1,,Kor,17_come,βɨ-,βɨ,β ɨ,,,78,,^ β ɨ $,default,,,70.*βɨ-
-Mat-17_come-1,,Mat,17_come,βɨ-,βɨ,β ɨ,,,78,,^ β ɨ $,default,,,70.*βɨ-
-MatMay-17_come-1,,MatMay,17_come,bɨ-,bɨ,b ɨ,,,78,,^ b ɨ $,default,,,70.*βɨ-
-Ama-18_i-1,,Ama,18_i,ɨ,ɨ,ɨ,,,28,,^ ɨ $,default,,,11.*ʔɨ
-HanKax-18_i-1,,HanKax,18_i,ɨ,ɨ,ɨ,,,28,,^ ɨ $,default,,,11.*ʔɨ
-Maw-18_i-1,,Maw,18_i,ɨ,ɨ,ɨ,,,28,,^ ɨ $,default,,,11.*ʔɨ
-Shan-19_flesh-1,,Shan,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Kat-19_flesh-1,,Kat,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Poy-19_flesh-1,,Poy,19_flesh,nãbi,nãbi,n ã b i,,,45,,^ n ã b i $,default,,,258.*nami
-Ama-19_flesh-1,,Ama,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-HanKax-19_flesh-1,,HanKax,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Maw-19_flesh-1,,Maw,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Yaw-19_flesh-1,,Yaw,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Mat-19_flesh-1,,Mat,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-MatMay-19_flesh-1,,MatMay,19_flesh,nami,nami,n a m i,,,45,,^ n a m i $,default,,,258.*nami
-Shan-20_fat-1,,Shan,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Kat-20_fat-1,,Kat,20_fat,ʃɨni,ʃɨni,ʃ ɨ n i,,,62,,^ ʃ ɨ n i $,default,,,412.*ʂɨni
-Poy-20_fat-1,,Poy,20_fat,hãdi,hãdi,h ã d i,,,62,,^ h ã d i $,default,,,412.*ʂɨni
-Ama-20_fat-1,,Ama,20_fat,xɨni,xɨni,x ɨ n i,,,62,,^ x ɨ n i $,default,,,412.*ʂɨni
-HanKax-20_fat-1,,HanKax,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Maw-20_fat-1,,Maw,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Yaw-20_fat-1,,Yaw,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Kor-20_fat-1,,Kor,20_fat,ʃɨni,ʃɨni,ʃ ɨ n i,,,62,,^ ʃ ɨ n i $,default,,,412.*ʂɨni
-Mat-20_fat-1,,Mat,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,,62,,^ ʂ ɨ n i $,default,,,412.*ʂɨni
-Shan-21_fingernail-1,,Shan,21_fingernail,mɨtʃiʃi,mɨtʃiʃi,m ɨ tʃ i ʃ i,,,40,,^ m ɨ tʃ i ʃ i $,default,,,239.*mɨ̃-tsis[i]
-Kat-21_fingernail-1,,Kat,21_fingernail,mɨ̃tʃiʃi,mɨ̃tʃiʃi,m ɨ̃ tʃ i ʃ i,,,40,,^ m ɨ̃ tʃ i ʃ i $,default,,,239.*mɨ̃-tsis[i]
-Ama-21_fingernail-1,,Ama,21_fingernail,mɨntsis,mɨntsis,m ɨ n ts i s,,,40,,^ m ɨ n ts i s $,default,,,239.*mɨ̃-tsis[i]
-HanKax-21_fingernail-1,,HanKax,21_fingernail,mɨ̃tsis,mɨ̃tsis,m ɨ̃ ts i s,,,40,,^ m ɨ̃ ts i s $,default,,,239.*mɨ̃-tsis[i]
-Maw-21_fingernail-1,,Maw,21_fingernail,mɨ̃tsisi,mɨ̃tsisi,m ɨ̃ ts i s i,,,40,,^ m ɨ̃ ts i s i $,default,,,239.*mɨ̃-tsis[i]
-Yaw-21_fingernail-1,,Yaw,21_fingernail,mɨtsisi,mɨtsisi,m ɨ ts i s i,,,40,,^ m ɨ ts i s i $,default,,,239.*mɨ̃-tsis[i]
-Kor-21_fingernail-1,,Kor,21_fingernail,mɨtʃiun,mɨtʃiun,m ɨ tʃ i u n,,,40,,^ m ɨ tʃ i u n $,default,,,239.*mɨ̃-tsis[i]
-Mat-21_fingernail-1,,Mat,21_fingernail,mɨntis,mɨntis,m ɨ n t i s,,,40,,^ m ɨ n t i s $,default,,,239.*mɨ̃-tsis[i]
-MatMay-21_fingernail-1,,MatMay,21_fingernail,mɨntsis,mɨntsis,m ɨ n ts i s,,,40,,^ m ɨ n ts i s $,default,,,239.*mɨ̃-tsis[i]
-Shan-22_footleg-1,,Shan,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-Kat-22_footleg-1,,Kat,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-Poy-22_footleg-1,,Poy,22_footleg,tay,tay,t a j,,,18,,^ t a y $,default,,,*ta-
-Ama-22_footleg-1,,Ama,22_footleg,taʔɨ,taʔɨ,t a ʔ ɨ,,,18,,^ t a ʔ ɨ $,default,,,*ta-
-HanKax-22_footleg-1,,HanKax,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-Maw-22_footleg-1,,Maw,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-Yaw-22_footleg-1,,Yaw,22_footleg,tai,tai,t a i,,,18,,^ t a i $,default,,,*ta-
-Kor-22_footleg-1,,Kor,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-Mat-22_footleg-1,,Mat,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-MatMay-22_footleg-1,,MatMay,22_footleg,taɨ,taɨ,t a ɨ,,,18,,^ t a ɨ $,default,,,*ta-
-HanKax-23_lipedge-1,,HanKax,23_lipedge,kɨbitʃi,kɨbitʃi,k ɨ b i tʃ i,,,35,,^ k ɨ b i tʃ i $,default,,,155.*kʷɨ-
-MatMay-23_lipedge-1,,MatMay,23_lipedge,kwibi,kwibi,kʷ i b i,,,35,,^ kwi b i $,default,,,155.*kʷɨ-
-Kat-24_cheek-1,,Kat,24_cheek,tamu,tamu,t a m u,,,67,,^ t a m u $,default,,,440.*tamo
-Poy-24_cheek-1,,Poy,24_cheek,tãbu,tãbu,t ã b u,,,67,,^ t ã b u $,default,,,440.*tamo
-Ama-24_cheek-1,,Ama,24_cheek,tamo,tamo,t a m o,,,67,,^ t a m o $,default,,,440.*tamo
-HanKax-24_cheek-1,,HanKax,24_cheek,tamu,tamu,t a m u,,,67,,^ t a m u $,default,,,440.*tamo
-Maw-24_cheek-1,,Maw,24_cheek,tamo,tamo,t a m o,,,67,,^ t a m o $,default,,,440.*tamo
-MatMay-24_cheek-1,,MatMay,24_cheek,tambu,tambu,t a m b u,'beard',,67,,^ t a m b u $,default,,,440.*tamo
-Shan-25_mouth-1,,Shan,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,,36,,^ k ɨ ʂ a $,default,,,158.*kʷɨʂa[CV]
-Kat-25_mouth-1,,Kat,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,,36,,^ k ɨ ʂ a $,default,,,158.*kʷɨʂa[CV]
-Poy-25_mouth-1,,Poy,25_mouth,kɨxaa,kɨxaa,k ɨ x a a,,,36,,^ k ɨ x a a $,default,,,158.*kʷɨʂa[CV]
-Ama-25_mouth-1,,Ama,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,,36,,^ k ɨ ʂ a $,default,,,158.*kʷɨʂa[CV]
-HanKax-25_mouth-1,,HanKax,25_mouth,kɨʂ̃ã,kɨʂ̃ã,k ɨ ʂ <<̃>> ã,,,36,,^ k ɨ ʂ <̃> ã $,default,,,158.*kʷɨʂa[CV]
-Maw-25_mouth-1,,Maw,25_mouth,kɨʃa,kɨʃa,k ɨ ʃ a,,,36,,^ k ɨ ʃ a $,default,,,158.*kʷɨʂa[CV]
-Yaw-25_mouth-1,,Yaw,25_mouth,kɨha,kɨha,k ɨ h a,,,36,,^ k ɨ h a $,default,,,158.*kʷɨʂa[CV]
-Ama-26_elbow-1,,Ama,26_elbow,vapoxko,vapoxko,v a p o x k o,,,22,,^ v a p o x k o $,default,,,*βaʂ(u)-
-HanKax-26_elbow-1,,HanKax,26_elbow,baʂtunku,baʂtunku,b a ʂ t u n k u,,,22,,^ b a ʂ t u n k u $,default,,,*βaʂ(u)-
-Mat-26_elbow-1,,Mat,26_elbow,mɨntʂinβuru,mɨntʂinβuru,m ɨ n tʂ i n β u r u,,,22,,^ m ɨ n tʂ i n β u r u $,default,,,*βaʂ(u)-
-MatMay-26_elbow-1,,MatMay,26_elbow,mɨntsimpis,mɨntsimpis,m ɨ n ts i m p i s,,,22,,^ m ɨ n ts i m p i s $,default,,,*βaʂ(u)-
-ProTa-1_tree-1,,ProTa,1_tree,akʷi,akʷi,a kʷ i,,,81,,^ a kʷ i $,default,,,8.*akʷi
-Tac-1_tree-1,,Tac,1_tree,aki,aki,a k i,,,81,,^ a k i $,default,,,8.*akʷi
-ReyMar-1_tree-1,,ReyMar,1_tree,-/ekená,ekená,e k e n a/á,,,81,,^ e k e n á $,default,,,8.*akʷi
-Aro-1_tree-1,,Aro,1_tree,acui,acui,a kʷ i,,,81,,^ a cui $,default,,,8.*akʷi
-Mab-1_tree-1,,Mab,1_tree,akwi,akwi,a kʷ i,,,81,,^ a kwi $,default,,,8.*akʷi
-Cav-1_tree-1,,Cav,1_tree,akwi,akwi,a kʷ i,,,81,,^ a kwi $,default,,,8.*akʷi
-Ese-1_tree-1,,Ese,1_tree,akwi,akwi,a kʷ i,,,81,,^ a kwi $,default,,,8.*akʷi
-War-1_tree-1,,War,1_tree,akwi,akwi,a kʷ i,,,81,,^ a kwi $,default,,,8.*akʷi
-Ara-1_tree-1,,Ara,1_tree,akui,akui,a kʷ i,,,81,,^ a kui $,default,,,8.*akʷi
-ProTa-2_tooth-1,,ProTa,2_tooth,e-ce,e,e,,,85,,^ e $,default,,,98.*tʂe-
-ReyMar-2_tooth-1,,ReyMar,2_tooth,e-ce/etre,e,e,,,85,,^ e $,default,,,98.*tʂe-
-Sap-2_tooth-1,,Sap,2_tooth,echee,echee,e tʃ e e,,,85,,^ e ch e e $,default,,,98.*tʂe-
-Mab-2_tooth-1,,Mab,2_tooth,itsi,itsi,i ts i,,,85,,^ i ts i $,default,,,98.*tʂe-
-Cav-2_tooth-1,,Cav,2_tooth,e-ce,e,e,,,85,,^ e $,default,,,98.*tʂe-
-Ese-2_tooth-1,,Ese,2_tooth,e-se,e,e,,,85,,^ e $,default,,,98.*tʂe-
-War-2_tooth-1,,War,2_tooth,e-sé,e,e,,,85,,^ e $,default,,,98.*tʂe-
-Tia-2_tooth-1,,Tia,2_tooth,ese,ese,e s e,,,85,,^ e s e $,default,,,98.*tʂe-
-Cham-2_tooth-1,,Cham,2_tooth,e-sé,e,e,,,85,,^ e $,default,,,98.*tʂe-
-Ara-2_tooth-1,,Ara,2_tooth,ese,ese,e s e,,,85,,^ e s e $,default,,,98.*tʂe-
-ProTa-3_two-1,,ProTa,3_two,beta,beta,b e t a,,,76,,^ b e t a $,default,,,61.*beta
-Tac-3_two-1,,Tac,3_two,beta,beta,b e t a,,,76,,^ b e t a $,default,,,61.*beta
-ReyMar-3_two-1,,ReyMar,3_two,mbeta/beta,mbeta,m b e t a,,,76,,^ m b e t a $,default,,,61.*beta
-Sap-3_two-1,,Sap,3_two,beta,beta,b e t a,,,76,,^ b e t a $,default,,,61.*beta
-Aro-3_two-1,,Aro,3_two,beta,beta,b e t a,,,76,,^ b e t a $,default,,,61.*beta
-Cav-3_two-1,,Cav,3_two,beta,beta,b e t a,,,76,,^ b e t a $,default,,,61.*beta
-Ese-3_two-1,,Ese,3_two,beka,beka,b e k a,,,76,,^ b e k a $,default,,,61.*beta
-War-3_two-1,,War,3_two,beabué,beabué,b e a b u e/é,,,76,,^ b e a b u é $,default,,,61.*beta
-Tia-3_two-1,,Tia,3_two,bikapiai,bikapiai,b i k a p i a i,,,76,,^ b i k a p i a i $,default,,,61.*beta
-Cham-3_two-1,,Cham,3_two,béka,béka,b e/é k a,,,76,,^ b é k a $,default,,,61.*beta
-ProTa-4_liver-1,,ProTa,4_liver,takʷa,takʷa,t a kʷ a,,,61,,^ t a kʷ a $,default,,,403.*takʷa
-Tac-4_liver-1,,Tac,4_liver,e-takwa,e,e,,,61,,^ e $,default,,,403.*takʷa
-ReyMar-4_liver-1,,ReyMar,4_liver,e-takwa/-,e,e,,,61,,^ e $,default,,,403.*takʷa
-Cav-4_liver-1,,Cav,4_liver,e-takwa,e,e,,,61,,^ e $,default,,,403.*takʷa
-Ese-4_liver-1,,Ese,4_liver,e-kakwa,e,e,,,61,,^ e $,default,,,403.*takʷa
-War-4_liver-1,,War,4_liver,e-takwe,e,e,,,61,,^ e $,default,,,403.*takʷa
-Ara-4_liver-1,,Ara,4_liver,etákua,etákua,e t a/á kʷ a,,,61,,^ e t á kua $,default,,,403.*takʷa
-ProTa-27_tofan-1,,ProTa,27_tofan,pei,pei,p e i,,,53,,^ p e i $,default,,,337.*pei
-Cav-27_tofan-1,,Cav,27_tofan,pei-,pei,p e i,,,53,,^ p e i $,default,,,337.*pei
-Ese-27_tofan-1,,Ese,27_tofan,e-pexi,e,e,,,53,,^ e $,default,,,337.*pei
-War-27_tofan-1,,War,27_tofan,pio-,pio,p i o,,,53,,^ p i o $,default,,,337.*pei
-ProTa-6_bone-1,,ProTa,6_bone,tʂau,tʂau,tʂ a u,,,84,,^ tʂ a u $,default,,,96.*tʂau
-Tac-6_bone-1,,Tac,6_bone,e-cau,e,e,,,84,,^ e $,default,,,96.*tʂau
-ReyMar-6_bone-1,,ReyMar,6_bone,e-cao/etrá,e,e,,,84,,^ e $,default,,,96.*tʂau
-Cav-6_bone-1,,Cav,6_bone,e-cao,e,e,,,84,,^ e $,default,,,96.*tʂau
-Ese-6_bone-1,,Ese,6_bone,e-sá,e,e,,,84,,^ e $,default,,,96.*tʂau
-War-6_bone-1,,War,6_bone,e-sá,e,e,,,84,,^ e $,default,,,96.*tʂau
-ProTa-7_tongue-1,,ProTa,7_tongue,ana,ana,a n a,,,29,,^ a n a $,default,,,12.*ana
-Tac-7_tongue-1,,Tac,7_tongue,y-ana,y,j,,,29,,^ y $,default,,,12.*ana
-ReyMar-7_tongue-1,,ReyMar,7_tongue,y-ana/eana,y,j,,,29,,^ y $,default,,,12.*ana
-Sap-7_tongue-1,,Sap,7_tongue,eana,eana,e a n a,,,29,,^ e a n a $,default,,,12.*ana
-Cav-7_tongue-1,,Cav,7_tongue,y-ana,y,j,,,29,,^ y $,default,,,12.*ana
-Ese-7_tongue-1,,Ese,7_tongue,eyana,eyana,e j a n a,,,29,,^ e y a n a $,default,,,12.*ana
-War-7_tongue-1,,War,7_tongue,y-ana,y,j,,,29,,^ y $,default,,,12.*ana
-Tia-7_tongue-1,,Tia,7_tongue,yana,yana,j a n a,,,29,,^ y a n a $,default,,,12.*ana
-Ara-7_tongue-1,,Ara,7_tongue,eána,eána,e a/á n a,,,29,,^ e á n a $,default,,,12.*ana
-ProTa-8_hand-1,,ProTa,8_hand,me-,me,m e,,,46,,^ m e $,default,,,282.*me-
-Tac-8_hand-1,,Tac,8_hand,e-me,e,e,,,46,,^ e $,default,,,282.*me-
-ReyMar-8_hand-1,,ReyMar,8_hand,-/emechuja,emechuja,e m e tʃ u ʃ a,,,46,,^ e m e ch u j a $,default,,,282.*me-
-Sap-8_hand-1,,Sap,8_hand,eme,eme,e m e,,,46,,^ e m e $,default,,,282.*me-
-Aro-8_hand-1,,Aro,8_hand,eme,eme,e m e,,,46,,^ e m e $,default,,,282.*me-
-Cav-8_hand-1,,Cav,8_hand,e-me,e,e,,,46,,^ e $,default,,,282.*me-
-Ese-8_hand-1,,Ese,8_hand,e-me,e,e,,,46,,^ e $,default,,,282.*me-
-War-8_hand-1,,War,8_hand,e-mé,e,e,,,46,,^ e $,default,,,282.*me-
-Ara-8_hand-1,,Ara,8_hand,emã,emã,e m ã,,,46,,^ e m ã $,default,,,282.*me-
-ProTa-28_nighttomorrow-1,,ProTa,28_nighttomorrow,meta,meta,m e t a,,,49,,^ m e t a $,default,,,290.*meta
-Tac-28_nighttomorrow-1,,Tac,28_nighttomorrow,mueta,mueta,m u e t a,,,49,,^ m u e t a $,default,,,290.*meta
-ReyMar-28_nighttomorrow-1,,ReyMar,28_nighttomorrow,-/maita,maita,m a i t a,,,49,,^ m a i t a $,default,,,290.*meta
-Sap-28_nighttomorrow-1,,Sap,28_nighttomorrow,maetahe,maetahe,m a e t a h e,,,49,,^ m a e t a h e $,default,,,290.*meta
-Cav-28_nighttomorrow-1,,Cav,28_nighttomorrow,meta,meta,m e t a,,,49,,^ m e t a $,default,,,290.*meta
-Ese-28_nighttomorrow-1,,Ese,28_nighttomorrow,meka-waxe,meka,m e k a,,,49,,^ m e k a $,default,,,290.*meta
-Ara-28_nighttomorrow-1,,Ara,28_nighttomorrow,eméte,eméte,e m e/é t e,,,49,,^ e m é t e $,default,,,290.*meta
-ProTa-10_skin-1,,ProTa,10_skin,biti,biti,b i t i,,,79,,^ b i t i $,default,,,72.*biti
-Tac-10_skin-1,,Tac,10_skin,e-biti,e,e,,,79,,^ e $,default,,,72.*biti
-ReyMar-10_skin-1,,ReyMar,10_skin,e-mbiti/embiti,e,e,,,79,,^ e $,default,,,72.*biti
-Cav-10_skin-1,,Cav,10_skin,e-biti,e,e,,,79,,^ e $,default,,,72.*biti
-ProTa-11_fire-1,,ProTa,11_fire,ti,ti,t i,,,20,,^ t i $,default,,,*ti
-Tac-11_fire-1,,Tac,11_fire,e-ti-ře,e,e,,,20,,^ e $,default,,,*ti
-ReyMar-11_fire-1,,ReyMar,11_fire,-ti-/-,ti,t i,,,20,,^ t i $,default,,,*ti
-Aro-11_fire-1,,Aro,11_fire,etesi,etesi,e t e s i,,,20,,^ e t e s i $,default,,,*ti
-Cav-11_fire-1,,Cav,11_fire,e-tiki,e,e,,,20,,^ e $,default,,,*ti
-ProTa-12_knee-1,,ProTa,12_knee,da,da,d a,,,31,,^ d a $,default,,,128.*da
-Tac-12_knee-1,,Tac,12_knee,e-ma-da-cua,e,e,,,31,,^ e $,default,,,128.*da
-ProTa-13_blood-1,,ProTa,13_blood,ami,ami,a m i,,,27,,^ a m i $,default,,,11.*ami
-Tac-13_blood-1,,Tac,13_blood,ami,ami,a m i,,,27,,^ a m i $,default,,,11.*ami
-ReyMar-13_blood-1,,ReyMar,13_blood,ami/ami,ami,a m i,,,27,,^ a m i $,default,,,11.*ami
-Cav-13_blood-1,,Cav,13_blood,ami,ami,a m i,,,27,,^ a m i $,default,,,11.*ami
-ProTa-14_breast-1,,ProTa,14_breast,aṭṣu,aṭṣu,a ts u,,,75,,^ a ṭṣ u $,default,,,53.*aṭṣu
-ProTa-29_moon-1,,ProTa,29_moon,badi,badi,b a d i,,,58,,^ b a d i $,default,,,37.*badi
-Tac-29_moon-1,,Tac,29_moon,badi,badi,b a d i,,,58,,^ b a d i $,default,,,37.*badi
-ReyMar-29_moon-1,,ReyMar,29_moon,mbandzi/bansri,mbandzi,m b a n dz i,,,58,,^ m b a n dz i $,default,,,37.*badi
-Sap-29_moon-1,,Sap,29_moon,bari,bari,b a r i,,,58,,^ b a r i $,default,,,37.*badi
-Aro-29_moon-1,,Aro,29_moon,badi,badi,b a d i,,,58,,^ b a d i $,default,,,37.*badi
-Cav-29_moon-1,,Cav,29_moon,badi,badi,b a d i,,,58,,^ b a d i $,default,,,37.*badi
-Ese-29_moon-1,,Ese,29_moon,baʔi,baʔi,b a ʔ i,,,58,,^ b a ʔ i $,default,,,37.*badi
-Cham-29_moon-1,,Cham,29_moon,mái,mái,m a/á i,,,58,,^ m á i $,default,,,37.*badi
-ProTa-16_you-1,,ProTa,16_you,mi,mi,m i,,,50,,^ m i $,default,,,292.*mi
-Tac-16_you-1,,Tac,16_you,mi-ke,mi,m i,,,50,,^ m i $,default,,,292.*mi
-ReyMar-16_you-1,,ReyMar,16_you,mibe/mive,mibe,m i b e,,,50,,^ m i b e $,default,,,292.*mi
-Aro-16_you-1,,Aro,16_you,mitya,mitya,m i t j a,,,50,,^ m i t y a $,default,,,292.*mi
-Cav-16_you-1,,Cav,16_you,mi-kwana,mi,m i,,,50,,^ m i $,default,,,292.*mi
-Ese-16_you-1,,Ese,16_you,mi-a,mi,m i,,,50,,^ m i $,default,,,292.*mi
-Ara-16_you-1,,Ara,16_you,mikia,mikia,m i k i a,,,50,,^ m i k i a $,default,,,292.*mi
-ProTa-17_come-1,,ProTa,17_come,be-,be,b e,'bring',,11,,^ b e $,default,,,*be-
-ProTa-18_i-1,,ProTa,18_i,e,e,e,,,34,,^ e $,default,,,151.*e
-Tac-18_i-1,,Tac,18_i,e-ma,e,e,,,34,,^ e $,default,,,151.*e
-ReyMar-18_i-1,,ReyMar,18_i,e-me/éme,e,e,,,34,,^ e $,default,,,151.*e
-Aro-18_i-1,,Aro,18_i,"ema,yama",ema,e m a,,,34,,^ e m a $,default,,,151.*e
-Cav-18_i-1,,Cav,18_i,e-ra,e,e,,,34,,^ e $,default,,,151.*e
-Ese-18_i-1,,Ese,18_i,"ea,eyaya",ea,e a,,,34,,^ e a $,default,,,151.*e
-ProTa-19_flesh-1,,ProTa,19_flesh,ɾami,ɾami,ɾ a m i,,,57,,^ ɾ a m i $,default,,,362.*ɾami
-Tac-19_flesh-1,,Tac,19_flesh,yami,yami,j a m i,,,57,,^ y a m i $,default,,,362.*ɾami
-ReyMar-19_flesh-1,,ReyMar,19_flesh,yami/eami,yami,j a m i,,,57,,^ y a m i $,default,,,362.*ɾami
-Aro-19_flesh-1,,Aro,19_flesh,yami,yami,j a m i,,,57,,^ y a m i $,default,,,362.*ɾami
-Cav-19_flesh-1,,Cav,19_flesh,e-rami,e,e,,,57,,^ e $,default,,,362.*ɾami
-Ese-19_flesh-1,,Ese,19_flesh,eyami,eyami,e j a m i,,,57,,^ e y a m i $,default,,,362.*ɾami
-War-19_flesh-1,,War,19_flesh,eyami,eyami,e j a m i,,,57,,^ e y a m i $,default,,,362.*ɾami
-Ara-19_flesh-1,,Ara,19_flesh,éami,éami,e/é a m i,,,57,,^ é a m i $,default,,,362.*ɾami
-ProTa-20_fat-1,,ProTa,20_fat,ṭṣeri,ṭṣeri,ts e r i,,,26,,^ ṭṣ e r i $,default,,,105.*ṭṣeri
-Tac-20_fat-1,,Tac,20_fat,e-cei,e,e,,,26,,^ e $,default,,,105.*ṭṣeri
-Cav-20_fat-1,,Cav,20_fat,e-ceri,e,e,,,26,,^ e $,default,,,105.*ṭṣeri
-Ese-20_fat-1,,Ese,20_fat,e-sei,e,e,,,26,,^ e $,default,,,105.*ṭṣeri
-Ara-20_fat-1,,Ara,20_fat,ésey,ésey,e/é s e j,,,26,,^ é s e y $,default,,,105.*ṭṣeri
-ProTa-21_fingernail-1,,ProTa,21_fingernail,metiji,metiji,m e t i ʃ i,,,13,,^ m e t i j i $,default,,,*metiji
-Tac-21_fingernail-1,,Tac,21_fingernail,e-me-haca,e,e,,,13,,^ e $,default,,,*metiji
-ReyMar-21_fingernail-1,,ReyMar,21_fingernail,"-/emechuja,emetichi",emechuja,e m e tʃ u ʃ a,"'fingers','nails'",,13,,^ e m e ch u j a $,default,,,*metiji
-Cav-21_fingernail-1,,Cav,21_fingernail,e-me-šoro,e,e,'nail',,13,,^ e $,default,,,*metiji
-Ese-21_fingernail-1,,Ese,21_fingernail,e-me-kiše,e,e,'nail',,13,,^ e $,default,,,*metiji
-ProTa-22_footleg-1,,ProTa,22_footleg,ta-,ta,t a,'leg',,59,,^ t a $,default,,,398.*ta-
-Tac-22_footleg-1,,Tac,22_footleg,e-ta-buce,e,e,'shin bone',,59,,^ e $,default,,,398.*ta-
-Mab-22_footleg-1,,Mab,22_footleg,itha,itha,i tʰ a,,,59,,^ i th a $,default,,,398.*ta-
-Cav-22_footleg-1,,Cav,22_footleg,awa-taka,awa,a w a,'tapir-foot (plant)',,59,,^ a w a $,default,,,398.*ta-
-ProTa-23_lipedge-1,,ProTa,23_lipedge,kʷe(i)-,kʷe,kʷ e,,,43,,^ kʷ e $,default,,,243.*kʷe(i)-
-Tac-23_lipedge-1,,Tac,23_lipedge,e-ke-ke,e,e,,,43,,^ e $,default,,,243.*kʷe(i)-
-ReyMar-23_lipedge-1,,ReyMar,23_lipedge,kwesa/euesa,kwesa,kʷ e s a,'beard'/'beard',,43,,^ kw e s a $,default,,,243.*kʷe(i)-
-Cav-23_lipedge-1,,Cav,23_lipedge,kwesa,kwesa,kʷ e s a,'beard',,43,,^ kw e s a $,default,,,243.*kʷe(i)-
-Ese-23_lipedge-1,,Ese,23_lipedge,e-kwe-ša,e,e,'beard',,43,,^ e $,default,,,243.*kʷe(i)-
-ProTa-24_cheek-1,,ProTa,24_cheek,tamu,tamu,t a m u,,,19,,^ t a m u $,default,,,*tamu
-ReyMar-24_cheek-1,,ReyMar,24_cheek,ebu-tamu/-,ebu,e b u,,,19,,^ e b u $,default,,,*tamu
-Cav-24_cheek-1,,Cav,24_cheek,-tamu,tamu,t a m u,,,19,,^ t a m u $,default,,,*tamu
-Ese-24_cheek-1,,Ese,24_cheek,-shemo,shemo,ʃ e m o,,,19,,^ sh e m o $,default,,,*tamu
-ProTa-25_mouth-1,,ProTa,25_mouth,kʷatʂa,kʷatʂa,kʷ a tʂ a,,,39,,^ kʷ a tʂ a $,default,,,232.*kʷatʂa
-Tac-25_mouth-1,,Tac,25_mouth,e-kwaca,e,e,,,39,,^ e $,default,,,232.*kʷatʂa
-ReyMar-25_mouth-1,,ReyMar,25_mouth,e-kwaca/ekuatra,e,e,,,39,,^ e $,default,,,232.*kʷatʂa
-Sap-25_mouth-1,,Sap,25_mouth,ecuacha,ecuacha,e kʷ a tʃ a,,,39,,^ e cua ch a $,default,,,232.*kʷatʂa
-Mab-25_mouth-1,,Mab,25_mouth,ikwatsa,ikwatsa,i kʷ a ts a,,,39,,^ i kw a ts a $,default,,,232.*kʷatʂa
-Cav-25_mouth-1,,Cav,25_mouth,e-kwaca,e,e,,,39,,^ e $,default,,,232.*kʷatʂa
-Ese-25_mouth-1,,Ese,25_mouth,e-kwasa,e,e,,,39,,^ e $,default,,,232.*kʷatʂa
-War-25_mouth-1,,War,25_mouth,e-kwasa,e,e,,,39,,^ e $,default,,,232.*kʷatʂa
-ProTa-26_elbow-1,,ProTa,26_elbow,-baṭṣu,baṭṣu,b a ts u,,,48,,^ b a ṭṣ u $,default,,,29.-baṭṣu
-Tac-26_elbow-1,,Tac,26_elbow,e-ba-cu,e,e,,,48,,^ e $,default,,,29.-baṭṣu
-ReyMar-26_elbow-1,,ReyMar,26_elbow,e-mba-co/-,e,e,,,48,,^ e $,default,,,29.-baṭṣu
-Ese-26_elbow-1,,Ese,26_elbow,e-bašo,e,e,,,48,,^ e $,default,,,29.-baṭṣu
-War-26_elbow-1,,War,26_elbow,e-bašo,e,e,,,48,,^ e $,default,,,29.-baṭṣu
-Tia-26_elbow-1,,Tia,26_elbow,wacu,wacu,w a tʂ u,,,48,,^ w a c u $,default,,,29.-baṭṣu
-Ara-26_elbow-1,,Ara,26_elbow,ebaša,ebaša,e b a ʃ a,,,48,,^ e b a š a $,default,,,29.-baṭṣu
-ProPa-30_1stsgi-1,,ProPa,30_1stsgi,ʔɨ,ʔɨ,ʔ ɨ,,,28,,^ ʔ ɨ $,default,,,11.*ʔɨ
-Ksh-30_1stsgi-1,,Ksh,30_1stsgi,ʔɨ,ʔɨ,ʔ ɨ,,,28,,^ ʔ ɨ $,default,,,11.*ʔɨ
-SK-30_1stsgi-1,,SK,30_1stsgi,ʔɨ,ʔɨ,ʔ ɨ,,,28,,^ ʔ ɨ $,default,,,11.*ʔɨ
-Kap-30_1stsgi-1,,Kap,30_1stsgi,ʔɨ,ʔɨ,ʔ ɨ,,,28,,^ ʔ ɨ $,default,,,11.*ʔɨ
-Chak-30_1stsgi-1,,Chak,30_1stsgi,ɨ,ɨ,ɨ,,,28,,^ ɨ $,default,,,11.*ʔɨ
-Yam-30_1stsgi-1,,Yam,30_1stsgi,ɨ̃,ɨ̃,ɨ̃,,,28,,^ ɨ̃ $,default,,,11.*ʔɨ
-ProPa-31_2ndsgyou-1,,ProPa,31_2ndsgyou,mi,mi,m i,,,44,,^ m i $,default,,,246.*mi
-Ksh-31_2ndsgyou-1,,Ksh,31_2ndsgyou,mii,mii,m i i,,,44,,^ m i i $,default,,,246.*mi
-SK-31_2ndsgyou-1,,SK,31_2ndsgyou,mia,mia,m i a,,,44,,^ m i a $,default,,,246.*mi
-Kap-31_2ndsgyou-1,,Kap,31_2ndsgyou,mia,mia,m i a,,,44,,^ m i a $,default,,,246.*mi
-Chak-31_2ndsgyou-1,,Chak,31_2ndsgyou,mia,mia,m i a,object form,,44,,^ m i a $,default,,,246.*mi
-Yam-31_2ndsgyou-1,,Yam,31_2ndsgyou,mĩ,mĩ,m ĩ,,,44,,^ m ĩ $,default,,,246.*mi
-ProPa-32_demonstrativedistal-1,,ProPa,32_demonstrativedistal,ʔo-,ʔo,ʔ o,,,21,,^ ʔ o $,default,,,*ʔo-
-Ksh-32_demonstrativedistal-1,,Ksh,32_demonstrativedistal,"un (A),ux (S),u (O)",un_,u n <<_>>,,,21,,^ u n <_> $,default,,,*ʔo-
-SK-32_demonstrativedistal-1,,SK,32_demonstrativedistal,oa,oa,o a,,,21,,^ o a $,default,,,*ʔo-
-Chak-32_demonstrativedistal-1,,Chak,32_demonstrativedistal,oa,oa,o a,,,21,,^ o a $,default,,,*ʔo-
-Yam-32_demonstrativedistal-1,,Yam,32_demonstrativedistal,oa,oa,o a,,,21,,^ o a $,default,,,*ʔo-
-ProPa-33_demonstrativeproximate-1,,ProPa,33_demonstrativeproximate,nɨ-,nɨ,n ɨ,,,15,,^ n ɨ $,default,,,*nɨ-
-Ksh-33_demonstrativeproximate-1,,Ksh,33_demonstrativeproximate,"ɨnɨn (A),ɨnɨx (S),ɨnɨ (O)",ɨnɨn_,ɨ n ɨ n <<_>>,,,15,,^ ɨ n ɨ n <_> $,default,,,*nɨ-
-SK-33_demonstrativeproximate-1,,SK,33_demonstrativeproximate,nɨ-~nato,nɨ,n ɨ,,,15,,^ n ɨ $,default,,,*nɨ-
-Chak-33_demonstrativeproximate-1,,Chak,33_demonstrativeproximate,"noa,toa",noa,n o a,,,15,,^ n o a $,default,,,*nɨ-
-Yam-33_demonstrativeproximate-1,,Yam,33_demonstrativeproximate,na,na,n a,,,15,,^ n a $,default,,,*nɨ-
-ProPa-34_genitive-1,,ProPa,34_genitive,-wɨ̃,wɨ̃,w ɨ̃,,,6,,^ w ɨ̃ $,default,,,*-wɨ̃
-Ksh-34_genitive-1,,Ksh,34_genitive,=(a)n,_n,<<_>> n,,,6,,^ <_> n $,default,,,*-wɨ̃
-SK-34_genitive-1,,SK,34_genitive,-n,n,n,,,6,,^ n $,default,,,*-wɨ̃
-Yam-34_genitive-1,,Yam,34_genitive,"-na,-fɨna",na,n a,,,6,,^ n a $,default,,,*-wɨ̃
-ProPa-35_imperative-1,,ProPa,35_imperative,-wɨ,wɨ,w ɨ,,,5,,^ w ɨ $,default,,,*-wɨ
-Ksh-35_imperative-1,,Ksh,35_imperative,-ɨ,ɨ,ɨ,,,5,,^ ɨ $,default,,,*-wɨ
-SK-35_imperative-1,,SK,35_imperative,-wɨ,wɨ,w ɨ,,,5,,^ w ɨ $,default,,,*-wɨ
-Kap-35_imperative-1,,Kap,35_imperative,-wɨ,wɨ,w ɨ,,,5,,^ w ɨ $,default,,,*-wɨ
-Mar-35_imperative-1,,Mar,35_imperative,-wɨ,wɨ,w ɨ,,,5,,^ w ɨ $,default,,,*-wɨ
-Chak-35_imperative-1,,Chak,35_imperative,-wɨ,wɨ,w ɨ,,,5,,^ w ɨ $,default,,,*-wɨ
-Kax-35_imperative-1,,Kax,35_imperative,-wɨ,wɨ,w ɨ,,,5,,^ w ɨ $,default,,,*-wɨ
-Yam-35_imperative-1,,Yam,35_imperative,-ɸɨ,ɸɨ,ɸ ɨ,,,5,,^ ɸ ɨ $,default,,,*-wɨ
-Shar-35_imperative-1,,Shar,35_imperative,-wɨ,wɨ,w ɨ,,,5,,^ w ɨ $,default,,,*-wɨ
-ProPa-36_goingdowndownward-1,,ProPa,36_goingdowndownward,-βut,βut,β u t,See footnote 66.,,8,,^ β u t $,default,,,*-βut
-Ksh-36_goingdowndownward-1,,Ksh,36_goingdowndownward,-but,but,b u t,,,8,,^ b u t $,default,,,*-βut
-ProPa-37_docoming-1,,ProPa,37_docoming,-βɨ[...],βɨ...,β ɨ <<.>> <<.>> <<.>>,Guillaume 2017:254,,9,,^ β ɨ <.> <.> <.> $,default,,,*-βɨ[...]
-Ksh-37_docoming-1,,Ksh,37_docoming,-bɨtsin,bɨtsin,b ɨ ts i n,,,9,,^ b ɨ ts i n $,default,,,*-βɨ[...]
-SK-37_docoming-1,,SK,37_docoming,-bɨiran,bɨiran,b ɨ i r a n,,,9,,^ b ɨ i r a n $,default,,,*-βɨ[...]
-Chak-37_docoming-1,,Chak,37_docoming,-bɨna,bɨna,b ɨ n a,,,9,,^ b ɨ n a $,default,,,*-βɨ[...]
-Yam-37_docoming-1,,Yam,37_docoming,-ɸɨran,ɸɨran,ɸ ɨ r a n,,,9,,^ ɸ ɨ r a n $,default,,,*-βɨ[...]
-ProPa-38_desiderative-1,,ProPa,38_desiderative,-katsa,katsa,k a ts a,,,2,,^ k a ts a $,default,,,*-katsa
-Ksh-38_desiderative-1,,Ksh,38_desiderative,"-kas,-katsi",kas,k a s,,,2,,^ k a s $,default,,,*-katsa
-SK-38_desiderative-1,,SK,38_desiderative,-kas,kas,k a s,,,2,,^ k a s $,default,,,*-katsa
-Kap-38_desiderative-1,,Kap,38_desiderative,"-katsiʔ-,-katsiʔki-",katsiʔ,k a ts i ʔ,,,2,,^ k a ts i ʔ $,default,,,*-katsa
-Mar-38_desiderative-1,,Mar,38_desiderative,-katsi,katsi,k a ts i,,,2,,^ k a ts i $,default,,,*-katsa
-Chak-38_desiderative-1,,Chak,38_desiderative,-kas-,kas,k a s,,,2,,^ k a s $,default,,,*-katsa
-Kax-38_desiderative-1,,Kax,38_desiderative,-katsa,katsa,k a ts a,,,2,,^ k a ts a $,default,,,*-katsa
-Yam-38_desiderative-1,,Yam,38_desiderative,"kasma,kaspa,katsa",kasma,k a s m a,"'not to want','desiderative negative','to have'",,2,,^ k a s m a $,default,,,*-katsa
-Shar-38_desiderative-1,,Shar,38_desiderative,-kas-mai,kas,k a s,'not to want',,2,,^ k a s $,default,,,*-katsa
-ProPa-39_negative-1,,ProPa,39_negative,-[yá]ma,yáma,j a/á m a,verbal,,73,,^ y á m a $,default,,,493.*-[yá]ma
-Ksh-39_negative-1,,Ksh,39_negative,-ma,ma,m a,,,73,,^ m a $,default,,,493.*-[yá]ma
-SK-39_negative-1,,SK,39_negative,-yama,yama,j a m a,,,73,,^ y a m a $,default,,,493.*-[yá]ma
-Kap-39_negative-1,,Kap,39_negative,yama,yama,j a m a,,,73,,^ y a m a $,default,,,493.*-[yá]ma
-Mar-39_negative-1,,Mar,39_negative,"-ma,-ama",ma,m a,,,73,,^ m a $,default,,,493.*-[yá]ma
-Chak-39_negative-1,,Chak,39_negative,-yama,yama,j a m a,,,73,,^ y a m a $,default,,,493.*-[yá]ma
-Kax-39_negative-1,,Kax,39_negative,"-ma,maʔa",ma,m a,,,73,,^ m a $,default,,,493.*-[yá]ma
-Yam-39_negative-1,,Yam,39_negative,"maa,ma,yama",maa,m a a,"'not','negative','negative prohibitive'",,73,,^ m a a $,default,,,493.*-[yá]ma
-Shar-39_negative-1,,Shar,39_negative,"-ma,-yama",ma,m a,"'no','imperative,negative,prohibitive'",,73,,^ m a $,default,,,493.*-[yá]ma
-ProPa-40_causative-1,,ProPa,40_causative,-m[a],ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Ksh-40_causative-1,,Ksh,40_causative,-mi-,mi,m i,,,38,,^ m i $,default,,,202.*-m[a]
-SK-40_causative-1,,SK,40_causative,-ma-,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Kap-40_causative-1,,Kap,40_causative,-ma-,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Mar-40_causative-1,,Mar,40_causative,-ma,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Chak-40_causative-1,,Chak,40_causative,-ma,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Yam-40_causative-1,,Yam,40_causative,-ma,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Shar-40_causative-1,,Shar,40_causative,-ma-,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-ProPa-41_augmentative-1,,ProPa,41_augmentative,pa,pa,p a,,,16,,^ p a $,default,,,*pa
-SK-41_augmentative-1,,SK,41_augmentative,-n ewá,n_ewá,n <<_>> e w a/á,,,16,,^ n <_> e w á $,default,,,*pa
-Kap-41_augmentative-1,,Kap,41_augmentative,-ahhuan,ahhuan,a h h u a n,,,16,,^ a h h u a n $,default,,,*pa
-Chak-41_augmentative-1,,Chak,41_augmentative,-wa,wa,w a,,,16,,^ w a $,default,,,*pa
-Yam-41_augmentative-1,,Yam,41_augmentative,-nfã,nfã,n f ã,,,16,,^ n f ã $,default,,,*pa
-ProPa-42_dotrauxiliarytr-1,,ProPa,42_dotrauxiliarytr,ʔak-,ʔak,ʔ a k,,,25,,^ ʔ a k $,default,,,1.*ʔak-
-Ksh-42_dotrauxiliarytr-1,,Ksh,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,,25,,^ ʔ a $,default,,,1.*ʔak-
-SK-42_dotrauxiliarytr-1,,SK,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,,25,,^ ʔ a $,default,,,1.*ʔak-
-Kap-42_dotrauxiliarytr-1,,Kap,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,,25,,^ ʔ a $,default,,,1.*ʔak-
-Mar-42_dotrauxiliarytr-1,,Mar,42_dotrauxiliarytr,a,a,a,,,25,,^ a $,default,,,1.*ʔak-
-Chak-42_dotrauxiliarytr-1,,Chak,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,,25,,^ ʔ a $,default,,,1.*ʔak-
-Kax-42_dotrauxiliarytr-1,,Kax,42_dotrauxiliarytr,a-,a,a,,,25,,^ a $,default,,,1.*ʔak-
-Yam-42_dotrauxiliarytr-1,,Yam,42_dotrauxiliarytr,ak-,ak,a k,,,25,,^ a k $,default,,,1.*ʔak-
-Chan-42_dotrauxiliarytr-1,,Chan,42_dotrauxiliarytr,a-,a,a,,,25,,^ a $,default,,,1.*ʔak-
-Shar-42_dotrauxiliarytr-1,,Shar,42_dotrauxiliarytr,a-,a,a,,,25,,^ a $,default,,,1.*ʔak-
-ProPa-43_transitivizer-1,,ProPa,43_transitivizer,-wa,wa,w a,,,69,,^ w a $,default,,,466.*-wa
-Ksh-43_transitivizer-1,,Ksh,43_transitivizer,-ɔ,ɔ,ɔ,,,69,,^ ɔ $,default,,,466.*-wa
-Chak-43_transitivizer-1,,Chak,43_transitivizer,-wa,wa,w a,,,69,,^ w a $,default,,,466.*-wa
-ProPa-44_detransitivizerreflexive-1,,ProPa,44_detransitivizerreflexive,-t,t,t,,,4,,^ t $,default,,,*-t
-Ksh-44_detransitivizerreflexive-1,,Ksh,44_detransitivizerreflexive,-t,t,t,,,4,,^ t $,default,,,*-t
-SK-44_detransitivizerreflexive-1,,SK,44_detransitivizerreflexive,-t,t,t,,,4,,^ t $,default,,,*-t
-ProPa-45_ergative-1,,ProPa,45_ergative,-n,n,n,,,3,,^ n $,default,,,*-n
-Ksh-45_ergative-1,,Ksh,45_ergative,=(a)n,_n,<<_>> n,,,3,,^ <_> n $,default,,,*-n
-SK-45_ergative-1,,SK,45_ergative,=n,_n,<<_>> n,,,3,,^ <_> n $,default,,,*-n
-Kap-45_ergative-1,,Kap,45_ergative,-n,n,n,,,3,,^ n $,default,,,*-n
-ProPa-46_previouseventsamesubject-1,,ProPa,46_previouseventsamesubject,-ʂo-n,ʂo,ʂ o,,,7,,^ ʂ o $,default,,,*-ʂo-n
-Ksh-46_previouseventsamesubject-1,,Ksh,46_previouseventsamesubject,-ʂun,ʂun,ʂ u n,,,7,,^ ʂ u n $,default,,,*-ʂo-n
-SK-46_previouseventsamesubject-1,,SK,46_previouseventsamesubject,-ʂon,ʂon,ʂ o n,,,7,,^ ʂ o n $,default,,,*-ʂo-n
-Chak-46_previouseventsamesubject-1,,Chak,46_previouseventsamesubject,-ʂo,ʂo,ʂ o,,,7,,^ ʂ o $,default,,,*-ʂo-n
-Kax-46_previouseventsamesubject-1,,Kax,46_previouseventsamesubject,-ʂu,ʂu,ʂ u,,,7,,^ ʂ u $,default,,,*-ʂo-n
-ProPa-47_comitativealongwith-1,,ProPa,47_comitativealongwith,βɨta,βɨta,β ɨ t a,,,23,,^ β ɨ t a $,default,,,*βɨta
-Ksh-47_comitativealongwith-1,,Ksh,47_comitativealongwith,-bɨ~-bɨtan,bɨ,b ɨ,,,23,,^ b ɨ $,default,,,*βɨta
-SK-47_comitativealongwith-1,,SK,47_comitativealongwith,-bɨ,bɨ,b ɨ,,,23,,^ b ɨ $,default,,,*βɨta
-Chak-47_comitativealongwith-1,,Chak,47_comitativealongwith,-bɨta,bɨta,b ɨ t a,,,23,,^ b ɨ t a $,default,,,*βɨta
-Yam-47_comitativealongwith-1,,Yam,47_comitativealongwith,-fɨtã,fɨtã,f ɨ t ã,,,23,,^ f ɨ t ã $,default,,,*βɨta
-Ama-30_1stsgi-1,,Ama,30_1stsgi,ɨ,ɨ,ɨ,,,28,,^ ɨ $,default,,,11.*ʔɨ
-HanKax-30_1stsgi-1,,HanKax,30_1stsgi,ɨ,ɨ,ɨ,,,28,,^ ɨ $,default,,,11.*ʔɨ
-Maw-30_1stsgi-1,,Maw,30_1stsgi,ɨ,ɨ,ɨ,,,28,,^ ɨ $,default,,,11.*ʔɨ
-Ama-31_2ndsgyou-1,,Ama,31_2ndsgyou,miya,miya,m i j a,,,44,,^ m i y a $,default,,,246.*mi
-HanKax-31_2ndsgyou-1,,HanKax,31_2ndsgyou,mia,mia,m i a,,,44,,^ m i a $,default,,,246.*mi
-Maw-31_2ndsgyou-1,,Maw,31_2ndsgyou,mia,mia,m i a,,,44,,^ m i a $,default,,,246.*mi
-Kor-31_2ndsgyou-1,,Kor,31_2ndsgyou,mi,mi,m i,,,44,,^ m i $,default,,,246.*mi
-Mat-31_2ndsgyou-1,,Mat,31_2ndsgyou,"mi (minbi,mibi,min)",mi_,m i <<_>>,,,44,,^ m i <_> $,default,,,246.*mi
-MatMay-31_2ndsgyou-1,,MatMay,31_2ndsgyou,"mi (minbi,mibi,min)",mi_,m i <<_>>,,,44,,^ m i <_> $,default,,,246.*mi
-MatMay-32_demonstrativedistal-1,,MatMay,32_demonstrativedistal,uid,uid,u i d,,,21,,^ u i d $,default,,,*ʔo-
-MatMay-33_demonstrativeproximate-1,,MatMay,33_demonstrativeproximate,nɨid,nɨid,n ɨ i d,,,15,,^ n ɨ i d $,default,,,*nɨ-
-Shan-35_imperative-1,,Shan,35_imperative,-wɨ,wɨ,w ɨ,,,71,,^ w ɨ $,default,,,477.*-wɨ
-Kat-35_imperative-1,,Kat,35_imperative,wɨ,wɨ,w ɨ,,,71,,^ w ɨ $,default,,,477.*-wɨ
-HanKax-35_imperative-1,,HanKax,35_imperative,-wɨ,wɨ,w ɨ,,,71,,^ w ɨ $,default,,,477.*-wɨ
-Maw-35_imperative-1,,Maw,35_imperative,-wɨ,wɨ,w ɨ,,,71,,^ w ɨ $,default,,,477.*-wɨ
-Yaw-35_imperative-1,,Yaw,35_imperative,-wɨ,wɨ,w ɨ,,,71,,^ w ɨ $,default,,,477.*-wɨ
-MatMay-36_goingdowndownward-1,,MatMay,36_goingdowndownward,-bud,bud,b u d,,,8,,^ b u d $,default,,,*-βut
-Ama-37_docoming-1,,Ama,37_docoming,-vɨran,vɨran,v ɨ r a n,,,9,,^ v ɨ r a n $,default,,,*-βɨ[...]
-MatMay-37_docoming-1,,MatMay,37_docoming,-bɨtsen,bɨtsen,b ɨ ts e n,,,9,,^ b ɨ ts e n $,default,,,*-βɨ[...]
-Ama-38_desiderative-1,,Ama,38_desiderative,-katsi,katsi,k a ts i,,,2,,^ k a ts i $,default,,,*-katsa
-MatMay-38_desiderative-1,,MatMay,38_desiderative,"-kas-,katsi",kas,k a s,,,2,,^ k a s $,default,,,*-katsa
-Shan-39_negative-1,,Shan,39_negative,"-ma,-yama,",ma,m a,"'negación general','negación de imperativo",,72,,^ m a $,default,,,493.*-[ya]ma
-Kat-39_negative-1,,Kat,39_negative,"yama,ma",yama,j a m a,"'no tener,negativo','no'",,72,,^ y a m a $,default,,,493.*-[ya]ma
-Poy-39_negative-1,,Poy,39_negative,ba,ba,b a,'asertivo negativo',,72,,^ b a $,default,,,493.*-[ya]ma
-Ama-39_negative-1,,Ama,39_negative,-yama,yama,j a m a,,,72,,^ y a m a $,default,,,493.*-[ya]ma
-HanKax-39_negative-1,,HanKax,39_negative,"-ma,-yama",ma,m a,,,72,,^ m a $,default,,,493.*-[ya]ma
-Maw-39_negative-1,,Maw,39_negative,-ma,ma,m a,,,72,,^ m a $,default,,,493.*-[ya]ma
-Yaw-39_negative-1,,Yaw,39_negative,-ma,ma,m a,'negación',,72,,^ m a $,default,,,493.*-[ya]ma
-Kor-39_negative-1,,Kor,39_negative,-ma,ma,m a,'negación pasado',,72,,^ m a $,default,,,493.*-[ya]ma
-Mat-39_negative-1,,Mat,39_negative,-ama,ama,a m a,'negación pasado',,72,,^ a m a $,default,,,493.*-[ya]ma
-Shan-40_causative-1,,Shan,40_causative,-ma,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Ama-40_causative-1,,Ama,40_causative,-ma-,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-HanKax-40_causative-1,,HanKax,40_causative,-ma-,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Maw-40_causative-1,,Maw,40_causative,-ma,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Yaw-40_causative-1,,Yaw,40_causative,-ma-,ma,m a,,,38,,^ m a $,default,,,202.*-m[a]
-Kor-40_causative-1,,Kor,40_causative,-me,me,m e,,,38,,^ m e $,default,,,202.*-m[a]
-Mat-40_causative-1,,Mat,40_causative,-me,me,m e,,,38,,^ m e $,default,,,202.*-m[a]
-MatMay-40_causative-1,,MatMay,40_causative,-me,me,m e,,,38,,^ m e $,default,,,202.*-m[a]
-MatMay-41_augmentative-1,,MatMay,41_augmentative,-pa,pa,p a,,,16,,^ p a $,default,,,*pa
-Ama-42_dotrauxiliarytr-1,,Ama,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,,25,,^ ʔ a $,default,,,1.*ʔak-
-HanKax-42_dotrauxiliarytr-1,,HanKax,42_dotrauxiliarytr,a-,a,a,,,25,,^ a $,default,,,1.*ʔak-
-Maw-42_dotrauxiliarytr-1,,Maw,42_dotrauxiliarytr,a-,a,a,,,25,,^ a $,default,,,1.*ʔak-
-Kor-42_dotrauxiliarytr-1,,Kor,42_dotrauxiliarytr,ak-,ak,a k,,,25,,^ a k $,default,,,1.*ʔak-
-Mat-42_dotrauxiliarytr-1,,Mat,42_dotrauxiliarytr,ak-,ak,a k,,,25,,^ a k $,default,,,1.*ʔak-
-MatMay-42_dotrauxiliarytr-1,,MatMay,42_dotrauxiliarytr,ak-,ak,a k,,,25,,^ a k $,default,,,1.*ʔak-
-HanKax-43_transitivizer-1,,HanKax,43_transitivizer,"wa-,-wa",wa,w a,,,69,,^ w a $,default,,,466.*-wa
-MatMay-45_ergative-1,,MatMay,45_ergative,-n,n,n,,,3,,^ n $,default,,,*-n
-Ama-46_previouseventsamesubject-1,,Ama,46_previouseventsamesubject,=çon,_çon,<<_>> ts o n,,,7,,^ <_> ç o n $,default,,,*-ʂo-n
-HanKax-46_previouseventsamesubject-1,,HanKax,46_previouseventsamesubject,=ʂun,_ʂun,<<_>> ʂ u n,,,7,,^ <_> ʂ u n $,default,,,*-ʂo-n
-Mat-46_previouseventsamesubject-1,,Mat,46_previouseventsamesubject,=ʂun,_ʂun,<<_>> ʂ u n,,,7,,^ <_> ʂ u n $,default,,,*-ʂo-n
-MatMay-46_previouseventsamesubject-1,,MatMay,46_previouseventsamesubject,=ʂun,_ʂun,<<_>> ʂ u n,,,7,,^ <_> ʂ u n $,default,,,*-ʂo-n
-Ama-47_comitativealongwith-1,,Ama,47_comitativealongwith,"-wɨ,-wɨtã",wɨ,w ɨ,,,23,,^ w ɨ $,default,,,*βɨta
-HanKax-47_comitativealongwith-1,,HanKax,47_comitativealongwith,"-bɨ,-bɨtã",bɨ,b ɨ,,,23,,^ b ɨ $,default,,,*βɨta
-Maw-47_comitativealongwith-1,,Maw,47_comitativealongwith,"-fɨta,fɨtã",fɨta,f ɨ t a,,,23,,^ f ɨ t a $,default,,,*βɨta
-MatMay-47_comitativealongwith-1,,MatMay,47_comitativealongwith,"-bid (S),-bɨta (O),-bɨtan (A)",bid_,b i d <<_>>,,,23,,^ b i d <_> $,default,,,*βɨta
-ProTa-30_1stsgi-1,,ProTa,30_1stsgi,e,e,e,,,34,,^ e $,default,,,151.*e
-Tac-30_1stsgi-1,,Tac,30_1stsgi,e-ma,e,e,,,34,,^ e $,default,,,151.*e
-ReyMar-30_1stsgi-1,,ReyMar,30_1stsgi,e-me/éme,e,e,,,34,,^ e $,default,,,151.*e
-Aro-30_1stsgi-1,,Aro,30_1stsgi,"ema,yama",ema,e m a,,,34,,^ e m a $,default,,,151.*e
-Cav-30_1stsgi-1,,Cav,30_1stsgi,e-ra,e,e,,,34,,^ e $,default,,,151.*e
-Ese-30_1stsgi-1,,Ese,30_1stsgi,"ea,eyaya",ea,e a,,,34,,^ e a $,default,,,151.*e
-ProTa-31_2ndsgyou-1,,ProTa,31_2ndsgyou,mi,mi,m i,Girard additionally lists -mikia for Arasa.,,50,,^ m i $,default,,,292.*mi
-Tac-31_2ndsgyou-1,,Tac,31_2ndsgyou,mi-ke,mi,m i,,,50,,^ m i $,default,,,292.*mi
-ReyMar-31_2ndsgyou-1,,ReyMar,31_2ndsgyou,mibe/mive,mibe,m i b e,,,50,,^ m i b e $,default,,,292.*mi
-Aro-31_2ndsgyou-1,,Aro,31_2ndsgyou,mitya,mitya,m i t j a,,,50,,^ m i t y a $,default,,,292.*mi
-Cav-31_2ndsgyou-1,,Cav,31_2ndsgyou,mi-kwana,mi,m i,,,50,,^ m i $,default,,,292.*mi
-Ese-31_2ndsgyou-1,,Ese,31_2ndsgyou,mi-a,mi,m i,,,50,,^ m i $,default,,,292.*mi
-ProTa-49_demonstrativethishe-1,,ProTa,49_demonstrativethishe,u-,u,u,,,68,,^ u $,default,,,442.*u-
-Tac-49_demonstrativethishe-1,,Tac,49_demonstrativethishe,u-ha,u,u,,,68,,^ u $,default,,,442.*u-
-Cav-49_demonstrativethishe-1,,Cav,49_demonstrativethishe,o-ho,o,o,,,68,,^ o $,default,,,442.*u-
-Ese-49_demonstrativethishe-1,,Ese,49_demonstrativethishe,o-haya,o,o,,,68,,^ o $,default,,,442.*u-
-ProTa-33_demonstrativeproximate-1,,ProTa,33_demonstrativeproximate,ree-,ree,r e e,,,17,,^ r e e $,default,,,*ree-
-Tac-33_demonstrativeproximate-1,,Tac,33_demonstrativeproximate,ye,ye,j e,,,17,,^ y e $,default,,,*ree-
-Cav-33_demonstrativeproximate-1,,Cav,33_demonstrativeproximate,reeke,reeke,r e e k e,,,17,,^ r e e k e $,default,,,*ree-
-Ese-33_demonstrativeproximate-1,,Ese,33_demonstrativeproximate,hikio,hikio,h i k i o,,,17,,^ h i k i o $,default,,,*ree-
-ProTa-34_genitive-1,,ProTa,34_genitive,-kʷe,kʷe,kʷ e,Girard additionally lists -kwe for Warayo.,,42,,^ kʷ e $,default,,,241.*-kʷe
-Tac-34_genitive-1,,Tac,34_genitive,-ke,ke,k e,,,42,,^ k e $,default,,,241.*-kʷe
-ReyMar-34_genitive-1,,ReyMar,34_genitive,ki-/-,ki,k i,'possessive prefix',,42,,^ k i $,default,,,241.*-kʷe
-Cav-34_genitive-1,,Cav,34_genitive,-kwe,kwe,kʷ e,,,42,,^ kw e $,default,,,241.*-kʷe
-Ese-34_genitive-1,,Ese,34_genitive,-kwe,kwe,kʷ e,,,42,,^ kw e $,default,,,241.*-kʷe
-ProTa-35_imperative-1,,ProTa,35_imperative,-kʷe,kʷe,kʷ e,Girard additionally lists -he for Warisa.,,41,,^ kʷ e $,default,,,240.*-kʷe
-Tac-35_imperative-1,,Tac,35_imperative,-ke,ke,k e,,,41,,^ k e $,default,,,240.*-kʷe
-Cav-35_imperative-1,,Cav,35_imperative,-kwe,kwe,kʷ e,,,41,,^ kw e $,default,,,240.*-kʷe
-ProTa-36_goingdowndownward-1,,ProTa,36_goingdowndownward,"-bu,-bute",bu,b u,"For first form, Girard additionally lists -anibuteni for Warisa. For second form, see footnote 67.",,80,,^ b u $,default,,,"78.*-bu,*-bute"
-Tac-36_goingdowndownward-1,,Tac,36_goingdowndownward,"e-bute-hi,-ute",e,e,,,80,,^ e $,default,,,"78.*-bu,*-bute"
-ReyMar-36_goingdowndownward-1,,ReyMar,36_goingdowndownward,"-/animabotia,-bute/-",animabotia,a n i m a b o t i a,,,80,,^ a n i m a b o t i a $,default,,,"78.*-bu,*-bute"
-Aro-36_goingdowndownward-1,,Aro,36_goingdowndownward,-bote,bote,b o t e,,,80,,^ b o t e $,default,,,"78.*-bu,*-bute"
-Cav-36_goingdowndownward-1,,Cav,36_goingdowndownward,"e-bote,-bute/-butya",e,e,,,80,,^ e $,default,,,"78.*-bu,*-bute"
-Ese-36_goingdowndownward-1,,Ese,36_goingdowndownward,'oke/-'okya,'oke,o k e,,,80,,^ ' o k e $,default,,,"78.*-bu,*-bute"
-ProTa-37_docoming-1,,ProTa,37_docoming,-be,be,b e,Guillaume 2017:233,,1,,^ b e $,default,,,*-be
-Tac-37_docoming-1,,Tac,37_docoming,-be,be,b e,,,1,,^ b e $,default,,,*-be
-ReyMar-37_docoming-1,,ReyMar,37_docoming,-bebe/-,bebe,b e b e,,,1,,^ b e b e $,default,,,*-be
-Cav-37_docoming-1,,Cav,37_docoming,-be,be,b e,,,1,,^ b e $,default,,,*-be
-Ese-37_docoming-1,,Ese,37_docoming,-jebe,jebe,ʃ e b e,,,1,,^ j e b e $,default,,,*-be
-ProTa-38_desiderative-1,,ProTa,38_desiderative,-katsa,katsa,k a ts a,,,2,,^ k a ts a $,default,,,*-katsa
-Tac-38_desiderative-1,,Tac,38_desiderative,-tsa,tsa,ts a,,,2,,^ ts a $,default,,,*-katsa
-Aro-38_desiderative-1,,Aro,38_desiderative,-hae,hae,h a e,,,2,,^ h a e $,default,,,*-katsa
-Cav-38_desiderative-1,,Cav,38_desiderative,-kara,kara,k a r a,,,2,,^ k a r a $,default,,,*-katsa
-Ese-38_desiderative-1,,Ese,38_desiderative,-sa,sa,s a,,,2,,^ s a $,default,,,*-katsa
-ProTa-39_negative-1,,ProTa,39_negative,-(a)ma,ma,m a,verbal and nominal,,83,,^ m a $,default,,,9.*-(a)ma
-Tac-39_negative-1,,Tac,39_negative,-(a)ma,ma,m a,,,83,,^ m a $,default,,,9.*-(a)ma
-Cav-39_negative-1,,Cav,39_negative,-(a)ma,ma,m a,,,83,,^ m a $,default,,,9.*-(a)ma
-Ese-39_negative-1,,Ese,39_negative,-(a)ma,ma,m a,,,83,,^ m a $,default,,,9.*-(a)ma
-ProTa-40_causative-1,,ProTa,40_causative,-me[re],mere,m e r e,See footnote 73.,,47,,^ m e r e $,default,,,289.*-me[re]
-Tac-40_causative-1,,Tac,40_causative,-me,me,m e,,,47,,^ m e $,default,,,289.*-me[re]
-Aro-40_causative-1,,Aro,40_causative,-me,me,m e,,,47,,^ m e $,default,,,289.*-me[re]
-Cav-40_causative-1,,Cav,40_causative,-mere,mere,m e r e,,,47,,^ m e r e $,default,,,289.*-me[re]
-Ese-40_causative-1,,Ese,40_causative,-mee,mee,m e e,,,47,,^ m e e $,default,,,289.*-me[re]
-ProTa-41_augmentative-1,,ProTa,41_augmentative,-pa,pa,p a,,,52,,^ p a $,default,,,330.*-pa
-Tac-41_augmentative-1,,Tac,41_augmentative,-pa,pa,p a,,,52,,^ p a $,default,,,330.*-pa
-Cav-41_augmentative-1,,Cav,41_augmentative,-pa,pa,p a,,,52,,^ p a $,default,,,330.*-pa
-ProTa-42_dotrauxiliarytr-1,,ProTa,42_dotrauxiliarytr,a-,a,a,Girard additionally lists age for Warisa.,,24,,^ a $,default,,,1.*a-
-Tac-42_dotrauxiliarytr-1,,Tac,42_dotrauxiliarytr,a-,a,a,,,24,,^ a $,default,,,1.*a-
-Cav-42_dotrauxiliarytr-1,,Cav,42_dotrauxiliarytr,a-,a,a,,,24,,^ a $,default,,,1.*a-
-Ese-42_dotrauxiliarytr-1,,Ese,42_dotrauxiliarytr,a-ka-,a,a,,,24,,^ a $,default,,,1.*a-
-ProTa-43_transitivizer-1,,ProTa,43_transitivizer,-a,a,a,Girard additionally lists -a(-) for the Warayo.,,37,,^ a $,default,,,2.*-a
-Tac-43_transitivizer-1,,Tac,43_transitivizer,-a(-),a,a,,,37,,^ a $,default,,,2.*-a
-ReyMar-43_transitivizer-1,,ReyMar,43_transitivizer,-a(-)/-,a,a,,,37,,^ a $,default,,,2.*-a
-Cav-43_transitivizer-1,,Cav,43_transitivizer,-a(-),a,a,,,37,,^ a $,default,,,2.*-a
-Ese-43_transitivizer-1,,Ese,43_transitivizer,-a(-),a,a,,,37,,^ a $,default,,,2.*-a
-ProTa-44_detransitivizerreflexive-1,,ProTa,44_detransitivizerreflexive,-ti,ti,t i,,,64,,^ t i $,default,,,422.*-ti
-Tac-44_detransitivizerreflexive-1,,Tac,44_detransitivizerreflexive,-ti,ti,t i,,,64,,^ t i $,default,,,422.*-ti
-Cav-44_detransitivizerreflexive-1,,Cav,44_detransitivizerreflexive,-ti,ti,t i,,,64,,^ t i $,default,,,422.*-ti
-Ese-44_detransitivizerreflexive-1,,Ese,44_detransitivizerreflexive,-ki,ki,k i,,,64,,^ k i $,default,,,422.*-ti
-ProTa-45_ergative-1,,ProTa,45_ergative,-ra,ra,r a,Girard additionally lists -a for Warayo.,,56,,^ r a $,default,,,361.*-ra
-Tac-45_ergative-1,,Tac,45_ergative,-a,a,a,,,56,,^ a $,default,,,361.*-ra
-Cav-45_ergative-1,,Cav,45_ergative,-ra,ra,r a,,,56,,^ r a $,default,,,361.*-ra
-Ese-45_ergative-1,,Ese,45_ergative,-(y)a,a,a,,,56,,^ a $,default,,,361.*-ra
-ProTa-46_previouseventsamesubject-1,,ProTa,46_previouseventsamesubject,-ṭṣu,ṭṣu,ts u,,,10,,^ ṭṣ u $,default,,,*-ṭṣu
-Tac-46_previouseventsamesubject-1,,Tac,46_previouseventsamesubject,-su,su,s u,,,10,,^ s u $,default,,,*-ṭṣu
-Aro-46_previouseventsamesubject-1,,Aro,46_previouseventsamesubject,-tso,tso,ts o,,,10,,^ ts o $,default,,,*-ṭṣu
-Cav-46_previouseventsamesubject-1,,Cav,46_previouseventsamesubject,-atsu~-tsu,atsu,a ts u,,,10,,^ a ts u $,default,,,*-ṭṣu
-ProTa-48_comitativealongwithtwo-1,,ProTa,48_comitativealongwithtwo,beta,beta,b e t a,"Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.",,76,,^ b e t a $,default,,,61.*beta
-Tac-48_comitativealongwithtwo-1,,Tac,48_comitativealongwithtwo,beta,beta,b e t a,,,76,,^ b e t a $,default,,,61.*beta
-ReyMar-48_comitativealongwithtwo-1,,ReyMar,48_comitativealongwithtwo,mbeta/beta,mbeta,m b e t a,,,76,,^ m b e t a $,default,,,61.*beta
-Aro-48_comitativealongwithtwo-1,,Aro,48_comitativealongwithtwo,beta,beta,b e t a,,,76,,^ b e t a $,default,,,61.*beta
-Cav-48_comitativealongwithtwo-1,,Cav,48_comitativealongwithtwo,beta,beta,b e t a,,,76,,^ b e t a $,default,,,61.*beta
-Ese-48_comitativealongwithtwo-1,,Ese,48_comitativealongwithtwo,beka,beka,b e k a,,,76,,^ b e k a $,default,,,61.*beta
+ProPa-1_tree-1,,ProPa,1_tree,hiwi,hiwi,h i w i,,Valenzuela2013,47,,^ h i w i $,default,,,*hiwi
+Ksh-1_tree-1,,Ksh,1_tree,i,i,i,,Valenzuela2013,47,,^ i $,default,,,*hiwi
+SK-1_tree-1,,SK,1_tree,hiwi,hiwi,h i w i,,Valenzuela2013,47,,^ h i w i $,default,,,*hiwi
+Kap-1_tree-1,,Kap,1_tree,hiwi,hiwi,h i w i,,Valenzuela2013,47,,^ h i w i $,default,,,*hiwi
+Mar-1_tree-1,,Mar,1_tree,iwi,iwi,i w i,,Valenzuela2013,47,,^ i w i $,default,,,*hiwi
+Chak-1_tree-1,,Chak,1_tree,hiwi,hiwi,h i w i,,Valenzuela2013,47,,^ h i w i $,default,,,*hiwi
+Kax-1_tree-1,,Kax,1_tree,hiwi,hiwi,h i w i,,Valenzuela2013,47,,^ h i w i $,default,,,*hiwi
+Yam-1_tree-1,,Yam,1_tree,iɸi,iɸi,i ɸ i,,Valenzuela2013,47,,^ i ɸ i $,default,,,*hiwi
+Shar-1_tree-1,,Shar,1_tree,iɸi,iɸi,i ɸ i,,Valenzuela2013,47,,^ i ɸ i $,default,,,*hiwi
+ProPa-2_tooth-1,,ProPa,2_tooth,ʂɨ-,ʂɨ,ʂ ɨ,,Valenzuela2013,46,,^ ʂ ɨ $,default,,,*ʂɨ-
+Ksh-2_tooth-1,,Ksh,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+SK-2_tooth-1,,SK,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Kap-2_tooth-1,,Kap,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Mar-2_tooth-1,,Mar,2_tooth,ʃɨta,ʃɨta,ʃ ɨ t a,,Valenzuela2013,46,,^ ʃ ɨ t a $,default,,,*ʂɨ-
+Chak-2_tooth-1,,Chak,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Kax-2_tooth-1,,Kax,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Shar-2_tooth-1,,Shar,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+ProPa-3_two-1,,ProPa,3_two,ra-βɨta,ra,r a,,Valenzuela2013,48,,^ r a $,default,,,*ra-βɨta
+Ksh-3_two-1,,Ksh,3_two,raβɨ,raβɨ,r a β ɨ,,Valenzuela2013,48,,^ r a β ɨ $,default,,,*ra-βɨta
+SK-3_two-1,,SK,3_two,raβɨ,raβɨ,r a β ɨ,,Valenzuela2013,48,,^ r a β ɨ $,default,,,*ra-βɨta
+Kap-3_two-1,,Kap,3_two,raβɨ,raβɨ,r a β ɨ,,Valenzuela2013,48,,^ r a β ɨ $,default,,,*ra-βɨta
+Mar-3_two-1,,Mar,3_two,ravɨvakĩ,ravɨvakĩ,r a v ɨ v a k ĩ,,Valenzuela2013,48,,^ r a v ɨ v a k ĩ $,default,,,*ra-βɨta
+Chak-3_two-1,,Chak,3_two,raβɨ,raβɨ,r a β ɨ,,Valenzuela2013,48,,^ r a β ɨ $,default,,,*ra-βɨta
+Kax-3_two-1,,Kax,3_two,tʃabɨta,tʃabɨta,tʃ a b ɨ t a,,Valenzuela2013,48,,^ tʃ a b ɨ t a $,default,,,*ra-βɨta
+Yam-3_two-1,,Yam,3_two,raɸɨ,raɸɨ,r a ɸ ɨ,,Valenzuela2013,48,,^ r a ɸ ɨ $,default,,,*ra-βɨta
+Chan-3_two-1,,Chan,3_two,raɸɨ,raɸɨ,r a ɸ ɨ,,Valenzuela2013,48,,^ r a ɸ ɨ $,default,,,*ra-βɨta
+Shar-3_two-1,,Shar,3_two,raɸɨ,raɸɨ,r a ɸ ɨ,,Valenzuela2013,48,,^ r a ɸ ɨ $,default,,,*ra-βɨta
+ProPa-4_liver-1,,ProPa,4_liver,takʷa,takʷa,t a kʷ a,,Valenzuela2013,34,,^ t a kʷ a $,default,,,*takʷa
+Ksh-4_liver-1,,Ksh,4_liver,takʷa,takʷa,t a kʷ a,,Valenzuela2013,34,,^ t a kʷ a $,default,,,*takʷa
+SK-4_liver-1,,SK,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Kap-4_liver-1,,Kap,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Mar-4_liver-1,,Mar,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Chak-4_liver-1,,Chak,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Kax-4_liver-1,,Kax,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Chan-4_liver-1,,Chan,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Shar-4_liver-1,,Shar,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+ProPa-5_leaf-1,,ProPa,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,Valenzuela2013,32,,^ p ɨ ʔ i $,default,,,*pɨʔi
+Ksh-5_leaf-1,,Ksh,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+SK-5_leaf-1,,SK,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+Kap-5_leaf-1,,Kap,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,Valenzuela2013,32,,^ p ɨ ʔ i $,default,,,*pɨʔi
+Mar-5_leaf-1,,Mar,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+Chak-5_leaf-1,,Chak,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,Valenzuela2013,32,,^ p ɨ ʔ i $,default,,,*pɨʔi
+Kax-5_leaf-1,,Kax,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,Valenzuela2013,32,,^ p ɨ ʔ i $,default,,,*pɨʔi
+Yam-5_leaf-1,,Yam,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+Chan-5_leaf-1,,Chan,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+Shar-5_leaf-1,,Shar,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+ProPa-6_bone-1,,ProPa,6_bone,ʂao,ʂao,ʂ a o,,Valenzuela2013,5,,^ ʂ a o $,default,,,*ʂao
+Ksh-6_bone-1,,Ksh,6_bone,ʂɔː,ʂɔː,ʂ ɔː,,Valenzuela2013,5,,^ ʂ ɔː $,default,,,*ʂao
+SK-6_bone-1,,SK,6_bone,ʂao,ʂao,ʂ a o,,Valenzuela2013,5,,^ ʂ a o $,default,,,*ʂao
+Kap-6_bone-1,,Kap,6_bone,ʂao,ʂao,ʂ a o,,Valenzuela2013,5,,^ ʂ a o $,default,,,*ʂao
+Mar-6_bone-1,,Mar,6_bone,ʃau,ʃau,ʃ a u,,Valenzuela2013,5,,^ ʃ a u $,default,,,*ʂao
+Chak-6_bone-1,,Chak,6_bone,ʂao,ʂao,ʂ a o,,Valenzuela2013,5,,^ ʂ a o $,default,,,*ʂao
+Kax-6_bone-1,,Kax,6_bone,ʂahʷu,ʂahʷu,ʂ a hʷ u,,Valenzuela2013,5,,^ ʂ a hʷ u $,default,,,*ʂao
+Yam-6_bone-1,,Yam,6_bone,ʂao,ʂao,ʂ a o,,Valenzuela2013,5,,^ ʂ a o $,default,,,*ʂao
+Chan-6_bone-1,,Chan,6_bone,"ʃao,ʂao",ʃao,ʃ a o,,Valenzuela2013,5,,^ ʃ a o $,default,,,*ʂao
+Shar-6_bone-1,,Shar,6_bone,ʂao,ʂao,ʂ a o,,Valenzuela2013,5,,^ ʂ a o $,default,,,*ʂao
+ProPa-7_tongue-1,,ProPa,7_tongue,hana,hana,h a n a,,Valenzuela2013,45,,^ h a n a $,default,,,*hana
+Ksh-7_tongue-1,,Ksh,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*hana
+SK-7_tongue-1,,SK,7_tongue,hana,hana,h a n a,,Valenzuela2013,45,,^ h a n a $,default,,,*hana
+Kap-7_tongue-1,,Kap,7_tongue,hana,hana,h a n a,,Valenzuela2013,45,,^ h a n a $,default,,,*hana
+Mar-7_tongue-1,,Mar,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*hana
+Chak-7_tongue-1,,Chak,7_tongue,hana,hana,h a n a,,Valenzuela2013,45,,^ h a n a $,default,,,*hana
+Kax-7_tongue-1,,Kax,7_tongue,hana,hana,h a n a,,Valenzuela2013,45,,^ h a n a $,default,,,*hana
+Yam-7_tongue-1,,Yam,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*hana
+Chan-7_tongue-1,,Chan,7_tongue,ada,ada,a d a,,Valenzuela2013,45,,^ a d a $,default,,,*hana
+Shar-7_tongue-1,,Shar,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*hana
+ProPa-8_hand-1,,ProPa,8_hand,mɨ-,mɨ,m ɨ,,Valenzuela2013,28,,^ m ɨ $,default,,,*mɨ-
+Ksh-8_hand-1,,Ksh,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,Valenzuela2013,28,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
+SK-8_hand-1,,SK,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,Valenzuela2013,28,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
+Kap-8_hand-1,,Kap,8_hand,mɨkɨn,mɨkɨn,m ɨ k ɨ n,,Valenzuela2013,28,,^ m ɨ k ɨ n $,default,,,*mɨ-
+Chak-8_hand-1,,Chak,8_hand,mɨkɨnɨ,mɨkɨnɨ,m ɨ k ɨ n ɨ,,Valenzuela2013,28,,^ m ɨ k ɨ n ɨ $,default,,,*mɨ-
+Kax-8_hand-1,,Kax,8_hand,mɨkɨlɨ,mɨkɨlɨ,m ɨ k ɨ l ɨ,,Valenzuela2013,28,,^ m ɨ k ɨ l ɨ $,default,,,*mɨ-
+Yam-8_hand-1,,Yam,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,Valenzuela2013,28,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
+Chan-8_hand-1,,Chan,8_hand,mɨkɨ,mɨkɨ,m ɨ k ɨ,,Valenzuela2013,28,,^ m ɨ k ɨ $,default,,,*mɨ-
+Shar-8_hand-1,,Shar,8_hand,mɨkɨ,mɨkɨ,m ɨ k ɨ,,Valenzuela2013,28,,^ m ɨ k ɨ $,default,,,*mɨ-
+ProPa-9_night-1,,ProPa,9_night,yamɨtV,yamɨt,j a m ɨ t,,Valenzuela2013,38,,^ y a m ɨ t $,default,,,*yamɨtV
+Ksh-9_night-1,,Ksh,9_night,imɨ,imɨ,i m ɨ,,Valenzuela2013,38,,^ i m ɨ $,default,,,*yamɨtV
+SK-9_night-1,,SK,9_night,yamɨ,yamɨ,j a m ɨ,,Valenzuela2013,38,,^ y a m ɨ $,default,,,*yamɨtV
+Kap-9_night-1,,Kap,9_night,yamɨ,yamɨ,j a m ɨ,,Valenzuela2013,38,,^ y a m ɨ $,default,,,*yamɨtV
+Mar-9_night-1,,Mar,9_night,yamɨ,yamɨ,j a m ɨ,,Valenzuela2013,38,,^ y a m ɨ $,default,,,*yamɨtV
+Kax-9_night-1,,Kax,9_night,yamɨta,yamɨta,j a m ɨ t a,,Valenzuela2013,38,,^ y a m ɨ t a $,default,,,*yamɨtV
+Yam-9_night-1,,Yam,9_night,yamɨa,yamɨa,j a m ɨ a,,Valenzuela2013,38,,^ y a m ɨ a $,default,,,*yamɨtV
+Chan-9_night-1,,Chan,9_night,yabɨ,yabɨ,j a b ɨ,,Valenzuela2013,38,,^ y a b ɨ $,default,,,*yamɨtV
+Shar-9_night-1,,Shar,9_night,yamɨ,yamɨ,j a m ɨ,,Valenzuela2013,38,,^ y a m ɨ $,default,,,*yamɨtV
+ProPa-10_skin-1,,ProPa,10_skin,βitsi,βitsi,β i ts i,,Valenzuela2013,41,,^ β i ts i $,default,,,*βitsi
+Ksh-10_skin-1,,Ksh,10_skin,βitʃi,βitʃi,β i tʃ i,,Valenzuela2013,41,,^ β i tʃ i $,default,,,*βitsi
+SK-10_skin-1,,SK,10_skin,βitʃi,βitʃi,β i tʃ i,,Valenzuela2013,41,,^ β i tʃ i $,default,,,*βitsi
+Kap-10_skin-1,,Kap,10_skin,βitʃi,βitʃi,β i tʃ i,,Valenzuela2013,41,,^ β i tʃ i $,default,,,*βitsi
+Mar-10_skin-1,,Mar,10_skin,vitʃi,vitʃi,v i tʃ i,,Valenzuela2013,41,,^ v i tʃ i $,default,,,*βitsi
+Chak-10_skin-1,,Chak,10_skin,βitʃi,βitʃi,β i tʃ i,,Valenzuela2013,41,,^ β i tʃ i $,default,,,*βitsi
+Kax-10_skin-1,,Kax,10_skin,bitʃi,bitʃi,b i tʃ i,,Valenzuela2013,41,,^ b i tʃ i $,default,,,*βitsi
+Chan-10_skin-1,,Chan,10_skin,ɸitʃi,ɸitʃi,ɸ i tʃ i,,Valenzuela2013,41,,^ ɸ i tʃ i $,default,,,*βitsi
+Shar-10_skin-1,,Shar,10_skin,ɸitʃi,ɸitʃi,ɸ i tʃ i,,Valenzuela2013,41,,^ ɸ i tʃ i $,default,,,*βitsi
+ProPa-11_fire-1,,ProPa,11_fire,tsiʔi,tsiʔi,ts i ʔ i,,Valenzuela2013,23,,^ ts i ʔ i $,default,,,*tsiʔi
+Ksh-11_fire-1,,Ksh,11_fire,tʃii,tʃii,tʃ i i,,Valenzuela2013,23,,^ tʃ i i $,default,,,*tsiʔi
+SK-11_fire-1,,SK,11_fire,tʃii,tʃii,tʃ i i,,Valenzuela2013,23,,^ tʃ i i $,default,,,*tsiʔi
+Kap-11_fire-1,,Kap,11_fire,tʃiʔi,tʃiʔi,tʃ i ʔ i,,Valenzuela2013,23,,^ tʃ i ʔ i $,default,,,*tsiʔi
+Mar-11_fire-1,,Mar,11_fire,tʃi,tʃi,tʃ i,,Valenzuela2013,23,,^ tʃ i $,default,,,*tsiʔi
+Chak-11_fire-1,,Chak,11_fire,tʃiʔi,tʃiʔi,tʃ i ʔ i,,Valenzuela2013,23,,^ tʃ i ʔ i $,default,,,*tsiʔi
+Kax-11_fire-1,,Kax,11_fire,tʃiʔi,tʃiʔi,tʃ i ʔ i,,Valenzuela2013,23,,^ tʃ i ʔ i $,default,,,*tsiʔi
+Yam-11_fire-1,,Yam,11_fire,tʃii,tʃii,tʃ i i,,Valenzuela2013,23,,^ tʃ i i $,default,,,*tsiʔi
+Chan-11_fire-1,,Chan,11_fire,tʃii,tʃii,tʃ i i,,Valenzuela2013,23,,^ tʃ i i $,default,,,*tsiʔi
+Shar-11_fire-1,,Shar,11_fire,tʃii,tʃii,tʃ i i,,Valenzuela2013,23,,^ tʃ i i $,default,,,*tsiʔi
+ProPa-12_knee-1,,ProPa,12_knee,rã-,rã,r ã,,Valenzuela2013,31,,^ r ã $,default,,,*rã-
+Ksh-12_knee-1,,Ksh,12_knee,rãβoʂo,rãβoʂo,r ã β o ʂ o,,Valenzuela2013,31,,^ r ã β o ʂ o $,default,,,*rã-
+SK-12_knee-1,,SK,12_knee,rãβoʂo,rãβoʂo,r ã β o ʂ o,,Valenzuela2013,31,,^ r ã β o ʂ o $,default,,,*rã-
+Kap-12_knee-1,,Kap,12_knee,rãβoʂo,rãβoʂo,r ã β o ʂ o,,Valenzuela2013,31,,^ r ã β o ʂ o $,default,,,*rã-
+Mar-12_knee-1,,Mar,12_knee,ravuʃɨ,ravuʃɨ,r a v u ʃ ɨ,,Valenzuela2013,31,,^ r a v u ʃ ɨ $,default,,,*rã-
+Kax-12_knee-1,,Kax,12_knee,tʃãburu,tʃãburu,tʃ ã b u r u,,Valenzuela2013,31,,^ tʃ ã b u r u $,default,,,*rã-
+ProPa-13_blood-1,,ProPa,13_blood,himi,himi,h i m i,,Valenzuela2013,4,,^ h i m i $,default,,,*himi
+Ksh-13_blood-1,,Ksh,13_blood,imi,imi,i m i,,Valenzuela2013,4,,^ i m i $,default,,,*himi
+SK-13_blood-1,,SK,13_blood,himi,himi,h i m i,,Valenzuela2013,4,,^ h i m i $,default,,,*himi
+Kap-13_blood-1,,Kap,13_blood,himi,himi,h i m i,,Valenzuela2013,4,,^ h i m i $,default,,,*himi
+Mar-13_blood-1,,Mar,13_blood,imbi,imbi,i m b i,/b/ as superscript,Valenzuela2013,4,,^ i m b i $,default,,,*himi
+Chak-13_blood-1,,Chak,13_blood,himi,himi,h i m i,,Valenzuela2013,4,,^ h i m i $,default,,,*himi
+Kax-13_blood-1,,Kax,13_blood,himi,himi,h i m i,,Valenzuela2013,4,,^ h i m i $,default,,,*himi
+Yam-13_blood-1,,Yam,13_blood,im,im,i m,,Valenzuela2013,4,,^ i m $,default,,,*himi
+Chan-13_blood-1,,Chan,13_blood,ibi,ibi,i b i,,Valenzuela2013,4,,^ i b i $,default,,,*himi
+Shar-13_blood-1,,Shar,13_blood,imi,imi,i m i,,Valenzuela2013,4,,^ i m i $,default,,,*himi
+ProPa-14_breast-1,,ProPa,14_breast,ʂo,ʂo,ʂ o,,Valenzuela2013,6,,^ ʂ o $,default,,,*ʂo
+Ksh-14_breast-1,,Ksh,14_breast,ʂoma,ʂoma,ʂ o m a,,Valenzuela2013,6,,^ ʂ o m a $,default,,,*ʂo
+SK-14_breast-1,,SK,14_breast,ʂoma,ʂoma,ʂ o m a,,Valenzuela2013,6,,^ ʂ o m a $,default,,,*ʂo
+Kap-14_breast-1,,Kap,14_breast,ʂoma,ʂoma,ʂ o m a,,Valenzuela2013,6,,^ ʂ o m a $,default,,,*ʂo
+Mar-14_breast-1,,Mar,14_breast,ʂoma,ʂoma,ʂ o m a,,Valenzuela2013,6,,^ ʂ o m a $,default,,,*ʂo
+Chak-14_breast-1,,Chak,14_breast,ʂoma,ʂoma,ʂ o m a,,Valenzuela2013,6,,^ ʂ o m a $,default,,,*ʂo
+Chan-14_breast-1,,Chan,14_breast,ʂoma,ʂoma,ʂ o m a,,Valenzuela2013,6,,^ ʂ o m a $,default,,,*ʂo
+Shar-14_breast-1,,Shar,14_breast,ʂoma,ʂoma,ʂ o m a,,Valenzuela2013,6,,^ ʂ o m a $,default,,,*ʂo
+ProPa-15_sun-1,,ProPa,15_sun,βari,βari,β a r i,,Valenzuela2013,42,,^ β a r i $,default,,,*βari
+Ksh-15_sun-1,,Ksh,15_sun,βaɾi,βaɾi,β a ɾ i,,Valenzuela2013,42,,^ β a ɾ i $,default,,,*βari
+SK-15_sun-1,,SK,15_sun,βaɾi,βaɾi,β a ɾ i,,Valenzuela2013,42,,^ β a ɾ i $,default,,,*βari
+Kap-15_sun-1,,Kap,15_sun,βaɾi,βaɾi,β a ɾ i,,Valenzuela2013,42,,^ β a ɾ i $,default,,,*βari
+Mar-15_sun-1,,Mar,15_sun,vaɾi,vaɾi,v a ɾ i,,Valenzuela2013,42,,^ v a ɾ i $,default,,,*βari
+Chak-15_sun-1,,Chak,15_sun,βaɾi,βaɾi,β a ɾ i,,Valenzuela2013,42,,^ β a ɾ i $,default,,,*βari
+Kax-15_sun-1,,Kax,15_sun,βatʃi,βatʃi,β a tʃ i,,Valenzuela2013,42,,^ β a tʃ i $,default,,,*βari
+Chan-15_sun-1,,Chan,15_sun,ɸaɾi,ɸaɾi,ɸ a ɾ i,,Valenzuela2013,42,,^ ɸ a ɾ i $,default,,,*βari
+Shar-15_sun-1,,Shar,15_sun,ɸari,ɸari,ɸ a r i,,Valenzuela2013,42,,^ ɸ a r i $,default,,,*βari
+ProPa-16_you-1,,ProPa,16_you,mi,mi,m i,,Valenzuela2013,49,,^ m i $,default,,,*mi
+Ksh-16_you-1,,Ksh,16_you,miː,miː,m iː,,Valenzuela2013,49,,^ m iː $,default,,,*mi
+SK-16_you-1,,SK,16_you,mia,mia,m i a,,Valenzuela2013,49,,^ m i a $,default,,,*mi
+Kap-16_you-1,,Kap,16_you,mia,mia,m i a,,Valenzuela2013,49,,^ m i a $,default,,,*mi
+Chak-16_you-1,,Chak,16_you,mia,mia,m i a,object form,Valenzuela2013,49,,^ m i a $,default,,,*mi
+ProPa-17_come-1,,ProPa,17_come,βɨ-,βɨ,β ɨ,"'come,bring'",Valenzuela2013,11,,^ β ɨ $,default,,,*βɨ-
+Ksh-17_come-1,,Ksh,17_come,βɨ-,βɨ,β ɨ,,Valenzuela2013,11,,^ β ɨ $,default,,,*βɨ-
+SK-17_come-1,,SK,17_come,βɨ-,βɨ,β ɨ,,Valenzuela2013,11,,^ β ɨ $,default,,,*βɨ-
+Kap-17_come-1,,Kap,17_come,βɨ-,βɨ,β ɨ,,Valenzuela2013,11,,^ β ɨ $,default,,,*βɨ-
+Chak-17_come-1,,Chak,17_come,βɨ-,βɨ,β ɨ,,Valenzuela2013,11,,^ β ɨ $,default,,,*βɨ-
+Kax-17_come-1,,Kax,17_come,bɨ-,bɨ,b ɨ,,Valenzuela2013,11,,^ b ɨ $,default,,,*βɨ-
+Yam-17_come-1,,Yam,17_come,ɸɨ-,ɸɨ,ɸ ɨ,,Valenzuela2013,11,,^ ɸ ɨ $,default,,,*βɨ-
+Chan-17_come-1,,Chan,17_come,ɸɨ-,ɸɨ,ɸ ɨ,,Valenzuela2013,11,,^ ɸ ɨ $,default,,,*βɨ-
+Shar-17_come-1,,Shar,17_come,ɸɨ-,ɸɨ,ɸ ɨ,,Valenzuela2013,11,,^ ɸ ɨ $,default,,,*βɨ-
+ProPa-18_i-1,,ProPa,18_i,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2013,29,,^ ʔ ɨ $,default,,,*ʔɨ
+Ksh-18_i-1,,Ksh,18_i,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2013,29,,^ ʔ ɨ $,default,,,*ʔɨ
+SK-18_i-1,,SK,18_i,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2013,29,,^ ʔ ɨ $,default,,,*ʔɨ
+Kap-18_i-1,,Kap,18_i,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2013,29,,^ ʔ ɨ $,default,,,*ʔɨ
+Chak-18_i-1,,Chak,18_i,ɨ,ɨ,ɨ,,Valenzuela2013,29,,^ ɨ $,default,,,*ʔɨ
+ProPa-19_flesh-1,,ProPa,19_flesh,nami,nami,n a m i,Additional cognates refering to body parts,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Ksh-19_flesh-1,,Ksh,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+SK-19_flesh-1,,SK,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Kap-19_flesh-1,,Kap,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Mar-19_flesh-1,,Mar,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Chak-19_flesh-1,,Chak,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Kax-19_flesh-1,,Kax,19_flesh,lami,lami,l a m i,,Valenzuela2013,24,,^ l a m i $,default,,,*nami
+Yam-19_flesh-1,,Yam,19_flesh,"nami,nãmi",nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Chan-19_flesh-1,,Chan,19_flesh,"nabi,dami",nabi,n a b i,,Valenzuela2013,24,,^ n a b i $,default,,,*nami
+Shar-19_flesh-1,,Shar,19_flesh,"nami,namin",nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+ProPa-20_fat-1,,ProPa,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Ksh-20_fat-1,,Ksh,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+SK-20_fat-1,,SK,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Kap-20_fat-1,,Kap,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Mar-20_fat-1,,Mar,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Chak-20_fat-1,,Chak,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Yam-20_fat-1,,Yam,20_fat,ʂɨnĩ,ʂɨnĩ,ʂ ɨ n ĩ,,Valenzuela2013,21,,^ ʂ ɨ n ĩ $,default,,,*ʂɨni
+Chan-20_fat-1,,Chan,20_fat,"ʃɨdi,ʃidi,ʂidi",ʃɨdi,ʃ ɨ d i,,Valenzuela2013,21,,^ ʃ ɨ d i $,default,,,*ʂɨni
+Shar-20_fat-1,,Shar,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+ProPa-21_fingernail-1,,ProPa,21_fingernail,mɨ̃-tsis[i],mɨ̃,m ɨ̃,"Zariquiey & Valenzuela (2022) benefited from the same talk that served as the basis for the present work (see footnote  1).  Both  articles  propose  the  same  set  of  body-part  cognates:  tooth,  liver,  leaf,  bone,  tongue,  hand, skin/hide, knee, blood, breast, flesh, fat, fingernail, foot/leg, lip/edge, cheek, mouth, elbow.",Valenzuela2013,22,,^ m ɨ̃ $,default,,,*mɨ̃-tsis[i]
+Ksh-21_fingernail-1,,Ksh,21_fingernail,"Untsis,untsɨs",Untsis,u n ts i s,,Valenzuela2013,22,,^ U n ts i s $,default,,,*mɨ̃-tsis[i]
+SK-21_fingernail-1,,SK,21_fingernail,"mɨ̃ntsis,mɨ̃tsis",mɨ̃ntsis,m ɨ̃ n ts i s,,Valenzuela2013,22,,^ m ɨ̃ n ts i s $,default,,,*mɨ̃-tsis[i]
+Kap-21_fingernail-1,,Kap,21_fingernail,mɨ̃ntsis,mɨ̃ntsis,m ɨ̃ n ts i s,,Valenzuela2013,22,,^ m ɨ̃ n ts i s $,default,,,*mɨ̃-tsis[i]
+Mar-21_fingernail-1,,Mar,21_fingernail,mɨ̃tsisi,mɨ̃tsisi,m ɨ̃ ts i s i,,Valenzuela2013,22,,^ m ɨ̃ ts i s i $,default,,,*mɨ̃-tsis[i]
+Chak-21_fingernail-1,,Chak,21_fingernail,"mɨ̃tsis,mɨ̃tsisi",mɨ̃tsis,m ɨ̃ ts i s,,Valenzuela2013,22,,^ m ɨ̃ ts i s $,default,,,*mɨ̃-tsis[i]
+Kax-21_fingernail-1,,Kax,21_fingernail,mɨ̃tʃisi,mɨ̃tʃisi,m ɨ̃ tʃ i s i,,Valenzuela2013,22,,^ m ɨ̃ tʃ i s i $,default,,,*mɨ̃-tsis[i]
+Yam-21_fingernail-1,,Yam,21_fingernail,"mitsis,mitsisi",mitsis,m i ts i s,,Valenzuela2013,22,,^ m i ts i s $,default,,,*mɨ̃-tsis[i]
+Chan-21_fingernail-1,,Chan,21_fingernail,bitsis(otsis),bitsis,b i ts i s,,Valenzuela2013,22,,^ b i ts i s $,default,,,*mɨ̃-tsis[i]
+Shar-21_fingernail-1,,Shar,21_fingernail,"mɨtsisi,otsisi",mɨtsisi,m ɨ ts i s i,,Valenzuela2013,22,,^ m ɨ ts i s i $,default,,,*mɨ̃-tsis[i]
+ProPa-22_footleg-1,,ProPa,22_footleg,ta-,ta,t a,'foot',Valenzuela2013,25,,^ t a $,default,,,*ta-
+Ksh-22_footleg-1,,Ksh,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+SK-22_footleg-1,,SK,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+Kap-22_footleg-1,,Kap,22_footleg,taʔɨ,taʔɨ,t a ʔ ɨ,,Valenzuela2013,25,,^ t a ʔ ɨ $,default,,,*ta-
+Mar-22_footleg-1,,Mar,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+Chak-22_footleg-1,,Chak,22_footleg,taʔɨ,taʔɨ,t a ʔ ɨ,,Valenzuela2013,25,,^ t a ʔ ɨ $,default,,,*ta-
+Kax-22_footleg-1,,Kax,22_footleg,taʔɨ,taʔɨ,t a ʔ ɨ,,Valenzuela2013,25,,^ t a ʔ ɨ $,default,,,*ta-
+Yam-22_footleg-1,,Yam,22_footleg,"taɨ,taɨ̃",taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+Chan-22_footleg-1,,Chan,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+Shar-22_footleg-1,,Shar,22_footleg,"taɨ,taɨn",taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+ProPa-23_lipedge-1,,ProPa,23_lipedge,kʷɨ-,kʷɨ,kʷ ɨ,,Valenzuela2013,33,,^ kʷ ɨ $,default,,,*kʷɨ-
+Ksh-23_lipedge-1,,Ksh,23_lipedge,kʷɨβi-,kʷɨβi,kʷ ɨ β i,,Valenzuela2013,33,,^ kʷ ɨ β i $,default,,,*kʷɨ-
+SK-23_lipedge-1,,SK,23_lipedge,kɨβi-,kɨβi,k ɨ β i,,Valenzuela2013,33,,^ k ɨ β i $,default,,,*kʷɨ-
+Chak-23_lipedge-1,,Chak,23_lipedge,kɨβitʃi,kɨβitʃi,k ɨ β i tʃ i,,Valenzuela2013,33,,^ k ɨ β i tʃ i $,default,,,*kʷɨ-
+Shar-23_lipedge-1,,Shar,23_lipedge,kuɸirisika,kuɸirisika,k u ɸ i r i s i k a,,Valenzuela2013,33,,^ k u ɸ i r i s i k a $,default,,,*kʷɨ-
+ProPa-24_cheek-1,,ProPa,24_cheek,tamo,tamo,t a m o,,Valenzuela2013,10,,^ t a m o $,default,,,*tamo
+Ksh-24_cheek-1,,Ksh,24_cheek,tamo,tamo,t a m o,,Valenzuela2013,10,,^ t a m o $,default,,,*tamo
+SK-24_cheek-1,,SK,24_cheek,tamo,tamo,t a m o,,Valenzuela2013,10,,^ t a m o $,default,,,*tamo
+Kap-24_cheek-1,,Kap,24_cheek,tamo,tamo,t a m o,,Valenzuela2013,10,,^ t a m o $,default,,,*tamo
+Mar-24_cheek-1,,Mar,24_cheek,tambo,tambo,t a m b o,/m/ as superscript,Valenzuela2013,10,,^ t a m b o $,default,,,*tamo
+Chak-24_cheek-1,,Chak,24_cheek,tamo,tamo,t a m o,,Valenzuela2013,10,,^ t a m o $,default,,,*tamo
+Kax-24_cheek-1,,Kax,24_cheek,tamu,tamu,t a m u,,Valenzuela2013,10,,^ t a m u $,default,,,*tamo
+Yam-24_cheek-1,,Yam,24_cheek,"tamo,tamõ",tamo,t a m o,,Valenzuela2013,10,,^ t a m o $,default,,,*tamo
+Shar-24_cheek-1,,Shar,24_cheek,"tamo,tamon",tamo,t a m o,,Valenzuela2013,10,,^ t a m o $,default,,,*tamo
+ProPa-25_mouth-1,,ProPa,25_mouth,kʷɨʂa[CV],kʷɨʂa,kʷ ɨ ʂ a,,Valenzuela2013,36,,^ kʷ ɨ ʂ a $,default,,,*kʷɨʂa[CV]
+Ksh-25_mouth-1,,Ksh,25_mouth,kʷɨʂa,kʷɨʂa,kʷ ɨ ʂ a,,Valenzuela2013,36,,^ kʷ ɨ ʂ a $,default,,,*kʷɨʂa[CV]
+SK-25_mouth-1,,SK,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,Valenzuela2013,36,,^ k ɨ ʂ a $,default,,,*kʷɨʂa[CV]
+Kap-25_mouth-1,,Kap,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,Valenzuela2013,36,,^ k ɨ ʂ a $,default,,,*kʷɨʂa[CV]
+Mar-25_mouth-1,,Mar,25_mouth,kɨʃa,kɨʃa,k ɨ ʃ a,,Valenzuela2013,36,,^ k ɨ ʃ a $,default,,,*kʷɨʂa[CV]
+Kax-25_mouth-1,,Kax,25_mouth,kɨʂaka,kɨʂaka,k ɨ ʂ a k a,,Valenzuela2013,36,,^ k ɨ ʂ a k a $,default,,,*kʷɨʂa[CV]
+Yam-25_mouth-1,,Yam,25_mouth,"kɨʂã,kɨʂamã",kɨʂã,k ɨ ʂ ã,,Valenzuela2013,36,,^ k ɨ ʂ ã $,default,,,*kʷɨʂa[CV]
+Chan-25_mouth-1,,Chan,25_mouth,"kɨʃa,kɨʂa",kɨʃa,k ɨ ʃ a,,Valenzuela2013,36,,^ k ɨ ʃ a $,default,,,*kʷɨʂa[CV]
+Shar-25_mouth-1,,Shar,25_mouth,"kɨʂa,kɨʂan",kɨʂa,k ɨ ʂ a,,Valenzuela2013,36,,^ k ɨ ʂ a $,default,,,*kʷɨʂa[CV]
+ProPa-26_elbow-1,,ProPa,26_elbow,βaʂ(u)-,βaʂ,β a ʂ,,Valenzuela2013,20,,^ β a ʂ $,default,,,*βaʂ(u)-
+Ksh-26_elbow-1,,Ksh,26_elbow,banbuxu,banbuxu,b a n b u x u,,Valenzuela2013,20,,^ b a n b u x u $,default,,,*βaʂ(u)-
+SK-26_elbow-1,,SK,26_elbow,põtõko,põtõko,p õ t õ k o,,Valenzuela2013,20,,^ p õ t õ k o $,default,,,*βaʂ(u)-
+Kap-26_elbow-1,,Kap,26_elbow,baʂpoʂko,baʂpoʂko,b a ʂ p o ʂ k o,,Valenzuela2013,20,,^ b a ʂ p o ʂ k o $,default,,,*βaʂ(u)-
+Chak-26_elbow-1,,Chak,26_elbow,baspoto,baspoto,b a s p o t o,,Valenzuela2013,20,,^ b a s p o t o $,default,,,*βaʂ(u)-
+Kax-26_elbow-1,,Kax,26_elbow,paxuxu,paxuxu,p a x u x u,,Valenzuela2013,20,,^ p a x u x u $,default,,,*βaʂ(u)-
+Yam-26_elbow-1,,Yam,26_elbow,po-to-ṣ̌ko,po,p o,,Valenzuela2013,20,,^ p o $,default,,,*βaʂ(u)-
+Shan-1_tree-1,,Shan,1_tree,iwi,iwi,i w i,,Valenzuela2013,47,,^ i w i $,default,,,*hiwi
+Kat-1_tree-1,,Kat,1_tree,hiwi,hiwi,h i w i,,Valenzuela2013,47,,^ h i w i $,default,,,*hiwi
+Poy-1_tree-1,,Poy,1_tree,iwi,iwi,i w i,,Valenzuela2013,47,,^ i w i $,default,,,*hiwi
+Ama-1_tree-1,,Ama,1_tree,hiː,hiː,h iː,,Valenzuela2013,47,,^ h iː $,default,,,*hiwi
+HanKax-1_tree-1,,HanKax,1_tree,hi,hi,h i,,Valenzuela2013,47,,^ h i $,default,,,*hiwi
+Maw-1_tree-1,,Maw,1_tree,iwi,iwi,i w i,,Valenzuela2013,47,,^ i w i $,default,,,*hiwi
+Kor-1_tree-1,,Kor,1_tree,iwi,iwi,i w i,,Valenzuela2013,47,,^ i w i $,default,,,*hiwi
+MatMay-1_tree-1,,MatMay,1_tree,iwi,iwi,i w i,,Valenzuela2013,47,,^ i w i $,default,,,*hiwi
+Shan-2_tooth-1,,Shan,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Kat-2_tooth-1,,Kat,2_tooth,ʂita,ʂita,ʂ i t a,,Valenzuela2013,46,,^ ʂ i t a $,default,,,*ʂɨ-
+Ama-2_tooth-1,,Ama,2_tooth,xɨta,xɨta,x ɨ t a,,Valenzuela2013,46,,^ x ɨ t a $,default,,,*ʂɨ-
+HanKax-2_tooth-1,,HanKax,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Maw-2_tooth-1,,Maw,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Yaw-2_tooth-1,,Yaw,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Kor-2_tooth-1,,Kor,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Mat-2_tooth-1,,Mat,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+MatMay-2_tooth-1,,MatMay,2_tooth,ʂɨta,ʂɨta,ʂ ɨ t a,,Valenzuela2013,46,,^ ʂ ɨ t a $,default,,,*ʂɨ-
+Shan-3_two-1,,Shan,3_two,rafu,rafu,r a f u,,Valenzuela2013,48,,^ r a f u $,default,,,*ra-βɨta
+Kat-3_two-1,,Kat,3_two,raβi,raβi,r a β i,,Valenzuela2013,48,,^ r a β i $,default,,,*ra-βɨta
+Poy-3_two-1,,Poy,3_two,raβu,raβu,r a β u,,Valenzuela2013,48,,^ r a β u $,default,,,*ra-βɨta
+Ama-3_two-1,,Ama,3_two,raβɨ,raβɨ,r a β ɨ,,Valenzuela2013,48,,^ r a β ɨ $,default,,,*ra-βɨta
+Maw-3_two-1,,Maw,3_two,raɸɨ,raɸɨ,r a ɸ ɨ,,Valenzuela2013,48,,^ r a ɸ ɨ $,default,,,*ra-βɨta
+Yaw-3_two-1,,Yaw,3_two,raβɨ,raβɨ,r a β ɨ,,Valenzuela2013,48,,^ r a β ɨ $,default,,,*ra-βɨta
+Kor-3_two-1,,Kor,3_two,ɬaβɨtpa,ɬaβɨtpa,ɬ a β ɨ t p a,,Valenzuela2013,48,,^ ɬ a β ɨ t p a $,default,,,*ra-βɨta
+Mat-3_two-1,,Mat,3_two,dabɨdpa,dabɨdpa,d a b ɨ d p a,,Valenzuela2013,48,,^ d a b ɨ d p a $,default,,,*ra-βɨta
+MatMay-3_two-1,,MatMay,3_two,daɨd,daɨd,d a ɨ d,,Valenzuela2013,48,,^ d a ɨ d $,default,,,*ra-βɨta
+Shan-4_liver-1,,Shan,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Kat-4_liver-1,,Kat,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Poy-4_liver-1,,Poy,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Ama-4_liver-1,,Ama,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+HanKax-4_liver-1,,HanKax,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Maw-4_liver-1,,Maw,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Yaw-4_liver-1,,Yaw,4_liver,taka,taka,t a k a,,Valenzuela2013,34,,^ t a k a $,default,,,*takʷa
+Kor-4_liver-1,,Kor,4_liver,takʷa,takʷa,t a kʷ a,,Valenzuela2013,34,,^ t a kʷ a $,default,,,*takʷa
+Mat-4_liver-1,,Mat,4_liver,takua,takua,t a kʷ a,,Valenzuela2013,34,,^ t a kua $,default,,,*takʷa
+MatMay-4_liver-1,,MatMay,4_liver,takʷa,takʷa,t a kʷ a,,Valenzuela2013,34,,^ t a kʷ a $,default,,,*takʷa
+Shan-5_leaf-1,,Shan,5_leaf,pɨj,pɨj,p ɨ j,,Valenzuela2013,32,,^ p ɨ j $,default,,,*pɨʔi
+Kat-5_leaf-1,,Kat,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+Poy-5_leaf-1,,Poy,5_leaf,puy,puy,p u j,,Valenzuela2013,32,,^ p u y $,default,,,*pɨʔi
+Ama-5_leaf-1,,Ama,5_leaf,pɨʔi,pɨʔi,p ɨ ʔ i,,Valenzuela2013,32,,^ p ɨ ʔ i $,default,,,*pɨʔi
+HanKax-5_leaf-1,,HanKax,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+Maw-5_leaf-1,,Maw,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+Yaw-5_leaf-1,,Yaw,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+Mat-5_leaf-1,,Mat,5_leaf,pɨi,pɨi,p ɨ i,,Valenzuela2013,32,,^ p ɨ i $,default,,,*pɨʔi
+MatMay-5_leaf-1,,MatMay,5_leaf,pɨ,pɨ,p ɨ,,Valenzuela2013,32,,^ p ɨ $,default,,,*pɨʔi
+Shan-6_bone-1,,Shan,6_bone,ʂaw,ʂaw,ʂ a w,"Shell (1975: 174, 398) and Oliveira (2014: 459, 398) reconstruct *ʂao. Kasharari presents the form ʂahu [ʂa'hwu] (Lanes 2005, in Oliveira 2014). For Matses/Mayoruna we consider as evidence the final consonant in mɨ-ʂ‘wrist bone’, taɨ-ʂ‘ankle bone’, and ʂomoʂ‘needle made of bone’ (Fleck et al. 2012).",Valenzuela2013,5,,^ ʂ a w $,default,,,*ʂao
+Kat-6_bone-1,,Kat,6_bone,ʃau,ʃau,ʃ a u,,Valenzuela2013,5,,^ ʃ a u $,default,,,*ʂao
+Poy-6_bone-1,,Poy,6_bone,haw,haw,h a w,,Valenzuela2013,5,,^ h a w $,default,,,*ʂao
+Ama-6_bone-1,,Ama,6_bone,xao,xao,x a o,,Valenzuela2013,5,,^ x a o $,default,,,*ʂao
+HanKax-6_bone-1,,HanKax,6_bone,ʂau,ʂau,ʂ a u,,Valenzuela2013,5,,^ ʂ a u $,default,,,*ʂao
+Maw-6_bone-1,,Maw,6_bone,ʂao,ʂao,ʂ a o,,Valenzuela2013,5,,^ ʂ a o $,default,,,*ʂao
+Yaw-6_bone-1,,Yaw,6_bone,ʃau,ʃau,ʃ a u,,Valenzuela2013,5,,^ ʃ a u $,default,,,*ʂao
+MatMay-6_bone-1,,MatMay,6_bone,"mɨ-ʂ,taɨ-ʂ,ʂomoʂ",mɨ,m ɨ,"'wrist bone','ankle bone','needle made of bone'",Valenzuela2013,5,,^ m ɨ $,default,,,*ʂao
+Shan-7_tongue-1,,Shan,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*hana
+Kat-7_tongue-1,,Kat,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*hana
+Poy-7_tongue-1,,Poy,7_tongue,ãda,ãda,ã d a,,Valenzuela2013,45,,^ ã d a $,default,,,*hana
+Ama-7_tongue-1,,Ama,7_tongue,hana,hana,h a n a,,Valenzuela2013,45,,^ h a n a $,default,,,*hana
+HanKax-7_tongue-1,,HanKax,7_tongue,hana,hana,h a n a,,Valenzuela2013,45,,^ h a n a $,default,,,*hana
+Maw-7_tongue-1,,Maw,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*hana
+Yaw-7_tongue-1,,Yaw,7_tongue,anna,anna,a n n a,,Valenzuela2013,45,,^ a n n a $,default,,,*hana
+Kor-7_tongue-1,,Kor,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*hana
+Mat-7_tongue-1,,Mat,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*hana
+Ama-8_hand-1,,Ama,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,Valenzuela2013,28,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
+HanKax-8_hand-1,,HanKax,8_hand,mɨkɨ̃,mɨkɨ̃,m ɨ k ɨ̃,,Valenzuela2013,28,,^ m ɨ k ɨ̃ $,default,,,*mɨ-
+Maw-8_hand-1,,Maw,8_hand,mɨkɨ,mɨkɨ,m ɨ k ɨ,,Valenzuela2013,28,,^ m ɨ k ɨ $,default,,,*mɨ-
+Mat-8_hand-1,,Mat,8_hand,mɨkɨn,mɨkɨn,m ɨ k ɨ n,,Valenzuela2013,28,,^ m ɨ k ɨ n $,default,,,*mɨ-
+MatMay-8_hand-1,,MatMay,8_hand,mɨdante,mɨdante,m ɨ d a n t e,,Valenzuela2013,28,,^ m ɨ d a n t e $,default,,,*mɨ-
+Shan-9_night-1,,Shan,9_night,yamɨ,yamɨ,j a m ɨ,,Valenzuela2013,38,,^ y a m ɨ $,default,,,*yamɨtV
+Kat-9_night-1,,Kat,9_night,yamɨ,yamɨ,j a m ɨ,,Valenzuela2013,38,,^ y a m ɨ $,default,,,*yamɨtV
+Poy-9_night-1,,Poy,9_night,iãvu,iãvu,i ã v u,,Valenzuela2013,38,,^ i ã v u $,default,,,*yamɨtV
+Ama-9_night-1,,Ama,9_night,yamɨː,yamɨː,j a m ɨː,,Valenzuela2013,38,,^ y a m ɨː $,default,,,*yamɨtV
+HanKax-9_night-1,,HanKax,9_night,yamɨ,yamɨ,j a m ɨ,,Valenzuela2013,38,,^ y a m ɨ $,default,,,*yamɨtV
+Maw-9_night-1,,Maw,9_night,yamɨ,yamɨ,j a m ɨ,,Valenzuela2013,38,,^ y a m ɨ $,default,,,*yamɨtV
+Yaw-9_night-1,,Yaw,9_night,iamɨ,iamɨ,i a m ɨ,,Valenzuela2013,38,,^ i a m ɨ $,default,,,*yamɨtV
+Kor-9_night-1,,Kor,9_night,imɨt,imɨt,i m ɨ t,,Valenzuela2013,38,,^ i m ɨ t $,default,,,*yamɨtV
+Mat-9_night-1,,Mat,9_night,imɨd,imɨd,i m ɨ d,,Valenzuela2013,38,,^ i m ɨ d $,default,,,*yamɨtV
+Shan-10_skin-1,,Shan,10_skin,fitʃi,fitʃi,f i tʃ i,,Valenzuela2013,41,,^ f i tʃ i $,default,,,*βitsi
+HanKax-10_skin-1,,HanKax,10_skin,bitʃi,bitʃi,b i tʃ i,,Valenzuela2013,41,,^ b i tʃ i $,default,,,*βitsi
+Maw-10_skin-1,,Maw,10_skin,ɸitʃi,ɸitʃi,ɸ i tʃ i,,Valenzuela2013,41,,^ ɸ i tʃ i $,default,,,*βitsi
+Yaw-10_skin-1,,Yaw,10_skin,βɨtʃi,βɨtʃi,β ɨ tʃ i,,Valenzuela2013,41,,^ β ɨ tʃ i $,default,,,*βitsi
+Mat-10_skin-1,,Mat,10_skin,bitsi,bitsi,b i ts i,,Valenzuela2013,41,,^ b i ts i $,default,,,*βitsi
+MatMay-10_skin-1,,MatMay,10_skin,bitsi,bitsi,b i ts i,,Valenzuela2013,41,,^ b i ts i $,default,,,*βitsi
+Shan-11_fire-1,,Shan,11_fire,tʃi,tʃi,tʃ i,,Valenzuela2013,23,,^ tʃ i $,default,,,*tsiʔi
+Kat-11_fire-1,,Kat,11_fire,tʃii,tʃii,tʃ i i,,Valenzuela2013,23,,^ tʃ i i $,default,,,*tsiʔi
+Ama-11_fire-1,,Ama,11_fire,tʃiʔi,tʃiʔi,tʃ i ʔ i,,Valenzuela2013,23,,^ tʃ i ʔ i $,default,,,*tsiʔi
+HanKax-11_fire-1,,HanKax,11_fire,tʃi,tʃi,tʃ i,,Valenzuela2013,23,,^ tʃ i $,default,,,*tsiʔi
+Maw-11_fire-1,,Maw,11_fire,tʃi,tʃi,tʃ i,,Valenzuela2013,23,,^ tʃ i $,default,,,*tsiʔi
+Yaw-11_fire-1,,Yaw,11_fire,tʃi,tʃi,tʃ i,,Valenzuela2013,23,,^ tʃ i $,default,,,*tsiʔi
+Kat-12_knee-1,,Kat,12_knee,raβɨʂo,raβɨʂo,r a β ɨ ʂ o,,Valenzuela2013,31,,^ r a β ɨ ʂ o $,default,,,*rã-
+Ama-12_knee-1,,Ama,12_knee,rawoxko,rawoxko,r a w o x k o,,Valenzuela2013,31,,^ r a w o x k o $,default,,,*rã-
+Shan-13_blood-1,,Shan,13_blood,imi,imi,i m i,,Valenzuela2013,4,,^ i m i $,default,,,*himi
+Kat-13_blood-1,,Kat,13_blood,himi,himi,h i m i,,Valenzuela2013,4,,^ h i m i $,default,,,*himi
+Poy-13_blood-1,,Poy,13_blood,ibi,ibi,i b i,,Valenzuela2013,4,,^ i b i $,default,,,*himi
+Ama-13_blood-1,,Ama,13_blood,himi,himi,h i m i,,Valenzuela2013,4,,^ h i m i $,default,,,*himi
+HanKax-13_blood-1,,HanKax,13_blood,himi,himi,h i m i,,Valenzuela2013,4,,^ h i m i $,default,,,*himi
+Maw-13_blood-1,,Maw,13_blood,imi,imi,i m i,,Valenzuela2013,4,,^ i m i $,default,,,*himi
+Yaw-13_blood-1,,Yaw,13_blood,imi,imi,i m i,,Valenzuela2013,4,,^ i m i $,default,,,*himi
+Kor-13_blood-1,,Kor,13_blood,inta,inta,i n t a,,Valenzuela2013,4,,^ i n t a $,default,,,*himi
+Mat-13_blood-1,,Mat,13_blood,imi,imi,i m i,,Valenzuela2013,4,,^ i m i $,default,,,*himi
+MatMay-13_blood-1,,MatMay,13_blood,imi,imi,i m i,,Valenzuela2013,4,,^ i m i $,default,,,*himi
+Shan-14_breast-1,,Shan,14_breast,ʂuma,ʂuma,ʂ u m a,,Valenzuela2013,6,,^ ʂ u m a $,default,,,*ʂo
+Kat-14_breast-1,,Kat,14_breast,ʃuma,ʃuma,ʃ u m a,,Valenzuela2013,6,,^ ʃ u m a $,default,,,*ʂo
+Poy-14_breast-1,,Poy,14_breast,hũba,hũba,h ũ b a,,Valenzuela2013,6,,^ h ũ b a $,default,,,*ʂo
+Ama-14_breast-1,,Ama,14_breast,xoma,xoma,x o m a,,Valenzuela2013,6,,^ x o m a $,default,,,*ʂo
+HanKax-14_breast-1,,HanKax,14_breast,ʂuma,ʂuma,ʂ u m a,,Valenzuela2013,6,,^ ʂ u m a $,default,,,*ʂo
+Maw-14_breast-1,,Maw,14_breast,ʂoma,ʂoma,ʂ o m a,,Valenzuela2013,6,,^ ʂ o m a $,default,,,*ʂo
+Yaw-14_breast-1,,Yaw,14_breast,ʃuma,ʃuma,ʃ u m a,,Valenzuela2013,6,,^ ʃ u m a $,default,,,*ʂo
+Kor-14_breast-1,,Kor,14_breast,ʂuma,ʂuma,ʂ u m a,,Valenzuela2013,6,,^ ʂ u m a $,default,,,*ʂo
+Mat-14_breast-1,,Mat,14_breast,ʂuma,ʂuma,ʂ u m a,,Valenzuela2013,6,,^ ʂ u m a $,default,,,*ʂo
+MatMay-14_breast-1,,MatMay,14_breast,ʂuma,ʂuma,ʂ u m a,,Valenzuela2013,6,,^ ʂ u m a $,default,,,*ʂo
+Shan-15_sun-1,,Shan,15_sun,faɾi,faɾi,f a ɾ i,,Valenzuela2013,42,,^ f a ɾ i $,default,,,*βari
+Kat-15_sun-1,,Kat,15_sun,βaɾi,βaɾi,β a ɾ i,,Valenzuela2013,42,,^ β a ɾ i $,default,,,*βari
+Poy-15_sun-1,,Poy,15_sun,βaɾi,βaɾi,β a ɾ i,,Valenzuela2013,42,,^ β a ɾ i $,default,,,*βari
+Ama-15_sun-1,,Ama,15_sun,bari,bari,b a r i,,Valenzuela2013,42,,^ b a r i $,default,,,*βari
+HanKax-15_sun-1,,HanKax,15_sun,badi,badi,b a d i,,Valenzuela2013,42,,^ b a d i $,default,,,*βari
+Maw-15_sun-1,,Maw,15_sun,ɸaɾi,ɸaɾi,ɸ a ɾ i,,Valenzuela2013,42,,^ ɸ a ɾ i $,default,,,*βari
+Yaw-15_sun-1,,Yaw,15_sun,βaɾi,βaɾi,β a ɾ i,,Valenzuela2013,42,,^ β a ɾ i $,default,,,*βari
+Kor-15_sun-1,,Kor,15_sun,βaɬi,βaɬi,β a ɬ i,,Valenzuela2013,42,,^ β a ɬ i $,default,,,*βari
+Mat-15_sun-1,,Mat,15_sun,badi,badi,b a d i,,Valenzuela2013,42,,^ b a d i $,default,,,*βari
+MatMay-15_sun-1,,MatMay,15_sun,badiad,badiad,b a d i a d,,Valenzuela2013,42,,^ b a d i a d $,default,,,*βari
+Ama-16_you-1,,Ama,16_you,miya,miya,m i j a,,Valenzuela2013,49,,^ m i y a $,default,,,*mi
+HanKax-16_you-1,,HanKax,16_you,mia,mia,m i a,,Valenzuela2013,49,,^ m i a $,default,,,*mi
+Maw-16_you-1,,Maw,16_you,mia,mia,m i a,,Valenzuela2013,49,,^ m i a $,default,,,*mi
+Kor-16_you-1,,Kor,16_you,mi,mi,m i,,Valenzuela2013,49,,^ m i $,default,,,*mi
+Mat-16_you-1,,Mat,16_you,"mi (minbi,mibi,min)",mi_,m i,,Valenzuela2013,49,,^ m i _$,default,,,*mi
+MatMay-16_you-1,,MatMay,16_you,"mi (minbi,mibi,min)",mi_,m i,,Valenzuela2013,49,,^ m i _$,default,,,*mi
+Ama-17_come-1,,Ama,17_come,βɨ-,βɨ,β ɨ,,Valenzuela2013,11,,^ β ɨ $,default,,,*βɨ-
+HanKax-17_come-1,,HanKax,17_come,bɨ-,bɨ,b ɨ,,Valenzuela2013,11,,^ b ɨ $,default,,,*βɨ-
+Maw-17_come-1,,Maw,17_come,ɸɨ-,ɸɨ,ɸ ɨ,,Valenzuela2013,11,,^ ɸ ɨ $,default,,,*βɨ-
+Yaw-17_come-1,,Yaw,17_come,βɨ-,βɨ,β ɨ,,Valenzuela2013,11,,^ β ɨ $,default,,,*βɨ-
+Kor-17_come-1,,Kor,17_come,βɨ-,βɨ,β ɨ,,Valenzuela2013,11,,^ β ɨ $,default,,,*βɨ-
+Mat-17_come-1,,Mat,17_come,βɨ-,βɨ,β ɨ,,Valenzuela2013,11,,^ β ɨ $,default,,,*βɨ-
+MatMay-17_come-1,,MatMay,17_come,bɨ-,bɨ,b ɨ,,Valenzuela2013,11,,^ b ɨ $,default,,,*βɨ-
+Ama-18_i-1,,Ama,18_i,ɨ,ɨ,ɨ,,Valenzuela2013,29,,^ ɨ $,default,,,*ʔɨ
+HanKax-18_i-1,,HanKax,18_i,ɨ,ɨ,ɨ,,Valenzuela2013,29,,^ ɨ $,default,,,*ʔɨ
+Maw-18_i-1,,Maw,18_i,ɨ,ɨ,ɨ,,Valenzuela2013,29,,^ ɨ $,default,,,*ʔɨ
+Shan-19_flesh-1,,Shan,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Kat-19_flesh-1,,Kat,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Poy-19_flesh-1,,Poy,19_flesh,nãbi,nãbi,n ã b i,,Valenzuela2013,24,,^ n ã b i $,default,,,*nami
+Ama-19_flesh-1,,Ama,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+HanKax-19_flesh-1,,HanKax,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Maw-19_flesh-1,,Maw,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Yaw-19_flesh-1,,Yaw,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Mat-19_flesh-1,,Mat,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+MatMay-19_flesh-1,,MatMay,19_flesh,nami,nami,n a m i,,Valenzuela2013,24,,^ n a m i $,default,,,*nami
+Shan-20_fat-1,,Shan,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Kat-20_fat-1,,Kat,20_fat,ʃɨni,ʃɨni,ʃ ɨ n i,,Valenzuela2013,21,,^ ʃ ɨ n i $,default,,,*ʂɨni
+Poy-20_fat-1,,Poy,20_fat,hãdi,hãdi,h ã d i,,Valenzuela2013,21,,^ h ã d i $,default,,,*ʂɨni
+Ama-20_fat-1,,Ama,20_fat,xɨni,xɨni,x ɨ n i,,Valenzuela2013,21,,^ x ɨ n i $,default,,,*ʂɨni
+HanKax-20_fat-1,,HanKax,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Maw-20_fat-1,,Maw,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Yaw-20_fat-1,,Yaw,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Kor-20_fat-1,,Kor,20_fat,ʃɨni,ʃɨni,ʃ ɨ n i,,Valenzuela2013,21,,^ ʃ ɨ n i $,default,,,*ʂɨni
+Mat-20_fat-1,,Mat,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2013,21,,^ ʂ ɨ n i $,default,,,*ʂɨni
+Shan-21_fingernail-1,,Shan,21_fingernail,mɨtʃiʃi,mɨtʃiʃi,m ɨ tʃ i ʃ i,,Valenzuela2013,22,,^ m ɨ tʃ i ʃ i $,default,,,*mɨ̃-tsis[i]
+Kat-21_fingernail-1,,Kat,21_fingernail,mɨ̃tʃiʃi,mɨ̃tʃiʃi,m ɨ̃ tʃ i ʃ i,,Valenzuela2013,22,,^ m ɨ̃ tʃ i ʃ i $,default,,,*mɨ̃-tsis[i]
+Ama-21_fingernail-1,,Ama,21_fingernail,mɨntsis,mɨntsis,m ɨ n ts i s,,Valenzuela2013,22,,^ m ɨ n ts i s $,default,,,*mɨ̃-tsis[i]
+HanKax-21_fingernail-1,,HanKax,21_fingernail,mɨ̃tsis,mɨ̃tsis,m ɨ̃ ts i s,,Valenzuela2013,22,,^ m ɨ̃ ts i s $,default,,,*mɨ̃-tsis[i]
+Maw-21_fingernail-1,,Maw,21_fingernail,mɨ̃tsisi,mɨ̃tsisi,m ɨ̃ ts i s i,,Valenzuela2013,22,,^ m ɨ̃ ts i s i $,default,,,*mɨ̃-tsis[i]
+Yaw-21_fingernail-1,,Yaw,21_fingernail,mɨtsisi,mɨtsisi,m ɨ ts i s i,,Valenzuela2013,22,,^ m ɨ ts i s i $,default,,,*mɨ̃-tsis[i]
+Kor-21_fingernail-1,,Kor,21_fingernail,mɨtʃiun,mɨtʃiun,m ɨ tʃ i u n,,Valenzuela2013,22,,^ m ɨ tʃ i u n $,default,,,*mɨ̃-tsis[i]
+Mat-21_fingernail-1,,Mat,21_fingernail,mɨntis,mɨntis,m ɨ n t i s,,Valenzuela2013,22,,^ m ɨ n t i s $,default,,,*mɨ̃-tsis[i]
+MatMay-21_fingernail-1,,MatMay,21_fingernail,mɨntsis,mɨntsis,m ɨ n ts i s,,Valenzuela2013,22,,^ m ɨ n ts i s $,default,,,*mɨ̃-tsis[i]
+Shan-22_footleg-1,,Shan,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+Kat-22_footleg-1,,Kat,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+Poy-22_footleg-1,,Poy,22_footleg,tay,tay,t a j,,Valenzuela2013,25,,^ t a y $,default,,,*ta-
+Ama-22_footleg-1,,Ama,22_footleg,taʔɨ,taʔɨ,t a ʔ ɨ,,Valenzuela2013,25,,^ t a ʔ ɨ $,default,,,*ta-
+HanKax-22_footleg-1,,HanKax,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+Maw-22_footleg-1,,Maw,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+Yaw-22_footleg-1,,Yaw,22_footleg,tai,tai,t a i,,Valenzuela2013,25,,^ t a i $,default,,,*ta-
+Kor-22_footleg-1,,Kor,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+Mat-22_footleg-1,,Mat,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+MatMay-22_footleg-1,,MatMay,22_footleg,taɨ,taɨ,t a ɨ,,Valenzuela2013,25,,^ t a ɨ $,default,,,*ta-
+HanKax-23_lipedge-1,,HanKax,23_lipedge,kɨbitʃi,kɨbitʃi,k ɨ b i tʃ i,,Valenzuela2013,33,,^ k ɨ b i tʃ i $,default,,,*kʷɨ-
+MatMay-23_lipedge-1,,MatMay,23_lipedge,kwibi,kwibi,kʷ i b i,,Valenzuela2013,33,,^ kwi b i $,default,,,*kʷɨ-
+Kat-24_cheek-1,,Kat,24_cheek,tamu,tamu,t a m u,,Valenzuela2013,10,,^ t a m u $,default,,,*tamo
+Poy-24_cheek-1,,Poy,24_cheek,tãbu,tãbu,t ã b u,,Valenzuela2013,10,,^ t ã b u $,default,,,*tamo
+Ama-24_cheek-1,,Ama,24_cheek,tamo,tamo,t a m o,,Valenzuela2013,10,,^ t a m o $,default,,,*tamo
+HanKax-24_cheek-1,,HanKax,24_cheek,tamu,tamu,t a m u,,Valenzuela2013,10,,^ t a m u $,default,,,*tamo
+Maw-24_cheek-1,,Maw,24_cheek,tamo,tamo,t a m o,,Valenzuela2013,10,,^ t a m o $,default,,,*tamo
+MatMay-24_cheek-1,,MatMay,24_cheek,tambu,tambu,t a m b u,'beard',Valenzuela2013,10,,^ t a m b u $,default,,,*tamo
+Shan-25_mouth-1,,Shan,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,Valenzuela2013,36,,^ k ɨ ʂ a $,default,,,*kʷɨʂa[CV]
+Kat-25_mouth-1,,Kat,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,Valenzuela2013,36,,^ k ɨ ʂ a $,default,,,*kʷɨʂa[CV]
+Poy-25_mouth-1,,Poy,25_mouth,kɨxaa,kɨxaa,k ɨ x a a,,Valenzuela2013,36,,^ k ɨ x a a $,default,,,*kʷɨʂa[CV]
+Ama-25_mouth-1,,Ama,25_mouth,kɨʂa,kɨʂa,k ɨ ʂ a,,Valenzuela2013,36,,^ k ɨ ʂ a $,default,,,*kʷɨʂa[CV]
+HanKax-25_mouth-1,,HanKax,25_mouth,kɨʂ̃a,kɨʂ̃a,k ɨ ʂ ã,,Valenzuela2013,36,,^ k ɨ ʂ̃a $,default,,,*kʷɨʂa[CV]
+Maw-25_mouth-1,,Maw,25_mouth,kɨʃa,kɨʃa,k ɨ ʃ a,,Valenzuela2013,36,,^ k ɨ ʃ a $,default,,,*kʷɨʂa[CV]
+Yaw-25_mouth-1,,Yaw,25_mouth,kɨha,kɨha,k ɨ h a,,Valenzuela2013,36,,^ k ɨ h a $,default,,,*kʷɨʂa[CV]
+Ama-26_elbow-1,,Ama,26_elbow,vapoxko,vapoxko,v a p o x k o,,Valenzuela2013,20,,^ v a p o x k o $,default,,,*βaʂ(u)-
+HanKax-26_elbow-1,,HanKax,26_elbow,baʂtunku,baʂtunku,b a ʂ t u n k u,,Valenzuela2013,20,,^ b a ʂ t u n k u $,default,,,*βaʂ(u)-
+Mat-26_elbow-1,,Mat,26_elbow,mɨntʂinβuru,mɨntʂinβuru,m ɨ n tʂ i n β u r u,,Valenzuela2013,20,,^ m ɨ n tʂ i n β u r u $,default,,,*βaʂ(u)-
+MatMay-26_elbow-1,,MatMay,26_elbow,mɨntsimpis,mɨntsimpis,m ɨ n ts i m p i s,,Valenzuela2013,20,,^ m ɨ n ts i m p i s $,default,,,*βaʂ(u)-
+ProTa-1_tree-1,,ProTa,1_tree,akʷi,akʷi,a kʷ i,,Valenzuela2013,47,,^ a kʷ i $,default,,,*akʷi
+Tac-1_tree-1,,Tac,1_tree,aki,aki,a k i,,Valenzuela2013,47,,^ a k i $,default,,,*akʷi
+ReyMar-1_tree-1,,ReyMar,1_tree,-/ekená,ekená,e k e n á/a,,Valenzuela2013,47,,^ e k e n á $,default,,,*akʷi
+Aro-1_tree-1,,Aro,1_tree,acui,acui,a kʷ i,,Valenzuela2013,47,,^ a cui $,default,,,*akʷi
+Mab-1_tree-1,,Mab,1_tree,akwi,akwi,a kʷ i,,Valenzuela2013,47,,^ a kwi $,default,,,*akʷi
+Cav-1_tree-1,,Cav,1_tree,akwi,akwi,a kʷ i,,Valenzuela2013,47,,^ a kwi $,default,,,*akʷi
+Ese-1_tree-1,,Ese,1_tree,akwi,akwi,a kʷ i,,Valenzuela2013,47,,^ a kwi $,default,,,*akʷi
+War-1_tree-1,,War,1_tree,akwi,akwi,a kʷ i,,Valenzuela2013,47,,^ a kwi $,default,,,*akʷi
+Ara-1_tree-1,,Ara,1_tree,akui,akui,a kʷ i,,Valenzuela2013,47,,^ a kui $,default,,,*akʷi
+ProTa-2_tooth-1,,ProTa,2_tooth,e-ce,e,e,,Valenzuela2013,46,,^ e $,default,,,*tʂe-
+ReyMar-2_tooth-1,,ReyMar,2_tooth,e-ce/etre,e,e,,Valenzuela2013,46,,^ e $,default,,,*tʂe-
+Sap-2_tooth-1,,Sap,2_tooth,echee,echee,e tʃ e e,,Valenzuela2013,46,,^ e ch e e $,default,,,*tʂe-
+Mab-2_tooth-1,,Mab,2_tooth,itsi,itsi,i ts i,,Valenzuela2013,46,,^ i ts i $,default,,,*tʂe-
+Cav-2_tooth-1,,Cav,2_tooth,e-ce,e,e,,Valenzuela2013,46,,^ e $,default,,,*tʂe-
+Ese-2_tooth-1,,Ese,2_tooth,e-se,e,e,,Valenzuela2013,46,,^ e $,default,,,*tʂe-
+War-2_tooth-1,,War,2_tooth,e-sé,e,e,,Valenzuela2013,46,,^ e $,default,,,*tʂe-
+Tia-2_tooth-1,,Tia,2_tooth,ese,ese,e s e,,Valenzuela2013,46,,^ e s e $,default,,,*tʂe-
+Cham-2_tooth-1,,Cham,2_tooth,e-sé,e,e,,Valenzuela2013,46,,^ e $,default,,,*tʂe-
+Ara-2_tooth-1,,Ara,2_tooth,ese,ese,e s e,,Valenzuela2013,46,,^ e s e $,default,,,*tʂe-
+ProTa-3_two-1,,ProTa,3_two,beta,beta,b e t a,,Valenzuela2013,48,,^ b e t a $,default,,,*beta
+Tac-3_two-1,,Tac,3_two,beta,beta,b e t a,,Valenzuela2013,48,,^ b e t a $,default,,,*beta
+ReyMar-3_two-1,,ReyMar,3_two,mbeta/beta,mbeta,m b e t a,,Valenzuela2013,48,,^ m b e t a $,default,,,*beta
+Sap-3_two-1,,Sap,3_two,beta,beta,b e t a,,Valenzuela2013,48,,^ b e t a $,default,,,*beta
+Aro-3_two-1,,Aro,3_two,beta,beta,b e t a,,Valenzuela2013,48,,^ b e t a $,default,,,*beta
+Cav-3_two-1,,Cav,3_two,beta,beta,b e t a,,Valenzuela2013,48,,^ b e t a $,default,,,*beta
+Ese-3_two-1,,Ese,3_two,beka,beka,b e k a,,Valenzuela2013,48,,^ b e k a $,default,,,*beta
+War-3_two-1,,War,3_two,beabué,beabué,b e a b u é/e,,Valenzuela2013,48,,^ b e a b u é $,default,,,*beta
+Tia-3_two-1,,Tia,3_two,bikapiai,bikapiai,b i k a p i a i,,Valenzuela2013,48,,^ b i k a p i a i $,default,,,*beta
+Cham-3_two-1,,Cham,3_two,béka,béka,b é/e k a,,Valenzuela2013,48,,^ b é k a $,default,,,*beta
+ProTa-4_liver-1,,ProTa,4_liver,takʷa,takʷa,t a kʷ a,,Valenzuela2013,34,,^ t a kʷ a $,default,,,*takʷa
+Tac-4_liver-1,,Tac,4_liver,e-takwa,e,e,,Valenzuela2013,34,,^ e $,default,,,*takʷa
+ReyMar-4_liver-1,,ReyMar,4_liver,e-takwa/-,e,e,,Valenzuela2013,34,,^ e $,default,,,*takʷa
+Cav-4_liver-1,,Cav,4_liver,e-takwa,e,e,,Valenzuela2013,34,,^ e $,default,,,*takʷa
+Ese-4_liver-1,,Ese,4_liver,e-kakwa,e,e,,Valenzuela2013,34,,^ e $,default,,,*takʷa
+War-4_liver-1,,War,4_liver,e-takwe,e,e,,Valenzuela2013,34,,^ e $,default,,,*takʷa
+Ara-4_liver-1,,Ara,4_liver,etákua,etákua,e t á/a kʷ a,,Valenzuela2013,34,,^ e t á kua $,default,,,*takʷa
+ProTa-27_tofan-1,,ProTa,27_tofan,pei,pei,p e i,,Valenzuela2013,44,,^ p e i $,default,,,*pei
+Cav-27_tofan-1,,Cav,27_tofan,pei-,pei,p e i,,Valenzuela2013,44,,^ p e i $,default,,,*pei
+Ese-27_tofan-1,,Ese,27_tofan,e-pexi,e,e,,Valenzuela2013,44,,^ e $,default,,,*pei
+War-27_tofan-1,,War,27_tofan,pio-,pio,p i o,,Valenzuela2013,44,,^ p i o $,default,,,*pei
+ProTa-6_bone-1,,ProTa,6_bone,tʂau,tʂau,tʂ a u,,Valenzuela2013,5,,^ tʂ a u $,default,,,*tʂau
+Tac-6_bone-1,,Tac,6_bone,e-cau,e,e,,Valenzuela2013,5,,^ e $,default,,,*tʂau
+ReyMar-6_bone-1,,ReyMar,6_bone,e-cao/etrá,e,e,,Valenzuela2013,5,,^ e $,default,,,*tʂau
+Cav-6_bone-1,,Cav,6_bone,e-cao,e,e,,Valenzuela2013,5,,^ e $,default,,,*tʂau
+Ese-6_bone-1,,Ese,6_bone,e-sá,e,e,,Valenzuela2013,5,,^ e $,default,,,*tʂau
+War-6_bone-1,,War,6_bone,e-sá,e,e,,Valenzuela2013,5,,^ e $,default,,,*tʂau
+ProTa-7_tongue-1,,ProTa,7_tongue,ana,ana,a n a,,Valenzuela2013,45,,^ a n a $,default,,,*ana
+Tac-7_tongue-1,,Tac,7_tongue,y-ana,y,j,,Valenzuela2013,45,,^ y $,default,,,*ana
+ReyMar-7_tongue-1,,ReyMar,7_tongue,y-ana/eana,y,j,,Valenzuela2013,45,,^ y $,default,,,*ana
+Sap-7_tongue-1,,Sap,7_tongue,eana,eana,e a n a,,Valenzuela2013,45,,^ e a n a $,default,,,*ana
+Cav-7_tongue-1,,Cav,7_tongue,y-ana,y,j,,Valenzuela2013,45,,^ y $,default,,,*ana
+Ese-7_tongue-1,,Ese,7_tongue,eyana,eyana,e j a n a,,Valenzuela2013,45,,^ e y a n a $,default,,,*ana
+War-7_tongue-1,,War,7_tongue,y-ana,y,j,,Valenzuela2013,45,,^ y $,default,,,*ana
+Tia-7_tongue-1,,Tia,7_tongue,yana,yana,j a n a,,Valenzuela2013,45,,^ y a n a $,default,,,*ana
+Ara-7_tongue-1,,Ara,7_tongue,eána,eána,e á/a n a,,Valenzuela2013,45,,^ e á n a $,default,,,*ana
+ProTa-8_hand-1,,ProTa,8_hand,me-,me,m e,,Valenzuela2013,28,,^ m e $,default,,,*me-
+Tac-8_hand-1,,Tac,8_hand,e-me,e,e,,Valenzuela2013,28,,^ e $,default,,,*me-
+ReyMar-8_hand-1,,ReyMar,8_hand,-/emechuja,emechuja,e m e tʃ u j a,,Valenzuela2013,28,,^ e m e ch u j a $,default,,,*me-
+Sap-8_hand-1,,Sap,8_hand,eme,eme,e m e,,Valenzuela2013,28,,^ e m e $,default,,,*me-
+Aro-8_hand-1,,Aro,8_hand,eme,eme,e m e,,Valenzuela2013,28,,^ e m e $,default,,,*me-
+Cav-8_hand-1,,Cav,8_hand,e-me,e,e,,Valenzuela2013,28,,^ e $,default,,,*me-
+Ese-8_hand-1,,Ese,8_hand,e-me,e,e,,Valenzuela2013,28,,^ e $,default,,,*me-
+War-8_hand-1,,War,8_hand,e-mé,e,e,,Valenzuela2013,28,,^ e $,default,,,*me-
+Ara-8_hand-1,,Ara,8_hand,emã,emã,e m ã,,Valenzuela2013,28,,^ e m ã $,default,,,*me-
+ProTa-28_nighttomorrow-1,,ProTa,28_nighttomorrow,meta,meta,m e t a,,Valenzuela2013,39,,^ m e t a $,default,,,*meta
+Tac-28_nighttomorrow-1,,Tac,28_nighttomorrow,mueta,mueta,m u e t a,,Valenzuela2013,39,,^ m u e t a $,default,,,*meta
+ReyMar-28_nighttomorrow-1,,ReyMar,28_nighttomorrow,-/maita,maita,m a i t a,,Valenzuela2013,39,,^ m a i t a $,default,,,*meta
+Sap-28_nighttomorrow-1,,Sap,28_nighttomorrow,maetahe,maetahe,m a e t a h e,,Valenzuela2013,39,,^ m a e t a h e $,default,,,*meta
+Cav-28_nighttomorrow-1,,Cav,28_nighttomorrow,meta,meta,m e t a,,Valenzuela2013,39,,^ m e t a $,default,,,*meta
+Ese-28_nighttomorrow-1,,Ese,28_nighttomorrow,meka-waxe,meka,m e k a,,Valenzuela2013,39,,^ m e k a $,default,,,*meta
+Ara-28_nighttomorrow-1,,Ara,28_nighttomorrow,eméte,eméte,e m é/e t e,,Valenzuela2013,39,,^ e m é t e $,default,,,*meta
+ProTa-10_skin-1,,ProTa,10_skin,biti,biti,b i t i,,Valenzuela2013,41,,^ b i t i $,default,,,*biti
+Tac-10_skin-1,,Tac,10_skin,e-biti,e,e,,Valenzuela2013,41,,^ e $,default,,,*biti
+ReyMar-10_skin-1,,ReyMar,10_skin,e-mbiti/embiti,e,e,,Valenzuela2013,41,,^ e $,default,,,*biti
+Cav-10_skin-1,,Cav,10_skin,e-biti,e,e,,Valenzuela2013,41,,^ e $,default,,,*biti
+ProTa-11_fire-1,,ProTa,11_fire,ti,ti,t i,,Valenzuela2013,23,,^ t i $,default,,,*ti
+Tac-11_fire-1,,Tac,11_fire,e-ti-ře,e,e,,Valenzuela2013,23,,^ e $,default,,,*ti
+ReyMar-11_fire-1,,ReyMar,11_fire,-ti-/-,ti,t i,,Valenzuela2013,23,,^ t i $,default,,,*ti
+Aro-11_fire-1,,Aro,11_fire,etesi,etesi,e t e s i,,Valenzuela2013,23,,^ e t e s i $,default,,,*ti
+Cav-11_fire-1,,Cav,11_fire,e-tiki,e,e,,Valenzuela2013,23,,^ e $,default,,,*ti
+ProTa-12_knee-1,,ProTa,12_knee,da,da,d a,,Valenzuela2013,31,,^ d a $,default,,,*da
+Tac-12_knee-1,,Tac,12_knee,e-ma-da-cua,e,e,,Valenzuela2013,31,,^ e $,default,,,*da
+ProTa-13_blood-1,,ProTa,13_blood,ami,ami,a m i,,Valenzuela2013,4,,^ a m i $,default,,,*ami
+Tac-13_blood-1,,Tac,13_blood,ami,ami,a m i,,Valenzuela2013,4,,^ a m i $,default,,,*ami
+ReyMar-13_blood-1,,ReyMar,13_blood,ami/ami,ami,a m i,,Valenzuela2013,4,,^ a m i $,default,,,*ami
+Cav-13_blood-1,,Cav,13_blood,ami,ami,a m i,,Valenzuela2013,4,,^ a m i $,default,,,*ami
+ProTa-14_breast-1,,ProTa,14_breast,aṭṣu,aṭṣu,a ts u,,Valenzuela2013,6,,^ a ṭṣ u $,default,,,*aṭṣu
+ProTa-29_moon-1,,ProTa,29_moon,badi,badi,b a d i,,Valenzuela2013,35,,^ b a d i $,default,,,*badi
+Tac-29_moon-1,,Tac,29_moon,badi,badi,b a d i,,Valenzuela2013,35,,^ b a d i $,default,,,*badi
+ReyMar-29_moon-1,,ReyMar,29_moon,mbandzi/bansri,mbandzi,m b a n dz i,,Valenzuela2013,35,,^ m b a n dz i $,default,,,*badi
+Sap-29_moon-1,,Sap,29_moon,bari,bari,b a r i,,Valenzuela2013,35,,^ b a r i $,default,,,*badi
+Aro-29_moon-1,,Aro,29_moon,badi,badi,b a d i,,Valenzuela2013,35,,^ b a d i $,default,,,*badi
+Cav-29_moon-1,,Cav,29_moon,badi,badi,b a d i,,Valenzuela2013,35,,^ b a d i $,default,,,*badi
+Ese-29_moon-1,,Ese,29_moon,baʔi,baʔi,b a ʔ i,,Valenzuela2013,35,,^ b a ʔ i $,default,,,*badi
+Cham-29_moon-1,,Cham,29_moon,mái,mái,m á/a i,,Valenzuela2013,35,,^ m á i $,default,,,*badi
+ProTa-16_you-1,,ProTa,16_you,mi,mi,m i,,Valenzuela2013,49,,^ m i $,default,,,*mi
+Tac-16_you-1,,Tac,16_you,mi-ke,mi,m i,,Valenzuela2013,49,,^ m i $,default,,,*mi
+ReyMar-16_you-1,,ReyMar,16_you,mibe/mive,mibe,m i b e,,Valenzuela2013,49,,^ m i b e $,default,,,*mi
+Aro-16_you-1,,Aro,16_you,mitya,mitya,m i t j a,,Valenzuela2013,49,,^ m i t y a $,default,,,*mi
+Cav-16_you-1,,Cav,16_you,mi-kwana,mi,m i,,Valenzuela2013,49,,^ m i $,default,,,*mi
+Ese-16_you-1,,Ese,16_you,mi-a,mi,m i,,Valenzuela2013,49,,^ m i $,default,,,*mi
+Ara-16_you-1,,Ara,16_you,mikia,mikia,m i k i a,,Valenzuela2013,49,,^ m i k i a $,default,,,*mi
+ProTa-17_come-1,,ProTa,17_come,be-,be,b e,'bring',Valenzuela2013,11,,^ b e $,default,,,*be-
+ProTa-18_i-1,,ProTa,18_i,e,e,e,,Valenzuela2013,29,,^ e $,default,,,*e
+Tac-18_i-1,,Tac,18_i,e-ma,e,e,,Valenzuela2013,29,,^ e $,default,,,*e
+ReyMar-18_i-1,,ReyMar,18_i,e-me/éme,e,e,,Valenzuela2013,29,,^ e $,default,,,*e
+Aro-18_i-1,,Aro,18_i,"ema,yama",ema,e m a,,Valenzuela2013,29,,^ e m a $,default,,,*e
+Cav-18_i-1,,Cav,18_i,e-ra,e,e,,Valenzuela2013,29,,^ e $,default,,,*e
+Ese-18_i-1,,Ese,18_i,"ea,eyaya",ea,e a,,Valenzuela2013,29,,^ e a $,default,,,*e
+ProTa-19_flesh-1,,ProTa,19_flesh,ɾami,ɾami,ɾ a m i,,Valenzuela2013,24,,^ ɾ a m i $,default,,,*ɾami
+Tac-19_flesh-1,,Tac,19_flesh,yami,yami,j a m i,,Valenzuela2013,24,,^ y a m i $,default,,,*ɾami
+ReyMar-19_flesh-1,,ReyMar,19_flesh,yami/eami,yami,j a m i,,Valenzuela2013,24,,^ y a m i $,default,,,*ɾami
+Aro-19_flesh-1,,Aro,19_flesh,yami,yami,j a m i,,Valenzuela2013,24,,^ y a m i $,default,,,*ɾami
+Cav-19_flesh-1,,Cav,19_flesh,e-rami,e,e,,Valenzuela2013,24,,^ e $,default,,,*ɾami
+Ese-19_flesh-1,,Ese,19_flesh,eyami,eyami,e j a m i,,Valenzuela2013,24,,^ e y a m i $,default,,,*ɾami
+War-19_flesh-1,,War,19_flesh,eyami,eyami,e j a m i,,Valenzuela2013,24,,^ e y a m i $,default,,,*ɾami
+Ara-19_flesh-1,,Ara,19_flesh,éami,éami,é/e a m i,,Valenzuela2013,24,,^ é a m i $,default,,,*ɾami
+ProTa-20_fat-1,,ProTa,20_fat,ṭṣeri,ṭṣeri,ts e r i,,Valenzuela2013,21,,^ ṭṣ e r i $,default,,,*ṭṣeri
+Tac-20_fat-1,,Tac,20_fat,e-cei,e,e,,Valenzuela2013,21,,^ e $,default,,,*ṭṣeri
+Cav-20_fat-1,,Cav,20_fat,e-ceri,e,e,,Valenzuela2013,21,,^ e $,default,,,*ṭṣeri
+Ese-20_fat-1,,Ese,20_fat,e-sei,e,e,,Valenzuela2013,21,,^ e $,default,,,*ṭṣeri
+Ara-20_fat-1,,Ara,20_fat,ésey,ésey,é/e s e j,,Valenzuela2013,21,,^ é s e y $,default,,,*ṭṣeri
+ProTa-21_fingernail-1,,ProTa,21_fingernail,metiji,metiji,m e t i j i,,Valenzuela2013,22,,^ m e t i j i $,default,,,*metiji
+Tac-21_fingernail-1,,Tac,21_fingernail,e-me-haca,e,e,,Valenzuela2013,22,,^ e $,default,,,*metiji
+ReyMar-21_fingernail-1,,ReyMar,21_fingernail,"-/emechuja,emetichi",emechuja,e m e tʃ u j a,"'fingers','nails'",Valenzuela2013,22,,^ e m e ch u j a $,default,,,*metiji
+Cav-21_fingernail-1,,Cav,21_fingernail,e-me-šoro,e,e,'nail',Valenzuela2013,22,,^ e $,default,,,*metiji
+Ese-21_fingernail-1,,Ese,21_fingernail,e-me-kiše,e,e,'nail',Valenzuela2013,22,,^ e $,default,,,*metiji
+ProTa-22_footleg-1,,ProTa,22_footleg,ta-,ta,t a,'leg',Valenzuela2013,25,,^ t a $,default,,,*ta-
+Tac-22_footleg-1,,Tac,22_footleg,e-ta-buce,e,e,'shin bone',Valenzuela2013,25,,^ e $,default,,,*ta-
+Mab-22_footleg-1,,Mab,22_footleg,itha,itha,i tʰ a,,Valenzuela2013,25,,^ i th a $,default,,,*ta-
+Cav-22_footleg-1,,Cav,22_footleg,awa-taka,awa,a w a,'tapir-foot (plant)',Valenzuela2013,25,,^ a w a $,default,,,*ta-
+ProTa-23_lipedge-1,,ProTa,23_lipedge,kʷe(i)-,kʷe,kʷ e,,Valenzuela2013,33,,^ kʷ e $,default,,,*kʷe(i)-
+Tac-23_lipedge-1,,Tac,23_lipedge,e-ke-ke,e,e,,Valenzuela2013,33,,^ e $,default,,,*kʷe(i)-
+ReyMar-23_lipedge-1,,ReyMar,23_lipedge,kwesa/euesa,kwesa,kʷ e s a,'beard'/'beard',Valenzuela2013,33,,^ kw e s a $,default,,,*kʷe(i)-
+Cav-23_lipedge-1,,Cav,23_lipedge,kwesa,kwesa,kʷ e s a,'beard',Valenzuela2013,33,,^ kw e s a $,default,,,*kʷe(i)-
+Ese-23_lipedge-1,,Ese,23_lipedge,e-kwe-ša,e,e,'beard',Valenzuela2013,33,,^ e $,default,,,*kʷe(i)-
+ProTa-24_cheek-1,,ProTa,24_cheek,tamu,tamu,t a m u,,Valenzuela2013,10,,^ t a m u $,default,,,*tamu
+ReyMar-24_cheek-1,,ReyMar,24_cheek,ebu-tamu/-,ebu,e b u,,Valenzuela2013,10,,^ e b u $,default,,,*tamu
+Cav-24_cheek-1,,Cav,24_cheek,-tamu,tamu,t a m u,,Valenzuela2013,10,,^ t a m u $,default,,,*tamu
+Ese-24_cheek-1,,Ese,24_cheek,-shemo,shemo,ʃ e m o,,Valenzuela2013,10,,^ sh e m o $,default,,,*tamu
+ProTa-25_mouth-1,,ProTa,25_mouth,kʷatʂa,kʷatʂa,kʷ a tʂ a,,Valenzuela2013,36,,^ kʷ a tʂ a $,default,,,*kʷatʂa
+Tac-25_mouth-1,,Tac,25_mouth,e-kwaca,e,e,,Valenzuela2013,36,,^ e $,default,,,*kʷatʂa
+ReyMar-25_mouth-1,,ReyMar,25_mouth,e-kwaca/ekuatra,e,e,,Valenzuela2013,36,,^ e $,default,,,*kʷatʂa
+Sap-25_mouth-1,,Sap,25_mouth,ecuacha,ecuacha,e kʷ a tʃ a,,Valenzuela2013,36,,^ e cua ch a $,default,,,*kʷatʂa
+Mab-25_mouth-1,,Mab,25_mouth,ikwatsa,ikwatsa,i kʷ a ts a,,Valenzuela2013,36,,^ i kw a ts a $,default,,,*kʷatʂa
+Cav-25_mouth-1,,Cav,25_mouth,e-kwaca,e,e,,Valenzuela2013,36,,^ e $,default,,,*kʷatʂa
+Ese-25_mouth-1,,Ese,25_mouth,e-kwasa,e,e,,Valenzuela2013,36,,^ e $,default,,,*kʷatʂa
+War-25_mouth-1,,War,25_mouth,e-kwasa,e,e,,Valenzuela2013,36,,^ e $,default,,,*kʷatʂa
+ProTa-26_elbow-1,,ProTa,26_elbow,-baṭṣu,baṭṣu,b a ts u,,Valenzuela2013,20,,^ b a ṭṣ u $,default,,,*-baṭṣu
+Tac-26_elbow-1,,Tac,26_elbow,e-ba-cu,e,e,,Valenzuela2013,20,,^ e $,default,,,*-baṭṣu
+ReyMar-26_elbow-1,,ReyMar,26_elbow,e-mba-co/-,e,e,,Valenzuela2013,20,,^ e $,default,,,*-baṭṣu
+Ese-26_elbow-1,,Ese,26_elbow,e-bašo,e,e,,Valenzuela2013,20,,^ e $,default,,,*-baṭṣu
+War-26_elbow-1,,War,26_elbow,e-bašo,e,e,,Valenzuela2013,20,,^ e $,default,,,*-baṭṣu
+Tia-26_elbow-1,,Tia,26_elbow,wacu,wacu,w a tʂ u,,Valenzuela2013,20,,^ w a c u $,default,,,*-baṭṣu
+Ara-26_elbow-1,,Ara,26_elbow,ebaša,ebaša,e b a ʃ a,,Valenzuela2013,20,,^ e b a š a $,default,,,*-baṭṣu
+ProPa-30_1stsgi-1,,ProPa,30_1stsgi,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2013,1,,^ ʔ ɨ $,default,,,*ʔɨ
+Ksh-30_1stsgi-1,,Ksh,30_1stsgi,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2013,1,,^ ʔ ɨ $,default,,,*ʔɨ
+SK-30_1stsgi-1,,SK,30_1stsgi,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2013,1,,^ ʔ ɨ $,default,,,*ʔɨ
+Kap-30_1stsgi-1,,Kap,30_1stsgi,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2013,1,,^ ʔ ɨ $,default,,,*ʔɨ
+Chak-30_1stsgi-1,,Chak,30_1stsgi,ɨ,ɨ,ɨ,,Valenzuela2013,1,,^ ɨ $,default,,,*ʔɨ
+Yam-30_1stsgi-1,,Yam,30_1stsgi,ɨ̃,ɨ̃,ɨ̃,,Valenzuela2013,1,,^ ɨ̃ $,default,,,*ʔɨ
+ProPa-31_2ndsgyou-1,,ProPa,31_2ndsgyou,mi,mi,m i,,Valenzuela2013,2,,^ m i $,default,,,*mi
+Ksh-31_2ndsgyou-1,,Ksh,31_2ndsgyou,mii,mii,m i i,,Valenzuela2013,2,,^ m i i $,default,,,*mi
+SK-31_2ndsgyou-1,,SK,31_2ndsgyou,mia,mia,m i a,,Valenzuela2013,2,,^ m i a $,default,,,*mi
+Kap-31_2ndsgyou-1,,Kap,31_2ndsgyou,mia,mia,m i a,,Valenzuela2013,2,,^ m i a $,default,,,*mi
+Chak-31_2ndsgyou-1,,Chak,31_2ndsgyou,mia,mia,m i a,object form,Valenzuela2013,2,,^ m i a $,default,,,*mi
+Yam-31_2ndsgyou-1,,Yam,31_2ndsgyou,mĩ,mĩ,m ĩ,,Valenzuela2013,2,,^ m ĩ $,default,,,*mi
+ProPa-32_demonstrativedistal-1,,ProPa,32_demonstrativedistal,ʔo-,ʔo,ʔ o,,Valenzuela2013,13,,^ ʔ o $,default,,,*ʔo-
+Ksh-32_demonstrativedistal-1,,Ksh,32_demonstrativedistal,"un (A),ux (S),u (O)",un_,u n,,Valenzuela2013,13,,^ u n _$,default,,,*ʔo-
+SK-32_demonstrativedistal-1,,SK,32_demonstrativedistal,oa,oa,o a,,Valenzuela2013,13,,^ o a $,default,,,*ʔo-
+Chak-32_demonstrativedistal-1,,Chak,32_demonstrativedistal,oa,oa,o a,,Valenzuela2013,13,,^ o a $,default,,,*ʔo-
+Yam-32_demonstrativedistal-1,,Yam,32_demonstrativedistal,oa,oa,o a,,Valenzuela2013,13,,^ o a $,default,,,*ʔo-
+ProPa-33_demonstrativeproximate-1,,ProPa,33_demonstrativeproximate,nɨ-,nɨ,n ɨ,,Valenzuela2013,14,,^ n ɨ $,default,,,*nɨ-
+Ksh-33_demonstrativeproximate-1,,Ksh,33_demonstrativeproximate,"ɨnɨn (A),ɨnɨx (S),ɨnɨ (O)",ɨnɨn_,ɨ n ɨ n,,Valenzuela2013,14,,^ ɨ n ɨ n _$,default,,,*nɨ-
+SK-33_demonstrativeproximate-1,,SK,33_demonstrativeproximate,nɨ-~nato,nɨ,n ɨ,,Valenzuela2013,14,,^ n ɨ $,default,,,*nɨ-
+Chak-33_demonstrativeproximate-1,,Chak,33_demonstrativeproximate,"noa,toa",noa,n o a,,Valenzuela2013,14,,^ n o a $,default,,,*nɨ-
+Yam-33_demonstrativeproximate-1,,Yam,33_demonstrativeproximate,na,na,n a,,Valenzuela2013,14,,^ n a $,default,,,*nɨ-
+ProPa-34_genitive-1,,ProPa,34_genitive,-wɨ̃,wɨ̃,w ɨ̃,,Valenzuela2013,26,,^ w ɨ̃ $,default,,,*-wɨ̃
+Ksh-34_genitive-1,,Ksh,34_genitive,=(a)n,=n,n,,Valenzuela2013,26,,^= n $,default,,,*-wɨ̃
+SK-34_genitive-1,,SK,34_genitive,-n,n,n,,Valenzuela2013,26,,^ n $,default,,,*-wɨ̃
+Yam-34_genitive-1,,Yam,34_genitive,"-na,-fɨna",na,n a,,Valenzuela2013,26,,^ n a $,default,,,*-wɨ̃
+ProPa-35_imperative-1,,ProPa,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+Ksh-35_imperative-1,,Ksh,35_imperative,-ɨ,ɨ,ɨ,,Valenzuela2013,30,,^ ɨ $,default,,,*-wɨ
+SK-35_imperative-1,,SK,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+Kap-35_imperative-1,,Kap,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+Mar-35_imperative-1,,Mar,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+Chak-35_imperative-1,,Chak,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+Kax-35_imperative-1,,Kax,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+Yam-35_imperative-1,,Yam,35_imperative,-ɸɨ,ɸɨ,ɸ ɨ,,Valenzuela2013,30,,^ ɸ ɨ $,default,,,*-wɨ
+Shar-35_imperative-1,,Shar,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+ProPa-36_goingdowndownward-1,,ProPa,36_goingdowndownward,-βut,βut,β u t,"For  pP  Girard  (1971:  163,  26)  proposes  *-bu  ‘down’,  while  we  consider  *-but  more  accurate  based  on Matses/Mayoruna -budand Kakataibo -but.",Valenzuela2013,27,,^ β u t $,default,,,*-βut
+Ksh-36_goingdowndownward-1,,Ksh,36_goingdowndownward,-but,but,b u t,,Valenzuela2013,27,,^ b u t $,default,,,*-βut
+ProPa-37_docoming-1,,ProPa,37_docoming,-βɨ[...],βɨ,β ɨ,Guillaume 2017:254,Valenzuela2013,18,,^ β ɨ $,default,,,*-βɨ[...]
+Ksh-37_docoming-1,,Ksh,37_docoming,-bɨtsin,bɨtsin,b ɨ ts i n,,Valenzuela2013,18,,^ b ɨ ts i n $,default,,,*-βɨ[...]
+SK-37_docoming-1,,SK,37_docoming,-bɨiran,bɨiran,b ɨ i r a n,,Valenzuela2013,18,,^ b ɨ i r a n $,default,,,*-βɨ[...]
+Chak-37_docoming-1,,Chak,37_docoming,-bɨna,bɨna,b ɨ n a,,Valenzuela2013,18,,^ b ɨ n a $,default,,,*-βɨ[...]
+Yam-37_docoming-1,,Yam,37_docoming,-ɸɨran,ɸɨran,ɸ ɨ r a n,,Valenzuela2013,18,,^ ɸ ɨ r a n $,default,,,*-βɨ[...]
+ProPa-38_desiderative-1,,ProPa,38_desiderative,-katsa,katsa,k a ts a,,Valenzuela2013,15,,^ k a ts a $,default,,,*-katsa
+Ksh-38_desiderative-1,,Ksh,38_desiderative,"-kas,-katsi",kas,k a s,,Valenzuela2013,15,,^ k a s $,default,,,*-katsa
+SK-38_desiderative-1,,SK,38_desiderative,-kas,kas,k a s,,Valenzuela2013,15,,^ k a s $,default,,,*-katsa
+Kap-38_desiderative-1,,Kap,38_desiderative,"-katsiʔ-,-katsiʔki-",katsiʔ,k a ts i ʔ,,Valenzuela2013,15,,^ k a ts i ʔ $,default,,,*-katsa
+Mar-38_desiderative-1,,Mar,38_desiderative,-katsi,katsi,k a ts i,,Valenzuela2013,15,,^ k a ts i $,default,,,*-katsa
+Chak-38_desiderative-1,,Chak,38_desiderative,-kas-,kas,k a s,,Valenzuela2013,15,,^ k a s $,default,,,*-katsa
+Kax-38_desiderative-1,,Kax,38_desiderative,-katsa,katsa,k a ts a,,Valenzuela2013,15,,^ k a ts a $,default,,,*-katsa
+Yam-38_desiderative-1,,Yam,38_desiderative,"kasma,kaspa,katsa",kasma,k a s m a,"'not to want','desiderative negative','to have'",Valenzuela2013,15,,^ k a s m a $,default,,,*-katsa
+Shar-38_desiderative-1,,Shar,38_desiderative,-kas-mai,kas,k a s,'not to want',Valenzuela2013,15,,^ k a s $,default,,,*-katsa
+ProPa-39_negative-1,,ProPa,39_negative,-[yá]ma,yáma,j á/a m a,verbal,Valenzuela2013,37,,^ y á m a $,default,,,*-[yá]ma
+Ksh-39_negative-1,,Ksh,39_negative,-ma,ma,m a,,Valenzuela2013,37,,^ m a $,default,,,*-[yá]ma
+SK-39_negative-1,,SK,39_negative,-yama,yama,j a m a,,Valenzuela2013,37,,^ y a m a $,default,,,*-[yá]ma
+Kap-39_negative-1,,Kap,39_negative,yama,yama,j a m a,,Valenzuela2013,37,,^ y a m a $,default,,,*-[yá]ma
+Mar-39_negative-1,,Mar,39_negative,"-ma,-ama",ma,m a,,Valenzuela2013,37,,^ m a $,default,,,*-[yá]ma
+Chak-39_negative-1,,Chak,39_negative,-yama,yama,j a m a,,Valenzuela2013,37,,^ y a m a $,default,,,*-[yá]ma
+Kax-39_negative-1,,Kax,39_negative,"-ma,maʔa",ma,m a,,Valenzuela2013,37,,^ m a $,default,,,*-[yá]ma
+Yam-39_negative-1,,Yam,39_negative,"maa,ma,yama",maa,m a a,"'not','negative','negative prohibitive'",Valenzuela2013,37,,^ m a a $,default,,,*-[yá]ma
+Shar-39_negative-1,,Shar,39_negative,"-ma,-yama",ma,m a,"'no','imperative,negative,prohibitive'",Valenzuela2013,37,,^ m a $,default,,,*-[yá]ma
+ProPa-40_causative-1,,ProPa,40_causative,-m[a],ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Ksh-40_causative-1,,Ksh,40_causative,-mi-,mi,m i,,Valenzuela2013,7,,^ m i $,default,,,*-m[a]
+SK-40_causative-1,,SK,40_causative,-ma-,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Kap-40_causative-1,,Kap,40_causative,-ma-,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Mar-40_causative-1,,Mar,40_causative,-ma,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Chak-40_causative-1,,Chak,40_causative,-ma,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Yam-40_causative-1,,Yam,40_causative,-ma,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Shar-40_causative-1,,Shar,40_causative,-ma-,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+ProPa-41_augmentative-1,,ProPa,41_augmentative,pa,pa,p a,,Valenzuela2013,3,,^ p a $,default,,,*pa
+SK-41_augmentative-1,,SK,41_augmentative,-n ewá,n_ewá,n + e w á/a,,Valenzuela2013,3,,^ n _ e w á $,default,,,*pa
+Kap-41_augmentative-1,,Kap,41_augmentative,-ahhuan,ahhuan,a h h u a n,,Valenzuela2013,3,,^ a h h u a n $,default,,,*pa
+Chak-41_augmentative-1,,Chak,41_augmentative,-wa,wa,w a,,Valenzuela2013,3,,^ w a $,default,,,*pa
+Yam-41_augmentative-1,,Yam,41_augmentative,-nfã,nfã,n f ã,,Valenzuela2013,3,,^ n f ã $,default,,,*pa
+ProPa-42_dotrauxiliarytr-1,,ProPa,42_dotrauxiliarytr,ʔak-,ʔak,ʔ a k,,Valenzuela2013,17,,^ ʔ a k $,default,,,*ʔak-
+Ksh-42_dotrauxiliarytr-1,,Ksh,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,Valenzuela2013,17,,^ ʔ a $,default,,,*ʔak-
+SK-42_dotrauxiliarytr-1,,SK,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,Valenzuela2013,17,,^ ʔ a $,default,,,*ʔak-
+Kap-42_dotrauxiliarytr-1,,Kap,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,Valenzuela2013,17,,^ ʔ a $,default,,,*ʔak-
+Mar-42_dotrauxiliarytr-1,,Mar,42_dotrauxiliarytr,a,a,a,,Valenzuela2013,17,,^ a $,default,,,*ʔak-
+Chak-42_dotrauxiliarytr-1,,Chak,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,Valenzuela2013,17,,^ ʔ a $,default,,,*ʔak-
+Kax-42_dotrauxiliarytr-1,,Kax,42_dotrauxiliarytr,a-,a,a,,Valenzuela2013,17,,^ a $,default,,,*ʔak-
+Yam-42_dotrauxiliarytr-1,,Yam,42_dotrauxiliarytr,ak-,ak,a k,,Valenzuela2013,17,,^ a k $,default,,,*ʔak-
+Chan-42_dotrauxiliarytr-1,,Chan,42_dotrauxiliarytr,a-,a,a,,Valenzuela2013,17,,^ a $,default,,,*ʔak-
+Shar-42_dotrauxiliarytr-1,,Shar,42_dotrauxiliarytr,a-,a,a,,Valenzuela2013,17,,^ a $,default,,,*ʔak-
+ProPa-43_transitivizer-1,,ProPa,43_transitivizer,-wa,wa,w a,,Valenzuela2013,43,,^ w a $,default,,,*-wa
+Ksh-43_transitivizer-1,,Ksh,43_transitivizer,-ɔ,ɔ,ɔ,,Valenzuela2013,43,,^ ɔ $,default,,,*-wa
+Chak-43_transitivizer-1,,Chak,43_transitivizer,-wa,wa,w a,,Valenzuela2013,43,,^ w a $,default,,,*-wa
+ProPa-44_detransitivizerreflexive-1,,ProPa,44_detransitivizerreflexive,-t,t,t,,Valenzuela2013,16,,^ t $,default,,,*-t
+Ksh-44_detransitivizerreflexive-1,,Ksh,44_detransitivizerreflexive,-t,t,t,,Valenzuela2013,16,,^ t $,default,,,*-t
+SK-44_detransitivizerreflexive-1,,SK,44_detransitivizerreflexive,-t,t,t,,Valenzuela2013,16,,^ t $,default,,,*-t
+ProPa-45_ergative-1,,ProPa,45_ergative,-n,n,n,,Valenzuela2013,19,,^ n $,default,,,*-n
+Ksh-45_ergative-1,,Ksh,45_ergative,=(a)n,=n,n,,Valenzuela2013,19,,^= n $,default,,,*-n
+SK-45_ergative-1,,SK,45_ergative,=n,=n,n,,Valenzuela2013,19,,^= n $,default,,,*-n
+Kap-45_ergative-1,,Kap,45_ergative,-n,n,n,,Valenzuela2013,19,,^ n $,default,,,*-n
+ProPa-46_previouseventsamesubject-1,,ProPa,46_previouseventsamesubject,-ʂo-n,ʂo,ʂ o,,Valenzuela2013,40,,^ ʂ o $,default,,,*-ʂo-n
+Ksh-46_previouseventsamesubject-1,,Ksh,46_previouseventsamesubject,-ʂun,ʂun,ʂ u n,,Valenzuela2013,40,,^ ʂ u n $,default,,,*-ʂo-n
+SK-46_previouseventsamesubject-1,,SK,46_previouseventsamesubject,-ʂon,ʂon,ʂ o n,,Valenzuela2013,40,,^ ʂ o n $,default,,,*-ʂo-n
+Chak-46_previouseventsamesubject-1,,Chak,46_previouseventsamesubject,-ʂo,ʂo,ʂ o,,Valenzuela2013,40,,^ ʂ o $,default,,,*-ʂo-n
+Kax-46_previouseventsamesubject-1,,Kax,46_previouseventsamesubject,-ʂu,ʂu,ʂ u,,Valenzuela2013,40,,^ ʂ u $,default,,,*-ʂo-n
+ProPa-47_comitativealongwith-1,,ProPa,47_comitativealongwith,βɨta,βɨta,β ɨ t a,,Valenzuela2013,8,,^ β ɨ t a $,default,,,*βɨta
+Ksh-47_comitativealongwith-1,,Ksh,47_comitativealongwith,-bɨ~-bɨtan,bɨ,b ɨ,,Valenzuela2013,8,,^ b ɨ $,default,,,*βɨta
+SK-47_comitativealongwith-1,,SK,47_comitativealongwith,-bɨ,bɨ,b ɨ,,Valenzuela2013,8,,^ b ɨ $,default,,,*βɨta
+Chak-47_comitativealongwith-1,,Chak,47_comitativealongwith,-bɨta,bɨta,b ɨ t a,,Valenzuela2013,8,,^ b ɨ t a $,default,,,*βɨta
+Yam-47_comitativealongwith-1,,Yam,47_comitativealongwith,-fɨtã,fɨtã,f ɨ t ã,,Valenzuela2013,8,,^ f ɨ t ã $,default,,,*βɨta
+Ama-30_1stsgi-1,,Ama,30_1stsgi,ɨ,ɨ,ɨ,,Valenzuela2013,1,,^ ɨ $,default,,,*ʔɨ
+HanKax-30_1stsgi-1,,HanKax,30_1stsgi,ɨ,ɨ,ɨ,,Valenzuela2013,1,,^ ɨ $,default,,,*ʔɨ
+Maw-30_1stsgi-1,,Maw,30_1stsgi,ɨ,ɨ,ɨ,,Valenzuela2013,1,,^ ɨ $,default,,,*ʔɨ
+Ama-31_2ndsgyou-1,,Ama,31_2ndsgyou,miya,miya,m i j a,,Valenzuela2013,2,,^ m i y a $,default,,,*mi
+HanKax-31_2ndsgyou-1,,HanKax,31_2ndsgyou,mia,mia,m i a,,Valenzuela2013,2,,^ m i a $,default,,,*mi
+Maw-31_2ndsgyou-1,,Maw,31_2ndsgyou,mia,mia,m i a,,Valenzuela2013,2,,^ m i a $,default,,,*mi
+Kor-31_2ndsgyou-1,,Kor,31_2ndsgyou,mi,mi,m i,,Valenzuela2013,2,,^ m i $,default,,,*mi
+Mat-31_2ndsgyou-1,,Mat,31_2ndsgyou,"mi (minbi,mibi,min)",mi_,m i,,Valenzuela2013,2,,^ m i _$,default,,,*mi
+MatMay-31_2ndsgyou-1,,MatMay,31_2ndsgyou,"mi (minbi,mibi,min)",mi_,m i,,Valenzuela2013,2,,^ m i _$,default,,,*mi
+MatMay-32_demonstrativedistal-1,,MatMay,32_demonstrativedistal,uid,uid,u i d,,Valenzuela2013,13,,^ u i d $,default,,,*ʔo-
+MatMay-33_demonstrativeproximate-1,,MatMay,33_demonstrativeproximate,nɨid,nɨid,n ɨ i d,,Valenzuela2013,14,,^ n ɨ i d $,default,,,*nɨ-
+Shan-35_imperative-1,,Shan,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+Kat-35_imperative-1,,Kat,35_imperative,wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+HanKax-35_imperative-1,,HanKax,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+Maw-35_imperative-1,,Maw,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+Yaw-35_imperative-1,,Yaw,35_imperative,-wɨ,wɨ,w ɨ,,Valenzuela2013,30,,^ w ɨ $,default,,,*-wɨ
+MatMay-36_goingdowndownward-1,,MatMay,36_goingdowndownward,-bud,bud,b u d,,Valenzuela2013,27,,^ b u d $,default,,,*-βut
+Ama-37_docoming-1,,Ama,37_docoming,-vɨran,vɨran,v ɨ r a n,,Valenzuela2013,18,,^ v ɨ r a n $,default,,,*-βɨ[...]
+MatMay-37_docoming-1,,MatMay,37_docoming,-bɨtsen,bɨtsen,b ɨ ts e n,,Valenzuela2013,18,,^ b ɨ ts e n $,default,,,*-βɨ[...]
+Ama-38_desiderative-1,,Ama,38_desiderative,-katsi,katsi,k a ts i,,Valenzuela2013,15,,^ k a ts i $,default,,,*-katsa
+MatMay-38_desiderative-1,,MatMay,38_desiderative,"-kas-,katsi",kas,k a s,,Valenzuela2013,15,,^ k a s $,default,,,*-katsa
+Shan-39_negative-1,,Shan,39_negative,"-ma,-yama,",ma,m a,"'negación general','negación de imperativo",Valenzuela2013,37,,^ m a $,default,,,*-[ya]ma
+Kat-39_negative-1,,Kat,39_negative,"yama,ma",yama,j a m a,"'no tener,negativo','no'",Valenzuela2013,37,,^ y a m a $,default,,,*-[ya]ma
+Poy-39_negative-1,,Poy,39_negative,ba,ba,b a,'asertivo negativo',Valenzuela2013,37,,^ b a $,default,,,*-[ya]ma
+Ama-39_negative-1,,Ama,39_negative,-yama,yama,j a m a,,Valenzuela2013,37,,^ y a m a $,default,,,*-[ya]ma
+HanKax-39_negative-1,,HanKax,39_negative,"-ma,-yama",ma,m a,,Valenzuela2013,37,,^ m a $,default,,,*-[ya]ma
+Maw-39_negative-1,,Maw,39_negative,-ma,ma,m a,,Valenzuela2013,37,,^ m a $,default,,,*-[ya]ma
+Yaw-39_negative-1,,Yaw,39_negative,-ma,ma,m a,'negación',Valenzuela2013,37,,^ m a $,default,,,*-[ya]ma
+Kor-39_negative-1,,Kor,39_negative,-ma,ma,m a,'negación pasado',Valenzuela2013,37,,^ m a $,default,,,*-[ya]ma
+Mat-39_negative-1,,Mat,39_negative,-ama,ama,a m a,'negación pasado',Valenzuela2013,37,,^ a m a $,default,,,*-[ya]ma
+Shan-40_causative-1,,Shan,40_causative,-ma,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Ama-40_causative-1,,Ama,40_causative,-ma-,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+HanKax-40_causative-1,,HanKax,40_causative,-ma-,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Maw-40_causative-1,,Maw,40_causative,-ma,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Yaw-40_causative-1,,Yaw,40_causative,-ma-,ma,m a,,Valenzuela2013,7,,^ m a $,default,,,*-m[a]
+Kor-40_causative-1,,Kor,40_causative,-me,me,m e,,Valenzuela2013,7,,^ m e $,default,,,*-m[a]
+Mat-40_causative-1,,Mat,40_causative,-me,me,m e,,Valenzuela2013,7,,^ m e $,default,,,*-m[a]
+MatMay-40_causative-1,,MatMay,40_causative,-me,me,m e,,Valenzuela2013,7,,^ m e $,default,,,*-m[a]
+MatMay-41_augmentative-1,,MatMay,41_augmentative,-pa,pa,p a,,Valenzuela2013,3,,^ p a $,default,,,*pa
+Ama-42_dotrauxiliarytr-1,,Ama,42_dotrauxiliarytr,ʔa-,ʔa,ʔ a,,Valenzuela2013,17,,^ ʔ a $,default,,,*ʔak-
+HanKax-42_dotrauxiliarytr-1,,HanKax,42_dotrauxiliarytr,a-,a,a,,Valenzuela2013,17,,^ a $,default,,,*ʔak-
+Maw-42_dotrauxiliarytr-1,,Maw,42_dotrauxiliarytr,a-,a,a,,Valenzuela2013,17,,^ a $,default,,,*ʔak-
+Kor-42_dotrauxiliarytr-1,,Kor,42_dotrauxiliarytr,ak-,ak,a k,,Valenzuela2013,17,,^ a k $,default,,,*ʔak-
+Mat-42_dotrauxiliarytr-1,,Mat,42_dotrauxiliarytr,ak-,ak,a k,,Valenzuela2013,17,,^ a k $,default,,,*ʔak-
+MatMay-42_dotrauxiliarytr-1,,MatMay,42_dotrauxiliarytr,ak-,ak,a k,,Valenzuela2013,17,,^ a k $,default,,,*ʔak-
+HanKax-43_transitivizer-1,,HanKax,43_transitivizer,"wa-,-wa",wa,w a,,Valenzuela2013,43,,^ w a $,default,,,*-wa
+MatMay-45_ergative-1,,MatMay,45_ergative,-n,n,n,,Valenzuela2013,19,,^ n $,default,,,*-n
+Ama-46_previouseventsamesubject-1,,Ama,46_previouseventsamesubject,=çon,=çon,ts o n,,Valenzuela2013,40,,^= ç o n $,default,,,*-ʂo-n
+HanKax-46_previouseventsamesubject-1,,HanKax,46_previouseventsamesubject,=ʂun,=ʂun,ʂ u n,,Valenzuela2013,40,,^= ʂ u n $,default,,,*-ʂo-n
+Mat-46_previouseventsamesubject-1,,Mat,46_previouseventsamesubject,=ʂun,=ʂun,ʂ u n,,Valenzuela2013,40,,^= ʂ u n $,default,,,*-ʂo-n
+MatMay-46_previouseventsamesubject-1,,MatMay,46_previouseventsamesubject,=ʂun,=ʂun,ʂ u n,,Valenzuela2013,40,,^= ʂ u n $,default,,,*-ʂo-n
+Ama-47_comitativealongwith-1,,Ama,47_comitativealongwith,"-wɨ,-wɨtã",wɨ,w ɨ,,Valenzuela2013,8,,^ w ɨ $,default,,,*βɨta
+HanKax-47_comitativealongwith-1,,HanKax,47_comitativealongwith,"-bɨ,-bɨtã",bɨ,b ɨ,,Valenzuela2013,8,,^ b ɨ $,default,,,*βɨta
+Maw-47_comitativealongwith-1,,Maw,47_comitativealongwith,"-fɨta,fɨtã",fɨta,f ɨ t a,,Valenzuela2013,8,,^ f ɨ t a $,default,,,*βɨta
+MatMay-47_comitativealongwith-1,,MatMay,47_comitativealongwith,"-bid (S),-bɨta (O),-bɨtan (A)",bid_,b i d,,Valenzuela2013,8,,^ b i d _$,default,,,*βɨta
+ProTa-30_1stsgi-1,,ProTa,30_1stsgi,e,e,e,,Valenzuela2013,1,,^ e $,default,,,*e
+Tac-30_1stsgi-1,,Tac,30_1stsgi,e-ma,e,e,,Valenzuela2013,1,,^ e $,default,,,*e
+ReyMar-30_1stsgi-1,,ReyMar,30_1stsgi,e-me/éme,e,e,,Valenzuela2013,1,,^ e $,default,,,*e
+Aro-30_1stsgi-1,,Aro,30_1stsgi,"ema,yama",ema,e m a,,Valenzuela2013,1,,^ e m a $,default,,,*e
+Cav-30_1stsgi-1,,Cav,30_1stsgi,e-ra,e,e,,Valenzuela2013,1,,^ e $,default,,,*e
+Ese-30_1stsgi-1,,Ese,30_1stsgi,"ea,eyaya",ea,e a,,Valenzuela2013,1,,^ e a $,default,,,*e
+ProTa-31_2ndsgyou-1,,ProTa,31_2ndsgyou,mi,mi,m i,Girard additionally lists -mikia for Arasa.,Valenzuela2013,2,,^ m i $,default,,,*mi
+Tac-31_2ndsgyou-1,,Tac,31_2ndsgyou,mi-ke,mi,m i,,Valenzuela2013,2,,^ m i $,default,,,*mi
+ReyMar-31_2ndsgyou-1,,ReyMar,31_2ndsgyou,mibe/mive,mibe,m i b e,,Valenzuela2013,2,,^ m i b e $,default,,,*mi
+Aro-31_2ndsgyou-1,,Aro,31_2ndsgyou,mitya,mitya,m i t j a,,Valenzuela2013,2,,^ m i t y a $,default,,,*mi
+Cav-31_2ndsgyou-1,,Cav,31_2ndsgyou,mi-kwana,mi,m i,,Valenzuela2013,2,,^ m i $,default,,,*mi
+Ese-31_2ndsgyou-1,,Ese,31_2ndsgyou,mi-a,mi,m i,,Valenzuela2013,2,,^ m i $,default,,,*mi
+ProTa-49_demonstrativethishe-1,,ProTa,49_demonstrativethishe,u-,u,u,,Valenzuela2013,12,,^ u $,default,,,*u-
+Tac-49_demonstrativethishe-1,,Tac,49_demonstrativethishe,u-ha,u,u,,Valenzuela2013,12,,^ u $,default,,,*u-
+Cav-49_demonstrativethishe-1,,Cav,49_demonstrativethishe,o-ho,o,o,,Valenzuela2013,12,,^ o $,default,,,*u-
+Ese-49_demonstrativethishe-1,,Ese,49_demonstrativethishe,o-haya,o,o,,Valenzuela2013,12,,^ o $,default,,,*u-
+ProTa-33_demonstrativeproximate-1,,ProTa,33_demonstrativeproximate,ree-,ree,r e e,,Valenzuela2013,14,,^ r e e $,default,,,*ree-
+Tac-33_demonstrativeproximate-1,,Tac,33_demonstrativeproximate,ye,ye,j e,,Valenzuela2013,14,,^ y e $,default,,,*ree-
+Cav-33_demonstrativeproximate-1,,Cav,33_demonstrativeproximate,reeke,reeke,r e e k e,,Valenzuela2013,14,,^ r e e k e $,default,,,*ree-
+Ese-33_demonstrativeproximate-1,,Ese,33_demonstrativeproximate,hikio,hikio,h i k i o,,Valenzuela2013,14,,^ h i k i o $,default,,,*ree-
+ProTa-34_genitive-1,,ProTa,34_genitive,-kʷe,kʷe,kʷ e,Girard additionally lists -kwe for Warayo.,Valenzuela2013,26,,^ kʷ e $,default,,,*-kʷe
+Tac-34_genitive-1,,Tac,34_genitive,-ke,ke,k e,,Valenzuela2013,26,,^ k e $,default,,,*-kʷe
+ReyMar-34_genitive-1,,ReyMar,34_genitive,ki-/-,ki,k i,'possessive prefix',Valenzuela2013,26,,^ k i $,default,,,*-kʷe
+Cav-34_genitive-1,,Cav,34_genitive,-kwe,kwe,kʷ e,,Valenzuela2013,26,,^ kw e $,default,,,*-kʷe
+Ese-34_genitive-1,,Ese,34_genitive,-kwe,kwe,kʷ e,,Valenzuela2013,26,,^ kw e $,default,,,*-kʷe
+ProTa-35_imperative-1,,ProTa,35_imperative,-kʷe,kʷe,kʷ e,Girard additionally lists -he for Warisa.,Valenzuela2013,30,,^ kʷ e $,default,,,*-kʷe
+Tac-35_imperative-1,,Tac,35_imperative,-ke,ke,k e,,Valenzuela2013,30,,^ k e $,default,,,*-kʷe
+Cav-35_imperative-1,,Cav,35_imperative,-kwe,kwe,kʷ e,,Valenzuela2013,30,,^ kw e $,default,,,*-kʷe
+ProTa-36_goingdowndownward-1,,ProTa,36_goingdowndownward,"-bu,-bute",bu,b u,"For first form, Girard additionally lists -anibuteni for Warisa. For second form, see footnote 67.",Valenzuela2013,27,,^ b u $,default,,,"*-bu,*-bute"
+Tac-36_goingdowndownward-1,,Tac,36_goingdowndownward,"e-bute-hi,-ute",e,e,,Valenzuela2013,27,,^ e $,default,,,"*-bu,*-bute"
+ReyMar-36_goingdowndownward-1,,ReyMar,36_goingdowndownward,"-/animabotia,-bute/-",animabotia,a n i m a b o t i a,,Valenzuela2013,27,,^ a n i m a b o t i a $,default,,,"*-bu,*-bute"
+Aro-36_goingdowndownward-1,,Aro,36_goingdowndownward,-bote,bote,b o t e,,Valenzuela2013,27,,^ b o t e $,default,,,"*-bu,*-bute"
+Cav-36_goingdowndownward-1,,Cav,36_goingdowndownward,"e-bote,-bute/-butya",e,e,,Valenzuela2013,27,,^ e $,default,,,"*-bu,*-bute"
+Ese-36_goingdowndownward-1,,Ese,36_goingdowndownward,'oke/-'okya,'oke,o k e,,Valenzuela2013,27,,^ ' o k e $,default,,,"*-bu,*-bute"
+ProTa-37_docoming-1,,ProTa,37_docoming,-be,be,b e,Guillaume 2017:233,Valenzuela2013,18,,^ b e $,default,,,*-be
+Tac-37_docoming-1,,Tac,37_docoming,-be,be,b e,,Valenzuela2013,18,,^ b e $,default,,,*-be
+ReyMar-37_docoming-1,,ReyMar,37_docoming,-bebe/-,bebe,b e b e,,Valenzuela2013,18,,^ b e b e $,default,,,*-be
+Cav-37_docoming-1,,Cav,37_docoming,-be,be,b e,,Valenzuela2013,18,,^ b e $,default,,,*-be
+Ese-37_docoming-1,,Ese,37_docoming,-jebe,jebe,j e b e,,Valenzuela2013,18,,^ j e b e $,default,,,*-be
+ProTa-38_desiderative-1,,ProTa,38_desiderative,-katsa,katsa,k a ts a,,Valenzuela2013,15,,^ k a ts a $,default,,,*-katsa
+Tac-38_desiderative-1,,Tac,38_desiderative,-tsa,tsa,ts a,,Valenzuela2013,15,,^ ts a $,default,,,*-katsa
+Aro-38_desiderative-1,,Aro,38_desiderative,-hae,hae,h a e,,Valenzuela2013,15,,^ h a e $,default,,,*-katsa
+Cav-38_desiderative-1,,Cav,38_desiderative,-kara,kara,k a r a,,Valenzuela2013,15,,^ k a r a $,default,,,*-katsa
+Ese-38_desiderative-1,,Ese,38_desiderative,-sa,sa,s a,,Valenzuela2013,15,,^ s a $,default,,,*-katsa
+ProTa-39_negative-1,,ProTa,39_negative,-(a)ma,ma,m a,verbal and nominal,Valenzuela2013,37,,^ m a $,default,,,*-(a)ma
+Tac-39_negative-1,,Tac,39_negative,-(a)ma,ma,m a,,Valenzuela2013,37,,^ m a $,default,,,*-(a)ma
+Cav-39_negative-1,,Cav,39_negative,-(a)ma,ma,m a,,Valenzuela2013,37,,^ m a $,default,,,*-(a)ma
+Ese-39_negative-1,,Ese,39_negative,-(a)ma,ma,m a,,Valenzuela2013,37,,^ m a $,default,,,*-(a)ma
+ProTa-40_causative-1,,ProTa,40_causative,-me[re],mere,m e r e,Girard reconstructs *-me[re] based on Tacana –meand Cavineña –mere. To this we can now add Ese’ Ejja -mee and Araona -me.,Valenzuela2013,7,,^ m e r e $,default,,,*-me[re]
+Tac-40_causative-1,,Tac,40_causative,-me,me,m e,,Valenzuela2013,7,,^ m e $,default,,,*-me[re]
+Aro-40_causative-1,,Aro,40_causative,-me,me,m e,,Valenzuela2013,7,,^ m e $,default,,,*-me[re]
+Cav-40_causative-1,,Cav,40_causative,-mere,mere,m e r e,,Valenzuela2013,7,,^ m e r e $,default,,,*-me[re]
+Ese-40_causative-1,,Ese,40_causative,-mee,mee,m e e,,Valenzuela2013,7,,^ m e e $,default,,,*-me[re]
+ProTa-41_augmentative-1,,ProTa,41_augmentative,-pa,pa,p a,,Valenzuela2013,3,,^ p a $,default,,,*-pa
+Tac-41_augmentative-1,,Tac,41_augmentative,-pa,pa,p a,,Valenzuela2013,3,,^ p a $,default,,,*-pa
+Cav-41_augmentative-1,,Cav,41_augmentative,-pa,pa,p a,,Valenzuela2013,3,,^ p a $,default,,,*-pa
+ProTa-42_dotrauxiliarytr-1,,ProTa,42_dotrauxiliarytr,a-,a,a,Girard additionally lists age for Warisa.,Valenzuela2013,17,,^ a $,default,,,*a-
+Tac-42_dotrauxiliarytr-1,,Tac,42_dotrauxiliarytr,a-,a,a,,Valenzuela2013,17,,^ a $,default,,,*a-
+Cav-42_dotrauxiliarytr-1,,Cav,42_dotrauxiliarytr,a-,a,a,,Valenzuela2013,17,,^ a $,default,,,*a-
+Ese-42_dotrauxiliarytr-1,,Ese,42_dotrauxiliarytr,a-ka-,a,a,,Valenzuela2013,17,,^ a $,default,,,*a-
+ProTa-43_transitivizer-1,,ProTa,43_transitivizer,-a,a,a,Girard additionally lists -a(-) for the Warayo.,Valenzuela2013,43,,^ a $,default,,,*-a
+Tac-43_transitivizer-1,,Tac,43_transitivizer,-a(-),a,a,,Valenzuela2013,43,,^ a $,default,,,*-a
+ReyMar-43_transitivizer-1,,ReyMar,43_transitivizer,-a(-)/-,a,a,,Valenzuela2013,43,,^ a $,default,,,*-a
+Cav-43_transitivizer-1,,Cav,43_transitivizer,-a(-),a,a,,Valenzuela2013,43,,^ a $,default,,,*-a
+Ese-43_transitivizer-1,,Ese,43_transitivizer,-a(-),a,a,,Valenzuela2013,43,,^ a $,default,,,*-a
+ProTa-44_detransitivizerreflexive-1,,ProTa,44_detransitivizerreflexive,-ti,ti,t i,,Valenzuela2013,16,,^ t i $,default,,,*-ti
+Tac-44_detransitivizerreflexive-1,,Tac,44_detransitivizerreflexive,-ti,ti,t i,,Valenzuela2013,16,,^ t i $,default,,,*-ti
+Cav-44_detransitivizerreflexive-1,,Cav,44_detransitivizerreflexive,-ti,ti,t i,,Valenzuela2013,16,,^ t i $,default,,,*-ti
+Ese-44_detransitivizerreflexive-1,,Ese,44_detransitivizerreflexive,-ki,ki,k i,,Valenzuela2013,16,,^ k i $,default,,,*-ti
+ProTa-45_ergative-1,,ProTa,45_ergative,-ra,ra,r a,Girard additionally lists -a for Warayo.,Valenzuela2013,19,,^ r a $,default,,,*-ra
+Tac-45_ergative-1,,Tac,45_ergative,-a,a,a,,Valenzuela2013,19,,^ a $,default,,,*-ra
+Cav-45_ergative-1,,Cav,45_ergative,-ra,ra,r a,,Valenzuela2013,19,,^ r a $,default,,,*-ra
+Ese-45_ergative-1,,Ese,45_ergative,-(y)a,a,a,,Valenzuela2013,19,,^ a $,default,,,*-ra
+ProTa-46_previouseventsamesubject-1,,ProTa,46_previouseventsamesubject,-ṭṣu,ṭṣu,ts u,,Valenzuela2013,40,,^ ṭṣ u $,default,,,*-ṭṣu
+Tac-46_previouseventsamesubject-1,,Tac,46_previouseventsamesubject,-su,su,s u,,Valenzuela2013,40,,^ s u $,default,,,*-ṭṣu
+Aro-46_previouseventsamesubject-1,,Aro,46_previouseventsamesubject,-tso,tso,ts o,,Valenzuela2013,40,,^ ts o $,default,,,*-ṭṣu
+Cav-46_previouseventsamesubject-1,,Cav,46_previouseventsamesubject,-atsu~-tsu,atsu,a ts u,,Valenzuela2013,40,,^ a ts u $,default,,,*-ṭṣu
+ProTa-48_comitativealongwithtwo-1,,ProTa,48_comitativealongwithtwo,beta,beta,b e t a,"Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.",Valenzuela2013,9,,^ b e t a $,default,,,*beta
+Tac-48_comitativealongwithtwo-1,,Tac,48_comitativealongwithtwo,beta,beta,b e t a,,Valenzuela2013,9,,^ b e t a $,default,,,*beta
+ReyMar-48_comitativealongwithtwo-1,,ReyMar,48_comitativealongwithtwo,mbeta/beta,mbeta,m b e t a,,Valenzuela2013,9,,^ m b e t a $,default,,,*beta
+Aro-48_comitativealongwithtwo-1,,Aro,48_comitativealongwithtwo,beta,beta,b e t a,,Valenzuela2013,9,,^ b e t a $,default,,,*beta
+Cav-48_comitativealongwithtwo-1,,Cav,48_comitativealongwithtwo,beta,beta,b e t a,,Valenzuela2013,9,,^ b e t a $,default,,,*beta
+Ese-48_comitativealongwithtwo-1,,Ese,48_comitativealongwithtwo,beka,beka,b e k a,,Valenzuela2013,9,,^ b e k a $,default,,,*beta

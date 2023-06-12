@@ -32,10 +32,12 @@ class Dataset(BaseDataset):
         replacements=[
             (" ", "_"),
             ("[i]", "i"),
-            ("=", "_"),
             ("[", ""),
             ("]", ""),
-            ("[...]", "")
+            ("[...]", ""),
+            ("...", ""),
+            ("CV", ""),
+            ("V", "")
         ],
         first_form_only=True
         )
@@ -47,11 +49,11 @@ class Dataset(BaseDataset):
         # add conceptlists
         concepts = {}
         for concept in self.concepts:
-            idx = concept["NUMBER"]+"_"+slug(concept["GLOSS"])
-            concepts[concept["GLOSS"]] = idx
+            idx = concept["NUMBER"]+"_"+slug(concept["ENGLISH"])
+            concepts[concept["ENGLISH"]] = idx
             args.writer.add_concept(
                 ID=idx,
-                Name=concept["GLOSS"],
+                Name=concept["ENGLISH"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
             )
@@ -64,8 +66,7 @@ class Dataset(BaseDataset):
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
-        data.renumber(
-            "PROTO_FORM", "cogid")
+        data.renumber("CONCEPT", "cogid")
 
         # add data
         for (
@@ -73,6 +74,7 @@ class Dataset(BaseDataset):
             number,
             number_in_source,
             concept,
+            numbering_original_source,
             proto_form,
             doculect,
             value,
@@ -83,6 +85,7 @@ class Dataset(BaseDataset):
                 "number",
                 "number_in_source",
                 "concept",
+                "numbering_original_source",
                 "proto_form",
                 "doculect",
                 "value",
@@ -98,6 +101,7 @@ class Dataset(BaseDataset):
                     FormFromProto=proto_form,
                     Comment=note,
                     Cognacy=cogid,
+                    Source="Valenzuela2013"
                     ):
 
                 args.writer.add_cognate(
