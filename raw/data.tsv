@@ -1,113 +1,125 @@
-TABLE	NUMBER	NUMBER_IN_SOURCE	CONCEPT	NUMBERING_ORIGINAL_SOURCE	PROTO_FORM	DOCULECT	VALUE	NOTE
-Pano_Lexical_List	A1	1	Tree	147	*hiwi	ProPa	hiwi	
-Pano_Lexical_List	A2	1	Tree	147	*hiwi	Ksh	i	
-Pano_Lexical_List	A3	1	Tree	147	*hiwi	SK	hiwi	
-Pano_Lexical_List	A4	1	Tree	147	*hiwi	Kap	hiwi	
-Pano_Lexical_List	A5	1	Tree	147	*hiwi	Mar	iwi	
-Pano_Lexical_List	A6	1	Tree	147	*hiwi	Chak	hiwi	
-Pano_Lexical_List	A7	1	Tree	147	*hiwi	Kax	hiwi	
-Pano_Lexical_List	A8	1	Tree	147	*hiwi	Yam	iɸi	
-Pano_Lexical_List	A9	1	Tree	147	*hiwi	Shar	iɸi	
-Pano_Lexical_List	A10	2	Tooth	414	*ʂɨ-	ProPa	ʂɨ-	
-Pano_Lexical_List	A11	2	Tooth	414	*ʂɨ-	Ksh	ʂɨta	
-Pano_Lexical_List	A12	2	Tooth	414	*ʂɨ-	SK	ʂɨta	
-Pano_Lexical_List	A13	2	Tooth	414	*ʂɨ-	Kap	ʂɨta	
-Pano_Lexical_List	A14	2	Tooth	414	*ʂɨ-	Mar	ʃɨta	
-Pano_Lexical_List	A15	2	Tooth	414	*ʂɨ-	Chak	ʂɨta	
-Pano_Lexical_List	A16	2	Tooth	414	*ʂɨ-	Kax	ʂɨta	
-Pano_Lexical_List	A17	2	Tooth	414	*ʂɨ-	Shar	ʂɨta	
-Pano_Lexical_List	A18	3	Two	352	*ra-βɨta	ProPa	ra-βɨta	
-Pano_Lexical_List	A19	3	Two	352	*ra-βɨta	Ksh	raβɨ	
-Pano_Lexical_List	A20	3	Two	352	*ra-βɨta	SK	raβɨ	
-Pano_Lexical_List	A21	3	Two	352	*ra-βɨta	Kap	raβɨ	
-Pano_Lexical_List	A22	3	Two	352	*ra-βɨta	Mar	ravɨvakĩ	
-Pano_Lexical_List	A23	3	Two	352	*ra-βɨta	Chak	raβɨ	
-Pano_Lexical_List	A24	3	Two	352	*ra-βɨta	Kax	tʃabɨta	
-Pano_Lexical_List	A25	3	Two	352	*ra-βɨta	Yam	raɸɨ	
-Pano_Lexical_List	A26	3	Two	352	*ra-βɨta	Chan	raɸɨ	
-Pano_Lexical_List	A27	3	Two	352	*ra-βɨta	Shar	raɸɨ	
-Pano_Lexical_List	A28	4	Liver	438	*takʷa	ProPa	takʷa	
-Pano_Lexical_List	A29	4	Liver	438	*takʷa	Ksh	takʷa	
-Pano_Lexical_List	A30	4	Liver	438	*takʷa	SK	taka	
-Pano_Lexical_List	A31	4	Liver	438	*takʷa	Kap	taka	
-Pano_Lexical_List	A32	4	Liver	438	*takʷa	Mar	taka	
-Pano_Lexical_List	A33	4	Liver	438	*takʷa	Chak	taka	
-Pano_Lexical_List	A34	4	Liver	438	*takʷa	Kax	taka	
-Pano_Lexical_List	A35	4	Liver	438	*takʷa	Chan	taka	
-Pano_Lexical_List	A36	4	Liver	438	*takʷa	Shar	taka	
-Pano_Lexical_List	A37	5	Leaf	325	*pɨʔi	ProPa	pɨʔi	
-Pano_Lexical_List	A38	5	Leaf	325	*pɨʔi	Ksh	pɨi	
-Pano_Lexical_List	A39	5	Leaf	325	*pɨʔi	SK	pɨi	
-Pano_Lexical_List	A40	5	Leaf	325	*pɨʔi	Kap	pɨʔi	
-Pano_Lexical_List	A41	5	Leaf	325	*pɨʔi	Mar	pɨi	
-Pano_Lexical_List	A42	5	Leaf	325	*pɨʔi	Chak	pɨʔi	
-Pano_Lexical_List	A43	5	Leaf	325	*pɨʔi	Kax	pɨʔi	
-Pano_Lexical_List	A44	5	Leaf	325	*pɨʔi	Yam	pɨi	
-Pano_Lexical_List	A45	5	Leaf	325	*pɨʔi	Chan	pɨi	
-Pano_Lexical_List	A46	5	Leaf	325	*pɨʔi	Shar	pɨi	
-Pano_Lexical_List	A47	6	Bone	398	*ʂao	ProPa	ʂao	
-Pano_Lexical_List	A48	6	Bone	398	*ʂao	Ksh	ʂɔː	
-Pano_Lexical_List	A49	6	Bone	398	*ʂao	SK	ʂao	
-Pano_Lexical_List	A50	6	Bone	398	*ʂao	Kap	ʂao	
-Pano_Lexical_List	A51	6	Bone	398	*ʂao	Mar	ʃau	
-Pano_Lexical_List	A52	6	Bone	398	*ʂao	Chak	ʂao	
-Pano_Lexical_List	A53	6	Bone	398	*ʂao	Kax	ʂahʷu	
-Pano_Lexical_List	A54	6	Bone	398	*ʂao	Yam	ʂao	
-Pano_Lexical_List	A55	6	Bone	398	*ʂao	Chan	ʃao,ʂao	
-Pano_Lexical_List	A56	6	Bone	398	*ʂao	Shar	ʂao	
-Pano_Lexical_List	A57	7	Tongue	47	*hana	ProPa	hana	
-Pano_Lexical_List	A58	7	Tongue	47	*hana	Ksh	ana	
-Pano_Lexical_List	A59	7	Tongue	47	*hana	SK	hana	
-Pano_Lexical_List	A60	7	Tongue	47	*hana	Kap	hana	
-Pano_Lexical_List	A61	7	Tongue	47	*hana	Mar	ana	
-Pano_Lexical_List	A62	7	Tongue	47	*hana	Chak	hana	
-Pano_Lexical_List	A63	7	Tongue	47	*hana	Kax	hana	
-Pano_Lexical_List	A64	7	Tongue	47	*hana	Yam	ana	
-Pano_Lexical_List	A65	7	Tongue	47	*hana	Chan	ada	
-Pano_Lexical_List	A66	7	Tongue	47	*hana	Shar	ana	
-Pano_Lexical_List	A67	8	Hand		*mɨ-	ProPa	mɨ-	
-Pano_Lexical_List	A68	8	Hand		*mɨ-	Ksh	mɨkɨ̃	
-Pano_Lexical_List	A69	8	Hand		*mɨ-	SK	mɨkɨ̃	
-Pano_Lexical_List	A70	8	Hand		*mɨ-	Kap	mɨkɨn	
-Pano_Lexical_List	A71	8	Hand		*mɨ-	Chak	mɨkɨnɨ	
-Pano_Lexical_List	A72	8	Hand		*mɨ-	Kax	mɨkɨlɨ	
-Pano_Lexical_List	A73	8	Hand		*mɨ-	Yam	mɨkɨ̃	
-Pano_Lexical_List	A74	8	Hand		*mɨ-	Chan	mɨkɨ	
-Pano_Lexical_List	A75	8	Hand		*mɨ-	Shar	mɨkɨ	
-Pano_Lexical_List	A76	9	Night	494	*yamɨtV	ProPa	yamɨtV	
-Pano_Lexical_List	A77	9	Night	494	*yamɨtV	Ksh	imɨ	
-Pano_Lexical_List	A78	9	Night	494	*yamɨtV	SK	yamɨ	
-Pano_Lexical_List	A79	9	Night	494	*yamɨtV	Kap	yamɨ	
-Pano_Lexical_List	A80	9	Night	494	*yamɨtV	Mar	yamɨ	
-Pano_Lexical_List	A81	9	Night	494	*yamɨtV	Kax	yamɨta	
-Pano_Lexical_List	A82	9	Night	494	*yamɨtV	Yam	yamɨa	
-Pano_Lexical_List	A83	9	Night	494	*yamɨtV	Chan	yabɨ	
-Pano_Lexical_List	A84	9	Night	494	*yamɨtV	Shar	yamɨ	
-Pano_Lexical_List	A85	10	Skin	89	*βitsi	ProPa	βitsi	
-Pano_Lexical_List	A86	10	Skin	89	*βitsi	Ksh	βitʃi	
-Pano_Lexical_List	A87	10	Skin	89	*βitsi	SK	βitʃi	
-Pano_Lexical_List	A88	10	Skin	89	*βitsi	Kap	βitʃi	
-Pano_Lexical_List	A89	10	Skin	89	*βitsi	Mar	vitʃi	
-Pano_Lexical_List	A90	10	Skin	89	*βitsi	Chak	βitʃi	
-Pano_Lexical_List	A91	10	Skin	89	*βitsi	Kax	bitʃi	
-Pano_Lexical_List	A92	10	Skin	89	*βitsi	Chan	ɸitʃi	
-Pano_Lexical_List	A93	10	Skin	89	*βitsi	Shar	ɸitʃi	
-Pano_Lexical_List	A94	11	Fire	125	*tsiʔi	ProPa	tsiʔi	
-Pano_Lexical_List	A95	11	Fire	125	*tsiʔi	Ksh	tʃii	
-Pano_Lexical_List	A96	11	Fire	125	*tsiʔi	SK	tʃii	
-Pano_Lexical_List	A97	11	Fire	125	*tsiʔi	Kap	tʃiʔi	
-Pano_Lexical_List	A99	11	Fire	125	*tsiʔi	Mar	tʃi	
-Pano_Lexical_List	A100	11	Fire	125	*tsiʔi	Chak	tʃiʔi	
-Pano_Lexical_List	A101	11	Fire	125	*tsiʔi	Kax	tʃiʔi	
-Pano_Lexical_List	A102	11	Fire	125	*tsiʔi	Yam	tʃii	
-Pano_Lexical_List	A103	11	Fire	125	*tsiʔi	Chan	tʃii	
-Pano_Lexical_List	A104	11	Fire	125	*tsiʔi	Shar	tʃii	
-Pano_Lexical_List	A105	12	Knee	359	*rã-	ProPa	rã-	
-Pano_Lexical_List	A106	12	Knee	359	*rã-	Ksh	rãβoʂo	
-Pano_Lexical_List	A107	12	Knee	359	*rã-	SK	rãβoʂo	
-Pano_Lexical_List	A108	12	Knee	359	*rã-	Kap	rãβoʂo	
-Pano_Lexical_List	A109	12	Knee	359	*rã-	Mar	ravuʃɨ	
-Pano_Lexical_List	A110	12	Knee	359	*rã-	Kax	tʃãburu	
+TABLE	NUMBER	NUMBER_IN_SOURCE	CONCEPT	NUMBERING_ORIGINAL_SOURCE	PROTO_FORM	NUMBERING_RECONSTRUCTION	PROTO-PANO-TAKANA	DOCULECT	VALUE	NOTE
+Reconstruction	R1	1	Tree	147	*hiwi	47	**hegʷi	ProPaTa	hegʷi	
+Pano_Lexical_List	A1	1	Tree	147	*hiwi	47	**hegʷi	ProPa	hiwi	
+Pano_Lexical_List	A2	1	Tree	147	*hiwi	47	**hegʷi	Ksh	i	
+Pano_Lexical_List	A3	1	Tree	147	*hiwi	47	**hegʷi	SK	hiwi	
+Pano_Lexical_List	A4	1	Tree	147	*hiwi	47	**hegʷi	Kap	hiwi	
+Pano_Lexical_List	A5	1	Tree	147	*hiwi	47	**hegʷi	Mar	iwi	
+Pano_Lexical_List	A6	1	Tree	147	*hiwi	47	**hegʷi	Chak	hiwi	
+Pano_Lexical_List	A7	1	Tree	147	*hiwi	47	**hegʷi	Kax	hiwi	
+Pano_Lexical_List	A8	1	Tree	147	*hiwi	47	**hegʷi	Yam	iɸi	
+Pano_Lexical_List	A9	1	Tree	147	*hiwi	47	**hegʷi	Shar	iɸi	
+Reconstruction	R2	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	ProPaTa	ʂɨ-	
+Pano_Lexical_List	A10	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	ProPa	ʂɨ-	
+Pano_Lexical_List	A11	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Ksh	ʂɨta	
+Pano_Lexical_List	A12	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	SK	ʂɨta	
+Pano_Lexical_List	A13	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Kap	ʂɨta	
+Pano_Lexical_List	A14	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Mar	ʃɨta	
+Pano_Lexical_List	A15	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Chak	ʂɨta	
+Pano_Lexical_List	A16	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Kax	ʂɨta	
+Pano_Lexical_List	A17	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Shar	ʂɨta	
+Reconstruction	R3	3	Two	352	*ra-βɨta	24	**bɨta	ProPaTa	bɨta	
+Pano_Lexical_List	A18	3	Two	352	*ra-βɨta	24	**bɨta	ProPa	ra-βɨta	
+Pano_Lexical_List	A19	3	Two	352	*ra-βɨta	24	**bɨta	Ksh	raβɨ	
+Pano_Lexical_List	A20	3	Two	352	*ra-βɨta	24	**bɨta	SK	raβɨ	
+Pano_Lexical_List	A21	3	Two	352	*ra-βɨta	24	**bɨta	Kap	raβɨ	
+Pano_Lexical_List	A22	3	Two	352	*ra-βɨta	24	**bɨta	Mar	ravɨvakĩ	
+Pano_Lexical_List	A23	3	Two	352	*ra-βɨta	24	**bɨta	Chak	raβɨ	
+Pano_Lexical_List	A24	3	Two	352	*ra-βɨta	24	**bɨta	Kax	tʃabɨta	
+Pano_Lexical_List	A25	3	Two	352	*ra-βɨta	24	**bɨta	Yam	raɸɨ	
+Pano_Lexical_List	A26	3	Two	352	*ra-βɨta	24	**bɨta	Chan	raɸɨ	
+Pano_Lexical_List	A27	3	Two	352	*ra-βɨta	24	**bɨta	Shar	raɸɨ	
+Reconstruction	R4	4	Liver	438	*takʷa	104	takʷa	ProPaTa	takʷa	
+Pano_Lexical_List	A28	4	Liver	438	*takʷa	104	**takʷa	ProPa	takʷa	
+Pano_Lexical_List	A29	4	Liver	438	*takʷa	104	**takʷa	Ksh	takʷa	
+Pano_Lexical_List	A30	4	Liver	438	*takʷa	104	**takʷa	SK	taka	
+Pano_Lexical_List	A31	4	Liver	438	*takʷa	104	**takʷa	Kap	taka	
+Pano_Lexical_List	A32	4	Liver	438	*takʷa	104	**takʷa	Mar	taka	
+Pano_Lexical_List	A33	4	Liver	438	*takʷa	104	**takʷa	Chak	taka	
+Pano_Lexical_List	A34	4	Liver	438	*takʷa	104	**takʷa	Kax	taka	
+Pano_Lexical_List	A35	4	Liver	438	*takʷa	104	**takʷa	Chan	taka	
+Pano_Lexical_List	A36	4	Liver	438	*takʷa	104	**takʷa	Shar	taka	
+Reconstruction	R5	5	Leaf	325	*pɨʔi		**pɨʔi	ProPaTa	pɨʔi	
+Pano_Lexical_List	A37	5	Leaf	325	*pɨʔi		**pɨʔi	ProPa	pɨʔi	
+Pano_Lexical_List	A38	5	Leaf	325	*pɨʔi		**pɨʔi	Ksh	pɨi	
+Pano_Lexical_List	A39	5	Leaf	325	*pɨʔi		**pɨʔi	SK	pɨi	
+Pano_Lexical_List	A40	5	Leaf	325	*pɨʔi		**pɨʔi	Kap	pɨʔi	
+Pano_Lexical_List	A41	5	Leaf	325	*pɨʔi		**pɨʔi	Mar	pɨi	
+Pano_Lexical_List	A42	5	Leaf	325	*pɨʔi		**pɨʔi	Chak	pɨʔi	
+Pano_Lexical_List	A43	5	Leaf	325	*pɨʔi		**pɨʔi	Kax	pɨʔi	
+Pano_Lexical_List	A44	5	Leaf	325	*pɨʔi		**pɨʔi	Yam	pɨi	
+Pano_Lexical_List	A45	5	Leaf	325	*pɨʔi		**pɨʔi	Chan	pɨi	
+Pano_Lexical_List	A46	5	Leaf	325	*pɨʔi		**pɨʔi	Shar	pɨi	
+Reconstruction	R6	6	Bone	398	*ʂao	93	**ʂau	ProPaTa	ʂau	
+Pano_Lexical_List	A47	6	Bone	398	*ʂao	93	**ʂau	ProPa	ʂao	
+Pano_Lexical_List	A48	6	Bone	398	*ʂao	93	**ʂau	Ksh	ʂɔː	
+Pano_Lexical_List	A49	6	Bone	398	*ʂao	93	**ʂau	SK	ʂao	
+Pano_Lexical_List	A50	6	Bone	398	*ʂao	93	**ʂau	Kap	ʂao	
+Pano_Lexical_List	A51	6	Bone	398	*ʂao	93	**ʂau	Mar	ʃau	
+Pano_Lexical_List	A52	6	Bone	398	*ʂao	93	**ʂau	Chak	ʂao	
+Pano_Lexical_List	A53	6	Bone	398	*ʂao	93	**ʂau	Kax	ʂahʷu	
+Pano_Lexical_List	A54	6	Bone	398	*ʂao	93	**ʂau	Yam	ʂao	
+Pano_Lexical_List	A55	6	Bone	398	*ʂao	93	**ʂau	Chan	ʃao,ʂao	
+Pano_Lexical_List	A56	6	Bone	398	*ʂao	93	**ʂau	Shar	ʂao	
+Reconstruction	R7	7	Tongue	47	*hana	46	**hana	ProPaTa	hana	
+Pano_Lexical_List	A57	7	Tongue	47	*hana	46	**hana	ProPa	hana	
+Pano_Lexical_List	A58	7	Tongue	47	*hana	46	**hana	Ksh	ana	
+Pano_Lexical_List	A59	7	Tongue	47	*hana	46	**hana	SK	hana	
+Pano_Lexical_List	A60	7	Tongue	47	*hana	46	**hana	Kap	hana	
+Pano_Lexical_List	A61	7	Tongue	47	*hana	46	**hana	Mar	ana	
+Pano_Lexical_List	A62	7	Tongue	47	*hana	46	**hana	Chak	hana	
+Pano_Lexical_List	A63	7	Tongue	47	*hana	46	**hana	Kax	hana	
+Pano_Lexical_List	A64	7	Tongue	47	*hana	46	**hana	Yam	ana	
+Pano_Lexical_List	A65	7	Tongue	47	*hana	46	**hana	Chan	ada	
+Pano_Lexical_List	A66	7	Tongue	47	*hana	46	**hana	Shar	ana	
+Reconstruction	R8	8	Hand		*mɨ-	70	**mɨ-	ProPaTa	mɨ-	
+Pano_Lexical_List	A67	8	Hand		*mɨ-	70	**mɨ-	ProPa	mɨ-	
+Pano_Lexical_List	A68	8	Hand		*mɨ-	70	**mɨ-	Ksh	mɨkɨ̃	
+Pano_Lexical_List	A69	8	Hand		*mɨ-	70	**mɨ-	SK	mɨkɨ̃	
+Pano_Lexical_List	A70	8	Hand		*mɨ-	70	**mɨ-	Kap	mɨkɨn	
+Pano_Lexical_List	A71	8	Hand		*mɨ-	70	**mɨ-	Chak	mɨkɨnɨ	
+Pano_Lexical_List	A72	8	Hand		*mɨ-	70	**mɨ-	Kax	mɨkɨlɨ	
+Pano_Lexical_List	A73	8	Hand		*mɨ-	70	**mɨ-	Yam	mɨkɨ̃	
+Pano_Lexical_List	A74	8	Hand		*mɨ-	70	**mɨ-	Chan	mɨkɨ	
+Pano_Lexical_List	A75	8	Hand		*mɨ-	70	**mɨ-	Shar	mɨkɨ	
+Reconstruction	R9	9	Night	494	*yamɨtV	71	**mɨta	ProPaTa	mɨta	
+Pano_Lexical_List	A76	9	Night	494	*yamɨtV	71	**mɨta	ProPa	yamɨtV	
+Pano_Lexical_List	A77	9	Night	494	*yamɨtV	71	**mɨta	Ksh	imɨ	
+Pano_Lexical_List	A78	9	Night	494	*yamɨtV	71	**mɨta	SK	yamɨ	
+Pano_Lexical_List	A79	9	Night	494	*yamɨtV	71	**mɨta	Kap	yamɨ	
+Pano_Lexical_List	A80	9	Night	494	*yamɨtV	71	**mɨta	Mar	yamɨ	
+Pano_Lexical_List	A81	9	Night	494	*yamɨtV	71	**mɨta	Kax	yamɨta	
+Pano_Lexical_List	A82	9	Night	494	*yamɨtV	71	**mɨta	Yam	yamɨa	
+Pano_Lexical_List	A83	9	Night	494	*yamɨtV	71	**mɨta	Chan	yabɨ	
+Pano_Lexical_List	A84	9	Night	494	*yamɨtV	71	**mɨta	Shar	yamɨ	
+Reconstruction	R10	10	Skin	89	*βitsi	22	**bitsi	ProPaTa	bitsi	
+Pano_Lexical_List	A85	10	Skin	89	*βitsi	22	**bitsi	ProPa	βitsi	
+Pano_Lexical_List	A86	10	Skin	89	*βitsi	22	**bitsi	Ksh	βitʃi	
+Pano_Lexical_List	A87	10	Skin	89	*βitsi	22	**bitsi	SK	βitʃi	
+Pano_Lexical_List	A88	10	Skin	89	*βitsi	22	**bitsi	Kap	βitʃi	
+Pano_Lexical_List	A89	10	Skin	89	*βitsi	22	**bitsi	Mar	vitʃi	
+Pano_Lexical_List	A90	10	Skin	89	*βitsi	22	**bitsi	Chak	βitʃi	
+Pano_Lexical_List	A91	10	Skin	89	*βitsi	22	**bitsi	Kax	bitʃi	
+Pano_Lexical_List	A92	10	Skin	89	*βitsi	22	**bitsi	Chan	ɸitʃi	
+Pano_Lexical_List	A93	10	Skin	89	*βitsi	22	**bitsi	Shar	ɸitʃi	
+Reconstruction	R11	11	Fire	125	*tsiʔi		**tsiʔi	ProPaTa	tsiʔi	
+Pano_Lexical_List	A94	11	Fire	125	*tsiʔi		**tsiʔi	ProPa	tsiʔi	
+Pano_Lexical_List	A95	11	Fire	125	*tsiʔi		**tsiʔi	Ksh	tʃii	
+Pano_Lexical_List	A96	11	Fire	125	*tsiʔi		**tsiʔi	SK	tʃii	
+Pano_Lexical_List	A97	11	Fire	125	*tsiʔi		**tsiʔi	Kap	tʃiʔi	
+Pano_Lexical_List	A99	11	Fire	125	*tsiʔi		**tsiʔi	Mar	tʃi	
+Pano_Lexical_List	A100	11	Fire	125	*tsiʔi		**tsiʔi	Chak	tʃiʔi	
+Pano_Lexical_List	A101	11	Fire	125	*tsiʔi		**tsiʔi	Kax	tʃiʔi	
+Pano_Lexical_List	A102	11	Fire	125	*tsiʔi		**tsiʔi	Yam	tʃii	
+Pano_Lexical_List	A103	11	Fire	125	*tsiʔi		**tsiʔi	Chan	tʃii	
+Pano_Lexical_List	A104	11	Fire	125	*tsiʔi		**tsiʔi	Shar	tʃii	
+Reconstruction	R12	12	Knee	359	*rã-	37	**da-n	ProPaTa	da-n	
+Pano_Lexical_List	A105	12	Knee	359	*rã-	37	**da-n	ProPa	rã-	
+Pano_Lexical_List	A106	12	Knee	359	*rã-	37	**da-n	Ksh	rãβoʂo	
+Pano_Lexical_List	A107	12	Knee	359	*rã-	37	**da-n	SK	rãβoʂo	
+Pano_Lexical_List	A108	12	Knee	359	*rã-	37	**da-n	Kap	rãβoʂo	
+Pano_Lexical_List	A109	12	Knee	359	*rã-	37	**da-n	Mar	ravuʃɨ	
+Pano_Lexical_List	A110	12	Knee	359	*rã-	37	**da-n	Kax	tʃãburu	
 Pano_Lexical_List	A111	13	Blood	141	*himi	ProPa	himi	
 Pano_Lexical_List	A112	13	Blood	141	*himi	Ksh	imi	
 Pano_Lexical_List	A113	13	Blood	141	*himi	SK	himi	
@@ -223,96 +235,96 @@ Pano_Lexical_List	A222		Elbow		*βaʂ(u)-	Kap	baʂpoʂko
 Pano_Lexical_List	A223		Elbow		*βaʂ(u)-	Chak	baspoto	
 Pano_Lexical_List	A224		Elbow		*βaʂ(u)-	Kax	paxuxu	
 Pano_Lexical_List	A225		Elbow		*βaʂ(u)-	Yam	po-to-ṣ̌ko	
-Pano_Lexical_List	A226	1	Tree		*hiwi	Shan	iwi	
-Pano_Lexical_List	A227	1	Tree		*hiwi	Kat	hiwi	
-Pano_Lexical_List	A228	1	Tree		*hiwi	Poy	iwi	
-Pano_Lexical_List	A229	1	Tree		*hiwi	Ama	hiː	
-Pano_Lexical_List	A230	1	Tree		*hiwi	HanKax	hi	
-Pano_Lexical_List	A231	1	Tree		*hiwi	Maw	iwi	
-Pano_Lexical_List	A232	1	Tree		*hiwi	Kor	iwi	
-Pano_Lexical_List	A233	1	Tree		*hiwi	MatMay	iwi	
-Pano_Lexical_List	A234	2	Tooth	414	*ʂɨ-	Shan	ʂɨta	
-Pano_Lexical_List	A235	2	Tooth	414	*ʂɨ-	Kat	ʂita	
-Pano_Lexical_List	A236	2	Tooth	414	*ʂɨ-	Ama	xɨta	
-Pano_Lexical_List	A237	2	Tooth	414	*ʂɨ-	HanKax	ʂɨta	
-Pano_Lexical_List	A238	2	Tooth	414	*ʂɨ-	Maw	ʂɨta	
-Pano_Lexical_List	A239	2	Tooth	414	*ʂɨ-	Yaw	ʂɨta	
-Pano_Lexical_List	A240	2	Tooth	414	*ʂɨ-	Kor	ʂɨta	
-Pano_Lexical_List	A241	2	Tooth	414	*ʂɨ-	Mat	ʂɨta	
-Pano_Lexical_List	A242	2	Tooth	414	*ʂɨ-	MatMay	ʂɨta	
-Pano_Lexical_List	A243	3	Two	352	*ra-βɨta	Shan	rafu	
-Pano_Lexical_List	A244	3	Two	352	*ra-βɨta	Kat	raβi	
-Pano_Lexical_List	A245	3	Two	352	*ra-βɨta	Poy	raβu	
-Pano_Lexical_List	A246	3	Two	352	*ra-βɨta	Ama	raβɨ	
-Pano_Lexical_List	A247	3	Two	352	*ra-βɨta	Maw	raɸɨ	
-Pano_Lexical_List	A248	3	Two	352	*ra-βɨta	Yaw	raβɨ	
-Pano_Lexical_List	A249	3	Two	352	*ra-βɨta	Kor	ɬaβɨtpa	
-Pano_Lexical_List	A250	3	Two	352	*ra-βɨta	Mat	dabɨdpa	
-Pano_Lexical_List	A251	3	Two	352	*ra-βɨta	MatMay	daɨd	
-Pano_Lexical_List	A252	4	Liver	438	*takʷa	Shan	taka	
-Pano_Lexical_List	A253	4	Liver	438	*takʷa	Kat	taka	
-Pano_Lexical_List	A254	4	Liver	438	*takʷa	Poy	taka	
-Pano_Lexical_List	A255	4	Liver	438	*takʷa	Ama	taka	
-Pano_Lexical_List	A256	4	Liver	438	*takʷa	HanKax	taka	
-Pano_Lexical_List	A257	4	Liver	438	*takʷa	Maw	taka	
-Pano_Lexical_List	A258	4	Liver	438	*takʷa	Yaw	taka	
-Pano_Lexical_List	A259	4	Liver	438	*takʷa	Kor	takʷa	
-Pano_Lexical_List	A260	4	Liver	438	*takʷa	Mat	takua	
-Pano_Lexical_List	A261	4	Liver	438	*takʷa	MatMay	takʷa	
-Pano_Lexical_List	A262	5	Leaf	325	*pɨʔi	Shan	pɨj	
-Pano_Lexical_List	A263	5	Leaf	325	*pɨʔi	Kat	pɨi	
-Pano_Lexical_List	A264	5	Leaf	325	*pɨʔi	Poy	puy	
-Pano_Lexical_List	A265	5	Leaf	325	*pɨʔi	Ama	pɨʔi	
-Pano_Lexical_List	A266	5	Leaf	325	*pɨʔi	HanKax	pɨi	
-Pano_Lexical_List	A267	5	Leaf	325	*pɨʔi	Maw	pɨi	
-Pano_Lexical_List	A268	5	Leaf	325	*pɨʔi	Yaw	pɨi	
-Pano_Lexical_List	A269	5	Leaf	325	*pɨʔi	Mat	pɨi	
-Pano_Lexical_List	A270	5	Leaf	325	*pɨʔi	MatMay	pɨ	
-Pano_Lexical_List	A271	6	Bone	398	*ʂao	Shan	ʂaw	Shell (1975: 174, 398) and Oliveira (2014: 459, 398) reconstruct *ʂao. Kasharari presents the form ʂahu [ʂa'hwu] (Lanes 2005, in Oliveira 2014). For Matses/Mayoruna we consider as evidence the final consonant in mɨ-ʂ‘wrist bone’, taɨ-ʂ‘ankle bone’, and ʂomoʂ‘needle made of bone’ (Fleck et al. 2012).
-Pano_Lexical_List	A271	6	Bone	398	*ʂao	Kat	ʃau	
-Pano_Lexical_List	A271	6	Bone	398	*ʂao	Poy	haw	
-Pano_Lexical_List	A271	6	Bone	398	*ʂao	Ama	xao	
-Pano_Lexical_List	A271	6	Bone	398	*ʂao	HanKax	ʂau	
-Pano_Lexical_List	A271	6	Bone	398	*ʂao	Maw	ʂao	
-Pano_Lexical_List	A271	6	Bone	398	*ʂao	Yaw	ʃau	
-Pano_Lexical_List	A271	6	Bone	398	*ʂao	MatMay	mɨ-ʂ,taɨ-ʂ,ʂomoʂ	'wrist bone','ankle bone','needle made of bone'
-Pano_Lexical_List	A272	7	Tongue	47	*hana	Shan	ana	
-Pano_Lexical_List	A273	7	Tongue	47	*hana	Kat	ana	
-Pano_Lexical_List	A274	7	Tongue	47	*hana	Poy	ãda	
-Pano_Lexical_List	A275	7	Tongue	47	*hana	Ama	hana	
-Pano_Lexical_List	A276	7	Tongue	47	*hana	HanKax	hana	
-Pano_Lexical_List	A277	7	Tongue	47	*hana	Maw	ana	
-Pano_Lexical_List	A278	7	Tongue	47	*hana	Yaw	anna	
-Pano_Lexical_List	A279	7	Tongue	47	*hana	Kor	ana	
-Pano_Lexical_List	A280	7	Tongue	47	*hana	Mat	ana	
-Pano_Lexical_List	A281	8	Hand		*mɨ-	Ama	mɨkɨ̃	
-Pano_Lexical_List	A282	8	Hand		*mɨ-	HanKax	mɨkɨ̃	
-Pano_Lexical_List	A283	8	Hand		*mɨ-	Maw	mɨkɨ	
-Pano_Lexical_List	A284	8	Hand		*mɨ-	Mat	mɨkɨn	
-Pano_Lexical_List	A285	8	Hand		*mɨ-	MatMay	mɨdante	
-Pano_Lexical_List	A286	9	Night	494	*yamɨtV	Shan	yamɨ	
-Pano_Lexical_List	A287	9	Night	494	*yamɨtV	Kat	yamɨ	
-Pano_Lexical_List	A288	9	Night	494	*yamɨtV	Poy	iãvu	
-Pano_Lexical_List	A289	9	Night	494	*yamɨtV	Ama	yamɨː	
-Pano_Lexical_List	A290	9	Night	494	*yamɨtV	HanKax	yamɨ	
-Pano_Lexical_List	A291	9	Night	494	*yamɨtV	Maw	yamɨ	
-Pano_Lexical_List	A292	9	Night	494	*yamɨtV	Yaw	iamɨ	
-Pano_Lexical_List	A293	9	Night	494	*yamɨtV	Kor	imɨt	
-Pano_Lexical_List	A294	9	Night	494	*yamɨtV	Mat	imɨd	
-Pano_Lexical_List	A295	10	Skin	89	*βitsi	Shan	fitʃi	
-Pano_Lexical_List	A296	10	Skin	89	*βitsi	HanKax	bitʃi	
-Pano_Lexical_List	A297	10	Skin	89	*βitsi	Maw	ɸitʃi	
-Pano_Lexical_List	A298	10	Skin	89	*βitsi	Yaw	βɨtʃi	
-Pano_Lexical_List	A299	10	Skin	89	*βitsi	Mat	bitsi	
-Pano_Lexical_List	A300	10	Skin	89	*βitsi	MatMay	bitsi	
-Pano_Lexical_List	A301	11	Fire	125	*tsiʔi	Shan	tʃi	
-Pano_Lexical_List	A302	11	Fire	125	*tsiʔi	Kat	tʃii	
-Pano_Lexical_List	A303	11	Fire	125	*tsiʔi	Ama	tʃiʔi	
-Pano_Lexical_List	A304	11	Fire	125	*tsiʔi	HanKax	tʃi	
-Pano_Lexical_List	A305	11	Fire	125	*tsiʔi	Maw	tʃi	
-Pano_Lexical_List	A306	11	Fire	125	*tsiʔi	Yaw	tʃi	
-Pano_Lexical_List	A307	12	Knee	359	*rã-	Kat	raβɨʂo	
-Pano_Lexical_List	A308	12	Knee	359	*rã-	Ama	rawoxko	
+Pano_Lexical_List	A226	1	Tree		*hiwi	47	hegʷi	Shan	iwi	
+Pano_Lexical_List	A227	1	Tree		*hiwi	47	hegʷi	Kat	hiwi	
+Pano_Lexical_List	A228	1	Tree		*hiwi	47	hegʷi	Poy	iwi	
+Pano_Lexical_List	A229	1	Tree		*hiwi	47	hegʷi	Ama	hiː	
+Pano_Lexical_List	A230	1	Tree		*hiwi	47	hegʷi	HanKax	hi	
+Pano_Lexical_List	A231	1	Tree		*hiwi	47	hegʷi	Maw	iwi	
+Pano_Lexical_List	A232	1	Tree		*hiwi	47	hegʷi	Kor	iwi	
+Pano_Lexical_List	A233	1	Tree		*hiwi	47	hegʷi	MatMay	iwi	
+Pano_Lexical_List	A234	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Shan	ʂɨta	
+Pano_Lexical_List	A235	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Kat	ʂita	
+Pano_Lexical_List	A236	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Ama	xɨta	
+Pano_Lexical_List	A237	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	HanKax	ʂɨta	
+Pano_Lexical_List	A238	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Maw	ʂɨta	
+Pano_Lexical_List	A239	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Yaw	ʂɨta	
+Pano_Lexical_List	A240	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Kor	ʂɨta	
+Pano_Lexical_List	A241	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	Mat	ʂɨta	
+Pano_Lexical_List	A242	2	Tooth	414	*ʂɨ-	96	**ʂɨ-	MatMay	ʂɨta	
+Pano_Lexical_List	A243	3	Two	352	*ra-βɨta	24	**bɨta	Shan	rafu	
+Pano_Lexical_List	A244	3	Two	352	*ra-βɨta	24	**bɨta	Kat	raβi	
+Pano_Lexical_List	A245	3	Two	352	*ra-βɨta	24	**bɨta	Poy	raβu	
+Pano_Lexical_List	A246	3	Two	352	*ra-βɨta	24	**bɨta	Ama	raβɨ	
+Pano_Lexical_List	A247	3	Two	352	*ra-βɨta	24	**bɨta	Maw	raɸɨ	
+Pano_Lexical_List	A248	3	Two	352	*ra-βɨta	24	**bɨta	Yaw	raβɨ	
+Pano_Lexical_List	A249	3	Two	352	*ra-βɨta	24	**bɨta	Kor	ɬaβɨtpa	
+Pano_Lexical_List	A250	3	Two	352	*ra-βɨta	24	**bɨta	Mat	dabɨdpa	
+Pano_Lexical_List	A251	3	Two	352	*ra-βɨta	24	**bɨta	MatMay	daɨd	
+Pano_Lexical_List	A252	4	Liver	438	*takʷa	104	**takʷa	Shan	taka	
+Pano_Lexical_List	A253	4	Liver	438	*takʷa	104	**takʷa	Kat	taka	
+Pano_Lexical_List	A254	4	Liver	438	*takʷa	104	**takʷa	Poy	taka	
+Pano_Lexical_List	A255	4	Liver	438	*takʷa	104	**takʷa	Ama	taka	
+Pano_Lexical_List	A256	4	Liver	438	*takʷa	104	**takʷa	HanKax	taka	
+Pano_Lexical_List	A257	4	Liver	438	*takʷa	104	**takʷa	Maw	taka	
+Pano_Lexical_List	A258	4	Liver	438	*takʷa	104	**takʷa	Yaw	taka	
+Pano_Lexical_List	A259	4	Liver	438	*takʷa	104	**takʷa	Kor	takʷa	
+Pano_Lexical_List	A260	4	Liver	438	*takʷa	104	**takʷa	Mat	takua	
+Pano_Lexical_List	A261	4	Liver	438	*takʷa	104	**takʷa	MatMay	takʷa	
+Pano_Lexical_List	A262	5	Leaf	325	*pɨʔi		**pɨʔi	Shan	pɨj	
+Pano_Lexical_List	A263	5	Leaf	325	*pɨʔi		**pɨʔi	Kat	pɨi	
+Pano_Lexical_List	A264	5	Leaf	325	*pɨʔi		**pɨʔi	Poy	puy	
+Pano_Lexical_List	A265	5	Leaf	325	*pɨʔi		**pɨʔi	Ama	pɨʔi	
+Pano_Lexical_List	A266	5	Leaf	325	*pɨʔi		**pɨʔi	HanKax	pɨi	
+Pano_Lexical_List	A267	5	Leaf	325	*pɨʔi		**pɨʔi	Maw	pɨi	
+Pano_Lexical_List	A268	5	Leaf	325	*pɨʔi		**pɨʔi	Yaw	pɨi	
+Pano_Lexical_List	A269	5	Leaf	325	*pɨʔi		**pɨʔi	Mat	pɨi	
+Pano_Lexical_List	A270	5	Leaf	325	*pɨʔi		**pɨʔi	MatMay	pɨ	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	93	ʂau	Shan	ʂaw	Shell (1975: 174, 398) and Oliveira (2014: 459, 398) reconstruct *ʂao. Kasharari presents the form ʂahu [ʂa'hwu] (Lanes 2005, in Oliveira 2014). For Matses/Mayoruna we consider as evidence the final consonant in mɨ-ʂ‘wrist bone’, taɨ-ʂ‘ankle bone’, and ʂomoʂ‘needle made of bone’ (Fleck et al. 2012).
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	93	**ʂau	Kat	ʃau	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	93	**ʂau	Poy	haw	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	93	**ʂau	Ama	xao	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	93	**ʂau	HanKax	ʂau	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	93	**ʂau	Maw	ʂao	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	93	**ʂau	Yaw	ʃau	
+Pano_Lexical_List	A271	6	Bone	398	*ʂao	93	**ʂau	MatMay	mɨ-ʂ,taɨ-ʂ,ʂomoʂ	'wrist bone','ankle bone','needle made of bone'
+Pano_Lexical_List	A272	7	Tongue	47	*hana	46	**hana	Shan	ana	
+Pano_Lexical_List	A273	7	Tongue	47	*hana	46	**hana	Kat	ana	
+Pano_Lexical_List	A274	7	Tongue	47	*hana	46	**hana	Poy	ãda	
+Pano_Lexical_List	A275	7	Tongue	47	*hana	46	**hana	Ama	hana	
+Pano_Lexical_List	A276	7	Tongue	47	*hana	46	**hana	HanKax	hana	
+Pano_Lexical_List	A277	7	Tongue	47	*hana	46	**hana	Maw	ana	
+Pano_Lexical_List	A278	7	Tongue	47	*hana	46	**hana	Yaw	anna	
+Pano_Lexical_List	A279	7	Tongue	47	*hana	46	**hana	Kor	ana	
+Pano_Lexical_List	A280	7	Tongue	47	*hana	46	**hana	Mat	ana	
+Pano_Lexical_List	A281	8	Hand		*mɨ-	70	**mɨ-	Ama	mɨkɨ̃	
+Pano_Lexical_List	A282	8	Hand		*mɨ-	70	**mɨ-	HanKax	mɨkɨ̃	
+Pano_Lexical_List	A283	8	Hand		*mɨ-	70	**mɨ-	Maw	mɨkɨ	
+Pano_Lexical_List	A284	8	Hand		*mɨ-	70	**mɨ-	Mat	mɨkɨn	
+Pano_Lexical_List	A285	8	Hand		*mɨ-	70	**mɨ-	MatMay	mɨdante	
+Pano_Lexical_List	A286	9	Night	494	*yamɨtV	71	**mɨta	Shan	yamɨ	
+Pano_Lexical_List	A287	9	Night	494	*yamɨtV	71	**mɨta	Kat	yamɨ	
+Pano_Lexical_List	A288	9	Night	494	*yamɨtV	71	**mɨta	Poy	iãvu	
+Pano_Lexical_List	A289	9	Night	494	*yamɨtV	71	**mɨta	Ama	yamɨː	
+Pano_Lexical_List	A290	9	Night	494	*yamɨtV	71	**mɨta	HanKax	yamɨ	
+Pano_Lexical_List	A291	9	Night	494	*yamɨtV	71	**mɨta	Maw	yamɨ	
+Pano_Lexical_List	A292	9	Night	494	*yamɨtV	71	**mɨta	Yaw	iamɨ	
+Pano_Lexical_List	A293	9	Night	494	*yamɨtV	71	**mɨta	Kor	imɨt	
+Pano_Lexical_List	A294	9	Night	494	*yamɨtV	71	**mɨta	Mat	imɨd	
+Pano_Lexical_List	A295	10	Skin	89	*βitsi	22	**bitsi	Shan	fitʃi	
+Pano_Lexical_List	A296	10	Skin	89	*βitsi	22	**bitsi	HanKax	bitʃi	
+Pano_Lexical_List	A297	10	Skin	89	*βitsi	22	**bitsi	Maw	ɸitʃi	
+Pano_Lexical_List	A298	10	Skin	89	*βitsi	22	**bitsi	Yaw	βɨtʃi	
+Pano_Lexical_List	A299	10	Skin	89	*βitsi	22	**bitsi	Mat	bitsi	
+Pano_Lexical_List	A300	10	Skin	89	*βitsi	22	**bitsi	MatMay	bitsi	
+Pano_Lexical_List	A301	11	Fire	125	*tsiʔi		**tsiʔi	Shan	tʃi	
+Pano_Lexical_List	A302	11	Fire	125	*tsiʔi		**tsiʔi	Kat	tʃii	
+Pano_Lexical_List	A303	11	Fire	125	*tsiʔi		**tsiʔi	Ama	tʃiʔi	
+Pano_Lexical_List	A304	11	Fire	125	*tsiʔi		**tsiʔi	HanKax	tʃi	
+Pano_Lexical_List	A305	11	Fire	125	*tsiʔi		**tsiʔi	Maw	tʃi	
+Pano_Lexical_List	A306	11	Fire	125	*tsiʔi		**tsiʔi	Yaw	tʃi	
+Pano_Lexical_List	A307	12	Knee	359	*rã-	37	**da-n	Kat	raβɨʂo	
+Pano_Lexical_List	A308	12	Knee	359	*rã-	37	**da-n	Ama	rawoxko	
 Pano_Lexical_List	A309	13	Blood	141	*himi	Shan	imi	
 Pano_Lexical_List	A310	13	Blood	141	*himi	Kat	himi	
 Pano_Lexical_List	A311	13	Blood	141	*himi	Poy	ibi	
@@ -415,88 +427,88 @@ Pano_Lexical_List	A407		Elbow		*βaʂ(u)-	Ama	vapoxko
 Pano_Lexical_List	A408		Elbow		*βaʂ(u)-	HanKax	baʂtunku	
 Pano_Lexical_List	A409		Elbow		*βaʂ(u)-	Mat	mɨntʂinβuru	
 Pano_Lexical_List	A410		Elbow		*βaʂ(u)-	MatMay	mɨntsimpis	
-Takana_Lexical_List	B411	1	Tree	8	*akʷi	ProTa	akʷi	
-Takana_Lexical_List	B412	1	Tree	8	*akʷi	Tac	aki	
-Takana_Lexical_List	B413	1	Tree	8	*akʷi	ReyMar	-/ekená	
-Takana_Lexical_List	B414	1	Tree	8	*akʷi	Aro	acui	
-Takana_Lexical_List	B415	1	Tree	8	*akʷi	Mab	akwi	
-Takana_Lexical_List	B416	1	Tree	8	*akʷi	Cav	akwi	
-Takana_Lexical_List	B417	1	Tree	8	*akʷi	Ese	akwi	
-Takana_Lexical_List	B418	1	Tree	8	*akʷi	War	akwi	
-Takana_Lexical_List	B419	1	Tree	8	*akʷi	Ara	akui	
-Takana_Lexical_List	B420	2	Tooth	98	*tʂe-	ProTa	e-ce	
-Takana_Lexical_List	B421	2	Tooth	98	*tʂe-	ReyMar	e-ce/etre	
-Takana_Lexical_List	B422	2	Tooth	98	*tʂe-	Sap	echee	
-Takana_Lexical_List	B423	2	Tooth	98	*tʂe-	Mab	itsi	
-Takana_Lexical_List	B424	2	Tooth	98	*tʂe-	Cav	e-ce	
-Takana_Lexical_List	B425	2	Tooth	98	*tʂe-	Ese	e-se	
-Takana_Lexical_List	B426	2	Tooth	98	*tʂe-	War	e-sé	
-Takana_Lexical_List	B427	2	Tooth	98	*tʂe-	Tia	ese	
-Takana_Lexical_List	B428	2	Tooth	98	*tʂe-	Cham	e-sé	
-Takana_Lexical_List	B429	2	Tooth	98	*tʂe-	Ara	ese	
-Takana_Lexical_List	B430	3	Two	61	*beta	ProTa	beta	
-Takana_Lexical_List	B431	3	Two	61	*beta	Tac	beta	
-Takana_Lexical_List	B432	3	Two	61	*beta	ReyMar	mbeta/beta	
-Takana_Lexical_List	B433	3	Two	61	*beta	Sap	beta	
-Takana_Lexical_List	B434	3	Two	61	*beta	Aro	beta	
-Takana_Lexical_List	B435	3	Two	61	*beta	Cav	beta	
-Takana_Lexical_List	B436	3	Two	61	*beta	Ese	beka	
-Takana_Lexical_List	B437	3	Two	61	*beta	War	beabué	
-Takana_Lexical_List	B438	3	Two	61	*beta	Tia	bikapiai	
-Takana_Lexical_List	B439	3	Two	61	*beta	Cham	béka	
-Takana_Lexical_List	B440	4	Liver	403	*takʷa	ProTa	takʷa	
-Takana_Lexical_List	B441	4	Liver	403	*takʷa	Tac	e-takwa	
-Takana_Lexical_List	B442	4	Liver	403	*takʷa	ReyMar	e-takwa/-	
-Takana_Lexical_List	B443	4	Liver	403	*takʷa	Cav	e-takwa	
-Takana_Lexical_List	B444	4	Liver	403	*takʷa	Ese	e-kakwa	
-Takana_Lexical_List	B445	4	Liver	403	*takʷa	War	e-takwe	
-Takana_Lexical_List	B446	4	Liver	403	*takʷa	Ara	etákua	
-Takana_Lexical_List	B447	5	To fan	337	*pei	ProTa	pei	
-Takana_Lexical_List	B448	5	To fan	337	*pei	Cav	pei-	
-Takana_Lexical_List	B449	5	To fan	337	*pei	Ese	e-pexi	
-Takana_Lexical_List	B450	5	To fan	337	*pei	War	pio-	
-Takana_Lexical_List	B451	6	Bone	96	*tʂau	ProTa	tʂau	
-Takana_Lexical_List	B452	6	Bone	96	*tʂau	Tac	e-cau	
-Takana_Lexical_List	B453	6	Bone	96	*tʂau	ReyMar	e-cao/etrá	
-Takana_Lexical_List	B454	6	Bone	96	*tʂau	Cav	e-cao	
-Takana_Lexical_List	B455	6	Bone	96	*tʂau	Ese	e-sá	
-Takana_Lexical_List	B456	6	Bone	96	*tʂau	War	e-sá	
-Takana_Lexical_List	B457	7	Tongue	12	*ana	ProTa	ana	
-Takana_Lexical_List	B458	7	Tongue	12	*ana	Tac	y-ana	
-Takana_Lexical_List	B459	7	Tongue	12	*ana	ReyMar	y-ana/eana	
-Takana_Lexical_List	B460	7	Tongue	12	*ana	Sap	eana	
-Takana_Lexical_List	B461	7	Tongue	12	*ana	Cav	y-ana	
-Takana_Lexical_List	B462	7	Tongue	12	*ana	Ese	eyana	
-Takana_Lexical_List	B463	7	Tongue	12	*ana	War	y-ana	
-Takana_Lexical_List	B464	7	Tongue	12	*ana	Tia	yana	
-Takana_Lexical_List	B465	7	Tongue	12	*ana	Ara	eána	
-Takana_Lexical_List	B466	8	Hand	282	*me-	ProTa	me-	
-Takana_Lexical_List	B467	8	Hand	282	*me-	Tac	e-me	
-Takana_Lexical_List	B468	8	Hand	282	*me-	ReyMar	-/emechuja	
-Takana_Lexical_List	B469	8	Hand	282	*me-	Sap	eme	
-Takana_Lexical_List	B470	8	Hand	282	*me-	Aro	eme	
-Takana_Lexical_List	B471	8	Hand	282	*me-	Cav	e-me	
-Takana_Lexical_List	B472	8	Hand	282	*me-	Ese	e-me	
-Takana_Lexical_List	B473	8	Hand	282	*me-	War	e-mé	
-Takana_Lexical_List	B474	8	Hand	282	*me-	Ara	emã	
-Takana_Lexical_List	B475	9	Night,tomorrow	290	*meta	ProTa	meta	
-Takana_Lexical_List	B476	9	Night,tomorrow	290	*meta	Tac	mueta	
-Takana_Lexical_List	B477	9	Night,tomorrow	290	*meta	ReyMar	-/maita	
-Takana_Lexical_List	B478	9	Night,tomorrow	290	*meta	Sap	maetahe	
-Takana_Lexical_List	B479	9	Night,tomorrow	290	*meta	Cav	meta	
-Takana_Lexical_List	B480	9	Night,tomorrow	290	*meta	Ese	meka-waxe	
-Takana_Lexical_List	B481	9	Night,tomorrow	290	*meta	Ara	eméte	
-Takana_Lexical_List	B482	10	Skin	72	*biti	ProTa	biti	
-Takana_Lexical_List	B483	10	Skin	72	*biti	Tac	e-biti	
-Takana_Lexical_List	B484	10	Skin	72	*biti	ReyMar	e-mbiti/embiti	
-Takana_Lexical_List	B485	10	Skin	72	*biti	Cav	e-biti	
-Takana_Lexical_List	B486	11	Fire		*ti	ProTa	ti	
-Takana_Lexical_List	B487	11	Fire		*ti	Tac	e-ti-ře	
-Takana_Lexical_List	B488	11	Fire		*ti	ReyMar	-ti-/-	
-Takana_Lexical_List	B489	11	Fire		*ti	Aro	etesi	
-Takana_Lexical_List	B490	11	Fire		*ti	Cav	e-tiki	
-Takana_Lexical_List	B491	12	Knee	128	*da	ProTa	da	
-Takana_Lexical_List	B492	12	Knee	128	*da	Tac	e-ma-da-cua	
+Takana_Lexical_List	B411	1	Tree	8	*akʷi	47	hegʷi	ProTa	akʷi	
+Takana_Lexical_List	B412	1	Tree	8	*akʷi	47	hegʷi	Tac	aki	
+Takana_Lexical_List	B413	1	Tree	8	*akʷi	47	hegʷi	ReyMar	-/ekená	
+Takana_Lexical_List	B414	1	Tree	8	*akʷi	47	hegʷi	Aro	acui	
+Takana_Lexical_List	B415	1	Tree	8	*akʷi	47	hegʷi	Mab	akwi	
+Takana_Lexical_List	B416	1	Tree	8	*akʷi	47	hegʷi	Cav	akwi	
+Takana_Lexical_List	B417	1	Tree	8	*akʷi	47	hegʷi	Ese	akwi	
+Takana_Lexical_List	B418	1	Tree	8	*akʷi	47	hegʷi	War	akwi	
+Takana_Lexical_List	B419	1	Tree	8	*akʷi	47	hegʷi	Ara	akui	
+Takana_Lexical_List	B420	2	Tooth	98	*tʂe-	96	**ʂɨ-	ProTa	e-ce	
+Takana_Lexical_List	B421	2	Tooth	98	*tʂe-	96	**ʂɨ-	ReyMar	e-ce/etre	
+Takana_Lexical_List	B422	2	Tooth	98	*tʂe-	96	**ʂɨ-	Sap	echee	
+Takana_Lexical_List	B423	2	Tooth	98	*tʂe-	96	**ʂɨ-	Mab	itsi	
+Takana_Lexical_List	B424	2	Tooth	98	*tʂe-	96	**ʂɨ-	Cav	e-ce	
+Takana_Lexical_List	B425	2	Tooth	98	*tʂe-	96	**ʂɨ-	Ese	e-se	
+Takana_Lexical_List	B426	2	Tooth	98	*tʂe-	96	**ʂɨ-	War	e-sé	
+Takana_Lexical_List	B427	2	Tooth	98	*tʂe-	96	**ʂɨ-	Tia	ese	
+Takana_Lexical_List	B428	2	Tooth	98	*tʂe-	96	**ʂɨ-	Cham	e-sé	
+Takana_Lexical_List	B429	2	Tooth	98	*tʂe-	96	**ʂɨ-	Ara	ese	
+Takana_Lexical_List	B430	3	Two	61	*beta	24	**bɨta	ProTa	beta	
+Takana_Lexical_List	B431	3	Two	61	*beta	24	**bɨta	Tac	beta	
+Takana_Lexical_List	B432	3	Two	61	*beta	24	**bɨta	ReyMar	mbeta/beta	
+Takana_Lexical_List	B433	3	Two	61	*beta	24	**bɨta	Sap	beta	
+Takana_Lexical_List	B434	3	Two	61	*beta	24	**bɨta	Aro	beta	
+Takana_Lexical_List	B435	3	Two	61	*beta	24	**bɨta	Cav	beta	
+Takana_Lexical_List	B436	3	Two	61	*beta	24	**bɨta	Ese	beka	
+Takana_Lexical_List	B437	3	Two	61	*beta	24	**bɨta	War	beabué	
+Takana_Lexical_List	B438	3	Two	61	*beta	24	**bɨta	Tia	bikapiai	
+Takana_Lexical_List	B439	3	Two	61	*beta	24	**bɨta	Cham	béka	
+Takana_Lexical_List	B440	4	Liver	403	*takʷa	104	**takʷa	ProTa	takʷa	
+Takana_Lexical_List	B441	4	Liver	403	*takʷa	104	**takʷa	Tac	e-takwa	
+Takana_Lexical_List	B442	4	Liver	403	*takʷa	104	**takʷa	ReyMar	e-takwa/-	
+Takana_Lexical_List	B443	4	Liver	403	*takʷa	104	**takʷa	Cav	e-takwa	
+Takana_Lexical_List	B444	4	Liver	403	*takʷa	104	**takʷa	Ese	e-kakwa	
+Takana_Lexical_List	B445	4	Liver	403	*takʷa	104	**takʷa	War	e-takwe	
+Takana_Lexical_List	B446	4	Liver	403	*takʷa	104	**takʷa	Ara	etákua	
+Takana_Lexical_List	B447	5	To fan	337	*pei		**pɨʔi	ProTa	pei	
+Takana_Lexical_List	B448	5	To fan	337	*pei		**pɨʔi	Cav	pei-	
+Takana_Lexical_List	B449	5	To fan	337	*pei		**pɨʔi	Ese	e-pexi	
+Takana_Lexical_List	B450	5	To fan	337	*pei		**pɨʔi	War	pio-	
+Takana_Lexical_List	B451	6	Bone	96	*tʂau	93	**ʂau	ProTa	tʂau	
+Takana_Lexical_List	B452	6	Bone	96	*tʂau	93	**ʂau	Tac	e-cau	
+Takana_Lexical_List	B453	6	Bone	96	*tʂau	93	**ʂau	ReyMar	e-cao/etrá	
+Takana_Lexical_List	B454	6	Bone	96	*tʂau	93	**ʂau	Cav	e-cao	
+Takana_Lexical_List	B455	6	Bone	96	*tʂau	93	**ʂau	Ese	e-sá	
+Takana_Lexical_List	B456	6	Bone	96	*tʂau	93	**ʂau	War	e-sá	
+Takana_Lexical_List	B457	7	Tongue	12	*hana	46	**hana	ProTa	ana	
+Takana_Lexical_List	B458	7	Tongue	12	*hana	46	**hana	Tac	y-ana	
+Takana_Lexical_List	B459	7	Tongue	12	*hana	46	**hana	ReyMar	y-ana/eana	
+Takana_Lexical_List	B460	7	Tongue	12	*hana	46	**hana	Sap	eana	
+Takana_Lexical_List	B461	7	Tongue	12	*hana	46	**hana	Cav	y-ana	
+Takana_Lexical_List	B462	7	Tongue	12	*hana	46	**hana	Ese	eyana	
+Takana_Lexical_List	B463	7	Tongue	12	*hana	46	**hana	War	y-ana	
+Takana_Lexical_List	B464	7	Tongue	12	*hana	46	**hana	Tia	yana	
+Takana_Lexical_List	B465	7	Tongue	12	*hana	46	**hana	Ara	eána	
+Takana_Lexical_List	B466	8	Hand	282	*me-	70	**mɨ-	ProTa	me-	
+Takana_Lexical_List	B467	8	Hand	282	*me-	70	**mɨ-	Tac	e-me	
+Takana_Lexical_List	B468	8	Hand	282	*me-	70	**mɨ-	ReyMar	-/emechuja	
+Takana_Lexical_List	B469	8	Hand	282	*me-	70	**mɨ-	Sap	eme	
+Takana_Lexical_List	B470	8	Hand	282	*me-	70	**mɨ-	Aro	eme	
+Takana_Lexical_List	B471	8	Hand	282	*me-	70	**mɨ-	Cav	e-me	
+Takana_Lexical_List	B472	8	Hand	282	*me-	70	**mɨ-	Ese	e-me	
+Takana_Lexical_List	B473	8	Hand	282	*me-	70	**mɨ-	War	e-mé	
+Takana_Lexical_List	B474	8	Hand	282	*me-	70	**mɨ-	Ara	emã	
+Takana_Lexical_List	B475	9	Night,tomorrow	290	*meta	71	**mɨta	ProTa	meta	
+Takana_Lexical_List	B476	9	Night,tomorrow	290	*meta	71	**mɨta	Tac	mueta	
+Takana_Lexical_List	B477	9	Night,tomorrow	290	*meta	71	**mɨta	ReyMar	-/maita	
+Takana_Lexical_List	B478	9	Night,tomorrow	290	*meta	71	**mɨta	Sap	maetahe	
+Takana_Lexical_List	B479	9	Night,tomorrow	290	*meta	71	**mɨta	Cav	meta	
+Takana_Lexical_List	B480	9	Night,tomorrow	290	*meta	71	**mɨta	Ese	meka-waxe	
+Takana_Lexical_List	B481	9	Night,tomorrow	290	*meta	71	**mɨta	Ara	eméte	
+Takana_Lexical_List	B482	10	Skin	72	*biti	22	**bitsi	ProTa	biti	
+Takana_Lexical_List	B483	10	Skin	72	*biti	22	**bitsi	Tac	e-biti	
+Takana_Lexical_List	B484	10	Skin	72	*biti	22	**bitsi	ReyMar	e-mbiti/embiti	
+Takana_Lexical_List	B485	10	Skin	72	*biti	22	**bitsi	Cav	e-biti	
+Takana_Lexical_List	B486	11	Fire		*tsiʔi		**tsiʔi	ProTa	ti	
+Takana_Lexical_List	B487	11	Fire		*tsiʔi		**tsiʔi	Tac	e-ti-ře	
+Takana_Lexical_List	B488	11	Fire		*tsiʔi		**tsiʔi	ReyMar	-ti-/-	
+Takana_Lexical_List	B489	11	Fire		*tsiʔi		**tsiʔi	Aro	etesi	
+Takana_Lexical_List	B490	11	Fire		*tsiʔi		**tsiʔi	Cav	e-tiki	
+Takana_Lexical_List	B491	12	Knee	128	*da	37	**da-n	ProTa	da	
+Takana_Lexical_List	B492	12	Knee	128	*da	37	**da-n	Tac	e-ma-da-cua	
 Takana_Lexical_List	B493	13	Blood	11	*ami	ProTa	ami	
 Takana_Lexical_List	B494	13	Blood	11	*ami	Tac	ami	
 Takana_Lexical_List	B495	13	Blood	11	*ami	ReyMar	ami/ami	
