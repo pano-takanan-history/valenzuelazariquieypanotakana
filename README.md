@@ -17,7 +17,7 @@ Available online at https://doi.org/10.20396/liames.v23i00.8670150
 ## Statistics
 
 
-![Glottolog: 86%](https://img.shields.io/badge/Glottolog-86%25-yellowgreen.svg "Glottolog: 86%")
+![Glottolog: 89%](https://img.shields.io/badge/Glottolog-89%25-yellowgreen.svg "Glottolog: 89%")
 ![Concepticon: 70%](https://img.shields.io/badge/Concepticon-70%25-yellow.svg "Concepticon: 70%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")

@@ -3,11 +3,11 @@ h	h	Proto-Panoan,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Katukina,Poyanawa,Amahu
 i	i	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Araona,Mabenaro,Cavineña,EseEjja,Warayo,Arasa,Reyesano/Maropa,Sapibokona,Tiatinawa,Chama
 w	w	Proto-Panoan,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matsés/Mayoruna,Caviveña,EseEjja,Tiatinawa
 ʂ	ʂ	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna
-ɨ́	ɨ́/ɨ
+ɨ́	!ɨ́/ɨ
 ɨ	ɨ	
 r	r	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Yaminawa,Chaninawa,Sharanawa,Katukina,Poyanawa,Amahuaca,Marinawa,Yawanawa,Proto-Tacanan,Reyesano/Maropa,Sapibokona,Cavineña
 a	a	
-á	á/a
+á	!á/a
 β	β	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Chakobo,Kaxarari,Katukina,Poyanawa,Amahuaca,Yawanawa,Korubo,Matis
 t	t	Proto-Panoan,Kakataibo,ShipiboKonibo,Kapanawa,Marubo,Chakobo,Kaxarari,Yaminawa,Chaninawa,Sharanawa,Shanenawa,Katukina,Poyanawa,Amahuaca,Hantxakuin/Kaxinawa,Marinawa,Yawanawa,Korubo,Matis,Matsés/Mayoruna,Proto-Tacanan,Tacanan,Sapibokona,Araona,Cavineña,Arasa
 kʷ	kʷ	Proto-Panoan,Kakataibo,Korubo,Matsés/Mayoruna,Proto-Tacanan
@@ -39,7 +39,7 @@ õ	õ	ShipiboKonibo,Yaminawa
 x	x	Kakataibo,Kaxarari,Amahuaca,EseEjja
 ṣ̌	ʃ	Yaminawa
 f	f	Yaminawa,Shanenawa,Marinawa
-é	é/e
+é	!é/e
 e	e	
 ɬ	ɬ	Korubo
 ũ	ũ	Poyanawa
@@ -54,12 +54,10 @@ kwi	kʷ i	Matsés/Mayoruna
 ṭṣ	ts	Proto-Tacanan
 c	tʂ	Tacanan
 ř	ɽ	Tacanan
-c	ts	Reyesano/Maropa,Cavineña,Tiatinawa
 tr	ɽ	Reyesano/Maropa
 ch	tʃ	Reyesano/Maropa,Sapibokona
 j	j	Reyesano/Maropa,EseEjja,Proto-Tacanan
 dz	dz	Reyesano/Maropa
-v	β	Reyesano/Maropa
 th	tʰ	Mabenaro
 š	ʃ	Cavineña,EseEjja,Warayo
 sh	ʃ	EseEjja
@@ -79,5 +77,5 @@ _$	NULL
 _	+
 ʂ̃a	ʂ ã	Hantxakuin/Kaxinawa
 ṣ	s	Pano-Tacanan
-N	N/n	Pano-Tacanan
+N	!N/n	Pano-Tacanan
 gʷ	gʷ	Pano-Tacanan

@@ -172,7 +172,7 @@ Ksh-18_i-1,,Ksh,18_i,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2023,29,,^ ʔ ɨ $,default,,,**�
 SK-18_i-1,,SK,18_i,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2023,29,,^ ʔ ɨ $,default,,,**ʔɨ
 Kap-18_i-1,,Kap,18_i,ʔɨ,ʔɨ,ʔ ɨ,,Valenzuela2023,29,,^ ʔ ɨ $,default,,,**ʔɨ
 Chak-18_i-1,,Chak,18_i,ɨ,ɨ,ɨ,,Valenzuela2023,29,,^ ɨ $,default,,,**ʔɨ
-ProPaTa-19_flesh-1,,ProPaTa,19_flesh,Nami,Nami,N/n a m i,,Valenzuela2023,24,,^ N a m i $,default,,,**Nami
+ProPaTa-19_flesh-1,,ProPaTa,19_flesh,Nami,Nami,!N/n a m i,,Valenzuela2023,24,,^ N a m i $,default,,,**Nami
 ProPa-19_flesh-1,,ProPa,19_flesh,nami,nami,n a m i,Additional cognates refering to body parts,Valenzuela2023,24,,^ n a m i $,default,,,**Nami
 Ksh-19_flesh-1,,Ksh,19_flesh,nami,nami,n a m i,,Valenzuela2023,24,,^ n a m i $,default,,,**Nami
 SK-19_flesh-1,,SK,19_flesh,nami,nami,n a m i,,Valenzuela2023,24,,^ n a m i $,default,,,**Nami
@@ -183,7 +183,7 @@ Kax-19_flesh-1,,Kax,19_flesh,lami,lami,l a m i,,Valenzuela2023,24,,^ l a m i $,d
 Yam-19_flesh-1,,Yam,19_flesh,"nami,nãmi",nami,n a m i,,Valenzuela2023,24,,^ n a m i $,default,,,**Nami
 Chan-19_flesh-1,,Chan,19_flesh,"nabi,dami",nabi,n a b i,,Valenzuela2023,24,,^ n a b i $,default,,,**Nami
 Shar-19_flesh-1,,Shar,19_flesh,"nami,namin",nami,n a m i,,Valenzuela2023,24,,^ n a m i $,default,,,**Nami
-ProPaTa-20_fat-1,,ProPaTa,20_fat,ʂɨNi,ʂɨNi,ʂ ɨ N/n i,,Valenzuela2023,21,,^ ʂ ɨ N i $,default,,,**ʂɨNi
+ProPaTa-20_fat-1,,ProPaTa,20_fat,ʂɨNi,ʂɨNi,ʂ ɨ !N/n i,,Valenzuela2023,21,,^ ʂ ɨ N i $,default,,,**ʂɨNi
 ProPa-20_fat-1,,ProPa,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2023,21,,^ ʂ ɨ n i $,default,,,**ʂɨNi
 Ksh-20_fat-1,,Ksh,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2023,21,,^ ʂ ɨ n i $,default,,,**ʂɨNi
 SK-20_fat-1,,SK,20_fat,ʂɨni,ʂɨni,ʂ ɨ n i,,Valenzuela2023,21,,^ ʂ ɨ n i $,default,,,**ʂɨNi
@@ -443,7 +443,7 @@ Mat-26_elbow-1,,Mat,26_elbow,mɨntʂinβuru,mɨntʂinβuru,m ɨ n tʂ i n β u r
 MatMay-26_elbow-1,,MatMay,26_elbow,mɨntsimpis,mɨntsimpis,m ɨ n ts i m p i s,,Valenzuela2023,20,,^ m ɨ n ts i m p i s $,default,,,**baṣu
 ProTa-1_tree-1,,ProTa,1_tree,akʷi,akʷi,a kʷ i,,Valenzuela2023,47,,^ a kʷ i $,default,,,hegʷi
 Tac-1_tree-1,,Tac,1_tree,aki,aki,a k i,,Valenzuela2023,47,,^ a k i $,default,,,hegʷi
-ReyMar-1_tree-1,,ReyMar,1_tree,-/ekená,ekená,e k e n á/a,,Valenzuela2023,47,,^ e k e n á $,default,,,hegʷi
+ReyMar-1_tree-1,,ReyMar,1_tree,-/ekená,ekená,e k e n !á/a,,Valenzuela2023,47,,^ e k e n á $,default,,,hegʷi
 Aro-1_tree-1,,Aro,1_tree,acui,acui,a kʷ i,,Valenzuela2023,47,,^ a cui $,default,,,hegʷi
 Mab-1_tree-1,,Mab,1_tree,akwi,akwi,a kʷ i,,Valenzuela2023,47,,^ a kwi $,default,,,hegʷi
 Cav-1_tree-1,,Cav,1_tree,akwi,akwi,a kʷ i,,Valenzuela2023,47,,^ a kwi $,default,,,hegʷi
@@ -467,16 +467,16 @@ Sap-3_two-1,,Sap,3_two,beta,beta,b e t a,,Valenzuela2023,48,,^ b e t a $,default
 Aro-3_two-1,,Aro,3_two,beta,beta,b e t a,,Valenzuela2023,48,,^ b e t a $,default,,,**bɨta
 Cav-3_two-1,,Cav,3_two,beta,beta,b e t a,,Valenzuela2023,48,,^ b e t a $,default,,,**bɨta
 Ese-3_two-1,,Ese,3_two,beka,beka,b e k a,,Valenzuela2023,48,,^ b e k a $,default,,,**bɨta
-War-3_two-1,,War,3_two,beabué,beabué,b e a b u é/e,,Valenzuela2023,48,,^ b e a b u é $,default,,,**bɨta
+War-3_two-1,,War,3_two,beabué,beabué,b e a b u !é/e,,Valenzuela2023,48,,^ b e a b u é $,default,,,**bɨta
 Tia-3_two-1,,Tia,3_two,bikapiai,bikapiai,b i k a p i a i,,Valenzuela2023,48,,^ b i k a p i a i $,default,,,**bɨta
-Cham-3_two-1,,Cham,3_two,béka,béka,b é/e k a,,Valenzuela2023,48,,^ b é k a $,default,,,**bɨta
+Cham-3_two-1,,Cham,3_two,béka,béka,b !é/e k a,,Valenzuela2023,48,,^ b é k a $,default,,,**bɨta
 ProTa-4_liver-1,,ProTa,4_liver,takʷa,takʷa,t a kʷ a,,Valenzuela2023,34,,^ t a kʷ a $,default,,,**takʷa
 Tac-4_liver-1,,Tac,4_liver,e-takwa,e,e,,Valenzuela2023,34,,^ e $,default,,,**takʷa
 ReyMar-4_liver-1,,ReyMar,4_liver,e-takwa/-,e,e,,Valenzuela2023,34,,^ e $,default,,,**takʷa
 Cav-4_liver-1,,Cav,4_liver,e-takwa,e,e,,Valenzuela2023,34,,^ e $,default,,,**takʷa
 Ese-4_liver-1,,Ese,4_liver,e-kakwa,e,e,,Valenzuela2023,34,,^ e $,default,,,**takʷa
 War-4_liver-1,,War,4_liver,e-takwe,e,e,,Valenzuela2023,34,,^ e $,default,,,**takʷa
-Ara-4_liver-1,,Ara,4_liver,etákua,etákua,e t á/a kʷ a,,Valenzuela2023,34,,^ e t á kua $,default,,,**takʷa
+Ara-4_liver-1,,Ara,4_liver,etákua,etákua,e t !á/a kʷ a,,Valenzuela2023,34,,^ e t á kua $,default,,,**takʷa
 ProTa-27_tofan-1,,ProTa,27_tofan,pei,pei,p e i,,Valenzuela2023,44,,^ p e i $,default,,,**pɨʔi
 Cav-27_tofan-1,,Cav,27_tofan,pei-,pei,p e i,,Valenzuela2023,44,,^ p e i $,default,,,**pɨʔi
 Ese-27_tofan-1,,Ese,27_tofan,e-pexi,e,e,,Valenzuela2023,44,,^ e $,default,,,**pɨʔi
@@ -495,7 +495,7 @@ Cav-7_tongue-1,,Cav,7_tongue,y-ana,y,j,,Valenzuela2023,45,,^ y $,default,,,**han
 Ese-7_tongue-1,,Ese,7_tongue,eyana,eyana,e j a n a,,Valenzuela2023,45,,^ e y a n a $,default,,,**hana
 War-7_tongue-1,,War,7_tongue,y-ana,y,j,,Valenzuela2023,45,,^ y $,default,,,**hana
 Tia-7_tongue-1,,Tia,7_tongue,yana,yana,j a n a,,Valenzuela2023,45,,^ y a n a $,default,,,**hana
-Ara-7_tongue-1,,Ara,7_tongue,eána,eána,e á/a n a,,Valenzuela2023,45,,^ e á n a $,default,,,**hana
+Ara-7_tongue-1,,Ara,7_tongue,eána,eána,e !á/a n a,,Valenzuela2023,45,,^ e á n a $,default,,,**hana
 ProTa-8_hand-1,,ProTa,8_hand,me-,me,m e,,Valenzuela2023,28,,^ m e $,default,,,**mɨ-
 Tac-8_hand-1,,Tac,8_hand,e-me,e,e,,Valenzuela2023,28,,^ e $,default,,,**mɨ-
 ReyMar-8_hand-1,,ReyMar,8_hand,-/emechuja,emechuja,e m e tʃ u j a,,Valenzuela2023,28,,^ e m e ch u j a $,default,,,**mɨ-
@@ -511,7 +511,7 @@ ReyMar-28_nighttomorrow-1,,ReyMar,28_nighttomorrow,-/maita,maita,m a i t a,,Vale
 Sap-28_nighttomorrow-1,,Sap,28_nighttomorrow,maetahe,maetahe,m a e t a h e,,Valenzuela2023,39,,^ m a e t a h e $,default,,,**mɨta
 Cav-28_nighttomorrow-1,,Cav,28_nighttomorrow,meta,meta,m e t a,,Valenzuela2023,39,,^ m e t a $,default,,,**mɨta
 Ese-28_nighttomorrow-1,,Ese,28_nighttomorrow,meka-waxe,meka,m e k a,,Valenzuela2023,39,,^ m e k a $,default,,,**mɨta
-Ara-28_nighttomorrow-1,,Ara,28_nighttomorrow,eméte,eméte,e m é/e t e,,Valenzuela2023,39,,^ e m é t e $,default,,,**mɨta
+Ara-28_nighttomorrow-1,,Ara,28_nighttomorrow,eméte,eméte,e m !é/e t e,,Valenzuela2023,39,,^ e m é t e $,default,,,**mɨta
 ProTa-10_skin-1,,ProTa,10_skin,biti,biti,b i t i,,Valenzuela2023,41,,^ b i t i $,default,,,**bitsi
 Tac-10_skin-1,,Tac,10_skin,e-biti,e,e,,Valenzuela2023,41,,^ e $,default,,,**bitsi
 ReyMar-10_skin-1,,ReyMar,10_skin,e-mbiti/embiti,e,e,,Valenzuela2023,41,,^ e $,default,,,**bitsi
@@ -535,7 +535,7 @@ Sap-29_moon-1,,Sap,29_moon,bari,bari,b a r i,,Valenzuela2023,35,,^ b a r i $,def
 Aro-29_moon-1,,Aro,29_moon,badi,badi,b a d i,,Valenzuela2023,35,,^ b a d i $,default,,,**badi
 Cav-29_moon-1,,Cav,29_moon,badi,badi,b a d i,,Valenzuela2023,35,,^ b a d i $,default,,,**badi
 Ese-29_moon-1,,Ese,29_moon,baʔi,baʔi,b a ʔ i,,Valenzuela2023,35,,^ b a ʔ i $,default,,,**badi
-Cham-29_moon-1,,Cham,29_moon,mái,mái,m á/a i,,Valenzuela2023,35,,^ m á i $,default,,,**badi
+Cham-29_moon-1,,Cham,29_moon,mái,mái,m !á/a i,,Valenzuela2023,35,,^ m á i $,default,,,**badi
 ProTa-16_you-1,,ProTa,16_you,mi,mi,m i,,Valenzuela2023,49,,^ m i $,default,,,**mi
 Tac-16_you-1,,Tac,16_you,mi-ke,mi,m i,,Valenzuela2023,49,,^ m i $,default,,,**mi
 ReyMar-16_you-1,,ReyMar,16_you,mibe/mive,mibe,m i b e,,Valenzuela2023,49,,^ m i b e $,default,,,**mi
@@ -557,12 +557,12 @@ Aro-19_flesh-1,,Aro,19_flesh,yami,yami,j a m i,,Valenzuela2023,24,,^ y a m i $,d
 Cav-19_flesh-1,,Cav,19_flesh,e-rami,e,e,,Valenzuela2023,24,,^ e $,default,,,**Nami
 Ese-19_flesh-1,,Ese,19_flesh,eyami,eyami,e j a m i,,Valenzuela2023,24,,^ e y a m i $,default,,,**Nami
 War-19_flesh-1,,War,19_flesh,eyami,eyami,e j a m i,,Valenzuela2023,24,,^ e y a m i $,default,,,**Nami
-Ara-19_flesh-1,,Ara,19_flesh,éami,éami,é/e a m i,,Valenzuela2023,24,,^ é a m i $,default,,,**Nami
+Ara-19_flesh-1,,Ara,19_flesh,éami,éami,!é/e a m i,,Valenzuela2023,24,,^ é a m i $,default,,,**Nami
 ProTa-20_fat-1,,ProTa,20_fat,ṭṣeri,ṭṣeri,ts e r i,,Valenzuela2023,21,,^ ṭṣ e r i $,default,,,**ʂɨNi
 Tac-20_fat-1,,Tac,20_fat,e-cei,e,e,,Valenzuela2023,21,,^ e $,default,,,**ʂɨNi
 Cav-20_fat-1,,Cav,20_fat,e-ceri,e,e,,Valenzuela2023,21,,^ e $,default,,,**ʂɨNi
 Ese-20_fat-1,,Ese,20_fat,e-sei,e,e,,Valenzuela2023,21,,^ e $,default,,,**ʂɨNi
-Ara-20_fat-1,,Ara,20_fat,ésey,ésey,é/e s e j,,Valenzuela2023,21,,^ é s e y $,default,,,**ʂɨNi
+Ara-20_fat-1,,Ara,20_fat,ésey,ésey,!é/e s e j,,Valenzuela2023,21,,^ é s e y $,default,,,**ʂɨNi
 ProTa-21_fingernail-1,,ProTa,21_fingernail,metiji,metiji,m e t i j i,,Valenzuela2023,22,,^ m e t i j i $,default,,,**mɨ-tsizi
 Tac-21_fingernail-1,,Tac,21_fingernail,e-me-haca,e,e,,Valenzuela2023,22,,^ e $,default,,,**mɨ-tsizi
 ReyMar-21_fingernail-1,,ReyMar,21_fingernail,"-/emechuja,emetichi",emechuja,e m e tʃ u j a,"'fingers','nails'",Valenzuela2023,22,,^ e m e ch u j a $,default,,,**mɨ-tsizi
@@ -616,7 +616,7 @@ Ksh-32_demonstrativedistal-1,,Ksh,32_demonstrativedistal,"un (A),ux (S),u (O)",u
 SK-32_demonstrativedistal-1,,SK,32_demonstrativedistal,oa,oa,o a,,Valenzuela2023,13,,^ o a $,default,,,**ʔu-
 Chak-32_demonstrativedistal-1,,Chak,32_demonstrativedistal,oa,oa,o a,,Valenzuela2023,13,,^ o a $,default,,,**ʔu-
 Yam-32_demonstrativedistal-1,,Yam,32_demonstrativedistal,oa,oa,o a,,Valenzuela2023,13,,^ o a $,default,,,**ʔu-
-ProPaTa-33_demonstrativeproximate-1,,ProPaTa,33_demonstrativeproximate,Nɨ-,Nɨ,N/n ɨ,,Valenzuela2023,14,,^ N ɨ $,default,,,**Nɨ-
+ProPaTa-33_demonstrativeproximate-1,,ProPaTa,33_demonstrativeproximate,Nɨ-,Nɨ,!N/n ɨ,,Valenzuela2023,14,,^ N ɨ $,default,,,**Nɨ-
 ProPa-33_demonstrativeproximate-1,,ProPa,33_demonstrativeproximate,nɨ-,nɨ,n ɨ,,Valenzuela2023,14,,^ n ɨ $,default,,,**Nɨ-
 Ksh-33_demonstrativeproximate-1,,Ksh,33_demonstrativeproximate,"ɨnɨn (A),ɨnɨx (S),ɨnɨ (O)",ɨnɨn_,ɨ n ɨ n,,Valenzuela2023,14,,^ ɨ n ɨ n _$,default,,,**Nɨ-
 SK-33_demonstrativeproximate-1,,SK,33_demonstrativeproximate,nɨ-~nato,nɨ,n ɨ,,Valenzuela2023,14,,^ n ɨ $,default,,,**Nɨ-
@@ -677,7 +677,7 @@ Yam-40_causative-1,,Yam,40_causative,-ma,ma,m a,,Valenzuela2023,7,,^ m a $,defau
 Shar-40_causative-1,,Shar,40_causative,-ma-,ma,m a,,Valenzuela2023,7,,^ m a $,default,,,**-m[a/e]
 ProPaTa-41_augmentative-1,,ProPaTa,41_augmentative,-pa,pa,p a,,Valenzuela2023,3,,^ p a $,default,,,**-pa
 ProPa-41_augmentative-1,,ProPa,41_augmentative,pa,pa,p a,,Valenzuela2023,3,,^ p a $,default,,,**-pa
-SK-41_augmentative-1,,SK,41_augmentative,-n ewá,n_ewá,n + e w á/a,,Valenzuela2023,3,,^ n _ e w á $,default,,,**-pa
+SK-41_augmentative-1,,SK,41_augmentative,-n ewá,n_ewá,n + e w !á/a,,Valenzuela2023,3,,^ n _ e w á $,default,,,**-pa
 Kap-41_augmentative-1,,Kap,41_augmentative,-ahhuan,ahhuan,a h h u a n,,Valenzuela2023,3,,^ a h h u a n $,default,,,**-pa
 Chak-41_augmentative-1,,Chak,41_augmentative,-wa,wa,w a,,Valenzuela2023,3,,^ w a $,default,,,**-pa
 Yam-41_augmentative-1,,Yam,41_augmentative,-nfã,nfã,n f ã,,Valenzuela2023,3,,^ n f ã $,default,,,**-pa
@@ -700,7 +700,7 @@ ProPaTa-44_detransitivizerreflexive-1,,ProPaTa,44_detransitivizerreflexive,-t[i]
 ProPa-44_detransitivizerreflexive-1,,ProPa,44_detransitivizerreflexive,-t,t,t,,Valenzuela2023,16,,^ t $,default,,,**-t[i]
 Ksh-44_detransitivizerreflexive-1,,Ksh,44_detransitivizerreflexive,-t,t,t,,Valenzuela2023,16,,^ t $,default,,,**-t[i]
 SK-44_detransitivizerreflexive-1,,SK,44_detransitivizerreflexive,-t,t,t,,Valenzuela2023,16,,^ t $,default,,,**-t[i]
-ProPaTa-45_ergative-1,,ProPaTa,45_ergative,-N[a],Na,N/n a,,Valenzuela2023,19,,^ N a $,default,,,**-N[a]
+ProPaTa-45_ergative-1,,ProPaTa,45_ergative,-N[a],Na,!N/n a,,Valenzuela2023,19,,^ N a $,default,,,**-N[a]
 ProPa-45_ergative-1,,ProPa,45_ergative,-n,n,n,,Valenzuela2023,19,,^ n $,default,,,**-N[a]
 Ksh-45_ergative-1,,Ksh,45_ergative,=(a)n,=n,n,,Valenzuela2023,19,,^= n $,default,,,**-N[a]
 SK-45_ergative-1,,SK,45_ergative,=n,=n,n,,Valenzuela2023,19,,^= n $,default,,,**-N[a]
