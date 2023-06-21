@@ -1,0 +1,34 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup
+Proto-Pano,proto-Pano,,,,,,,,Panoan
+Proto-Takana,proto-Takana,,,,,,,,Tacanan
+Kakataibo,Kakataibo,cash1251,Cashibo-Cacataibo,cbr,South America,-8.70232,-75.4206,Pano-Tacanan,Panoan
+ShipiboKonibo,Shipibo-Konibo,ship1254,Shipibo-Conibo,shp,South America,-7.17105,-74.8219,Pano-Tacanan,Panoan
+Kapanawa,Kapanawa,capa1241,Capanahua,kaq,South America,-6.63254,-74.3813,Pano-Tacanan,Panoan
+Marubo,Marubo,maru1252,Marúbo,mzr,South America,-6.60703,-72.4027,Pano-Tacanan,Panoan
+Chacobo,Chacobo,chac1251,Chácobo,cao,South America,-12.133,-66.7164,Pano-Tacanan,Panoan
+Kaxarari,Kaxarari,kaxa1239,Kaxararí,ktx,South America,-9.47288,-66.3329,Pano-Tacanan,Panoan
+Yaminawa,Yaminawa,yami1256,Yaminahua,yaa,South America,-9.8846,-71.5964,Pano-Tacanan,Panoan
+Chaninawa,Chaninawa,shan1283,Shanenawa,swo,South America,-8.00919,-73.3264,Pano-Tacanan,Panoan
+Sharanawa,Sharanawa,shar1245,Sharanahua,mcd,South America,-9.8626,-71.1232,Pano-Tacanan,Panoan
+Shanenawa,Shanenawa,shan1283,Shanenawa,swo,South America,-8.00919,-73.3264,Pano-Tacanan,Panoan
+Katukina,Katukina,pano1254,Panoan Katukína,knt,South America,-7.97456,-71.56151,Pano-Tacanan,Panoan
+Poyanawa,Poyanawa,poya1241,Poyanáwa,pyn,South America,-7.46909,-73.0758,Pano-Tacanan,Panoan
+Amawaka,Amahuaca,amah1246,Amahuaca,amc,South America,-10.2012,-72.3208,Pano-Tacanan,Panoan
+Kaxinawa,Hantxakuin/Kaxinawa,cash1254,Cashinahua,cbs,South America,-9.72027,-71.1733,Pano-Tacanan,Panoan
+Marinawa,Marinawa,mari1443,Marinahua,,South America,,,Pano-Tacanan,Panoan
+Yawanawa,Yawanawa,yawa1260,Yawanawa,ywn,South America,-8.87563,-71.8199,Pano-Tacanan,Panoan
+Korubo,Korubo,koru1247,Korubo,xor,South America,-5.3655,-70.5094,Pano-Tacanan,Panoan
+Matis,Matis,mati1255,Matís,mpq,South America,-4.3553,-70.2079,Pano-Tacanan,Panoan
+Matses,Matsés/Mayoruna,mats1244,Matsés,mcf,South America,-5.73914,-72.6281,Pano-Tacanan,Panoan
+Reyesano,Reyesano/Maropa,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Panoan
+Araona,Araona,arao1248,Araona,aro,South America,-12.4242,-67.7293,Pano-Tacanan,Tacanan
+Tacanan,Tacana,taca1256,Tacana,tna,South America,-13.39249,-68.04056,Pano-Tacanan,Tacanan
+Mabenaro,Mabenaro,mabe1235,Mabenaro,,South America,-11.543809,-68.277741,Pano-Tacanan,Tacanan
+Cavinena,Cavineña,cavi1250,Cavineña,cav,South America,-13.3544,-66.6277,Pano-Tacanan,Tacanan
+EseEjja,Ese' Ejja,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan,Tacanan
+Warayo,Warayo,guar1292,Guarayu,gyr,South America,-15.8247,-61.6934,Tupian,Tacanan
+Tiatinawa,Tiatinawa,,,,,,,,Tacanan
+Chama,Chama,cham1314,Chama subgroup,,,,,Pano-Tacanan,Tacanan
+Arasa,Arasa,araz1236,Arazaire,,South America,-13.25,-70.8,Pano-Tacanan,Tacanan
+Sapibokona,Sapibokona,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Tacanan
+Proto-Pano-Takana,proto-Pano-Takana,pano1259,Pano-Tacanan,,,,,Pano-Tacanan,

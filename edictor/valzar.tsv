@@ -1,0 +1,857 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SUBGROUP	CONCEPTINSOURCE	SHELL
+598	Proto-Pano-Takana	1st SG 'I'	ʔɨ	ʔɨ	ʔ ɨ		1		1st SG 'I'	11
+599	Proto-Pano	1st SG 'I'	ʔɨ	ʔɨ	ʔ ɨ		1	Panoan	1st SG 'I'	11
+600	Kakataibo	1st SG 'I'	ʔɨ	ʔɨ	ʔ ɨ		1	Panoan	1st SG 'I'	11
+601	ShipiboKonibo	1st SG 'I'	ʔɨ	ʔɨ	ʔ ɨ		1	Panoan	1st SG 'I'	11
+602	Kapanawa	1st SG 'I'	ʔɨ	ʔɨ	ʔ ɨ		1	Panoan	1st SG 'I'	11
+603	Chacobo	1st SG 'I'	ɨ	ɨ	ɨ		1	Panoan	1st SG 'I'	11
+604	Yaminawa	1st SG 'I'	ɨ̃	ɨ̃	ɨ̃		1	Panoan	1st SG 'I'	11
+719	Amawaka	1st SG 'I'	ɨ	ɨ	ɨ		1	Panoan	1st SG 'I'	11
+720	Kaxinawa	1st SG 'I'	ɨ	ɨ	ɨ		1	Panoan	1st SG 'I'	11
+721	Marinawa	1st SG 'I'	ɨ	ɨ	ɨ		1	Panoan	1st SG 'I'	11
+774	Proto-Takana	1st SG 'I'	e	e	e		1	Tacanan	1st SG 'I'	11
+775	Tacanan	1st SG 'I'	e-ma	e-ma	e + m a		1	Tacanan	1st SG 'I'	11
+776	Reyesano	1st SG 'I'	e-me/éme	e-me	e + m e		1	Panoan	1st SG 'I'	11
+777	Araona	1st SG 'I'	ema,yama	ema	e m a		1	Tacanan	1st SG 'I'	11
+778	Cavinena	1st SG 'I'	e-ra	e-ra	e + r a		1	Tacanan	1st SG 'I'	11
+779	EseEjja	1st SG 'I'	ea,eyaya	ea	e a		1	Tacanan	1st SG 'I'	11
+605	Proto-Pano-Takana	2nd SG 'you'	mi	mi	m i		2		2nd SG 'you'	72
+606	Proto-Pano	2nd SG 'you'	mi	mi	m i		2	Panoan	2nd SG 'you'	72
+607	Kakataibo	2nd SG 'you'	mii	mii	m i i		2	Panoan	2nd SG 'you'	72
+608	ShipiboKonibo	2nd SG 'you'	mia	mia	m i a		2	Panoan	2nd SG 'you'	72
+609	Kapanawa	2nd SG 'you'	mia	mia	m i a		2	Panoan	2nd SG 'you'	72
+610	Chacobo	2nd SG 'you'	mia	mia	m i a	object form	2	Panoan	2nd SG 'you'	72
+611	Yaminawa	2nd SG 'you'	mĩ	mĩ	m ĩ		2	Panoan	2nd SG 'you'	72
+722	Amawaka	2nd SG 'you'	miya	miya	m i j a		2	Panoan	2nd SG 'you'	72
+723	Kaxinawa	2nd SG 'you'	mia	mia	m i a		2	Panoan	2nd SG 'you'	72
+724	Marinawa	2nd SG 'you'	mia	mia	m i a		2	Panoan	2nd SG 'you'	72
+725	Korubo	2nd SG 'you'	mi	mi	m i		2	Panoan	2nd SG 'you'	72
+726	Matis	2nd SG 'you'	mi (minbi,mibi,min)	mi_	m i		2	Panoan	2nd SG 'you'	72
+727	Matses	2nd SG 'you'	mi (minbi,mibi,min)	mi_	m i		2	Panoan	2nd SG 'you'	72
+780	Proto-Takana	2nd SG 'you'	mi	mi	m i	Girard additionally lists -mikia for Arasa.	2	Tacanan	2nd SG 'you'	72
+781	Tacanan	2nd SG 'you'	mi-ke	mi-ke	m i + k e		2	Tacanan	2nd SG 'you'	72
+782	Reyesano	2nd SG 'you'	mibe/mive	mibe	m i b e		2	Panoan	2nd SG 'you'	72
+783	Araona	2nd SG 'you'	mitya	mitya	m i t j a		2	Tacanan	2nd SG 'you'	72
+784	Cavinena	2nd SG 'you'	mi-kwana	mi-kwana	m i + kʷ a n a		2	Tacanan	2nd SG 'you'	72
+785	EseEjja	2nd SG 'you'	mi-a	mi-a	m i + a		2	Tacanan	2nd SG 'you'	72
+677	Proto-Pano-Takana	AUGMENTATIVE	-pa	-pa	p a		3		AUGMENTATIVE	81
+678	Proto-Pano	AUGMENTATIVE	pa	pa	p a		3	Panoan	AUGMENTATIVE	81
+679	ShipiboKonibo	AUGMENTATIVE	-n ewá	-n_ewá	n + e w !á/a		3	Panoan	AUGMENTATIVE	81
+680	Kapanawa	AUGMENTATIVE	-ahhuan	-ahhuan	a h h u a n		3	Panoan	AUGMENTATIVE	81
+681	Chacobo	AUGMENTATIVE	-wa	-wa	w a		3	Panoan	AUGMENTATIVE	81
+682	Yaminawa	AUGMENTATIVE	-nfã	-nfã	n f ã		3	Panoan	AUGMENTATIVE	81
+757	Matses	AUGMENTATIVE	-pa	-pa	p a		3	Panoan	AUGMENTATIVE	81
+827	Proto-Takana	AUGMENTATIVE	-pa	-pa	p a		3	Tacanan	AUGMENTATIVE	81
+828	Tacanan	AUGMENTATIVE	-pa	-pa	p a		3	Tacanan	AUGMENTATIVE	81
+829	Cavinena	AUGMENTATIVE	-pa	-pa	p a		3	Tacanan	AUGMENTATIVE	81
+122	Proto-Pano-Takana	Blood	hemi	hemi	h e m i		4		Blood	48
+123	Proto-Pano	Blood	himi	himi	h i m i		4	Panoan	Blood	48
+124	Kakataibo	Blood	imi	imi	i m i		4	Panoan	Blood	48
+125	ShipiboKonibo	Blood	himi	himi	h i m i		4	Panoan	Blood	48
+126	Kapanawa	Blood	himi	himi	h i m i		4	Panoan	Blood	48
+127	Marubo	Blood	imbi	imbi	i m.b i	/b/ as superscript bb	4	Panoan	Blood	48
+128	Chacobo	Blood	himi	himi	h i m i		4	Panoan	Blood	48
+129	Kaxarari	Blood	himi	himi	h i m i		4	Panoan	Blood	48
+130	Yaminawa	Blood	im	im	i m		4	Panoan	Blood	48
+131	Chaninawa	Blood	ibi	ibi	i b i		4	Panoan	Blood	48
+132	Sharanawa	Blood	imi	imi	i m i		4	Panoan	Blood	48
+341	Shanenawa	Blood	imi	imi	i m i		4	Panoan	Blood	48
+342	Katukina	Blood	himi	himi	h i m i		4	Panoan	Blood	48
+343	Poyanawa	Blood	ibi	ibi	i b i		4	Panoan	Blood	48
+344	Amawaka	Blood	himi	himi	h i m i		4	Panoan	Blood	48
+345	Kaxinawa	Blood	himi	himi	h i m i		4	Panoan	Blood	48
+346	Marinawa	Blood	imi	imi	i m i		4	Panoan	Blood	48
+347	Yawanawa	Blood	imi	imi	i m i		4	Panoan	Blood	48
+348	Korubo	Blood	inta	inta	i n t a		4	Panoan	Blood	48
+349	Matis	Blood	imi	imi	i m i		4	Panoan	Blood	48
+350	Matses	Blood	imi	imi	i m i		4	Panoan	Blood	48
+525	Proto-Takana	Blood	ami	ami	a m i		4	Tacanan	Blood	48
+526	Tacanan	Blood	ami	ami	a m i		4	Tacanan	Blood	48
+527	Reyesano	Blood	ami/ami	ami	a m i		4	Panoan	Blood	48
+528	Cavinena	Blood	ami	ami	a m i		4	Tacanan	Blood	48
+52	Proto-Pano-Takana	Bone	ʂau	ʂau	ʂ a u		5		Bone	93
+53	Proto-Pano	Bone	ʂao	ʂao	ʂ a o		5	Panoan	Bone	93
+54	Kakataibo	Bone	ʂɔː	ʂɔː	ʂ ɔː		5	Panoan	Bone	93
+55	ShipiboKonibo	Bone	ʂao	ʂao	ʂ a o		5	Panoan	Bone	93
+56	Kapanawa	Bone	ʂao	ʂao	ʂ a o		5	Panoan	Bone	93
+57	Marubo	Bone	ʃau	ʃau	ʃ a u		5	Panoan	Bone	93
+58	Chacobo	Bone	ʂao	ʂao	ʂ a o		5	Panoan	Bone	93
+59	Kaxarari	Bone	ʂahʷu	ʂahʷu	ʂ a hʷ u		5	Panoan	Bone	93
+60	Yaminawa	Bone	ʂao	ʂao	ʂ a o		5	Panoan	Bone	93
+61	Chaninawa	Bone	ʃao,ʂao	ʃao	ʃ a o		5	Panoan	Bone	93
+62	Sharanawa	Bone	ʂao	ʂao	ʂ a o		5	Panoan	Bone	93
+296	Shanenawa	Bone	ʂaw	ʂaw	ʂ a w	Shell (1975: 174, 398) and Oliveira (2014: 459, 398) reconstruct *ʂao. Kasharari presents the form ʂahu [ʂa'hwu] (Lanes 2005, in Oliveira 2014). For Matses/Mayoruna we consider as evidence the final consonant in mɨ-ʂ‘wrist bone’, taɨ-ʂ‘ankle bone’, and ʂomoʂ‘needle made of bone’ (Fleck et al. 2012).	5	Panoan	Bone	93
+297	Katukina	Bone	ʃau	ʃau	ʃ a u		5	Panoan	Bone	93
+298	Poyanawa	Bone	haw	haw	h a w		5	Panoan	Bone	93
+299	Amawaka	Bone	xao	xao	x a o		5	Panoan	Bone	93
+300	Kaxinawa	Bone	ʂau	ʂau	ʂ a u		5	Panoan	Bone	93
+301	Marinawa	Bone	ʂao	ʂao	ʂ a o		5	Panoan	Bone	93
+302	Yawanawa	Bone	ʃau	ʃau	ʃ a u		5	Panoan	Bone	93
+303	Matses	Bone	mɨ-ʂ,taɨ-ʂ,ʂomoʂ	mɨ-ʂ	m ɨ + ʂ	'wrist bone','ankle bone','needle made of bone'	5	Panoan	Bone	93
+483	Proto-Takana	Bone	tʂau	tʂau	tʂ a u		5	Tacanan	Bone	93
+484	Tacanan	Bone	e-cau	e-cau	e + tʂ a u		5	Tacanan	Bone	93
+485	Reyesano	Bone	e-cao/etrá	e-cao	e + tʂ a o		5	Panoan	Bone	93
+486	Cavinena	Bone	e-cao	e-cao	e + tʂ a o		5	Tacanan	Bone	93
+487	EseEjja	Bone	e-sá	e-sá	e + s !á/a		5	Tacanan	Bone	93
+488	Warayo	Bone	e-sá	e-sá	e + s !á/a		5	Tacanan	Bone	93
+133	Proto-Pano-Takana	Breast	aṣu	aṣu	a s u		6		Breast	
+134	Proto-Pano	Breast	ʂo	ʂo	ʂ o		6	Panoan	Breast	
+135	Kakataibo	Breast	ʂoma	ʂoma	ʂ o m a		6	Panoan	Breast	
+136	ShipiboKonibo	Breast	ʂoma	ʂoma	ʂ o m a		6	Panoan	Breast	
+137	Kapanawa	Breast	ʂoma	ʂoma	ʂ o m a		6	Panoan	Breast	
+138	Marubo	Breast	ʂoma	ʂoma	ʂ o m a		6	Panoan	Breast	
+139	Chacobo	Breast	ʂoma	ʂoma	ʂ o m a		6	Panoan	Breast	
+140	Chaninawa	Breast	ʂoma	ʂoma	ʂ o m a		6	Panoan	Breast	
+141	Sharanawa	Breast	ʂoma	ʂoma	ʂ o m a		6	Panoan	Breast	
+351	Shanenawa	Breast	ʂuma	ʂuma	ʂ u m a		6	Panoan	Breast	
+352	Katukina	Breast	ʃuma	ʃuma	ʃ u m a		6	Panoan	Breast	
+353	Poyanawa	Breast	hũba	hũba	h ũ b a		6	Panoan	Breast	
+354	Amawaka	Breast	xoma	xoma	x o m a		6	Panoan	Breast	
+355	Kaxinawa	Breast	ʂuma	ʂuma	ʂ u m a		6	Panoan	Breast	
+356	Marinawa	Breast	ʂoma	ʂoma	ʂ o m a		6	Panoan	Breast	
+357	Yawanawa	Breast	ʃuma	ʃuma	ʃ u m a		6	Panoan	Breast	
+358	Korubo	Breast	ʂuma	ʂuma	ʂ u m a		6	Panoan	Breast	
+359	Matis	Breast	ʂuma	ʂuma	ʂ u m a		6	Panoan	Breast	
+360	Matses	Breast	ʂuma	ʂuma	ʂ u m a		6	Panoan	Breast	
+529	Proto-Takana	Breast	aṭṣu	aṭṣu	a ts u		6	Tacanan	Breast	
+668	Proto-Pano-Takana	CAUSATIVE	-m[a/e]	-ma	m a		7		CAUSATIVE	
+669	Proto-Pano	CAUSATIVE	-m[a]	-ma	m a		7	Panoan	CAUSATIVE	
+670	Kakataibo	CAUSATIVE	-mi-	-mi-	m i		7	Panoan	CAUSATIVE	
+671	ShipiboKonibo	CAUSATIVE	-ma-	-ma-	m a		7	Panoan	CAUSATIVE	
+672	Kapanawa	CAUSATIVE	-ma-	-ma-	m a		7	Panoan	CAUSATIVE	
+673	Marubo	CAUSATIVE	-ma	-ma	m a		7	Panoan	CAUSATIVE	
+674	Chacobo	CAUSATIVE	-ma	-ma	m a		7	Panoan	CAUSATIVE	
+675	Yaminawa	CAUSATIVE	-ma	-ma	m a		7	Panoan	CAUSATIVE	
+676	Sharanawa	CAUSATIVE	-ma-	-ma-	m a		7	Panoan	CAUSATIVE	
+749	Shanenawa	CAUSATIVE	-ma	-ma	m a		7	Panoan	CAUSATIVE	
+750	Amawaka	CAUSATIVE	-ma-	-ma-	m a		7	Panoan	CAUSATIVE	
+751	Kaxinawa	CAUSATIVE	-ma-	-ma-	m a		7	Panoan	CAUSATIVE	
+752	Marinawa	CAUSATIVE	-ma	-ma	m a		7	Panoan	CAUSATIVE	
+753	Yawanawa	CAUSATIVE	-ma-	-ma-	m a		7	Panoan	CAUSATIVE	
+754	Korubo	CAUSATIVE	-me	-me	m e		7	Panoan	CAUSATIVE	
+755	Matis	CAUSATIVE	-me	-me	m e		7	Panoan	CAUSATIVE	
+756	Matses	CAUSATIVE	-me	-me	m e		7	Panoan	CAUSATIVE	
+822	Proto-Takana	CAUSATIVE	-me[re]	-mere	m e r e	Girard reconstructs *-me[re] based on Tacana –meand Cavineña –mere. To this we can now add Ese’ Ejja -mee and Araona -me.	7	Tacanan	CAUSATIVE	
+823	Tacanan	CAUSATIVE	-me	-me	m e		7	Tacanan	CAUSATIVE	
+824	Araona	CAUSATIVE	-me	-me	m e		7	Tacanan	CAUSATIVE	
+825	Cavinena	CAUSATIVE	-mere	-mere	m e r e		7	Tacanan	CAUSATIVE	
+826	EseEjja	CAUSATIVE	-mee	-mee	m e e		7	Tacanan	CAUSATIVE	
+713	Proto-Pano-Takana	COMITATIVE,ALONG WITH	bɨta	bɨta	b ɨ t a		8		COMITATIVE,ALONG WITH	24
+714	Proto-Pano	COMITATIVE,ALONG WITH	βɨta	βɨta	β ɨ t a		8	Panoan	COMITATIVE,ALONG WITH	24
+715	Kakataibo	COMITATIVE,ALONG WITH	-bɨ~-bɨtan	-bɨ	b ɨ		8	Panoan	COMITATIVE,ALONG WITH	24
+716	ShipiboKonibo	COMITATIVE,ALONG WITH	-bɨ	-bɨ	b ɨ		8	Panoan	COMITATIVE,ALONG WITH	24
+717	Chacobo	COMITATIVE,ALONG WITH	-bɨta	-bɨta	b ɨ t a		8	Panoan	COMITATIVE,ALONG WITH	24
+718	Yaminawa	COMITATIVE,ALONG WITH	-fɨtã	-fɨtã	f ɨ t ã		8	Panoan	COMITATIVE,ALONG WITH	24
+770	Amawaka	COMITATIVE,ALONG WITH	-wɨ,-wɨtã	-wɨ	w ɨ		8	Panoan	COMITATIVE,ALONG WITH	24
+771	Kaxinawa	COMITATIVE,ALONG WITH	-bɨ,-bɨtã	-bɨ	b ɨ		8	Panoan	COMITATIVE,ALONG WITH	24
+772	Marinawa	COMITATIVE,ALONG WITH	-fɨta,fɨtã	-fɨta	f ɨ t a		8	Panoan	COMITATIVE,ALONG WITH	24
+773	Matses	COMITATIVE,ALONG WITH	-bid (S),-bɨta (O),-bɨtan (A)	-bid_	b i d		8	Panoan	COMITATIVE,ALONG WITH	24
+851	Proto-Takana	COMITATIVE,ALONG WITH	beta	beta	b e t a	Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.	8	Tacanan	COMITATIVE,ALONG WITH TWO	24
+852	Tacanan	COMITATIVE,ALONG WITH	beta	beta	b e t a		8	Tacanan	COMITATIVE,ALONG WITH TWO	24
+853	Reyesano	COMITATIVE,ALONG WITH	mbeta/beta	mbeta	m.b e t a		8	Panoan	COMITATIVE,ALONG WITH TWO	24
+854	Araona	COMITATIVE,ALONG WITH	beta	beta	b e t a		8	Tacanan	COMITATIVE,ALONG WITH TWO	24
+855	Cavinena	COMITATIVE,ALONG WITH	beta	beta	b e t a		8	Tacanan	COMITATIVE,ALONG WITH TWO	24
+856	EseEjja	COMITATIVE,ALONG WITH	beka	beka	b e k a		8	Tacanan	COMITATIVE,ALONG WITH TWO	24
+223	Proto-Pano-Takana	Cheek	tamu	tamu	t a m u		9		Cheek	105
+224	Proto-Pano	Cheek	tamo	tamo	t a m o		9	Panoan	Cheek	105
+225	Kakataibo	Cheek	tamo	tamo	t a m o		9	Panoan	Cheek	105
+226	ShipiboKonibo	Cheek	tamo	tamo	t a m o		9	Panoan	Cheek	105
+227	Kapanawa	Cheek	tamo	tamo	t a m o		9	Panoan	Cheek	105
+228	Marubo	Cheek	tambo	tambo	t a m.b o	/m/ as superscript	9	Panoan	Cheek	105
+229	Chacobo	Cheek	tamo	tamo	t a m o		9	Panoan	Cheek	105
+230	Kaxarari	Cheek	tamu	tamu	t a m u		9	Panoan	Cheek	105
+231	Yaminawa	Cheek	tamo,tamõ	tamo	t a m o		9	Panoan	Cheek	105
+232	Sharanawa	Cheek	tamo,tamon	tamo	t a m o		9	Panoan	Cheek	105
+426	Katukina	Cheek	tamu	tamu	t a m u		9	Panoan	Cheek	105
+427	Poyanawa	Cheek	tãbu	tãbu	t ã b u		9	Panoan	Cheek	105
+428	Amawaka	Cheek	tamo	tamo	t a m o		9	Panoan	Cheek	105
+429	Kaxinawa	Cheek	tamu	tamu	t a m u		9	Panoan	Cheek	105
+430	Marinawa	Cheek	tamo	tamo	t a m o		9	Panoan	Cheek	105
+431	Matses	Cheek	tambu	tambu	t a m.b u	'beard'	9	Panoan	Cheek	105
+579	Proto-Takana	Cheek	tamu	tamu	t a m u		9	Tacanan	Cheek	105
+580	Reyesano	Cheek	ebu-tamu/-	ebu-tamu	e b u + t a m u		9	Panoan	Cheek	105
+581	Cavinena	Cheek	-tamu	-tamu	t a m u		9	Tacanan	Cheek	105
+582	EseEjja	Cheek	-shemo	-shemo	ʃ e m o		9	Tacanan	Cheek	105
+158	Proto-Pano-Takana	Come	bɨ-	bɨ-	b ɨ		10		Come	24
+159	Proto-Pano	Come	βɨ-	βɨ-	β ɨ	'come,bring'	10	Panoan	Come	24
+160	Kakataibo	Come	βɨ-	βɨ-	β ɨ		10	Panoan	Come	24
+161	ShipiboKonibo	Come	βɨ-	βɨ-	β ɨ		10	Panoan	Come	24
+162	Kapanawa	Come	βɨ-	βɨ-	β ɨ		10	Panoan	Come	24
+163	Chacobo	Come	βɨ-	βɨ-	β ɨ		10	Panoan	Come	24
+164	Kaxarari	Come	bɨ-	bɨ-	b ɨ		10	Panoan	Come	24
+165	Yaminawa	Come	ɸɨ-	ɸɨ-	ɸ ɨ		10	Panoan	Come	24
+166	Chaninawa	Come	ɸɨ-	ɸɨ-	ɸ ɨ		10	Panoan	Come	24
+167	Sharanawa	Come	ɸɨ-	ɸɨ-	ɸ ɨ		10	Panoan	Come	24
+377	Amawaka	Come	βɨ-	βɨ-	β ɨ		10	Panoan	Come	24
+378	Kaxinawa	Come	bɨ-	bɨ-	b ɨ		10	Panoan	Come	24
+379	Marinawa	Come	ɸɨ-	ɸɨ-	ɸ ɨ		10	Panoan	Come	24
+380	Yawanawa	Come	βɨ-	βɨ-	β ɨ		10	Panoan	Come	24
+381	Korubo	Come	βɨ-	βɨ-	β ɨ		10	Panoan	Come	24
+382	Matis	Come	βɨ-	βɨ-	β ɨ		10	Panoan	Come	24
+383	Matses	Come	bɨ-	bɨ-	b ɨ		10	Panoan	Come	24
+545	Proto-Takana	Come	be-	be-	b e	'bring'	10	Tacanan	Come	24
+786	Proto-Takana	DEMONSTRATIVE 'this' 'he'	u-	u-	u		11	Tacanan	DEMONSTRATIVE 'this' 'he'	14
+787	Tacanan	DEMONSTRATIVE 'this' 'he'	u-ha	u-ha	u + h a		11	Tacanan	DEMONSTRATIVE 'this' 'he'	14
+788	Cavinena	DEMONSTRATIVE 'this' 'he'	o-ho	o-ho	o + h o		11	Tacanan	DEMONSTRATIVE 'this' 'he'	14
+789	EseEjja	DEMONSTRATIVE 'this' 'he'	o-haya	o-haya	o + h a j a		11	Tacanan	DEMONSTRATIVE 'this' 'he'	14
+612	Proto-Pano-Takana	DEMONSTRATIVE distal	ʔu-	ʔu-	ʔ u		12		DEMONSTRATIVE distal	14
+613	Proto-Pano	DEMONSTRATIVE distal	ʔo-	ʔo-	ʔ o		12	Panoan	DEMONSTRATIVE distal	14
+614	Kakataibo	DEMONSTRATIVE distal	un (A),ux (S),u (O)	un_	u n		12	Panoan	DEMONSTRATIVE distal	14
+615	ShipiboKonibo	DEMONSTRATIVE distal	oa	oa	o a		12	Panoan	DEMONSTRATIVE distal	14
+616	Chacobo	DEMONSTRATIVE distal	oa	oa	o a		12	Panoan	DEMONSTRATIVE distal	14
+617	Yaminawa	DEMONSTRATIVE distal	oa	oa	o a		12	Panoan	DEMONSTRATIVE distal	14
+728	Matses	DEMONSTRATIVE distal	uid	uid	u i d		12	Panoan	DEMONSTRATIVE distal	14
+618	Proto-Pano-Takana	DEMONSTRATIVE proximate	Nɨ-	Nɨ-	!N/n ɨ		13		DEMONSTRATIVE proximate	79
+619	Proto-Pano	DEMONSTRATIVE proximate	nɨ-	nɨ-	n ɨ		13	Panoan	DEMONSTRATIVE proximate	79
+620	Kakataibo	DEMONSTRATIVE proximate	ɨnɨn (A),ɨnɨx (S),ɨnɨ (O)	ɨnɨn_	ɨ n ɨ n		13	Panoan	DEMONSTRATIVE proximate	79
+621	ShipiboKonibo	DEMONSTRATIVE proximate	nɨ-~nato	nɨ-	n ɨ		13	Panoan	DEMONSTRATIVE proximate	79
+622	Chacobo	DEMONSTRATIVE proximate	noa,toa	noa	n o a		13	Panoan	DEMONSTRATIVE proximate	79
+623	Yaminawa	DEMONSTRATIVE proximate	na	na	n a		13	Panoan	DEMONSTRATIVE proximate	79
+729	Matses	DEMONSTRATIVE proximate	nɨid	nɨid	n ɨ i d		13	Panoan	DEMONSTRATIVE proximate	79
+790	Proto-Takana	DEMONSTRATIVE proximate	ree-	ree-	r e e		13	Tacanan	DEMONSTRATIVE proximate	79
+791	Tacanan	DEMONSTRATIVE proximate	ye	ye	j e		13	Tacanan	DEMONSTRATIVE proximate	79
+792	Cavinena	DEMONSTRATIVE proximate	reeke	reeke	r e e k e		13	Tacanan	DEMONSTRATIVE proximate	79
+793	EseEjja	DEMONSTRATIVE proximate	hikio	hikio	h i k i o		13	Tacanan	DEMONSTRATIVE proximate	79
+648	Proto-Pano-Takana	DESIDERATIVE	-katsa	-katsa	k a ts a		14		DESIDERATIVE	53
+649	Proto-Pano	DESIDERATIVE	-katsa	-katsa	k a ts a		14	Panoan	DESIDERATIVE	53
+650	Kakataibo	DESIDERATIVE	-kas,-katsi	-kas	k a s		14	Panoan	DESIDERATIVE	53
+651	ShipiboKonibo	DESIDERATIVE	-kas	-kas	k a s		14	Panoan	DESIDERATIVE	53
+652	Kapanawa	DESIDERATIVE	-katsiʔ-,-katsiʔki-	-katsiʔ-	k a ts i ʔ		14	Panoan	DESIDERATIVE	53
+653	Marubo	DESIDERATIVE	-katsi	-katsi	k a ts i		14	Panoan	DESIDERATIVE	53
+654	Chacobo	DESIDERATIVE	-kas-	-kas-	k a s		14	Panoan	DESIDERATIVE	53
+655	Kaxarari	DESIDERATIVE	-katsa	-katsa	k a ts a		14	Panoan	DESIDERATIVE	53
+656	Yaminawa	DESIDERATIVE	kasma,kaspa,katsa	kasma	k a s m a	'not to want','desiderative negative','to have'	14	Panoan	DESIDERATIVE	53
+657	Sharanawa	DESIDERATIVE	-kas-mai	-kas-mai	k a s + m a i	'not to want'	14	Panoan	DESIDERATIVE	53
+738	Amawaka	DESIDERATIVE	-katsi	-katsi	k a ts i		14	Panoan	DESIDERATIVE	53
+739	Matses	DESIDERATIVE	-kas-,katsi	-kas-	k a s		14	Panoan	DESIDERATIVE	53
+813	Proto-Takana	DESIDERATIVE	-katsa	-katsa	k a ts a		14	Tacanan	DESIDERATIVE	53
+814	Tacanan	DESIDERATIVE	-tsa	-tsa	ts a		14	Tacanan	DESIDERATIVE	53
+815	Araona	DESIDERATIVE	-hae	-hae	h a e		14	Tacanan	DESIDERATIVE	53
+816	Cavinena	DESIDERATIVE	-kara	-kara	k a r a		14	Tacanan	DESIDERATIVE	53
+817	EseEjja	DESIDERATIVE	-sa	-sa	s a		14	Tacanan	DESIDERATIVE	53
+698	Proto-Pano-Takana	DETRANSITIVIZER,REFLEXIVE	-t[i]	-ti	t i		15		DETRANSITIVIZER,REFLEXIVE	
+699	Proto-Pano	DETRANSITIVIZER,REFLEXIVE	-t	-t	t		15	Panoan	DETRANSITIVIZER,REFLEXIVE	
+700	Kakataibo	DETRANSITIVIZER,REFLEXIVE	-t	-t	t		15	Panoan	DETRANSITIVIZER,REFLEXIVE	
+701	ShipiboKonibo	DETRANSITIVIZER,REFLEXIVE	-t	-t	t		15	Panoan	DETRANSITIVIZER,REFLEXIVE	
+839	Proto-Takana	DETRANSITIVIZER,REFLEXIVE	-ti	-ti	t i		15	Tacanan	DETRANSITIVIZER,REFLEXIVE	
+840	Tacanan	DETRANSITIVIZER,REFLEXIVE	-ti	-ti	t i		15	Tacanan	DETRANSITIVIZER,REFLEXIVE	
+841	Cavinena	DETRANSITIVIZER,REFLEXIVE	-ti	-ti	t i		15	Tacanan	DETRANSITIVIZER,REFLEXIVE	
+842	EseEjja	DETRANSITIVIZER,REFLEXIVE	-ki	-ki	k i		15	Tacanan	DETRANSITIVIZER,REFLEXIVE	
+683	Proto-Pano-Takana	DO (TR.),AUXILIARY (TR.)	ʔak-	ʔak-	ʔ a k		16		DO (TR.),AUXILIARY (TR.)	1
+684	Proto-Pano	DO (TR.),AUXILIARY (TR.)	ʔak-	ʔak-	ʔ a k		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+685	Kakataibo	DO (TR.),AUXILIARY (TR.)	ʔa-	ʔa-	ʔ a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+686	ShipiboKonibo	DO (TR.),AUXILIARY (TR.)	ʔa-	ʔa-	ʔ a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+687	Kapanawa	DO (TR.),AUXILIARY (TR.)	ʔa-	ʔa-	ʔ a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+688	Marubo	DO (TR.),AUXILIARY (TR.)	a	a	a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+689	Chacobo	DO (TR.),AUXILIARY (TR.)	ʔa-	ʔa-	ʔ a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+690	Kaxarari	DO (TR.),AUXILIARY (TR.)	a-	a-	a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+691	Yaminawa	DO (TR.),AUXILIARY (TR.)	ak-	ak-	a k		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+692	Chaninawa	DO (TR.),AUXILIARY (TR.)	a-	a-	a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+693	Sharanawa	DO (TR.),AUXILIARY (TR.)	a-	a-	a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+758	Amawaka	DO (TR.),AUXILIARY (TR.)	ʔa-	ʔa-	ʔ a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+759	Kaxinawa	DO (TR.),AUXILIARY (TR.)	a-	a-	a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+760	Marinawa	DO (TR.),AUXILIARY (TR.)	a-	a-	a		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+761	Korubo	DO (TR.),AUXILIARY (TR.)	ak-	ak-	a k		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+762	Matis	DO (TR.),AUXILIARY (TR.)	ak-	ak-	a k		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+763	Matses	DO (TR.),AUXILIARY (TR.)	ak-	ak-	a k		16	Panoan	DO (TR.),AUXILIARY (TR.)	1
+830	Proto-Takana	DO (TR.),AUXILIARY (TR.)	a-	a-	a	Girard additionally lists age for Warisa.	16	Tacanan	DO (TR.),AUXILIARY (TR.)	1
+831	Tacanan	DO (TR.),AUXILIARY (TR.)	a-	a-	a		16	Tacanan	DO (TR.),AUXILIARY (TR.)	1
+832	Cavinena	DO (TR.),AUXILIARY (TR.)	a-	a-	a		16	Tacanan	DO (TR.),AUXILIARY (TR.)	1
+833	EseEjja	DO (TR.),AUXILIARY (TR.)	a-ka-	a-ka-	a + k a		16	Tacanan	DO (TR.),AUXILIARY (TR.)	1
+642	Proto-Pano-Takana	DO COMING	-bɨ	-bɨ	b ɨ		17		DO COMING	
+643	Proto-Pano	DO COMING	-βɨ[...]	-βɨ	β ɨ	Guillaume 2017:254	17	Panoan	DO COMING	
+644	Kakataibo	DO COMING	-bɨtsin	-bɨtsin	b ɨ ts i n		17	Panoan	DO COMING	
+645	ShipiboKonibo	DO COMING	-bɨiran	-bɨiran	b ɨ i r a n		17	Panoan	DO COMING	
+646	Chacobo	DO COMING	-bɨna	-bɨna	b ɨ n a		17	Panoan	DO COMING	
+647	Yaminawa	DO COMING	-ɸɨran	-ɸɨran	ɸ ɨ r a n		17	Panoan	DO COMING	
+736	Amawaka	DO COMING	-vɨran	-vɨran	v ɨ r a n		17	Panoan	DO COMING	
+737	Matses	DO COMING	-bɨtsen	-bɨtsen	b ɨ ts e n		17	Panoan	DO COMING	
+808	Proto-Takana	DO COMING	-be	-be	b e	Guillaume 2017:233	17	Tacanan	DO COMING	
+809	Tacanan	DO COMING	-be	-be	b e		17	Tacanan	DO COMING	
+810	Reyesano	DO COMING	-bebe/-	-bebe	b e b e		17	Panoan	DO COMING	
+811	Cavinena	DO COMING	-be	-be	b e		17	Tacanan	DO COMING	
+812	EseEjja	DO COMING	-jebe	-jebe	j e b e		17	Tacanan	DO COMING	
+702	Proto-Pano-Takana	ERGATIVE	-N[a]	-Na	!N/n a		18		ERGATIVE	
+703	Proto-Pano	ERGATIVE	-n	-n	n		18	Panoan	ERGATIVE	
+704	Kakataibo	ERGATIVE	=(a)n	=n	n		18	Panoan	ERGATIVE	
+705	ShipiboKonibo	ERGATIVE	=n	=n	n		18	Panoan	ERGATIVE	
+706	Kapanawa	ERGATIVE	-n	-n	n		18	Panoan	ERGATIVE	
+765	Matses	ERGATIVE	-n	-n	n		18	Panoan	ERGATIVE	
+843	Proto-Takana	ERGATIVE	-ra	-ra	r a	Girard additionally lists -a for Warayo.	18	Tacanan	ERGATIVE	
+844	Tacanan	ERGATIVE	-a	-a	a		18	Tacanan	ERGATIVE	
+845	Cavinena	ERGATIVE	-ra	-ra	r a		18	Tacanan	ERGATIVE	
+846	EseEjja	ERGATIVE	-(y)a	-a	a		18	Tacanan	ERGATIVE	
+243	Proto-Pano-Takana	Elbow	baṣu	baṣu	b a s u		19		Elbow	
+244	Proto-Pano	Elbow	βaʂ(u)-	βaʂ-	β a ʂ		19	Panoan	Elbow	
+245	Kakataibo	Elbow	banbuxu	banbuxu	b a n b u x u		19	Panoan	Elbow	
+246	ShipiboKonibo	Elbow	põtõko	põtõko	p õ t õ k o		19	Panoan	Elbow	
+247	Kapanawa	Elbow	baʂpoʂko	baʂpoʂko	b a ʂ p o ʂ k o		19	Panoan	Elbow	
+248	Chacobo	Elbow	baspoto	baspoto	b a s p o t o		19	Panoan	Elbow	
+249	Kaxarari	Elbow	paxuxu	paxuxu	p a x u x u		19	Panoan	Elbow	
+250	Yaminawa	Elbow	po-to-ṣ̌ko	po-to-ṣ̌ko	p o + t o + ʃ k o		19	Panoan	Elbow	
+439	Amawaka	Elbow	vapoxko	vapoxko	v a p o x k o		19	Panoan	Elbow	
+440	Kaxinawa	Elbow	baʂtunku	baʂtunku	b a ʂ t u n k u		19	Panoan	Elbow	
+441	Matis	Elbow	mɨntʂinβuru	mɨntʂinβuru	m ɨ n tʂ i n β u r u		19	Panoan	Elbow	
+442	Matses	Elbow	mɨntsimpis	mɨntsimpis	m ɨ n ts i m p i s		19	Panoan	Elbow	
+591	Proto-Takana	Elbow	-baṭṣu	-baṭṣu	b a ts u		19	Tacanan	Elbow	
+592	Tacanan	Elbow	e-ba-cu	e-ba-cu	e + b a + tʂ u		19	Tacanan	Elbow	
+593	Reyesano	Elbow	e-mba-co/-	e-mba-co	e + m.b a + tʂ o		19	Panoan	Elbow	
+594	EseEjja	Elbow	e-bašo	e-bašo	e + b a ʃ o		19	Tacanan	Elbow	
+595	Warayo	Elbow	e-bašo	e-bašo	e + b a ʃ o		19	Tacanan	Elbow	
+596	Tiatinawa	Elbow	wacu	wacu	w a tʂ u		19	Tacanan	Elbow	
+597	Arasa	Elbow	ebaša	ebaša	e b a ʃ a		19	Tacanan	Elbow	
+185	Proto-Pano-Takana	Fat	ʂɨNi	ʂɨNi	ʂ ɨ !N/n i		20		Fat	99
+186	Proto-Pano	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+187	Kakataibo	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+188	ShipiboKonibo	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+189	Kapanawa	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+190	Marubo	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+191	Chacobo	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+192	Yaminawa	Fat	ʂɨnĩ	ʂɨnĩ	ʂ ɨ n ĩ		20	Panoan	Fat	99
+193	Chaninawa	Fat	ʃɨdi,ʃidi,ʂidi	ʃɨdi	ʃ ɨ d i		20	Panoan	Fat	99
+194	Sharanawa	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+396	Shanenawa	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+397	Katukina	Fat	ʃɨni	ʃɨni	ʃ ɨ n i		20	Panoan	Fat	99
+398	Poyanawa	Fat	hãdi	hãdi	h ã d i		20	Panoan	Fat	99
+399	Amawaka	Fat	xɨni	xɨni	x ɨ n i		20	Panoan	Fat	99
+400	Kaxinawa	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+401	Marinawa	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+402	Yawanawa	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+403	Korubo	Fat	ʃɨni	ʃɨni	ʃ ɨ n i		20	Panoan	Fat	99
+404	Matis	Fat	ʂɨni	ʂɨni	ʂ ɨ n i		20	Panoan	Fat	99
+560	Proto-Takana	Fat	ṭṣeri	ṭṣeri	ts e r i		20	Tacanan	Fat	99
+561	Tacanan	Fat	e-cei	e-cei	e + tʂ e i		20	Tacanan	Fat	99
+562	Cavinena	Fat	e-ceri	e-ceri	e + tʂ e r i		20	Tacanan	Fat	99
+563	EseEjja	Fat	e-sei	e-sei	e + s e i		20	Tacanan	Fat	99
+564	Arasa	Fat	ésey	ésey	!é/e s e j		20	Tacanan	Fat	99
+195	Proto-Pano-Takana	Fingernail	mɨ-tsizi	mɨ-tsizi	m ɨ + ts i z i		21		Fingernail	
+196	Proto-Pano	Fingernail	mɨ̃-tsis[i]	mɨ̃-tsisi	m ɨ̃ + ts i s i		21	Panoan	Fingernail	
+197	Kakataibo	Fingernail	Untsis,untsɨs	Untsis	u n ts i s		21	Panoan	Fingernail	
+198	ShipiboKonibo	Fingernail	mɨ̃ntsis,mɨ̃tsis	mɨ̃ntsis	m ɨ̃ n ts i s		21	Panoan	Fingernail	
+199	Kapanawa	Fingernail	mɨ̃ntsis	mɨ̃ntsis	m ɨ̃ n ts i s		21	Panoan	Fingernail	
+200	Marubo	Fingernail	mɨ̃tsisi	mɨ̃tsisi	m ɨ̃ ts i s i		21	Panoan	Fingernail	
+201	Chacobo	Fingernail	mɨ̃tsis,mɨ̃tsisi	mɨ̃tsis	m ɨ̃ ts i s		21	Panoan	Fingernail	
+202	Kaxarari	Fingernail	mɨ̃tʃisi	mɨ̃tʃisi	m ɨ̃ tʃ i s i		21	Panoan	Fingernail	
+203	Yaminawa	Fingernail	mitsis,mitsisi	mitsis	m i ts i s		21	Panoan	Fingernail	
+204	Chaninawa	Fingernail	bitsis(otsis)	bitsis	b i ts i s		21	Panoan	Fingernail	
+205	Sharanawa	Fingernail	mɨtsisi,otsisi	mɨtsisi	m ɨ ts i s i		21	Panoan	Fingernail	
+405	Shanenawa	Fingernail	mɨtʃiʃi	mɨtʃiʃi	m ɨ tʃ i ʃ i		21	Panoan	Fingernail	
+406	Katukina	Fingernail	mɨ̃tʃiʃi	mɨ̃tʃiʃi	m ɨ̃ tʃ i ʃ i		21	Panoan	Fingernail	
+407	Amawaka	Fingernail	mɨntsis	mɨntsis	m ɨ n ts i s		21	Panoan	Fingernail	
+408	Kaxinawa	Fingernail	mɨ̃tsis	mɨ̃tsis	m ɨ̃ ts i s		21	Panoan	Fingernail	
+409	Marinawa	Fingernail	mɨ̃tsisi	mɨ̃tsisi	m ɨ̃ ts i s i		21	Panoan	Fingernail	
+410	Yawanawa	Fingernail	mɨtsisi	mɨtsisi	m ɨ ts i s i		21	Panoan	Fingernail	
+411	Korubo	Fingernail	mɨtʃiun	mɨtʃiun	m ɨ tʃ i u n		21	Panoan	Fingernail	
+412	Matis	Fingernail	mɨntis	mɨntis	m ɨ n t i s		21	Panoan	Fingernail	
+413	Matses	Fingernail	mɨntsis	mɨntsis	m ɨ n ts i s		21	Panoan	Fingernail	
+565	Proto-Takana	Fingernail	metiji	metiji	m e t i j i		21	Tacanan	Fingernail	
+566	Tacanan	Fingernail	e-me-haca	e-me-haca	e + m e + h a tʂ a		21	Tacanan	Fingernail	
+567	Reyesano	Fingernail	-/emechuja,emetichi	-		'fingers','nails'	21	Panoan	Fingernail	
+568	Cavinena	Fingernail	e-me-šoro	e-me-šoro	e + m e + ʃ o r o	'nail'	21	Tacanan	Fingernail	
+569	EseEjja	Fingernail	e-me-kiše	e-me-kiše	e + m e + k i ʃ e	'nail'	21	Tacanan	Fingernail	
+104	Proto-Pano-Takana	Fire	tsiʔi	tsiʔi	ts i ʔ i		22		Fire	
+105	Proto-Pano	Fire	tsiʔi	tsiʔi	ts i ʔ i		22	Panoan	Fire	
+106	Kakataibo	Fire	tʃii	tʃii	tʃ i i		22	Panoan	Fire	
+107	ShipiboKonibo	Fire	tʃii	tʃii	tʃ i i		22	Panoan	Fire	
+108	Kapanawa	Fire	tʃiʔi	tʃiʔi	tʃ i ʔ i		22	Panoan	Fire	
+109	Marubo	Fire	tʃi	tʃi	tʃ i		22	Panoan	Fire	
+110	Chacobo	Fire	tʃiʔi	tʃiʔi	tʃ i ʔ i		22	Panoan	Fire	
+111	Kaxarari	Fire	tʃiʔi	tʃiʔi	tʃ i ʔ i		22	Panoan	Fire	
+112	Yaminawa	Fire	tʃii	tʃii	tʃ i i		22	Panoan	Fire	
+113	Chaninawa	Fire	tʃii	tʃii	tʃ i i		22	Panoan	Fire	
+114	Sharanawa	Fire	tʃii	tʃii	tʃ i i		22	Panoan	Fire	
+333	Shanenawa	Fire	tʃi	tʃi	tʃ i		22	Panoan	Fire	
+334	Katukina	Fire	tʃii	tʃii	tʃ i i		22	Panoan	Fire	
+335	Amawaka	Fire	tʃiʔi	tʃiʔi	tʃ i ʔ i		22	Panoan	Fire	
+336	Kaxinawa	Fire	tʃi	tʃi	tʃ i		22	Panoan	Fire	
+337	Marinawa	Fire	tʃi	tʃi	tʃ i		22	Panoan	Fire	
+338	Yawanawa	Fire	tʃi	tʃi	tʃ i		22	Panoan	Fire	
+518	Proto-Takana	Fire	ti	ti	t i		22	Tacanan	Fire	
+519	Tacanan	Fire	e-ti-ře	e-ti-ře	e + t i + ɽ e		22	Tacanan	Fire	
+520	Reyesano	Fire	-ti-/-	-ti-	t i		22	Panoan	Fire	
+521	Araona	Fire	etesi	etesi	e t e s i		22	Tacanan	Fire	
+522	Cavinena	Fire	e-tiki	e-tiki	e + t i k i		22	Tacanan	Fire	
+174	Proto-Pano-Takana	Flesh	Nami	Nami	!N/n a m i		23		Flesh	78
+175	Proto-Pano	Flesh	nami	nami	n a m i	Additional cognates refering to body parts	23	Panoan	Flesh	78
+176	Kakataibo	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+177	ShipiboKonibo	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+178	Kapanawa	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+179	Marubo	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+180	Chacobo	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+181	Kaxarari	Flesh	lami	lami	l a m i		23	Panoan	Flesh	78
+182	Yaminawa	Flesh	nami,nãmi	nami	n a m i		23	Panoan	Flesh	78
+183	Chaninawa	Flesh	nabi,dami	nabi	n a b i		23	Panoan	Flesh	78
+184	Sharanawa	Flesh	nami,namin	nami	n a m i		23	Panoan	Flesh	78
+387	Shanenawa	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+388	Katukina	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+389	Poyanawa	Flesh	nãbi	nãbi	n ã b i		23	Panoan	Flesh	78
+390	Amawaka	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+391	Kaxinawa	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+392	Marinawa	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+393	Yawanawa	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+394	Matis	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+395	Matses	Flesh	nami	nami	n a m i		23	Panoan	Flesh	78
+552	Proto-Takana	Flesh	ɾami	ɾami	ɾ a m i		23	Tacanan	Flesh	78
+553	Tacanan	Flesh	yami	yami	j a m i		23	Tacanan	Flesh	78
+554	Reyesano	Flesh	yami/eami	yami	j a m i		23	Panoan	Flesh	78
+555	Araona	Flesh	yami	yami	j a m i		23	Tacanan	Flesh	78
+556	Cavinena	Flesh	e-rami	e-rami	e + r a m i		23	Tacanan	Flesh	78
+557	EseEjja	Flesh	eyami	eyami	e j a m i		23	Tacanan	Flesh	78
+558	Warayo	Flesh	eyami	eyami	e j a m i		23	Tacanan	Flesh	78
+559	Arasa	Flesh	éami	éami	!é/e a m i		23	Tacanan	Flesh	78
+206	Proto-Pano-Takana	Foot,leg	ta-	ta-	t a		24		Foot,leg	103
+207	Proto-Pano	Foot,leg	ta-	ta-	t a	'foot'	24	Panoan	Foot,leg	103
+208	Kakataibo	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+209	ShipiboKonibo	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+210	Kapanawa	Foot,leg	taʔɨ	taʔɨ	t a ʔ ɨ		24	Panoan	Foot,leg	103
+211	Marubo	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+212	Chacobo	Foot,leg	taʔɨ	taʔɨ	t a ʔ ɨ		24	Panoan	Foot,leg	103
+213	Kaxarari	Foot,leg	taʔɨ	taʔɨ	t a ʔ ɨ		24	Panoan	Foot,leg	103
+214	Yaminawa	Foot,leg	taɨ,taɨ̃	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+215	Chaninawa	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+216	Sharanawa	Foot,leg	taɨ,taɨn	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+414	Shanenawa	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+415	Katukina	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+416	Poyanawa	Foot,leg	tay	tay	t a j		24	Panoan	Foot,leg	103
+417	Amawaka	Foot,leg	taʔɨ	taʔɨ	t a ʔ ɨ		24	Panoan	Foot,leg	103
+418	Kaxinawa	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+419	Marinawa	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+420	Yawanawa	Foot,leg	tai	tai	t a i		24	Panoan	Foot,leg	103
+421	Korubo	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+422	Matis	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+423	Matses	Foot,leg	taɨ	taɨ	t a ɨ		24	Panoan	Foot,leg	103
+570	Proto-Takana	Foot,leg	ta-	ta-	t a	'leg'	24	Tacanan	Foot,leg	103
+571	Tacanan	Foot,leg	e-ta-buce	e-ta-buce	e + t a + b u tʂ e	'shin bone'	24	Tacanan	Foot,leg	103
+572	Mabenaro	Foot,leg	itha	itha	i tʰ a		24	Tacanan	Foot,leg	103
+573	Cavinena	Foot,leg	awa-taka	awa-taka	a w a + t a k a	'tapir-foot (plant)'	24	Tacanan	Foot,leg	103
+624	Proto-Pano-Takana	GENITIVE	-gʷi-n	-gʷi-n	gʷ i + n		25		GENITIVE	44
+625	Proto-Pano	GENITIVE	-wɨ̃	-wɨ̃	w ɨ̃		25	Panoan	GENITIVE	44
+626	Kakataibo	GENITIVE	=(a)n	=n	n		25	Panoan	GENITIVE	44
+627	ShipiboKonibo	GENITIVE	-n	-n	n		25	Panoan	GENITIVE	44
+628	Yaminawa	GENITIVE	-na,-fɨna	-na	n a		25	Panoan	GENITIVE	44
+794	Proto-Takana	GENITIVE	-kʷe	-kʷe	kʷ e	Girard additionally lists -kwe for Warayo.	25	Tacanan	GENITIVE	44
+795	Tacanan	GENITIVE	-ke	-ke	k e		25	Tacanan	GENITIVE	44
+796	Reyesano	GENITIVE	ki-/-	ki-	k i	'possessive prefix'	25	Panoan	GENITIVE	44
+797	Cavinena	GENITIVE	-kwe	-kwe	kʷ e		25	Tacanan	GENITIVE	44
+798	EseEjja	GENITIVE	-kwe	-kwe	kʷ e		25	Tacanan	GENITIVE	44
+639	Proto-Pano-Takana	GOING DOWN,DOWNWARD	-but[ɨ]	-butɨ	b u t ɨ		26		GOING DOWN,DOWNWARD	
+640	Proto-Pano	GOING DOWN,DOWNWARD	-βut	-βut	β u t	For  pP  Girard  (1971:  163,  26)  proposes  *-bu  ‘down’,  while  we  consider  *-but  more  accurate  based  on Matses/Mayoruna -budand Kakataibo -but.	26	Panoan	GOING DOWN,DOWNWARD	
+641	Kakataibo	GOING DOWN,DOWNWARD	-but	-but	b u t		26	Panoan	GOING DOWN,DOWNWARD	
+735	Matses	GOING DOWN,DOWNWARD	-bud	-bud	b u d		26	Panoan	GOING DOWN,DOWNWARD	
+802	Proto-Takana	GOING DOWN,DOWNWARD	-bu,-bute	-bu	b u	For first form, Girard additionally lists -anibuteni for Warisa. For second form, see footnote 67.	26	Tacanan	GOING DOWN,DOWNWARD	
+803	Tacanan	GOING DOWN,DOWNWARD	e-bute-hi,-ute	e-bute-hi	e + b u t e + h i		26	Tacanan	GOING DOWN,DOWNWARD	
+804	Reyesano	GOING DOWN,DOWNWARD	-/animabotia,-bute/-	-			26	Panoan	GOING DOWN,DOWNWARD	
+805	Araona	GOING DOWN,DOWNWARD	-bote	-bote	b o t e		26	Tacanan	GOING DOWN,DOWNWARD	
+806	Cavinena	GOING DOWN,DOWNWARD	e-bote,-bute/-butya	e-bote	e + b o t e		26	Tacanan	GOING DOWN,DOWNWARD	
+807	EseEjja	GOING DOWN,DOWNWARD	'oke/-'okya	'oke	o k e		26	Tacanan	GOING DOWN,DOWNWARD	
+74	Proto-Pano-Takana	Hand	mɨ-	mɨ-	m ɨ		27		Hand	70
+75	Proto-Pano	Hand	mɨ-	mɨ-	m ɨ		27	Panoan	Hand	70
+76	Kakataibo	Hand	mɨkɨ̃	mɨkɨ̃	m ɨ k ɨ̃		27	Panoan	Hand	70
+77	ShipiboKonibo	Hand	mɨkɨ̃	mɨkɨ̃	m ɨ k ɨ̃		27	Panoan	Hand	70
+78	Kapanawa	Hand	mɨkɨn	mɨkɨn	m ɨ k ɨ n		27	Panoan	Hand	70
+79	Chacobo	Hand	mɨkɨnɨ	mɨkɨnɨ	m ɨ k ɨ n ɨ		27	Panoan	Hand	70
+80	Kaxarari	Hand	mɨkɨlɨ	mɨkɨlɨ	m ɨ k ɨ l ɨ		27	Panoan	Hand	70
+81	Yaminawa	Hand	mɨkɨ̃	mɨkɨ̃	m ɨ k ɨ̃		27	Panoan	Hand	70
+82	Chaninawa	Hand	mɨkɨ	mɨkɨ	m ɨ k ɨ		27	Panoan	Hand	70
+83	Sharanawa	Hand	mɨkɨ	mɨkɨ	m ɨ k ɨ		27	Panoan	Hand	70
+313	Amawaka	Hand	mɨkɨ̃	mɨkɨ̃	m ɨ k ɨ̃		27	Panoan	Hand	70
+314	Kaxinawa	Hand	mɨkɨ̃	mɨkɨ̃	m ɨ k ɨ̃		27	Panoan	Hand	70
+315	Marinawa	Hand	mɨkɨ	mɨkɨ	m ɨ k ɨ		27	Panoan	Hand	70
+316	Matis	Hand	mɨkɨn	mɨkɨn	m ɨ k ɨ n		27	Panoan	Hand	70
+317	Matses	Hand	mɨdante	mɨdante	m ɨ d a n t e		27	Panoan	Hand	70
+498	Proto-Takana	Hand	me-	me-	m e		27	Tacanan	Hand	70
+499	Tacanan	Hand	e-me	e-me	e + m e		27	Tacanan	Hand	70
+500	Reyesano	Hand	-/emechuja	-			27	Panoan	Hand	70
+501	Sapibokona	Hand	eme	eme	e m e		27	Tacanan	Hand	70
+502	Araona	Hand	eme	eme	e m e		27	Tacanan	Hand	70
+503	Cavinena	Hand	e-me	e-me	e + m e		27	Tacanan	Hand	70
+504	EseEjja	Hand	e-me	e-me	e + m e		27	Tacanan	Hand	70
+505	Warayo	Hand	e-mé	e-mé	e + m !é/e		27	Tacanan	Hand	70
+506	Arasa	Hand	emã	emã	e m ã		27	Tacanan	Hand	70
+168	Proto-Pano-Takana	I	ʔɨ	ʔɨ	ʔ ɨ		28		I	11
+169	Proto-Pano	I	ʔɨ	ʔɨ	ʔ ɨ		28	Panoan	I	11
+170	Kakataibo	I	ʔɨ	ʔɨ	ʔ ɨ		28	Panoan	I	11
+171	ShipiboKonibo	I	ʔɨ	ʔɨ	ʔ ɨ		28	Panoan	I	11
+172	Kapanawa	I	ʔɨ	ʔɨ	ʔ ɨ		28	Panoan	I	11
+173	Chacobo	I	ɨ	ɨ	ɨ		28	Panoan	I	11
+384	Amawaka	I	ɨ	ɨ	ɨ		28	Panoan	I	11
+385	Kaxinawa	I	ɨ	ɨ	ɨ		28	Panoan	I	11
+386	Marinawa	I	ɨ	ɨ	ɨ		28	Panoan	I	11
+546	Proto-Takana	I	e	e	e		28	Tacanan	I	11
+547	Tacanan	I	e-ma	e-ma	e + m a		28	Tacanan	I	11
+548	Reyesano	I	e-me/éme	e-me	e + m e		28	Panoan	I	11
+549	Araona	I	ema,yama	ema	e m a		28	Tacanan	I	11
+550	Cavinena	I	e-ra	e-ra	e + r a		28	Tacanan	I	11
+551	EseEjja	I	ea,eyaya	ea	e a		28	Tacanan	I	11
+629	Proto-Pano-Takana	IMPERATIVE	-gʷɨ	-gʷɨ	gʷ ɨ		29		IMPERATIVE	43
+630	Proto-Pano	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+631	Kakataibo	IMPERATIVE	-ɨ	-ɨ	ɨ		29	Panoan	IMPERATIVE	43
+632	ShipiboKonibo	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+633	Kapanawa	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+634	Marubo	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+635	Chacobo	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+636	Kaxarari	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+637	Yaminawa	IMPERATIVE	-ɸɨ	-ɸɨ	ɸ ɨ		29	Panoan	IMPERATIVE	43
+638	Sharanawa	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+730	Shanenawa	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+731	Katukina	IMPERATIVE	wɨ	wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+732	Kaxinawa	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+733	Marinawa	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+734	Yawanawa	IMPERATIVE	-wɨ	-wɨ	w ɨ		29	Panoan	IMPERATIVE	43
+799	Proto-Takana	IMPERATIVE	-kʷe	-kʷe	kʷ e	Girard additionally lists -he for Warisa.	29	Tacanan	IMPERATIVE	43
+800	Tacanan	IMPERATIVE	-ke	-ke	k e		29	Tacanan	IMPERATIVE	43
+801	Cavinena	IMPERATIVE	-kwe	-kwe	kʷ e		29	Tacanan	IMPERATIVE	43
+115	Proto-Pano-Takana	Knee	da-n	da-n	d a + n		30		Knee	37
+116	Proto-Pano	Knee	rã-	rã-	r ã		30	Panoan	Knee	37
+117	Kakataibo	Knee	rãβoʂo	rãβoʂo	r ã β o ʂ o		30	Panoan	Knee	37
+118	ShipiboKonibo	Knee	rãβoʂo	rãβoʂo	r ã β o ʂ o		30	Panoan	Knee	37
+119	Kapanawa	Knee	rãβoʂo	rãβoʂo	r ã β o ʂ o		30	Panoan	Knee	37
+120	Marubo	Knee	ravuʃɨ	ravuʃɨ	r a v u ʃ ɨ		30	Panoan	Knee	37
+121	Kaxarari	Knee	tʃãburu	tʃãburu	tʃ ã b u r u		30	Panoan	Knee	37
+339	Katukina	Knee	raβɨʂo	raβɨʂo	r a β ɨ ʂ o		30	Panoan	Knee	37
+340	Amawaka	Knee	rawoxko	rawoxko	r a w o x k o		30	Panoan	Knee	37
+523	Proto-Takana	Knee	da	da	d a		30	Tacanan	Knee	37
+524	Tacanan	Knee	e-ma-da-cua	e-ma-da-cua	e + m a + d a + kʷ a		30	Tacanan	Knee	37
+41	Proto-Pano-Takana	Leaf	pɨʔi	pɨʔi	p ɨ ʔ i		31		Leaf	
+42	Proto-Pano	Leaf	pɨʔi	pɨʔi	p ɨ ʔ i		31	Panoan	Leaf	
+43	Kakataibo	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+44	ShipiboKonibo	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+45	Kapanawa	Leaf	pɨʔi	pɨʔi	p ɨ ʔ i		31	Panoan	Leaf	
+46	Marubo	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+47	Chacobo	Leaf	pɨʔi	pɨʔi	p ɨ ʔ i		31	Panoan	Leaf	
+48	Kaxarari	Leaf	pɨʔi	pɨʔi	p ɨ ʔ i		31	Panoan	Leaf	
+49	Yaminawa	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+50	Chaninawa	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+51	Sharanawa	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+287	Shanenawa	Leaf	pɨj	pɨj	p ɨ j		31	Panoan	Leaf	
+288	Katukina	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+289	Poyanawa	Leaf	puy	puy	p u j		31	Panoan	Leaf	
+290	Amawaka	Leaf	pɨʔi	pɨʔi	p ɨ ʔ i		31	Panoan	Leaf	
+291	Kaxinawa	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+292	Marinawa	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+293	Yawanawa	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+294	Matis	Leaf	pɨi	pɨi	p ɨ i		31	Panoan	Leaf	
+295	Matses	Leaf	pɨ	pɨ	p ɨ		31	Panoan	Leaf	
+217	Proto-Pano-Takana	Lip,edge	kʷɨ~kɨ-	kʷɨ	kʷ ɨ		32		Lip,edge	59
+218	Proto-Pano	Lip,edge	kʷɨ-	kʷɨ-	kʷ ɨ		32	Panoan	Lip,edge	59
+219	Kakataibo	Lip,edge	kʷɨβi-	kʷɨβi-	kʷ ɨ β i		32	Panoan	Lip,edge	59
+220	ShipiboKonibo	Lip,edge	kɨβi-	kɨβi-	k ɨ β i		32	Panoan	Lip,edge	59
+221	Chacobo	Lip,edge	kɨβitʃi	kɨβitʃi	k ɨ β i tʃ i		32	Panoan	Lip,edge	59
+222	Sharanawa	Lip,edge	kuɸirisika	kuɸirisika	k u ɸ i r i s i k a		32	Panoan	Lip,edge	59
+424	Kaxinawa	Lip,edge	kɨbitʃi	kɨbitʃi	k ɨ b i tʃ i		32	Panoan	Lip,edge	59
+425	Matses	Lip,edge	kwibi	kwibi	kʷ i b i		32	Panoan	Lip,edge	59
+574	Proto-Takana	Lip,edge	kʷe(i)-	kʷe-	kʷ e		32	Tacanan	Lip,edge	59
+575	Tacanan	Lip,edge	e-ke-ke	e-ke-ke	e + k e + k e		32	Tacanan	Lip,edge	59
+576	Reyesano	Lip,edge	kwesa/euesa	kwesa	kʷ e s a	'beard'/'beard'	32	Panoan	Lip,edge	59
+577	Cavinena	Lip,edge	kwesa	kwesa	kʷ e s a	'beard'	32	Tacanan	Lip,edge	59
+578	EseEjja	Lip,edge	e-kwe-ša	e-kwe-ša	e + kʷ e + ʃ a	'beard'	32	Tacanan	Lip,edge	59
+31	Proto-Pano-Takana	Liver	takʷa	takʷa	t a kʷ a		33		Liver	104
+32	Proto-Pano	Liver	takʷa	takʷa	t a kʷ a		33	Panoan	Liver	104
+33	Kakataibo	Liver	takʷa	takʷa	t a kʷ a		33	Panoan	Liver	104
+34	ShipiboKonibo	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+35	Kapanawa	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+36	Marubo	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+37	Chacobo	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+38	Kaxarari	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+39	Chaninawa	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+40	Sharanawa	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+277	Shanenawa	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+278	Katukina	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+279	Poyanawa	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+280	Amawaka	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+281	Kaxinawa	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+282	Marinawa	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+283	Yawanawa	Liver	taka	taka	t a k a		33	Panoan	Liver	104
+284	Korubo	Liver	takʷa	takʷa	t a kʷ a		33	Panoan	Liver	104
+285	Matis	Liver	takua	takua	t a kʷ a		33	Panoan	Liver	104
+286	Matses	Liver	takʷa	takʷa	t a kʷ a		33	Panoan	Liver	104
+472	Proto-Takana	Liver	takʷa	takʷa	t a kʷ a		33	Tacanan	Liver	104
+473	Tacanan	Liver	e-takwa	e-takwa	e + t a kʷ a		33	Tacanan	Liver	104
+474	Reyesano	Liver	e-takwa/-	e-takwa	e + t a kʷ a		33	Panoan	Liver	104
+475	Cavinena	Liver	e-takwa	e-takwa	e + t a kʷ a		33	Tacanan	Liver	104
+476	EseEjja	Liver	e-kakwa	e-kakwa	e + k a kʷ a		33	Tacanan	Liver	104
+477	Warayo	Liver	e-takwe	e-takwe	e + t a kʷ e		33	Tacanan	Liver	104
+478	Arasa	Liver	etákua	etákua	e t !á/a kʷ a		33	Tacanan	Liver	104
+530	Proto-Takana	Moon	badi	badi	b a d i		34	Tacanan	Moon	16
+531	Tacanan	Moon	badi	badi	b a d i		34	Tacanan	Moon	16
+532	Reyesano	Moon	mbandzi/bansri	mbandzi	m.b a n dz i		34	Panoan	Moon	16
+533	Sapibokona	Moon	bari	bari	b a r i		34	Tacanan	Moon	16
+534	Araona	Moon	badi	badi	b a d i		34	Tacanan	Moon	16
+535	Cavinena	Moon	badi	badi	b a d i		34	Tacanan	Moon	16
+536	EseEjja	Moon	baʔi	baʔi	b a ʔ i		34	Tacanan	Moon	16
+537	Chama	Moon	mái	mái	m !á/a i		34	Tacanan	Moon	16
+233	Proto-Pano-Takana	Mouth	kʷeʂa	kʷeʂa	kʷ e ʂ a		35		Mouth	
+234	Proto-Pano	Mouth	kʷɨʂa[CV]	kʷɨʂa	kʷ ɨ ʂ a		35	Panoan	Mouth	
+235	Kakataibo	Mouth	kʷɨʂa	kʷɨʂa	kʷ ɨ ʂ a		35	Panoan	Mouth	
+236	ShipiboKonibo	Mouth	kɨʂa	kɨʂa	k ɨ ʂ a		35	Panoan	Mouth	
+237	Kapanawa	Mouth	kɨʂa	kɨʂa	k ɨ ʂ a		35	Panoan	Mouth	
+238	Marubo	Mouth	kɨʃa	kɨʃa	k ɨ ʃ a		35	Panoan	Mouth	
+239	Kaxarari	Mouth	kɨʂaka	kɨʂaka	k ɨ ʂ a k a		35	Panoan	Mouth	
+240	Yaminawa	Mouth	kɨʂã,kɨʂamã	kɨʂã	k ɨ ʂ ã		35	Panoan	Mouth	
+241	Chaninawa	Mouth	kɨʃa,kɨʂa	kɨʃa	k ɨ ʃ a		35	Panoan	Mouth	
+242	Sharanawa	Mouth	kɨʂa,kɨʂan	kɨʂa	k ɨ ʂ a		35	Panoan	Mouth	
+432	Shanenawa	Mouth	kɨʂa	kɨʂa	k ɨ ʂ a		35	Panoan	Mouth	
+433	Katukina	Mouth	kɨʂa	kɨʂa	k ɨ ʂ a		35	Panoan	Mouth	
+434	Poyanawa	Mouth	kɨxaa	kɨxaa	k ɨ x a a		35	Panoan	Mouth	
+435	Amawaka	Mouth	kɨʂa	kɨʂa	k ɨ ʂ a		35	Panoan	Mouth	
+436	Kaxinawa	Mouth	kɨʂ̃a	kɨʂ̃a	k ɨ ʂ ã		35	Panoan	Mouth	
+437	Marinawa	Mouth	kɨʃa	kɨʃa	k ɨ ʃ a		35	Panoan	Mouth	
+438	Yawanawa	Mouth	kɨha	kɨha	k ɨ h a		35	Panoan	Mouth	
+583	Proto-Takana	Mouth	kʷatʂa	kʷatʂa	kʷ a tʂ a		35	Tacanan	Mouth	
+584	Tacanan	Mouth	e-kwaca	e-kwaca	e + kʷ a tʂ a		35	Tacanan	Mouth	
+585	Reyesano	Mouth	e-kwaca/ekuatra	e-kwaca	e + kʷ a tʂ a		35	Panoan	Mouth	
+586	Sapibokona	Mouth	ecuacha	ecuacha	e kʷ a tʃ a		35	Tacanan	Mouth	
+587	Mabenaro	Mouth	ikwatsa	ikwatsa	i kʷ a ts a		35	Tacanan	Mouth	
+588	Cavinena	Mouth	e-kwaca	e-kwaca	e + kʷ a tʂ a		35	Tacanan	Mouth	
+589	EseEjja	Mouth	e-kwasa	e-kwasa	e + kʷ a s a		35	Tacanan	Mouth	
+590	Warayo	Mouth	e-kwasa	e-kwasa	e + kʷ a s a		35	Tacanan	Mouth	
+658	Proto-Pano-Takana	NEGATIVE	-(...a)ma	-ma	m a		36		NEGATIVE	61
+659	Proto-Pano	NEGATIVE	-[ya]ma	-yama	j a m a	verbal	36	Panoan	NEGATIVE	61
+660	Kakataibo	NEGATIVE	-ma	-ma	m a		36	Panoan	NEGATIVE	61
+661	ShipiboKonibo	NEGATIVE	-yama	-yama	j a m a		36	Panoan	NEGATIVE	61
+662	Kapanawa	NEGATIVE	yama	yama	j a m a		36	Panoan	NEGATIVE	61
+663	Marubo	NEGATIVE	-ma,-ama	-ma	m a		36	Panoan	NEGATIVE	61
+664	Chacobo	NEGATIVE	-yama	-yama	j a m a		36	Panoan	NEGATIVE	61
+665	Kaxarari	NEGATIVE	-ma,maʔa	-ma	m a		36	Panoan	NEGATIVE	61
+666	Yaminawa	NEGATIVE	maa,ma,yama	maa	m a a	'not','negative','negative prohibitive'	36	Panoan	NEGATIVE	61
+667	Sharanawa	NEGATIVE	-ma,-yama	-ma	m a	'no','imperative,negative,prohibitive'	36	Panoan	NEGATIVE	61
+740	Shanenawa	NEGATIVE	-ma,-yama,	-ma	m a	'negación general','negación de imperativo	36	Panoan	NEGATIVE	61
+741	Katukina	NEGATIVE	yama,ma	yama	j a m a	'no tener,negativo','no'	36	Panoan	NEGATIVE	61
+742	Poyanawa	NEGATIVE	ba	ba	b a	'asertivo negativo'	36	Panoan	NEGATIVE	61
+743	Amawaka	NEGATIVE	-yama	-yama	j a m a		36	Panoan	NEGATIVE	61
+744	Kaxinawa	NEGATIVE	-ma,-yama	-ma	m a		36	Panoan	NEGATIVE	61
+745	Marinawa	NEGATIVE	-ma	-ma	m a		36	Panoan	NEGATIVE	61
+746	Yawanawa	NEGATIVE	-ma	-ma	m a	'negación'	36	Panoan	NEGATIVE	61
+747	Korubo	NEGATIVE	-ma	-ma	m a	'negación pasado'	36	Panoan	NEGATIVE	61
+748	Matis	NEGATIVE	-ama	-ama	a m a	'negación pasado'	36	Panoan	NEGATIVE	61
+818	Proto-Takana	NEGATIVE	-(a)ma	-ma	m a	verbal and nominal	36	Tacanan	NEGATIVE	61
+819	Tacanan	NEGATIVE	-(a)ma	-ma	m a		36	Tacanan	NEGATIVE	61
+820	Cavinena	NEGATIVE	-(a)ma	-ma	m a		36	Tacanan	NEGATIVE	61
+821	EseEjja	NEGATIVE	-(a)ma	-ma	m a		36	Tacanan	NEGATIVE	61
+84	Proto-Pano-Takana	Night	mɨta	mɨta	m ɨ t a		37		Night	71
+85	Proto-Pano	Night	yamɨtV	yamɨt	j a m ɨ t		37	Panoan	Night	71
+86	Kakataibo	Night	imɨ	imɨ	i m ɨ		37	Panoan	Night	71
+87	ShipiboKonibo	Night	yamɨ	yamɨ	j a m ɨ		37	Panoan	Night	71
+88	Kapanawa	Night	yamɨ	yamɨ	j a m ɨ		37	Panoan	Night	71
+89	Marubo	Night	yamɨ	yamɨ	j a m ɨ		37	Panoan	Night	71
+90	Kaxarari	Night	yamɨta	yamɨta	j a m ɨ t a		37	Panoan	Night	71
+91	Yaminawa	Night	yamɨa	yamɨa	j a m ɨ a		37	Panoan	Night	71
+92	Chaninawa	Night	yabɨ	yabɨ	j a b ɨ		37	Panoan	Night	71
+93	Sharanawa	Night	yamɨ	yamɨ	j a m ɨ		37	Panoan	Night	71
+318	Shanenawa	Night	yamɨ	yamɨ	j a m ɨ		37	Panoan	Night	71
+319	Katukina	Night	yamɨ	yamɨ	j a m ɨ		37	Panoan	Night	71
+320	Poyanawa	Night	iãvu	iãvu	i ã v u		37	Panoan	Night	71
+321	Amawaka	Night	yamɨː	yamɨː	j a m ɨː		37	Panoan	Night	71
+322	Kaxinawa	Night	yamɨ	yamɨ	j a m ɨ		37	Panoan	Night	71
+323	Marinawa	Night	yamɨ	yamɨ	j a m ɨ		37	Panoan	Night	71
+324	Yawanawa	Night	iamɨ	iamɨ	i a m ɨ		37	Panoan	Night	71
+325	Korubo	Night	imɨt	imɨt	i m ɨ t		37	Panoan	Night	71
+326	Matis	Night	imɨd	imɨd	i m ɨ d		37	Panoan	Night	71
+507	Proto-Takana	Night	meta	meta	m e t a		37	Tacanan	Night,tomorrow	71
+508	Tacanan	Night	mueta	mueta	m u e t a		37	Tacanan	Night,tomorrow	71
+509	Reyesano	Night	-/maita	-			37	Panoan	Night,tomorrow	71
+510	Sapibokona	Night	maetahe	maetahe	m a e t a h e		37	Tacanan	Night,tomorrow	71
+511	Cavinena	Night	meta	meta	m e t a		37	Tacanan	Night,tomorrow	71
+512	EseEjja	Night	meka-waxe	meka-waxe	m e k a + w a x e		37	Tacanan	Night,tomorrow	71
+513	Arasa	Night	eméte	eméte	e m !é/e t e		37	Tacanan	Night,tomorrow	71
+707	Proto-Pano-Takana	PREVIOUS EVENT, SAME-SUBJECT	-ṣu	-ṣu	s u		38		PREVIOUS EVENT, SAME-SUBJECT	
+708	Proto-Pano	PREVIOUS EVENT, SAME-SUBJECT	-ʂo-n	-ʂo-n	ʂ o + n		38	Panoan	PREVIOUS EVENT, SAME-SUBJECT	
+709	Kakataibo	PREVIOUS EVENT, SAME-SUBJECT	-ʂun	-ʂun	ʂ u n		38	Panoan	PREVIOUS EVENT, SAME-SUBJECT	
+710	ShipiboKonibo	PREVIOUS EVENT, SAME-SUBJECT	-ʂon	-ʂon	ʂ o n		38	Panoan	PREVIOUS EVENT, SAME-SUBJECT	
+711	Chacobo	PREVIOUS EVENT, SAME-SUBJECT	-ʂo	-ʂo	ʂ o		38	Panoan	PREVIOUS EVENT, SAME-SUBJECT	
+712	Kaxarari	PREVIOUS EVENT, SAME-SUBJECT	-ʂu	-ʂu	ʂ u		38	Panoan	PREVIOUS EVENT, SAME-SUBJECT	
+766	Amawaka	PREVIOUS EVENT, SAME-SUBJECT	=çon	=çon	ts o n		38	Panoan	PREVIOUS EVENT, SAME-SUBJECT	
+767	Kaxinawa	PREVIOUS EVENT, SAME-SUBJECT	=ʂun	=ʂun	ʂ u n		38	Panoan	PREVIOUS EVENT, SAME-SUBJECT	
+768	Matis	PREVIOUS EVENT, SAME-SUBJECT	=ʂun	=ʂun	ʂ u n		38	Panoan	PREVIOUS EVENT, SAME-SUBJECT	
+769	Matses	PREVIOUS EVENT, SAME-SUBJECT	=ʂun	=ʂun	ʂ u n		38	Panoan	PREVIOUS EVENT, SAME-SUBJECT	
+847	Proto-Takana	PREVIOUS EVENT, SAME-SUBJECT	-ṭṣu	-ṭṣu	ts u		38	Tacanan	PREVIOUS EVENT, SAME-SUBJECT	
+848	Tacanan	PREVIOUS EVENT, SAME-SUBJECT	-su	-su	s u		38	Tacanan	PREVIOUS EVENT, SAME-SUBJECT	
+849	Araona	PREVIOUS EVENT, SAME-SUBJECT	-tso	-tso	ts o		38	Tacanan	PREVIOUS EVENT, SAME-SUBJECT	
+850	Cavinena	PREVIOUS EVENT, SAME-SUBJECT	-atsu~-tsu	-atsu	a ts u		38	Tacanan	PREVIOUS EVENT, SAME-SUBJECT	
+94	Proto-Pano-Takana	Skin	bitsi	bitsi	b i ts i		39		Skin	22
+95	Proto-Pano	Skin	βitsi	βitsi	β i ts i		39	Panoan	Skin	22
+96	Kakataibo	Skin	βitʃi	βitʃi	β i tʃ i		39	Panoan	Skin	22
+97	ShipiboKonibo	Skin	βitʃi	βitʃi	β i tʃ i		39	Panoan	Skin	22
+98	Kapanawa	Skin	βitʃi	βitʃi	β i tʃ i		39	Panoan	Skin	22
+99	Marubo	Skin	vitʃi	vitʃi	v i tʃ i		39	Panoan	Skin	22
+100	Chacobo	Skin	βitʃi	βitʃi	β i tʃ i		39	Panoan	Skin	22
+101	Kaxarari	Skin	bitʃi	bitʃi	b i tʃ i		39	Panoan	Skin	22
+102	Chaninawa	Skin	ɸitʃi	ɸitʃi	ɸ i tʃ i		39	Panoan	Skin	22
+103	Sharanawa	Skin	ɸitʃi	ɸitʃi	ɸ i tʃ i		39	Panoan	Skin	22
+327	Shanenawa	Skin	fitʃi	fitʃi	f i tʃ i		39	Panoan	Skin	22
+328	Kaxinawa	Skin	bitʃi	bitʃi	b i tʃ i		39	Panoan	Skin	22
+329	Marinawa	Skin	ɸitʃi	ɸitʃi	ɸ i tʃ i		39	Panoan	Skin	22
+330	Yawanawa	Skin	βɨtʃi	βɨtʃi	β ɨ tʃ i		39	Panoan	Skin	22
+331	Matis	Skin	bitsi	bitsi	b i ts i		39	Panoan	Skin	22
+332	Matses	Skin	bitsi	bitsi	b i ts i		39	Panoan	Skin	22
+514	Proto-Takana	Skin	biti	biti	b i t i		39	Tacanan	Skin	22
+515	Tacanan	Skin	e-biti	e-biti	e + b i t i		39	Tacanan	Skin	22
+516	Reyesano	Skin	e-mbiti/embiti	e-mbiti	e + m.b i t i		39	Panoan	Skin	22
+517	Cavinena	Skin	e-biti	e-biti	e + b i t i		39	Tacanan	Skin	22
+142	Proto-Pano-Takana	Sun	badi	badi	b a d i		40		Sun	16
+143	Proto-Pano	Sun	βari	βari	β a r i		40	Panoan	Sun	16
+144	Kakataibo	Sun	βaɾi	βaɾi	β a ɾ i		40	Panoan	Sun	16
+145	ShipiboKonibo	Sun	βaɾi	βaɾi	β a ɾ i		40	Panoan	Sun	16
+146	Kapanawa	Sun	βaɾi	βaɾi	β a ɾ i		40	Panoan	Sun	16
+147	Marubo	Sun	vaɾi	vaɾi	v a ɾ i		40	Panoan	Sun	16
+148	Chacobo	Sun	βaɾi	βaɾi	β a ɾ i		40	Panoan	Sun	16
+149	Kaxarari	Sun	βatʃi	βatʃi	β a tʃ i		40	Panoan	Sun	16
+150	Chaninawa	Sun	ɸaɾi	ɸaɾi	ɸ a ɾ i		40	Panoan	Sun	16
+151	Sharanawa	Sun	ɸari	ɸari	ɸ a r i		40	Panoan	Sun	16
+361	Shanenawa	Sun	faɾi	faɾi	f a ɾ i		40	Panoan	Sun	16
+362	Katukina	Sun	βaɾi	βaɾi	β a ɾ i		40	Panoan	Sun	16
+363	Poyanawa	Sun	βaɾi	βaɾi	β a ɾ i		40	Panoan	Sun	16
+364	Amawaka	Sun	bari	bari	b a r i		40	Panoan	Sun	16
+365	Kaxinawa	Sun	badi	badi	b a d i		40	Panoan	Sun	16
+366	Marinawa	Sun	ɸaɾi	ɸaɾi	ɸ a ɾ i		40	Panoan	Sun	16
+367	Yawanawa	Sun	βaɾi	βaɾi	β a ɾ i		40	Panoan	Sun	16
+368	Korubo	Sun	βaɬi	βaɬi	β a ɬ i		40	Panoan	Sun	16
+369	Matis	Sun	badi	badi	b a d i		40	Panoan	Sun	16
+370	Matses	Sun	badiad	badiad	b a d i a d		40	Panoan	Sun	16
+694	Proto-Pano-Takana	TRANSITIVIZER	-[w]a	-wa	w a		41		TRANSITIVIZER	1
+695	Proto-Pano	TRANSITIVIZER	-wa	-wa	w a		41	Panoan	TRANSITIVIZER	1
+696	Kakataibo	TRANSITIVIZER	-ɔ	-ɔ	ɔ		41	Panoan	TRANSITIVIZER	1
+697	Chacobo	TRANSITIVIZER	-wa	-wa	w a		41	Panoan	TRANSITIVIZER	1
+764	Kaxinawa	TRANSITIVIZER	wa-,-wa	wa-	w a		41	Panoan	TRANSITIVIZER	1
+834	Proto-Takana	TRANSITIVIZER	-a	-a	a	Girard additionally lists -a(-) for the Warayo.	41	Tacanan	TRANSITIVIZER	1
+835	Tacanan	TRANSITIVIZER	-a(-)	-a	a		41	Tacanan	TRANSITIVIZER	1
+836	Reyesano	TRANSITIVIZER	-a(-)/-	-a	a		41	Panoan	TRANSITIVIZER	1
+837	Cavinena	TRANSITIVIZER	-a(-)	-a	a		41	Tacanan	TRANSITIVIZER	1
+838	EseEjja	TRANSITIVIZER	-a(-)	-a	a		41	Tacanan	TRANSITIVIZER	1
+479	Proto-Takana	To fan	pei	pei	p e i		42	Tacanan	To fan	
+480	Cavinena	To fan	pei-	pei-	p e i		42	Tacanan	To fan	
+481	EseEjja	To fan	e-pexi	e-pexi	e + p e x i		42	Tacanan	To fan	
+482	Warayo	To fan	pio-	pio-	p i o		42	Tacanan	To fan	
+63	Proto-Pano-Takana	Tongue	hana	hana	h a n a		43		Tongue	46
+64	Proto-Pano	Tongue	hana	hana	h a n a		43	Panoan	Tongue	46
+65	Kakataibo	Tongue	ana	ana	a n a		43	Panoan	Tongue	46
+66	ShipiboKonibo	Tongue	hana	hana	h a n a		43	Panoan	Tongue	46
+67	Kapanawa	Tongue	hana	hana	h a n a		43	Panoan	Tongue	46
+68	Marubo	Tongue	ana	ana	a n a		43	Panoan	Tongue	46
+69	Chacobo	Tongue	hana	hana	h a n a		43	Panoan	Tongue	46
+70	Kaxarari	Tongue	hana	hana	h a n a		43	Panoan	Tongue	46
+71	Yaminawa	Tongue	ana	ana	a n a		43	Panoan	Tongue	46
+72	Chaninawa	Tongue	ada	ada	a d a		43	Panoan	Tongue	46
+73	Sharanawa	Tongue	ana	ana	a n a		43	Panoan	Tongue	46
+304	Shanenawa	Tongue	ana	ana	a n a		43	Panoan	Tongue	46
+305	Katukina	Tongue	ana	ana	a n a		43	Panoan	Tongue	46
+306	Poyanawa	Tongue	ãda	ãda	ã d a		43	Panoan	Tongue	46
+307	Amawaka	Tongue	hana	hana	h a n a		43	Panoan	Tongue	46
+308	Kaxinawa	Tongue	hana	hana	h a n a		43	Panoan	Tongue	46
+309	Marinawa	Tongue	ana	ana	a n a		43	Panoan	Tongue	46
+310	Yawanawa	Tongue	anna	anna	a n n a		43	Panoan	Tongue	46
+311	Korubo	Tongue	ana	ana	a n a		43	Panoan	Tongue	46
+312	Matis	Tongue	ana	ana	a n a		43	Panoan	Tongue	46
+489	Proto-Takana	Tongue	ana	ana	a n a		43	Tacanan	Tongue	46
+490	Tacanan	Tongue	y-ana	y-ana	j + a n a		43	Tacanan	Tongue	46
+491	Reyesano	Tongue	y-ana/eana	y-ana	j + a n a		43	Panoan	Tongue	46
+492	Sapibokona	Tongue	eana	eana	e a n a		43	Tacanan	Tongue	46
+493	Cavinena	Tongue	y-ana	y-ana	j + a n a		43	Tacanan	Tongue	46
+494	EseEjja	Tongue	eyana	eyana	e j a n a		43	Tacanan	Tongue	46
+495	Warayo	Tongue	y-ana	y-ana	j + a n a		43	Tacanan	Tongue	46
+496	Tiatinawa	Tongue	yana	yana	j a n a		43	Tacanan	Tongue	46
+497	Arasa	Tongue	eána	eána	e !á/a n a		43	Tacanan	Tongue	46
+11	Proto-Pano-Takana	Tooth	ʂɨ-	ʂɨ-	ʂ ɨ		44		Tooth	96
+12	Proto-Pano	Tooth	ʂɨ-	ʂɨ-	ʂ ɨ		44	Panoan	Tooth	96
+13	Kakataibo	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+14	ShipiboKonibo	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+15	Kapanawa	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+16	Marubo	Tooth	ʃɨta	ʃɨta	ʃ ɨ t a		44	Panoan	Tooth	96
+17	Chacobo	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+18	Kaxarari	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+19	Sharanawa	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+259	Shanenawa	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+260	Katukina	Tooth	ʂita	ʂita	ʂ i t a		44	Panoan	Tooth	96
+261	Amawaka	Tooth	xɨta	xɨta	x ɨ t a		44	Panoan	Tooth	96
+262	Kaxinawa	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+263	Marinawa	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+264	Yawanawa	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+265	Korubo	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+266	Matis	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+267	Matses	Tooth	ʂɨta	ʂɨta	ʂ ɨ t a		44	Panoan	Tooth	96
+452	Proto-Takana	Tooth	e-ce	e-ce	e + tʂ e		44	Tacanan	Tooth	96
+453	Reyesano	Tooth	e-ce/etre	e-ce	e + tʂ e		44	Panoan	Tooth	96
+454	Sapibokona	Tooth	echee	echee	e tʃ e e		44	Tacanan	Tooth	96
+455	Mabenaro	Tooth	itsi	itsi	i ts i		44	Tacanan	Tooth	96
+456	Cavinena	Tooth	e-ce	e-ce	e + tʂ e		44	Tacanan	Tooth	96
+457	EseEjja	Tooth	e-se	e-se	e + s e		44	Tacanan	Tooth	96
+458	Warayo	Tooth	e-sé	e-sé	e + s !é/e		44	Tacanan	Tooth	96
+459	Tiatinawa	Tooth	ese	ese	e s e		44	Tacanan	Tooth	96
+460	Chama	Tooth	e-sé	e-sé	e + s !é/e		44	Tacanan	Tooth	96
+461	Arasa	Tooth	ese	ese	e s e		44	Tacanan	Tooth	96
+1	Proto-Pano-Takana	Tree	hegʷi	hegʷi	h e gʷ i		45		Tree	47
+2	Proto-Pano	Tree	hiwi	hiwi	h i w i		45	Panoan	Tree	47
+3	Kakataibo	Tree	i	i	i		45	Panoan	Tree	47
+4	ShipiboKonibo	Tree	hiwi	hiwi	h i w i		45	Panoan	Tree	47
+5	Kapanawa	Tree	hiwi	hiwi	h i w i		45	Panoan	Tree	47
+6	Marubo	Tree	iwi	iwi	i w i		45	Panoan	Tree	47
+7	Chacobo	Tree	hiwi	hiwi	h i w i		45	Panoan	Tree	47
+8	Kaxarari	Tree	hiwi	hiwi	h i w i		45	Panoan	Tree	47
+9	Yaminawa	Tree	iɸi	iɸi	i ɸ i		45	Panoan	Tree	47
+10	Sharanawa	Tree	iɸi	iɸi	i ɸ i		45	Panoan	Tree	47
+251	Shanenawa	Tree	iwi	iwi	i w i		45	Panoan	Tree	47
+252	Katukina	Tree	hiwi	hiwi	h i w i		45	Panoan	Tree	47
+253	Poyanawa	Tree	iwi	iwi	i w i		45	Panoan	Tree	47
+254	Amawaka	Tree	hiː	hiː	h iː		45	Panoan	Tree	47
+255	Kaxinawa	Tree	hi	hi	h i		45	Panoan	Tree	47
+256	Marinawa	Tree	iwi	iwi	i w i		45	Panoan	Tree	47
+257	Korubo	Tree	iwi	iwi	i w i		45	Panoan	Tree	47
+258	Matses	Tree	iwi	iwi	i w i		45	Panoan	Tree	47
+443	Proto-Takana	Tree	akʷi	akʷi	a kʷ i		45	Tacanan	Tree	47
+444	Tacanan	Tree	aki	aki	a k i		45	Tacanan	Tree	47
+445	Reyesano	Tree	-/ekená	-			45	Panoan	Tree	47
+446	Araona	Tree	acui	acui	a kʷ i		45	Tacanan	Tree	47
+447	Mabenaro	Tree	akwi	akwi	a kʷ i		45	Tacanan	Tree	47
+448	Cavinena	Tree	akwi	akwi	a kʷ i		45	Tacanan	Tree	47
+449	EseEjja	Tree	akwi	akwi	a kʷ i		45	Tacanan	Tree	47
+450	Warayo	Tree	akwi	akwi	a kʷ i		45	Tacanan	Tree	47
+451	Arasa	Tree	akui	akui	a kʷ i		45	Tacanan	Tree	47
+20	Proto-Pano-Takana	Two	bɨta	bɨta	b ɨ t a		46		Two	24
+21	Proto-Pano	Two	ra-βɨta	ra-βɨta	r a + β ɨ t a		46	Panoan	Two	24
+22	Kakataibo	Two	raβɨ	raβɨ	r a β ɨ		46	Panoan	Two	24
+23	ShipiboKonibo	Two	raβɨ	raβɨ	r a β ɨ		46	Panoan	Two	24
+24	Kapanawa	Two	raβɨ	raβɨ	r a β ɨ		46	Panoan	Two	24
+25	Marubo	Two	ravɨvakĩ	ravɨvakĩ	r a v ɨ v a k ĩ		46	Panoan	Two	24
+26	Chacobo	Two	raβɨ	raβɨ	r a β ɨ		46	Panoan	Two	24
+27	Kaxarari	Two	tʃabɨta	tʃabɨta	tʃ a b ɨ t a		46	Panoan	Two	24
+28	Yaminawa	Two	raɸɨ	raɸɨ	r a ɸ ɨ		46	Panoan	Two	24
+29	Chaninawa	Two	raɸɨ	raɸɨ	r a ɸ ɨ		46	Panoan	Two	24
+30	Sharanawa	Two	raɸɨ	raɸɨ	r a ɸ ɨ		46	Panoan	Two	24
+268	Shanenawa	Two	rafu	rafu	r a f u		46	Panoan	Two	24
+269	Katukina	Two	raβi	raβi	r a β i		46	Panoan	Two	24
+270	Poyanawa	Two	raβu	raβu	r a β u		46	Panoan	Two	24
+271	Amawaka	Two	raβɨ	raβɨ	r a β ɨ		46	Panoan	Two	24
+272	Marinawa	Two	raɸɨ	raɸɨ	r a ɸ ɨ		46	Panoan	Two	24
+273	Yawanawa	Two	raβɨ	raβɨ	r a β ɨ		46	Panoan	Two	24
+274	Korubo	Two	ɬaβɨtpa	ɬaβɨtpa	ɬ a β ɨ t p a		46	Panoan	Two	24
+275	Matis	Two	dabɨdpa	dabɨdpa	d a b ɨ d p a		46	Panoan	Two	24
+276	Matses	Two	daɨd	daɨd	d a ɨ d		46	Panoan	Two	24
+462	Proto-Takana	Two	beta	beta	b e t a		46	Tacanan	Two	24
+463	Tacanan	Two	beta	beta	b e t a		46	Tacanan	Two	24
+464	Reyesano	Two	mbeta/beta	mbeta	m.b e t a		46	Panoan	Two	24
+465	Sapibokona	Two	beta	beta	b e t a		46	Tacanan	Two	24
+466	Araona	Two	beta	beta	b e t a		46	Tacanan	Two	24
+467	Cavinena	Two	beta	beta	b e t a		46	Tacanan	Two	24
+468	EseEjja	Two	beka	beka	b e k a		46	Tacanan	Two	24
+469	Warayo	Two	beabué	beabué	b e a b u !é/e		46	Tacanan	Two	24
+470	Tiatinawa	Two	bikapiai	bikapiai	b i k a p i a i		46	Tacanan	Two	24
+471	Chama	Two	béka	béka	b !é/e k a		46	Tacanan	Two	24
+152	Proto-Pano-Takana	You	mi	mi	m i		47		You	72
+153	Proto-Pano	You	mi	mi	m i		47	Panoan	You	72
+154	Kakataibo	You	miː	miː	m iː		47	Panoan	You	72
+155	ShipiboKonibo	You	mia	mia	m i a		47	Panoan	You	72
+156	Kapanawa	You	mia	mia	m i a		47	Panoan	You	72
+157	Chacobo	You	mia	mia	m i a	object form	47	Panoan	You	72
+371	Amawaka	You	miya	miya	m i j a		47	Panoan	You	72
+372	Kaxinawa	You	mia	mia	m i a		47	Panoan	You	72
+373	Marinawa	You	mia	mia	m i a		47	Panoan	You	72
+374	Korubo	You	mi	mi	m i		47	Panoan	You	72
+375	Matis	You	mi (minbi,mibi,min)	mi_	m i		47	Panoan	You	72
+376	Matses	You	mi (minbi,mibi,min)	mi_	m i		47	Panoan	You	72
+538	Proto-Takana	You	mi	mi	m i		47	Tacanan	You	72
+539	Tacanan	You	mi-ke	mi-ke	m i + k e		47	Tacanan	You	72
+540	Reyesano	You	mibe/mive	mibe	m i b e		47	Panoan	You	72
+541	Araona	You	mitya	mitya	m i t j a		47	Tacanan	You	72
+542	Cavinena	You	mi-kwana	mi-kwana	m i + kʷ a n a		47	Tacanan	You	72
+543	EseEjja	You	mi-a	mi-a	m i + a		47	Tacanan	You	72
+544	Arasa	You	mikia	mikia	m i k i a		47	Tacanan	You	72
