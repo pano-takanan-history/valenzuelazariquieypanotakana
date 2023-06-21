@@ -1,34 +1,34 @@
-ID	Name	NameInSource	Glottocode
-ProPa	Proto-Panoan	proto-Pano	
-ProTa	Proto-Tacanan	proto-Takana	
-Ksh	Kakataibo	Kakataibo	cash1251
-SK	ShipiboKonibo	Shipibo-Konibo	ship1254
-Kap	Kapanawa	Kapanawa	capa1241
-Mar	Marúbo	Marubo	maru1252
-Chak	Chákobo	Chakobo	chac1251
-Kax	Kaxararí	Kaxarari	kaxa1239
-Yam	Yamináwa	Yaminawa	yami1256
-Chan	Chanináwa	Chaninawa	shan1283
-Shar	Sharanáwa	Sharanawa	shar1245
-Shan	Shanenáwa	Shanenawa	shan1283
-Kat	Katukina	Katukina	pano1254
-Poy	Poyanáwa	Poyanawa	poya1241
-Ama	Amawáka	Amahuaca	amah1246
-HanKax	Kaxinawá	Hantxakuin/Kaxinawa	cash1254
-Maw	Marináwa	Marinawa	mari1443
-Yaw	Yawanawá	Yawanawa	yawa1260
-Kor	Korúbo	Korubo	koru1247
-Mat	Matís	Matis	mati1255
-MatMay	Matsés	Matsés/Mayoruna	mats1244
-ReyMar	Reyesano	Reyesano/Maropa	reye1240
-Aro	Araona	Araona	arao1248
-Tac	Tacanan	Tacana	taca1255
-Mab	Mabenaro	Mabenaro	mabe1235
-Cav	Cavineña	Cavineña	cavi1250
-Ese	EseEjja	Ese' Ejja	esee1248
-War	Warayo	Warayo	guar1292
-Tia	Tiatinawa	Tiatinawa	
-Cham	Chama	Chama	cham1314
-Ara	Arasa	Arasa	araz1236
-Sap	Sapibokona	Sapibokona	reye1240
-ProPaTa	Pano-Tacanan	proto-Pano-Takana	pano1259
+ID	Name	NameInSource	Glottocode	SubGroup
+ProPa	Proto-Pano	proto-Pano		Panoan
+ProTa	Proto-Takana	proto-Takana		Tacanan
+Ksh	Kakataibo	Kakataibo	cash1251	Panoan
+SK	ShipiboKonibo	Shipibo-Konibo	ship1254	Panoan
+Kap	Kapanawa	Kapanawa	capa1241	Panoan
+Mar	Marubo	Marubo	maru1252	Panoan
+Chak	Chacobo	Chacobo	chac1251	Panoan
+Kax	Kaxarari	Kaxarari	kaxa1239	Panoan
+Yam	Yaminawa	Yaminawa	yami1256	Panoan
+Chan	Chaninawa	Chaninawa	shan1283	Panoan
+Shar	Sharanawa	Sharanawa	shar1245	Panoan
+Shan	Shanenawa	Shanenawa	shan1283	Panoan
+Kat	Katukina	Katukina	pano1254	Panoan
+Poy	Poyanawa	Poyanawa	poya1241	Panoan
+Ama	Amawaka	Amahuaca	amah1246	Panoan
+HanKax	Kaxinawa	Hantxakuin/Kaxinawa	cash1254	Panoan
+Maw	Marinawa	Marinawa	mari1443	Panoan
+Yaw	Yawanawa	Yawanawa	yawa1260	Panoan
+Kor	Korubo	Korubo	koru1247	Panoan
+Mat	Matis	Matis	mati1255	Panoan
+MatMay	Matses	Matsés/Mayoruna	mats1244	Panoan
+ReyMar	Reyesano	Reyesano/Maropa	reye1240	Panoan
+Aro	Araona	Araona	arao1248	Tacanan
+Tac	Tacanan	Tacana	taca1256	Tacanan
+Mab	Mabenaro	Mabenaro	mabe1235	Tacanan
+Cav	Cavinena	Cavineña	cavi1250	Tacanan
+Ese	EseEjja	Ese' Ejja	esee1248	Tacanan
+War	Warayo	Warayo	guar1292	Tacanan
+Tia	Tiatinawa	Tiatinawa		Tacanan
+Cham	Chama	Chama	cham1314	Tacanan
+Ara	Arasa	Arasa	araz1236	Tacanan
+Sap	Sapibokona	Sapibokona	reye1240	Tacanan
+ProPaTa	Proto-Pano-Takana	proto-Pano-Takana	pano1259

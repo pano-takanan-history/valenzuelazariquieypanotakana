@@ -5,13 +5,13 @@ from clldutils.misc import slug
 from lingpy import Wordlist
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
-from pylexibank import Language, Lexeme, Concept
+from pylexibank import Language, Lexeme
 from pylexibank import FormSpec
+
 
 @attr.s
 class CustomLanguage(Language):
-    NameInSource = attr.ib(default=None)
-#    Sources = attr.ib(default=None)
+    SubGroup = attr.ib(default=None)
 
 
 @attr.s
@@ -19,6 +19,8 @@ class CustomLexeme(Lexeme):
     Table = attr.ib(default=None)
     NumberInSource = attr.ib(default=None)
     FormFromProto = attr.ib(default=None)
+    ConceptInSource = attr.ib(default=None)
+    Shell = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -27,8 +29,8 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
     form_spec = FormSpec(
-        separators="~;,/-",
-        missing_data=["--", "- -", "-", "-- **", "--.", "- --"],
+        separators="~,/",
+        missing_data=["--", "- -", "-- **", "--.", "- --"],
         replacements=[
             (" ", "_"),
             ("[i]", "i"),
@@ -47,7 +49,7 @@ class Dataset(BaseDataset):
         args.log.info("added sources")
 
         # add conceptlists
-        concepts = {}
+        concepts = defaultdict()
         for concept in self.concepts:
             idx = concept["NUMBER"]+"_"+slug(concept["ENGLISH"])
             concepts[concept["ENGLISH"]] = idx
@@ -58,52 +60,63 @@ class Dataset(BaseDataset):
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
             )
 
-
         args.log.info("added concepts")
 
-        # add language
-        languages = args.writer.add_languages(lookup_factory="ID")
+        languages = defaultdict()
+        for language in self.languages:
+            args.writer.add_language(
+                    ID=language["Name"],
+                    Name=language["NameInSource"],
+                    Glottocode=language["Glottocode"],
+                    SubGroup=language["SubGroup"]
+                    )
+            languages[language["ID"]] = language["Name"]
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
-        data.renumber("CONCEPT", "cogid")
+        data.renumber("PROTO_CONCEPT", "cogid")
 
         # add data
         for (
             idx,
-            number,
-            number_in_source,
+            table,
+            id,
+            row_in_source,
+            proto_concept,
             concept,
-            numbering_reconstruction,
+            number_shell,
             proto_form,
             doculect,
             value,
-            note,
-            cogid
+            cogid,
+            note
         ) in pb(
             data.iter_rows(
-                "number",
-                "number_in_source",
+                "table",
+                "id",
+                "row_in_source",
+                "proto_concept",
                 "concept",
-                "numbering_reconstruction",
+                "number_shell",
                 "proto_form",
                 "doculect",
                 "value",
-                "note",
-                "cogid"
+                "cogid",
+                "note"
             ),
             desc="cldfify"
         ):
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[doculect],
-                    Parameter_ID=concepts[(concept)],
+                    Parameter_ID=concepts[(proto_concept)],
+                    ConceptInSource=concept,
+                    Shell=number_shell,
                     Value=value,
                     FormFromProto=proto_form,
                     Comment=note,
                     Cognacy=cogid,
                     Source="Valenzuela2023"
                     ):
-
                 args.writer.add_cognate(
                         lexeme=lexeme,
                         Cognateset_ID=cogid,
