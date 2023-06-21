@@ -74,7 +74,7 @@ class Dataset(BaseDataset):
             number,
             number_in_source,
             concept,
-            numbering_original_source,
+            numbering_reconstruction,
             proto_form,
             doculect,
             value,
@@ -85,7 +85,7 @@ class Dataset(BaseDataset):
                 "number",
                 "number_in_source",
                 "concept",
-                "numbering_original_source",
+                "numbering_reconstruction",
                 "proto_form",
                 "doculect",
                 "value",
@@ -101,7 +101,7 @@ class Dataset(BaseDataset):
                     FormFromProto=proto_form,
                     Comment=note,
                     Cognacy=cogid,
-                    Source="Valenzuela2013"
+                    Source="Valenzuela2023"
                     ):
 
                 args.writer.add_cognate(
