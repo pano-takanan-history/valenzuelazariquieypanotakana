@@ -42,7 +42,7 @@ class Dataset(BaseDataset):
             ("CV", ""),
             ("V", "")
         ],
-        first_form_only=True
+        first_form_only=False
         )
 
     def cmd_download(self, _):
@@ -55,14 +55,16 @@ class Dataset(BaseDataset):
                         "ALIGNMENT",
                         "COGID",
                         "TOKENS",
-                        "SUBGROUP",
+                        #"SUBGROUP",
                         "CONCEPT",
-                        "PROTO_FORM",
+                        #"PROTO_FORM",
                         #"NUMBERING_IN_SOURCE", #Not quite sure whether we keep this column
                         "DOCULECT",
                         "FORM",
+                        "VALUE",
                         "NOTE"
                     ],
+                    base_url="http://lingulist.de/edev"
                 )
             )
 
@@ -86,7 +88,7 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         # add language
-        languages = args.writer.add_languages(lookup_factory="ID")
+        languages = args.writer.add_languages(lookup_factory="Name")
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
@@ -96,11 +98,11 @@ class Dataset(BaseDataset):
         for (
             idx,
             alignment,
-            codig,
+            cogid,
             tokens,
-            subgroup,
+            #subgroup,
             concept,
-            proto_form,
+            #proto_form,
             #numbering_in_source,
             doculect,
             form,
@@ -111,33 +113,35 @@ class Dataset(BaseDataset):
                 "alignment",
                 "cogid",
                 "tokens",
-                "subgroup",
+                #"subgroup",
                 "concept",
-                "proto_form",
+                #"proto_form",
                 #"numbering_in_source",
                 "doculect",
                 "form",
+                "value",
                 "note"
             ),
             desc="cldfify"
         ):
-            for lexeme in args.writer.add_forms_from_value(
-                    Language_ID=languages[doculect],
-                    Parameter_ID=concepts[(concept)],
-                    Form=form.strip(),
-                    Segments=tokens,
-                    FormFromProto=proto_form,
-                    Comment=note,
-                    Cognacy=cogid,
-                    Alignment=" ".join(alignment),
-                    Subgroup=subgroup,
-                    #NumberingInSource=numbering_in_source,
-                    Source="Valenzuela2023"
-                    ):
+            lexeme = args.writer.add_form_with_segments(
+                Language_ID=languages[doculect],
+                Parameter_ID=concepts[(concept)],
+                Form=form.strip(),
+                    Value=value.strip() or form.strip(),
+                Segments=tokens,
+                #FormFromProto=proto_form,
+                Comment=note,
+                Cognacy=cogid,
+                Alignment=" ".join(alignment),
+                #SubGroup=subgroup,
+                #NumberingInSource=numbering_in_source,
+                Source="Valenzuela2023"
+            )
 
-                args.writer.add_cognate(
-                        lexeme=lexeme,
-                        Cognateset_ID=cogid,
-                        Cognate_Detection_Method="expert",
-                        Source="Valenzuela2023"
-                        )
+            args.writer.add_cognate(
+                lexeme=lexeme,
+                Cognateset_ID=cogid,
+                Cognate_Detection_Method="expert",
+                Source="Valenzuela2023"
+                )

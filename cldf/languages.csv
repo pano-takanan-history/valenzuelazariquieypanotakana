@@ -1,1 +1,12 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,NameInSource,SubGroup
+ProPa,Proto-Pano,,,,,,,,proto-Pano,Panoan
+Ksh,Kakataibo,cash1251,Cashibo-Cacataibo,cbr,South America,-8.70232,-75.4206,Pano-Tacanan,Kakataibo,Panoan
+SK,ShipiboKonibo,ship1254,Shipibo-Conibo,shp,South America,-7.17105,-74.8219,Pano-Tacanan,Shipibo-Konibo,Panoan
+Kap,Kapanawa,capa1241,Capanahua,kaq,South America,-6.63254,-74.3813,Pano-Tacanan,Kapanawa,Panoan
+Mar,Marubo,maru1252,Marúbo,mzr,South America,-6.60703,-72.4027,Pano-Tacanan,Marubo,Panoan
+Chak,Chacobo,chac1251,Chácobo,cao,South America,-12.133,-66.7164,Pano-Tacanan,Chacobo,Panoan
+Kax,Kaxarari,kaxa1239,Kaxararí,ktx,South America,-9.47288,-66.3329,Pano-Tacanan,Kaxarari,Panoan
+Yam,Yaminawa,yami1256,Yaminahua,yaa,South America,-9.8846,-71.5964,Pano-Tacanan,Yaminawa,Panoan
+Chan,Chaninawa,shan1283,Shanenawa,swo,South America,-8.00919,-73.3264,Pano-Tacanan,Chaninawa,Panoan
+Shar,Sharanawa,shar1245,Sharanahua,mcd,South America,-9.8626,-71.1232,Pano-Tacanan,Sharanawa,Panoan
+ProPaTa,Proto-Pano-Takana,pano1259,Pano-Tacanan,,,,,Pano-Tacanan,Proto-Pano-Takana,
