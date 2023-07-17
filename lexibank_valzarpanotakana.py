@@ -7,6 +7,7 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme, Concept
 from pylexibank import FormSpec
+from pyedictor import fetch
 
 @attr.s
 class CustomLanguage(Language):
@@ -20,7 +21,7 @@ class CustomLexeme(Lexeme):
     Table = attr.ib(default=None)
     Alignment = attr.ib(default=None)
     NumberInSource = attr.ib(default=None)
-    FormFromProto = attr.ib(default=None)
+    #FormFromProto = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -50,7 +51,7 @@ class Dataset(BaseDataset):
             f.write(
                 fetch(
                     "valzarpanotakana",
-                    colums=[
+                    columns=[
                         "ALIGNMENT",
                         "COGID",
                         "TOKENS",
@@ -60,7 +61,6 @@ class Dataset(BaseDataset):
                         #"NUMBERING_IN_SOURCE", #Not quite sure whether we keep this column
                         "DOCULECT",
                         "FORM",
-                        "VALUE",
                         "NOTE"
                     ],
                 )
@@ -117,7 +117,6 @@ class Dataset(BaseDataset):
                 #"numbering_in_source",
                 "doculect",
                 "form",
-                "value",
                 "note"
             ),
             desc="cldfify"
@@ -126,7 +125,6 @@ class Dataset(BaseDataset):
                     Language_ID=languages[doculect],
                     Parameter_ID=concepts[(concept)],
                     Form=form.strip(),
-                    Value=value.strip() or form.strip(),
                     Segments=tokens,
                     FormFromProto=proto_form,
                     Comment=note,
