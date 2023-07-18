@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/valzarpanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "5a68927",
+            "dc:created": "58ddbfc",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 83,
+            "dc:extent": 856,
             "tableSchema": {
                 "columns": [
                     {
@@ -173,7 +173,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 11,
+            "dc:extent": 33,
             "tableSchema": {
                 "columns": [
                     {
@@ -247,7 +247,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 8,
+            "dc:extent": 44,
             "tableSchema": {
                 "columns": [
                     {
@@ -279,7 +279,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 83,
+            "dc:extent": 856,
             "tableSchema": {
                 "columns": [
                     {

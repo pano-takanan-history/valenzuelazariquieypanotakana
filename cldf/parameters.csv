@@ -7,3 +7,39 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 6_bone,Bone,1394,BONE
 7_tongue,Tongue,1205,TONGUE
 8_hand,Hand,1277,HAND
+9_night,Night,,
+10_skin,Skin,763,SKIN
+11_fire,Fire,221,FIRE
+12_knee,Knee,1371,KNEE
+13_blood,Blood,946,BLOOD
+14_breast,Breast,1402,BREAST
+15_moonsun,"Moon, Sun",,
+16_you,You,1215,THOU
+17_come,Come,1446,COME
+18_i,I,1209,I
+19_flesh,Flesh,2259,FLESH
+20_fat,Fat,323,FAT (ORGANIC SUBSTANCE)
+21_fingernail,Fingernail,1258,FINGERNAIL
+22_footleg,"Foot,leg",2098,FOOT OR LEG
+23_lipedge,"Lip,edge",,
+24_cheek,Cheek,1730,CHEEK
+25_mouth,Mouth,674,MOUTH
+26_elbow,Elbow,981,ELBOW
+27_1stsgi,1st SG 'I',,
+28_2ndsgyou,2nd SG 'you',,
+29_demonstrative,DEMONSTRATIVE,,
+30_demonstrativeproximate,DEMONSTRATIVE proximate,,
+31_genitive,GENITIVE,,
+32_imperative,IMPERATIVE,,
+33_goingdowndownward,"GOING DOWN,DOWNWARD",,
+34_docoming,DO COMING,,
+35_desiderative,DESIDERATIVE,,
+36_negative,NEGATIVE,1240,NOT
+37_causative,CAUSATIVE,,
+38_augmentative,AUGMENTATIVE,,
+39_dotrauxiliarytr,"DO (TR.),AUXILIARY (TR.)",,
+40_transitivizer,TRANSITIVIZER,,
+41_detransitivizerreflexive,"DETRANSITIVIZER,REFLEXIVE",,
+42_ergative,ERGATIVE,,
+43_previouseventsamesubject,"PREVIOUS EVENT, SAME-SUBJECT",,
+44_comitativealongwith,"COMITATIVE,ALONG WITH",,
