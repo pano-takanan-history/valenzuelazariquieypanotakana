@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/valzarpanotakana/",
             "rdf:type": "prov:Entity",
-            "dc:created": "c32a9dc",
+            "dc:created": "1f73177",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.3"
+            "dc:description": "3.11.4"
         },
         {
             "dc:title": "python-packages",
@@ -127,23 +127,15 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Table"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "NumberInSource"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "FormFromProto"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ConceptInSource"
+                        "name": "Alignment"
                     },
                     {
                         "datatype": "string",
                         "name": "Shell"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "ConceptInSource"
                     }
                 ],
                 "foreignKeys": [
@@ -237,6 +229,10 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "NameInSource"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "SubGroup"
                     }
                 ],
@@ -248,7 +244,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 47,
+            "dc:extent": 44,
             "tableSchema": {
                 "columns": [
                     {
@@ -270,6 +266,10 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Table"
                     }
                 ],
                 "primaryKey": [

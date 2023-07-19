@@ -1,857 +1,857 @@
 ID,Form_ID,Form,Cognateset_ID,Doubt,Cognate_Detection_Method,Source,Alignment,Alignment_Method,Alignment_Source
-Proto-Pano-Takana-1_tree-1-1,Proto-Pano-Takana-1_tree-1,hegʷi,45,false,expert,Valenzuela2023,,,
-Proto-Pano-1_tree-1-1,Proto-Pano-1_tree-1,hiwi,45,false,expert,Valenzuela2023,,,
-Kakataibo-1_tree-1-1,Kakataibo-1_tree-1,i,45,false,expert,Valenzuela2023,,,
-ShipiboKonibo-1_tree-1-1,ShipiboKonibo-1_tree-1,hiwi,45,false,expert,Valenzuela2023,,,
-Kapanawa-1_tree-1-1,Kapanawa-1_tree-1,hiwi,45,false,expert,Valenzuela2023,,,
-Marubo-1_tree-1-1,Marubo-1_tree-1,iwi,45,false,expert,Valenzuela2023,,,
-Chacobo-1_tree-1-1,Chacobo-1_tree-1,hiwi,45,false,expert,Valenzuela2023,,,
-Kaxarari-1_tree-1-1,Kaxarari-1_tree-1,hiwi,45,false,expert,Valenzuela2023,,,
-Yaminawa-1_tree-1-1,Yaminawa-1_tree-1,iɸi,45,false,expert,Valenzuela2023,,,
-Sharanawa-1_tree-1-1,Sharanawa-1_tree-1,iɸi,45,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-2_tooth-1-1,Proto-Pano-Takana-2_tooth-1,ʂɨ-,44,false,expert,Valenzuela2023,,,
-Proto-Pano-2_tooth-1-1,Proto-Pano-2_tooth-1,ʂɨ-,44,false,expert,Valenzuela2023,,,
-Kakataibo-2_tooth-1-1,Kakataibo-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-ShipiboKonibo-2_tooth-1-1,ShipiboKonibo-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Kapanawa-2_tooth-1-1,Kapanawa-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Marubo-2_tooth-1-1,Marubo-2_tooth-1,ʃɨta,44,false,expert,Valenzuela2023,,,
-Chacobo-2_tooth-1-1,Chacobo-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Kaxarari-2_tooth-1-1,Kaxarari-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Sharanawa-2_tooth-1-1,Sharanawa-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-3_two-1-1,Proto-Pano-Takana-3_two-1,bɨta,46,false,expert,Valenzuela2023,,,
-Proto-Pano-3_two-1-1,Proto-Pano-3_two-1,ra-βɨta,46,false,expert,Valenzuela2023,,,
-Kakataibo-3_two-1-1,Kakataibo-3_two-1,raβɨ,46,false,expert,Valenzuela2023,,,
-ShipiboKonibo-3_two-1-1,ShipiboKonibo-3_two-1,raβɨ,46,false,expert,Valenzuela2023,,,
-Kapanawa-3_two-1-1,Kapanawa-3_two-1,raβɨ,46,false,expert,Valenzuela2023,,,
-Marubo-3_two-1-1,Marubo-3_two-1,ravɨvakĩ,46,false,expert,Valenzuela2023,,,
-Chacobo-3_two-1-1,Chacobo-3_two-1,raβɨ,46,false,expert,Valenzuela2023,,,
-Kaxarari-3_two-1-1,Kaxarari-3_two-1,tʃabɨta,46,false,expert,Valenzuela2023,,,
-Yaminawa-3_two-1-1,Yaminawa-3_two-1,raɸɨ,46,false,expert,Valenzuela2023,,,
-Chaninawa-3_two-1-1,Chaninawa-3_two-1,raɸɨ,46,false,expert,Valenzuela2023,,,
-Sharanawa-3_two-1-1,Sharanawa-3_two-1,raɸɨ,46,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-4_liver-1-1,Proto-Pano-Takana-4_liver-1,takʷa,33,false,expert,Valenzuela2023,,,
-Proto-Pano-4_liver-1-1,Proto-Pano-4_liver-1,takʷa,33,false,expert,Valenzuela2023,,,
-Kakataibo-4_liver-1-1,Kakataibo-4_liver-1,takʷa,33,false,expert,Valenzuela2023,,,
-ShipiboKonibo-4_liver-1-1,ShipiboKonibo-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Kapanawa-4_liver-1-1,Kapanawa-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Marubo-4_liver-1-1,Marubo-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Chacobo-4_liver-1-1,Chacobo-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Kaxarari-4_liver-1-1,Kaxarari-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Chaninawa-4_liver-1-1,Chaninawa-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Sharanawa-4_liver-1-1,Sharanawa-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-5_leaf-1-1,Proto-Pano-Takana-5_leaf-1,pɨʔi,31,false,expert,Valenzuela2023,,,
-Proto-Pano-5_leaf-1-1,Proto-Pano-5_leaf-1,pɨʔi,31,false,expert,Valenzuela2023,,,
-Kakataibo-5_leaf-1-1,Kakataibo-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-ShipiboKonibo-5_leaf-1-1,ShipiboKonibo-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Kapanawa-5_leaf-1-1,Kapanawa-5_leaf-1,pɨʔi,31,false,expert,Valenzuela2023,,,
-Marubo-5_leaf-1-1,Marubo-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Chacobo-5_leaf-1-1,Chacobo-5_leaf-1,pɨʔi,31,false,expert,Valenzuela2023,,,
-Kaxarari-5_leaf-1-1,Kaxarari-5_leaf-1,pɨʔi,31,false,expert,Valenzuela2023,,,
-Yaminawa-5_leaf-1-1,Yaminawa-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Chaninawa-5_leaf-1-1,Chaninawa-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Sharanawa-5_leaf-1-1,Sharanawa-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-6_bone-1-1,Proto-Pano-Takana-6_bone-1,ʂau,5,false,expert,Valenzuela2023,,,
-Proto-Pano-6_bone-1-1,Proto-Pano-6_bone-1,ʂao,5,false,expert,Valenzuela2023,,,
-Kakataibo-6_bone-1-1,Kakataibo-6_bone-1,ʂɔː,5,false,expert,Valenzuela2023,,,
-ShipiboKonibo-6_bone-1-1,ShipiboKonibo-6_bone-1,ʂao,5,false,expert,Valenzuela2023,,,
-Kapanawa-6_bone-1-1,Kapanawa-6_bone-1,ʂao,5,false,expert,Valenzuela2023,,,
-Marubo-6_bone-1-1,Marubo-6_bone-1,ʃau,5,false,expert,Valenzuela2023,,,
-Chacobo-6_bone-1-1,Chacobo-6_bone-1,ʂao,5,false,expert,Valenzuela2023,,,
-Kaxarari-6_bone-1-1,Kaxarari-6_bone-1,ʂahʷu,5,false,expert,Valenzuela2023,,,
-Yaminawa-6_bone-1-1,Yaminawa-6_bone-1,ʂao,5,false,expert,Valenzuela2023,,,
-Chaninawa-6_bone-1-1,Chaninawa-6_bone-1,ʃao,5,false,expert,Valenzuela2023,,,
-Sharanawa-6_bone-1-1,Sharanawa-6_bone-1,ʂao,5,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-7_tongue-1-1,Proto-Pano-Takana-7_tongue-1,hana,43,false,expert,Valenzuela2023,,,
-Proto-Pano-7_tongue-1-1,Proto-Pano-7_tongue-1,hana,43,false,expert,Valenzuela2023,,,
-Kakataibo-7_tongue-1-1,Kakataibo-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-ShipiboKonibo-7_tongue-1-1,ShipiboKonibo-7_tongue-1,hana,43,false,expert,Valenzuela2023,,,
-Kapanawa-7_tongue-1-1,Kapanawa-7_tongue-1,hana,43,false,expert,Valenzuela2023,,,
-Marubo-7_tongue-1-1,Marubo-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-Chacobo-7_tongue-1-1,Chacobo-7_tongue-1,hana,43,false,expert,Valenzuela2023,,,
-Kaxarari-7_tongue-1-1,Kaxarari-7_tongue-1,hana,43,false,expert,Valenzuela2023,,,
-Yaminawa-7_tongue-1-1,Yaminawa-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-Chaninawa-7_tongue-1-1,Chaninawa-7_tongue-1,ada,43,false,expert,Valenzuela2023,,,
-Sharanawa-7_tongue-1-1,Sharanawa-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-8_hand-1-1,Proto-Pano-Takana-8_hand-1,mɨ-,27,false,expert,Valenzuela2023,,,
-Proto-Pano-8_hand-1-1,Proto-Pano-8_hand-1,mɨ-,27,false,expert,Valenzuela2023,,,
-Kakataibo-8_hand-1-1,Kakataibo-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,,,
-ShipiboKonibo-8_hand-1-1,ShipiboKonibo-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,,,
-Kapanawa-8_hand-1-1,Kapanawa-8_hand-1,mɨkɨn,27,false,expert,Valenzuela2023,,,
-Chacobo-8_hand-1-1,Chacobo-8_hand-1,mɨkɨnɨ,27,false,expert,Valenzuela2023,,,
-Kaxarari-8_hand-1-1,Kaxarari-8_hand-1,mɨkɨlɨ,27,false,expert,Valenzuela2023,,,
-Yaminawa-8_hand-1-1,Yaminawa-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,,,
-Chaninawa-8_hand-1-1,Chaninawa-8_hand-1,mɨkɨ,27,false,expert,Valenzuela2023,,,
-Sharanawa-8_hand-1-1,Sharanawa-8_hand-1,mɨkɨ,27,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-9_night-1-1,Proto-Pano-Takana-9_night-1,mɨta,37,false,expert,Valenzuela2023,,,
-Proto-Pano-9_night-1-1,Proto-Pano-9_night-1,yamɨt,37,false,expert,Valenzuela2023,,,
-Kakataibo-9_night-1-1,Kakataibo-9_night-1,imɨ,37,false,expert,Valenzuela2023,,,
-ShipiboKonibo-9_night-1-1,ShipiboKonibo-9_night-1,yamɨ,37,false,expert,Valenzuela2023,,,
-Kapanawa-9_night-1-1,Kapanawa-9_night-1,yamɨ,37,false,expert,Valenzuela2023,,,
-Marubo-9_night-1-1,Marubo-9_night-1,yamɨ,37,false,expert,Valenzuela2023,,,
-Kaxarari-9_night-1-1,Kaxarari-9_night-1,yamɨta,37,false,expert,Valenzuela2023,,,
-Yaminawa-9_night-1-1,Yaminawa-9_night-1,yamɨa,37,false,expert,Valenzuela2023,,,
-Chaninawa-9_night-1-1,Chaninawa-9_night-1,yabɨ,37,false,expert,Valenzuela2023,,,
-Sharanawa-9_night-1-1,Sharanawa-9_night-1,yamɨ,37,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-10_skin-1-1,Proto-Pano-Takana-10_skin-1,bitsi,39,false,expert,Valenzuela2023,,,
-Proto-Pano-10_skin-1-1,Proto-Pano-10_skin-1,βitsi,39,false,expert,Valenzuela2023,,,
-Kakataibo-10_skin-1-1,Kakataibo-10_skin-1,βitʃi,39,false,expert,Valenzuela2023,,,
-ShipiboKonibo-10_skin-1-1,ShipiboKonibo-10_skin-1,βitʃi,39,false,expert,Valenzuela2023,,,
-Kapanawa-10_skin-1-1,Kapanawa-10_skin-1,βitʃi,39,false,expert,Valenzuela2023,,,
-Marubo-10_skin-1-1,Marubo-10_skin-1,vitʃi,39,false,expert,Valenzuela2023,,,
-Chacobo-10_skin-1-1,Chacobo-10_skin-1,βitʃi,39,false,expert,Valenzuela2023,,,
-Kaxarari-10_skin-1-1,Kaxarari-10_skin-1,bitʃi,39,false,expert,Valenzuela2023,,,
-Chaninawa-10_skin-1-1,Chaninawa-10_skin-1,ɸitʃi,39,false,expert,Valenzuela2023,,,
-Sharanawa-10_skin-1-1,Sharanawa-10_skin-1,ɸitʃi,39,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-11_fire-1-1,Proto-Pano-Takana-11_fire-1,tsiʔi,22,false,expert,Valenzuela2023,,,
-Proto-Pano-11_fire-1-1,Proto-Pano-11_fire-1,tsiʔi,22,false,expert,Valenzuela2023,,,
-Kakataibo-11_fire-1-1,Kakataibo-11_fire-1,tʃii,22,false,expert,Valenzuela2023,,,
-ShipiboKonibo-11_fire-1-1,ShipiboKonibo-11_fire-1,tʃii,22,false,expert,Valenzuela2023,,,
-Kapanawa-11_fire-1-1,Kapanawa-11_fire-1,tʃiʔi,22,false,expert,Valenzuela2023,,,
-Marubo-11_fire-1-1,Marubo-11_fire-1,tʃi,22,false,expert,Valenzuela2023,,,
-Chacobo-11_fire-1-1,Chacobo-11_fire-1,tʃiʔi,22,false,expert,Valenzuela2023,,,
-Kaxarari-11_fire-1-1,Kaxarari-11_fire-1,tʃiʔi,22,false,expert,Valenzuela2023,,,
-Yaminawa-11_fire-1-1,Yaminawa-11_fire-1,tʃii,22,false,expert,Valenzuela2023,,,
-Chaninawa-11_fire-1-1,Chaninawa-11_fire-1,tʃii,22,false,expert,Valenzuela2023,,,
-Sharanawa-11_fire-1-1,Sharanawa-11_fire-1,tʃii,22,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-12_knee-1-1,Proto-Pano-Takana-12_knee-1,da-n,30,false,expert,Valenzuela2023,,,
-Proto-Pano-12_knee-1-1,Proto-Pano-12_knee-1,rã-,30,false,expert,Valenzuela2023,,,
-Kakataibo-12_knee-1-1,Kakataibo-12_knee-1,rãβoʂo,30,false,expert,Valenzuela2023,,,
-ShipiboKonibo-12_knee-1-1,ShipiboKonibo-12_knee-1,rãβoʂo,30,false,expert,Valenzuela2023,,,
-Kapanawa-12_knee-1-1,Kapanawa-12_knee-1,rãβoʂo,30,false,expert,Valenzuela2023,,,
-Marubo-12_knee-1-1,Marubo-12_knee-1,ravuʃɨ,30,false,expert,Valenzuela2023,,,
-Kaxarari-12_knee-1-1,Kaxarari-12_knee-1,tʃãburu,30,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-13_blood-1-1,Proto-Pano-Takana-13_blood-1,hemi,4,false,expert,Valenzuela2023,,,
-Proto-Pano-13_blood-1-1,Proto-Pano-13_blood-1,himi,4,false,expert,Valenzuela2023,,,
-Kakataibo-13_blood-1-1,Kakataibo-13_blood-1,imi,4,false,expert,Valenzuela2023,,,
-ShipiboKonibo-13_blood-1-1,ShipiboKonibo-13_blood-1,himi,4,false,expert,Valenzuela2023,,,
-Kapanawa-13_blood-1-1,Kapanawa-13_blood-1,himi,4,false,expert,Valenzuela2023,,,
-Marubo-13_blood-1-1,Marubo-13_blood-1,imbi,4,false,expert,Valenzuela2023,,,
-Chacobo-13_blood-1-1,Chacobo-13_blood-1,himi,4,false,expert,Valenzuela2023,,,
-Kaxarari-13_blood-1-1,Kaxarari-13_blood-1,himi,4,false,expert,Valenzuela2023,,,
-Yaminawa-13_blood-1-1,Yaminawa-13_blood-1,im,4,false,expert,Valenzuela2023,,,
-Chaninawa-13_blood-1-1,Chaninawa-13_blood-1,ibi,4,false,expert,Valenzuela2023,,,
-Sharanawa-13_blood-1-1,Sharanawa-13_blood-1,imi,4,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-14_breast-1-1,Proto-Pano-Takana-14_breast-1,aṣu,6,false,expert,Valenzuela2023,,,
-Proto-Pano-14_breast-1-1,Proto-Pano-14_breast-1,ʂo,6,false,expert,Valenzuela2023,,,
-Kakataibo-14_breast-1-1,Kakataibo-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,,,
-ShipiboKonibo-14_breast-1-1,ShipiboKonibo-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,,,
-Kapanawa-14_breast-1-1,Kapanawa-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,,,
-Marubo-14_breast-1-1,Marubo-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,,,
-Chacobo-14_breast-1-1,Chacobo-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,,,
-Chaninawa-14_breast-1-1,Chaninawa-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,,,
-Sharanawa-14_breast-1-1,Sharanawa-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-15_sun-1-1,Proto-Pano-Takana-15_sun-1,badi,40,false,expert,Valenzuela2023,,,
-Proto-Pano-15_sun-1-1,Proto-Pano-15_sun-1,βari,40,false,expert,Valenzuela2023,,,
-Kakataibo-15_sun-1-1,Kakataibo-15_sun-1,βaɾi,40,false,expert,Valenzuela2023,,,
-ShipiboKonibo-15_sun-1-1,ShipiboKonibo-15_sun-1,βaɾi,40,false,expert,Valenzuela2023,,,
-Kapanawa-15_sun-1-1,Kapanawa-15_sun-1,βaɾi,40,false,expert,Valenzuela2023,,,
-Marubo-15_sun-1-1,Marubo-15_sun-1,vaɾi,40,false,expert,Valenzuela2023,,,
-Chacobo-15_sun-1-1,Chacobo-15_sun-1,βaɾi,40,false,expert,Valenzuela2023,,,
-Kaxarari-15_sun-1-1,Kaxarari-15_sun-1,βatʃi,40,false,expert,Valenzuela2023,,,
-Chaninawa-15_sun-1-1,Chaninawa-15_sun-1,ɸaɾi,40,false,expert,Valenzuela2023,,,
-Sharanawa-15_sun-1-1,Sharanawa-15_sun-1,ɸari,40,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-16_you-1-1,Proto-Pano-Takana-16_you-1,mi,47,false,expert,Valenzuela2023,,,
-Proto-Pano-16_you-1-1,Proto-Pano-16_you-1,mi,47,false,expert,Valenzuela2023,,,
-Kakataibo-16_you-1-1,Kakataibo-16_you-1,miː,47,false,expert,Valenzuela2023,,,
-ShipiboKonibo-16_you-1-1,ShipiboKonibo-16_you-1,mia,47,false,expert,Valenzuela2023,,,
-Kapanawa-16_you-1-1,Kapanawa-16_you-1,mia,47,false,expert,Valenzuela2023,,,
-Chacobo-16_you-1-1,Chacobo-16_you-1,mia,47,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-17_come-1-1,Proto-Pano-Takana-17_come-1,bɨ-,10,false,expert,Valenzuela2023,,,
-Proto-Pano-17_come-1-1,Proto-Pano-17_come-1,βɨ-,10,false,expert,Valenzuela2023,,,
-Kakataibo-17_come-1-1,Kakataibo-17_come-1,βɨ-,10,false,expert,Valenzuela2023,,,
-ShipiboKonibo-17_come-1-1,ShipiboKonibo-17_come-1,βɨ-,10,false,expert,Valenzuela2023,,,
-Kapanawa-17_come-1-1,Kapanawa-17_come-1,βɨ-,10,false,expert,Valenzuela2023,,,
-Chacobo-17_come-1-1,Chacobo-17_come-1,βɨ-,10,false,expert,Valenzuela2023,,,
-Kaxarari-17_come-1-1,Kaxarari-17_come-1,bɨ-,10,false,expert,Valenzuela2023,,,
-Yaminawa-17_come-1-1,Yaminawa-17_come-1,ɸɨ-,10,false,expert,Valenzuela2023,,,
-Chaninawa-17_come-1-1,Chaninawa-17_come-1,ɸɨ-,10,false,expert,Valenzuela2023,,,
-Sharanawa-17_come-1-1,Sharanawa-17_come-1,ɸɨ-,10,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-18_i-1-1,Proto-Pano-Takana-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,,,
-Proto-Pano-18_i-1-1,Proto-Pano-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,,,
-Kakataibo-18_i-1-1,Kakataibo-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,,,
-ShipiboKonibo-18_i-1-1,ShipiboKonibo-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,,,
-Kapanawa-18_i-1-1,Kapanawa-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,,,
-Chacobo-18_i-1-1,Chacobo-18_i-1,ɨ,28,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-19_flesh-1-1,Proto-Pano-Takana-19_flesh-1,Nami,23,false,expert,Valenzuela2023,,,
-Proto-Pano-19_flesh-1-1,Proto-Pano-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Kakataibo-19_flesh-1-1,Kakataibo-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-ShipiboKonibo-19_flesh-1-1,ShipiboKonibo-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Kapanawa-19_flesh-1-1,Kapanawa-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Marubo-19_flesh-1-1,Marubo-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Chacobo-19_flesh-1-1,Chacobo-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Kaxarari-19_flesh-1-1,Kaxarari-19_flesh-1,lami,23,false,expert,Valenzuela2023,,,
-Yaminawa-19_flesh-1-1,Yaminawa-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Chaninawa-19_flesh-1-1,Chaninawa-19_flesh-1,nabi,23,false,expert,Valenzuela2023,,,
-Sharanawa-19_flesh-1-1,Sharanawa-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-20_fat-1-1,Proto-Pano-Takana-20_fat-1,ʂɨNi,20,false,expert,Valenzuela2023,,,
-Proto-Pano-20_fat-1-1,Proto-Pano-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Kakataibo-20_fat-1-1,Kakataibo-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-ShipiboKonibo-20_fat-1-1,ShipiboKonibo-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Kapanawa-20_fat-1-1,Kapanawa-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Marubo-20_fat-1-1,Marubo-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Chacobo-20_fat-1-1,Chacobo-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Yaminawa-20_fat-1-1,Yaminawa-20_fat-1,ʂɨnĩ,20,false,expert,Valenzuela2023,,,
-Chaninawa-20_fat-1-1,Chaninawa-20_fat-1,ʃɨdi,20,false,expert,Valenzuela2023,,,
-Sharanawa-20_fat-1-1,Sharanawa-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-21_fingernail-1-1,Proto-Pano-Takana-21_fingernail-1,mɨ-tsizi,21,false,expert,Valenzuela2023,,,
-Proto-Pano-21_fingernail-1-1,Proto-Pano-21_fingernail-1,mɨ̃-tsisi,21,false,expert,Valenzuela2023,,,
-Kakataibo-21_fingernail-1-1,Kakataibo-21_fingernail-1,Untsis,21,false,expert,Valenzuela2023,,,
-ShipiboKonibo-21_fingernail-1-1,ShipiboKonibo-21_fingernail-1,mɨ̃ntsis,21,false,expert,Valenzuela2023,,,
-Kapanawa-21_fingernail-1-1,Kapanawa-21_fingernail-1,mɨ̃ntsis,21,false,expert,Valenzuela2023,,,
-Marubo-21_fingernail-1-1,Marubo-21_fingernail-1,mɨ̃tsisi,21,false,expert,Valenzuela2023,,,
-Chacobo-21_fingernail-1-1,Chacobo-21_fingernail-1,mɨ̃tsis,21,false,expert,Valenzuela2023,,,
-Kaxarari-21_fingernail-1-1,Kaxarari-21_fingernail-1,mɨ̃tʃisi,21,false,expert,Valenzuela2023,,,
-Yaminawa-21_fingernail-1-1,Yaminawa-21_fingernail-1,mitsis,21,false,expert,Valenzuela2023,,,
-Chaninawa-21_fingernail-1-1,Chaninawa-21_fingernail-1,bitsis,21,false,expert,Valenzuela2023,,,
-Sharanawa-21_fingernail-1-1,Sharanawa-21_fingernail-1,mɨtsisi,21,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-22_footleg-1-1,Proto-Pano-Takana-22_footleg-1,ta-,24,false,expert,Valenzuela2023,,,
-Proto-Pano-22_footleg-1-1,Proto-Pano-22_footleg-1,ta-,24,false,expert,Valenzuela2023,,,
-Kakataibo-22_footleg-1-1,Kakataibo-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-ShipiboKonibo-22_footleg-1-1,ShipiboKonibo-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Kapanawa-22_footleg-1-1,Kapanawa-22_footleg-1,taʔɨ,24,false,expert,Valenzuela2023,,,
-Marubo-22_footleg-1-1,Marubo-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Chacobo-22_footleg-1-1,Chacobo-22_footleg-1,taʔɨ,24,false,expert,Valenzuela2023,,,
-Kaxarari-22_footleg-1-1,Kaxarari-22_footleg-1,taʔɨ,24,false,expert,Valenzuela2023,,,
-Yaminawa-22_footleg-1-1,Yaminawa-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Chaninawa-22_footleg-1-1,Chaninawa-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Sharanawa-22_footleg-1-1,Sharanawa-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-23_lipedge-1-1,Proto-Pano-Takana-23_lipedge-1,kʷɨ,32,false,expert,Valenzuela2023,,,
-Proto-Pano-23_lipedge-1-1,Proto-Pano-23_lipedge-1,kʷɨ-,32,false,expert,Valenzuela2023,,,
-Kakataibo-23_lipedge-1-1,Kakataibo-23_lipedge-1,kʷɨβi-,32,false,expert,Valenzuela2023,,,
-ShipiboKonibo-23_lipedge-1-1,ShipiboKonibo-23_lipedge-1,kɨβi-,32,false,expert,Valenzuela2023,,,
-Chacobo-23_lipedge-1-1,Chacobo-23_lipedge-1,kɨβitʃi,32,false,expert,Valenzuela2023,,,
-Sharanawa-23_lipedge-1-1,Sharanawa-23_lipedge-1,kuɸirisika,32,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-24_cheek-1-1,Proto-Pano-Takana-24_cheek-1,tamu,9,false,expert,Valenzuela2023,,,
-Proto-Pano-24_cheek-1-1,Proto-Pano-24_cheek-1,tamo,9,false,expert,Valenzuela2023,,,
-Kakataibo-24_cheek-1-1,Kakataibo-24_cheek-1,tamo,9,false,expert,Valenzuela2023,,,
-ShipiboKonibo-24_cheek-1-1,ShipiboKonibo-24_cheek-1,tamo,9,false,expert,Valenzuela2023,,,
-Kapanawa-24_cheek-1-1,Kapanawa-24_cheek-1,tamo,9,false,expert,Valenzuela2023,,,
-Marubo-24_cheek-1-1,Marubo-24_cheek-1,tambo,9,false,expert,Valenzuela2023,,,
-Chacobo-24_cheek-1-1,Chacobo-24_cheek-1,tamo,9,false,expert,Valenzuela2023,,,
-Kaxarari-24_cheek-1-1,Kaxarari-24_cheek-1,tamu,9,false,expert,Valenzuela2023,,,
-Yaminawa-24_cheek-1-1,Yaminawa-24_cheek-1,tamo,9,false,expert,Valenzuela2023,,,
-Sharanawa-24_cheek-1-1,Sharanawa-24_cheek-1,tamo,9,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-25_mouth-1-1,Proto-Pano-Takana-25_mouth-1,kʷeʂa,35,false,expert,Valenzuela2023,,,
-Proto-Pano-25_mouth-1-1,Proto-Pano-25_mouth-1,kʷɨʂa,35,false,expert,Valenzuela2023,,,
-Kakataibo-25_mouth-1-1,Kakataibo-25_mouth-1,kʷɨʂa,35,false,expert,Valenzuela2023,,,
-ShipiboKonibo-25_mouth-1-1,ShipiboKonibo-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,,,
-Kapanawa-25_mouth-1-1,Kapanawa-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,,,
-Marubo-25_mouth-1-1,Marubo-25_mouth-1,kɨʃa,35,false,expert,Valenzuela2023,,,
-Kaxarari-25_mouth-1-1,Kaxarari-25_mouth-1,kɨʂaka,35,false,expert,Valenzuela2023,,,
-Yaminawa-25_mouth-1-1,Yaminawa-25_mouth-1,kɨʂã,35,false,expert,Valenzuela2023,,,
-Chaninawa-25_mouth-1-1,Chaninawa-25_mouth-1,kɨʃa,35,false,expert,Valenzuela2023,,,
-Sharanawa-25_mouth-1-1,Sharanawa-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-26_elbow-1-1,Proto-Pano-Takana-26_elbow-1,baṣu,19,false,expert,Valenzuela2023,,,
-Proto-Pano-26_elbow-1-1,Proto-Pano-26_elbow-1,βaʂ-,19,false,expert,Valenzuela2023,,,
-Kakataibo-26_elbow-1-1,Kakataibo-26_elbow-1,banbuxu,19,false,expert,Valenzuela2023,,,
-ShipiboKonibo-26_elbow-1-1,ShipiboKonibo-26_elbow-1,põtõko,19,false,expert,Valenzuela2023,,,
-Kapanawa-26_elbow-1-1,Kapanawa-26_elbow-1,baʂpoʂko,19,false,expert,Valenzuela2023,,,
-Chacobo-26_elbow-1-1,Chacobo-26_elbow-1,baspoto,19,false,expert,Valenzuela2023,,,
-Kaxarari-26_elbow-1-1,Kaxarari-26_elbow-1,paxuxu,19,false,expert,Valenzuela2023,,,
-Yaminawa-26_elbow-1-1,Yaminawa-26_elbow-1,po-to-ṣ̌ko,19,false,expert,Valenzuela2023,,,
-Shanenawa-1_tree-1-1,Shanenawa-1_tree-1,iwi,45,false,expert,Valenzuela2023,,,
-Katukina-1_tree-1-1,Katukina-1_tree-1,hiwi,45,false,expert,Valenzuela2023,,,
-Poyanawa-1_tree-1-1,Poyanawa-1_tree-1,iwi,45,false,expert,Valenzuela2023,,,
-Amawaka-1_tree-1-1,Amawaka-1_tree-1,hiː,45,false,expert,Valenzuela2023,,,
-Kaxinawa-1_tree-1-1,Kaxinawa-1_tree-1,hi,45,false,expert,Valenzuela2023,,,
-Marinawa-1_tree-1-1,Marinawa-1_tree-1,iwi,45,false,expert,Valenzuela2023,,,
-Korubo-1_tree-1-1,Korubo-1_tree-1,iwi,45,false,expert,Valenzuela2023,,,
-Matses-1_tree-1-1,Matses-1_tree-1,iwi,45,false,expert,Valenzuela2023,,,
-Shanenawa-2_tooth-1-1,Shanenawa-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Katukina-2_tooth-1-1,Katukina-2_tooth-1,ʂita,44,false,expert,Valenzuela2023,,,
-Amawaka-2_tooth-1-1,Amawaka-2_tooth-1,xɨta,44,false,expert,Valenzuela2023,,,
-Kaxinawa-2_tooth-1-1,Kaxinawa-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Marinawa-2_tooth-1-1,Marinawa-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Yawanawa-2_tooth-1-1,Yawanawa-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Korubo-2_tooth-1-1,Korubo-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Matis-2_tooth-1-1,Matis-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Matses-2_tooth-1-1,Matses-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,,,
-Shanenawa-3_two-1-1,Shanenawa-3_two-1,rafu,46,false,expert,Valenzuela2023,,,
-Katukina-3_two-1-1,Katukina-3_two-1,raβi,46,false,expert,Valenzuela2023,,,
-Poyanawa-3_two-1-1,Poyanawa-3_two-1,raβu,46,false,expert,Valenzuela2023,,,
-Amawaka-3_two-1-1,Amawaka-3_two-1,raβɨ,46,false,expert,Valenzuela2023,,,
-Marinawa-3_two-1-1,Marinawa-3_two-1,raɸɨ,46,false,expert,Valenzuela2023,,,
-Yawanawa-3_two-1-1,Yawanawa-3_two-1,raβɨ,46,false,expert,Valenzuela2023,,,
-Korubo-3_two-1-1,Korubo-3_two-1,ɬaβɨtpa,46,false,expert,Valenzuela2023,,,
-Matis-3_two-1-1,Matis-3_two-1,dabɨdpa,46,false,expert,Valenzuela2023,,,
-Matses-3_two-1-1,Matses-3_two-1,daɨd,46,false,expert,Valenzuela2023,,,
-Shanenawa-4_liver-1-1,Shanenawa-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Katukina-4_liver-1-1,Katukina-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Poyanawa-4_liver-1-1,Poyanawa-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Amawaka-4_liver-1-1,Amawaka-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Kaxinawa-4_liver-1-1,Kaxinawa-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Marinawa-4_liver-1-1,Marinawa-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Yawanawa-4_liver-1-1,Yawanawa-4_liver-1,taka,33,false,expert,Valenzuela2023,,,
-Korubo-4_liver-1-1,Korubo-4_liver-1,takʷa,33,false,expert,Valenzuela2023,,,
-Matis-4_liver-1-1,Matis-4_liver-1,takua,33,false,expert,Valenzuela2023,,,
-Matses-4_liver-1-1,Matses-4_liver-1,takʷa,33,false,expert,Valenzuela2023,,,
-Shanenawa-5_leaf-1-1,Shanenawa-5_leaf-1,pɨj,31,false,expert,Valenzuela2023,,,
-Katukina-5_leaf-1-1,Katukina-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Poyanawa-5_leaf-1-1,Poyanawa-5_leaf-1,puy,31,false,expert,Valenzuela2023,,,
-Amawaka-5_leaf-1-1,Amawaka-5_leaf-1,pɨʔi,31,false,expert,Valenzuela2023,,,
-Kaxinawa-5_leaf-1-1,Kaxinawa-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Marinawa-5_leaf-1-1,Marinawa-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Yawanawa-5_leaf-1-1,Yawanawa-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Matis-5_leaf-1-1,Matis-5_leaf-1,pɨi,31,false,expert,Valenzuela2023,,,
-Matses-5_leaf-1-1,Matses-5_leaf-1,pɨ,31,false,expert,Valenzuela2023,,,
-Shanenawa-6_bone-1-1,Shanenawa-6_bone-1,ʂaw,5,false,expert,Valenzuela2023,,,
-Katukina-6_bone-1-1,Katukina-6_bone-1,ʃau,5,false,expert,Valenzuela2023,,,
-Poyanawa-6_bone-1-1,Poyanawa-6_bone-1,haw,5,false,expert,Valenzuela2023,,,
-Amawaka-6_bone-1-1,Amawaka-6_bone-1,xao,5,false,expert,Valenzuela2023,,,
-Kaxinawa-6_bone-1-1,Kaxinawa-6_bone-1,ʂau,5,false,expert,Valenzuela2023,,,
-Marinawa-6_bone-1-1,Marinawa-6_bone-1,ʂao,5,false,expert,Valenzuela2023,,,
-Yawanawa-6_bone-1-1,Yawanawa-6_bone-1,ʃau,5,false,expert,Valenzuela2023,,,
-Matses-6_bone-1-1,Matses-6_bone-1,mɨ-ʂ,5,false,expert,Valenzuela2023,,,
-Shanenawa-7_tongue-1-1,Shanenawa-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-Katukina-7_tongue-1-1,Katukina-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-Poyanawa-7_tongue-1-1,Poyanawa-7_tongue-1,ãda,43,false,expert,Valenzuela2023,,,
-Amawaka-7_tongue-1-1,Amawaka-7_tongue-1,hana,43,false,expert,Valenzuela2023,,,
-Kaxinawa-7_tongue-1-1,Kaxinawa-7_tongue-1,hana,43,false,expert,Valenzuela2023,,,
-Marinawa-7_tongue-1-1,Marinawa-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-Yawanawa-7_tongue-1-1,Yawanawa-7_tongue-1,anna,43,false,expert,Valenzuela2023,,,
-Korubo-7_tongue-1-1,Korubo-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-Matis-7_tongue-1-1,Matis-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-Amawaka-8_hand-1-1,Amawaka-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,,,
-Kaxinawa-8_hand-1-1,Kaxinawa-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,,,
-Marinawa-8_hand-1-1,Marinawa-8_hand-1,mɨkɨ,27,false,expert,Valenzuela2023,,,
-Matis-8_hand-1-1,Matis-8_hand-1,mɨkɨn,27,false,expert,Valenzuela2023,,,
-Matses-8_hand-1-1,Matses-8_hand-1,mɨdante,27,false,expert,Valenzuela2023,,,
-Shanenawa-9_night-1-1,Shanenawa-9_night-1,yamɨ,37,false,expert,Valenzuela2023,,,
-Katukina-9_night-1-1,Katukina-9_night-1,yamɨ,37,false,expert,Valenzuela2023,,,
-Poyanawa-9_night-1-1,Poyanawa-9_night-1,iãvu,37,false,expert,Valenzuela2023,,,
-Amawaka-9_night-1-1,Amawaka-9_night-1,yamɨː,37,false,expert,Valenzuela2023,,,
-Kaxinawa-9_night-1-1,Kaxinawa-9_night-1,yamɨ,37,false,expert,Valenzuela2023,,,
-Marinawa-9_night-1-1,Marinawa-9_night-1,yamɨ,37,false,expert,Valenzuela2023,,,
-Yawanawa-9_night-1-1,Yawanawa-9_night-1,iamɨ,37,false,expert,Valenzuela2023,,,
-Korubo-9_night-1-1,Korubo-9_night-1,imɨt,37,false,expert,Valenzuela2023,,,
-Matis-9_night-1-1,Matis-9_night-1,imɨd,37,false,expert,Valenzuela2023,,,
-Shanenawa-10_skin-1-1,Shanenawa-10_skin-1,fitʃi,39,false,expert,Valenzuela2023,,,
-Kaxinawa-10_skin-1-1,Kaxinawa-10_skin-1,bitʃi,39,false,expert,Valenzuela2023,,,
-Marinawa-10_skin-1-1,Marinawa-10_skin-1,ɸitʃi,39,false,expert,Valenzuela2023,,,
-Yawanawa-10_skin-1-1,Yawanawa-10_skin-1,βɨtʃi,39,false,expert,Valenzuela2023,,,
-Matis-10_skin-1-1,Matis-10_skin-1,bitsi,39,false,expert,Valenzuela2023,,,
-Matses-10_skin-1-1,Matses-10_skin-1,bitsi,39,false,expert,Valenzuela2023,,,
-Shanenawa-11_fire-1-1,Shanenawa-11_fire-1,tʃi,22,false,expert,Valenzuela2023,,,
-Katukina-11_fire-1-1,Katukina-11_fire-1,tʃii,22,false,expert,Valenzuela2023,,,
-Amawaka-11_fire-1-1,Amawaka-11_fire-1,tʃiʔi,22,false,expert,Valenzuela2023,,,
-Kaxinawa-11_fire-1-1,Kaxinawa-11_fire-1,tʃi,22,false,expert,Valenzuela2023,,,
-Marinawa-11_fire-1-1,Marinawa-11_fire-1,tʃi,22,false,expert,Valenzuela2023,,,
-Yawanawa-11_fire-1-1,Yawanawa-11_fire-1,tʃi,22,false,expert,Valenzuela2023,,,
-Katukina-12_knee-1-1,Katukina-12_knee-1,raβɨʂo,30,false,expert,Valenzuela2023,,,
-Amawaka-12_knee-1-1,Amawaka-12_knee-1,rawoxko,30,false,expert,Valenzuela2023,,,
-Shanenawa-13_blood-1-1,Shanenawa-13_blood-1,imi,4,false,expert,Valenzuela2023,,,
-Katukina-13_blood-1-1,Katukina-13_blood-1,himi,4,false,expert,Valenzuela2023,,,
-Poyanawa-13_blood-1-1,Poyanawa-13_blood-1,ibi,4,false,expert,Valenzuela2023,,,
-Amawaka-13_blood-1-1,Amawaka-13_blood-1,himi,4,false,expert,Valenzuela2023,,,
-Kaxinawa-13_blood-1-1,Kaxinawa-13_blood-1,himi,4,false,expert,Valenzuela2023,,,
-Marinawa-13_blood-1-1,Marinawa-13_blood-1,imi,4,false,expert,Valenzuela2023,,,
-Yawanawa-13_blood-1-1,Yawanawa-13_blood-1,imi,4,false,expert,Valenzuela2023,,,
-Korubo-13_blood-1-1,Korubo-13_blood-1,inta,4,false,expert,Valenzuela2023,,,
-Matis-13_blood-1-1,Matis-13_blood-1,imi,4,false,expert,Valenzuela2023,,,
-Matses-13_blood-1-1,Matses-13_blood-1,imi,4,false,expert,Valenzuela2023,,,
-Shanenawa-14_breast-1-1,Shanenawa-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,,,
-Katukina-14_breast-1-1,Katukina-14_breast-1,ʃuma,6,false,expert,Valenzuela2023,,,
-Poyanawa-14_breast-1-1,Poyanawa-14_breast-1,hũba,6,false,expert,Valenzuela2023,,,
-Amawaka-14_breast-1-1,Amawaka-14_breast-1,xoma,6,false,expert,Valenzuela2023,,,
-Kaxinawa-14_breast-1-1,Kaxinawa-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,,,
-Marinawa-14_breast-1-1,Marinawa-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,,,
-Yawanawa-14_breast-1-1,Yawanawa-14_breast-1,ʃuma,6,false,expert,Valenzuela2023,,,
-Korubo-14_breast-1-1,Korubo-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,,,
-Matis-14_breast-1-1,Matis-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,,,
-Matses-14_breast-1-1,Matses-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,,,
-Shanenawa-15_sun-1-1,Shanenawa-15_sun-1,faɾi,40,false,expert,Valenzuela2023,,,
-Katukina-15_sun-1-1,Katukina-15_sun-1,βaɾi,40,false,expert,Valenzuela2023,,,
-Poyanawa-15_sun-1-1,Poyanawa-15_sun-1,βaɾi,40,false,expert,Valenzuela2023,,,
-Amawaka-15_sun-1-1,Amawaka-15_sun-1,bari,40,false,expert,Valenzuela2023,,,
-Kaxinawa-15_sun-1-1,Kaxinawa-15_sun-1,badi,40,false,expert,Valenzuela2023,,,
-Marinawa-15_sun-1-1,Marinawa-15_sun-1,ɸaɾi,40,false,expert,Valenzuela2023,,,
-Yawanawa-15_sun-1-1,Yawanawa-15_sun-1,βaɾi,40,false,expert,Valenzuela2023,,,
-Korubo-15_sun-1-1,Korubo-15_sun-1,βaɬi,40,false,expert,Valenzuela2023,,,
-Matis-15_sun-1-1,Matis-15_sun-1,badi,40,false,expert,Valenzuela2023,,,
-Matses-15_sun-1-1,Matses-15_sun-1,badiad,40,false,expert,Valenzuela2023,,,
-Amawaka-16_you-1-1,Amawaka-16_you-1,miya,47,false,expert,Valenzuela2023,,,
-Kaxinawa-16_you-1-1,Kaxinawa-16_you-1,mia,47,false,expert,Valenzuela2023,,,
-Marinawa-16_you-1-1,Marinawa-16_you-1,mia,47,false,expert,Valenzuela2023,,,
-Korubo-16_you-1-1,Korubo-16_you-1,mi,47,false,expert,Valenzuela2023,,,
-Matis-16_you-1-1,Matis-16_you-1,mi_,47,false,expert,Valenzuela2023,,,
-Matses-16_you-1-1,Matses-16_you-1,mi_,47,false,expert,Valenzuela2023,,,
-Amawaka-17_come-1-1,Amawaka-17_come-1,βɨ-,10,false,expert,Valenzuela2023,,,
-Kaxinawa-17_come-1-1,Kaxinawa-17_come-1,bɨ-,10,false,expert,Valenzuela2023,,,
-Marinawa-17_come-1-1,Marinawa-17_come-1,ɸɨ-,10,false,expert,Valenzuela2023,,,
-Yawanawa-17_come-1-1,Yawanawa-17_come-1,βɨ-,10,false,expert,Valenzuela2023,,,
-Korubo-17_come-1-1,Korubo-17_come-1,βɨ-,10,false,expert,Valenzuela2023,,,
-Matis-17_come-1-1,Matis-17_come-1,βɨ-,10,false,expert,Valenzuela2023,,,
-Matses-17_come-1-1,Matses-17_come-1,bɨ-,10,false,expert,Valenzuela2023,,,
-Amawaka-18_i-1-1,Amawaka-18_i-1,ɨ,28,false,expert,Valenzuela2023,,,
-Kaxinawa-18_i-1-1,Kaxinawa-18_i-1,ɨ,28,false,expert,Valenzuela2023,,,
-Marinawa-18_i-1-1,Marinawa-18_i-1,ɨ,28,false,expert,Valenzuela2023,,,
-Shanenawa-19_flesh-1-1,Shanenawa-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Katukina-19_flesh-1-1,Katukina-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Poyanawa-19_flesh-1-1,Poyanawa-19_flesh-1,nãbi,23,false,expert,Valenzuela2023,,,
-Amawaka-19_flesh-1-1,Amawaka-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Kaxinawa-19_flesh-1-1,Kaxinawa-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Marinawa-19_flesh-1-1,Marinawa-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Yawanawa-19_flesh-1-1,Yawanawa-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Matis-19_flesh-1-1,Matis-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Matses-19_flesh-1-1,Matses-19_flesh-1,nami,23,false,expert,Valenzuela2023,,,
-Shanenawa-20_fat-1-1,Shanenawa-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Katukina-20_fat-1-1,Katukina-20_fat-1,ʃɨni,20,false,expert,Valenzuela2023,,,
-Poyanawa-20_fat-1-1,Poyanawa-20_fat-1,hãdi,20,false,expert,Valenzuela2023,,,
-Amawaka-20_fat-1-1,Amawaka-20_fat-1,xɨni,20,false,expert,Valenzuela2023,,,
-Kaxinawa-20_fat-1-1,Kaxinawa-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Marinawa-20_fat-1-1,Marinawa-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Yawanawa-20_fat-1-1,Yawanawa-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Korubo-20_fat-1-1,Korubo-20_fat-1,ʃɨni,20,false,expert,Valenzuela2023,,,
-Matis-20_fat-1-1,Matis-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,,,
-Shanenawa-21_fingernail-1-1,Shanenawa-21_fingernail-1,mɨtʃiʃi,21,false,expert,Valenzuela2023,,,
-Katukina-21_fingernail-1-1,Katukina-21_fingernail-1,mɨ̃tʃiʃi,21,false,expert,Valenzuela2023,,,
-Amawaka-21_fingernail-1-1,Amawaka-21_fingernail-1,mɨntsis,21,false,expert,Valenzuela2023,,,
-Kaxinawa-21_fingernail-1-1,Kaxinawa-21_fingernail-1,mɨ̃tsis,21,false,expert,Valenzuela2023,,,
-Marinawa-21_fingernail-1-1,Marinawa-21_fingernail-1,mɨ̃tsisi,21,false,expert,Valenzuela2023,,,
-Yawanawa-21_fingernail-1-1,Yawanawa-21_fingernail-1,mɨtsisi,21,false,expert,Valenzuela2023,,,
-Korubo-21_fingernail-1-1,Korubo-21_fingernail-1,mɨtʃiun,21,false,expert,Valenzuela2023,,,
-Matis-21_fingernail-1-1,Matis-21_fingernail-1,mɨntis,21,false,expert,Valenzuela2023,,,
-Matses-21_fingernail-1-1,Matses-21_fingernail-1,mɨntsis,21,false,expert,Valenzuela2023,,,
-Shanenawa-22_footleg-1-1,Shanenawa-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Katukina-22_footleg-1-1,Katukina-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Poyanawa-22_footleg-1-1,Poyanawa-22_footleg-1,tay,24,false,expert,Valenzuela2023,,,
-Amawaka-22_footleg-1-1,Amawaka-22_footleg-1,taʔɨ,24,false,expert,Valenzuela2023,,,
-Kaxinawa-22_footleg-1-1,Kaxinawa-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Marinawa-22_footleg-1-1,Marinawa-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Yawanawa-22_footleg-1-1,Yawanawa-22_footleg-1,tai,24,false,expert,Valenzuela2023,,,
-Korubo-22_footleg-1-1,Korubo-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Matis-22_footleg-1-1,Matis-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Matses-22_footleg-1-1,Matses-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,,,
-Kaxinawa-23_lipedge-1-1,Kaxinawa-23_lipedge-1,kɨbitʃi,32,false,expert,Valenzuela2023,,,
-Matses-23_lipedge-1-1,Matses-23_lipedge-1,kwibi,32,false,expert,Valenzuela2023,,,
-Katukina-24_cheek-1-1,Katukina-24_cheek-1,tamu,9,false,expert,Valenzuela2023,,,
-Poyanawa-24_cheek-1-1,Poyanawa-24_cheek-1,tãbu,9,false,expert,Valenzuela2023,,,
-Amawaka-24_cheek-1-1,Amawaka-24_cheek-1,tamo,9,false,expert,Valenzuela2023,,,
-Kaxinawa-24_cheek-1-1,Kaxinawa-24_cheek-1,tamu,9,false,expert,Valenzuela2023,,,
-Marinawa-24_cheek-1-1,Marinawa-24_cheek-1,tamo,9,false,expert,Valenzuela2023,,,
-Matses-24_cheek-1-1,Matses-24_cheek-1,tambu,9,false,expert,Valenzuela2023,,,
-Shanenawa-25_mouth-1-1,Shanenawa-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,,,
-Katukina-25_mouth-1-1,Katukina-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,,,
-Poyanawa-25_mouth-1-1,Poyanawa-25_mouth-1,kɨxaa,35,false,expert,Valenzuela2023,,,
-Amawaka-25_mouth-1-1,Amawaka-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,,,
-Kaxinawa-25_mouth-1-1,Kaxinawa-25_mouth-1,kɨʂ̃a,35,false,expert,Valenzuela2023,,,
-Marinawa-25_mouth-1-1,Marinawa-25_mouth-1,kɨʃa,35,false,expert,Valenzuela2023,,,
-Yawanawa-25_mouth-1-1,Yawanawa-25_mouth-1,kɨha,35,false,expert,Valenzuela2023,,,
-Amawaka-26_elbow-1-1,Amawaka-26_elbow-1,vapoxko,19,false,expert,Valenzuela2023,,,
-Kaxinawa-26_elbow-1-1,Kaxinawa-26_elbow-1,baʂtunku,19,false,expert,Valenzuela2023,,,
-Matis-26_elbow-1-1,Matis-26_elbow-1,mɨntʂinβuru,19,false,expert,Valenzuela2023,,,
-Matses-26_elbow-1-1,Matses-26_elbow-1,mɨntsimpis,19,false,expert,Valenzuela2023,,,
-Proto-Takana-1_tree-1-1,Proto-Takana-1_tree-1,akʷi,45,false,expert,Valenzuela2023,,,
-Tacanan-1_tree-1-1,Tacanan-1_tree-1,aki,45,false,expert,Valenzuela2023,,,
-Reyesano-1_tree-1-1,Reyesano-1_tree-1,-,45,false,expert,Valenzuela2023,,,
-Araona-1_tree-1-1,Araona-1_tree-1,acui,45,false,expert,Valenzuela2023,,,
-Mabenaro-1_tree-1-1,Mabenaro-1_tree-1,akwi,45,false,expert,Valenzuela2023,,,
-Cavinena-1_tree-1-1,Cavinena-1_tree-1,akwi,45,false,expert,Valenzuela2023,,,
-EseEjja-1_tree-1-1,EseEjja-1_tree-1,akwi,45,false,expert,Valenzuela2023,,,
-Warayo-1_tree-1-1,Warayo-1_tree-1,akwi,45,false,expert,Valenzuela2023,,,
-Arasa-1_tree-1-1,Arasa-1_tree-1,akui,45,false,expert,Valenzuela2023,,,
-Proto-Takana-2_tooth-1-1,Proto-Takana-2_tooth-1,e-ce,44,false,expert,Valenzuela2023,,,
-Reyesano-2_tooth-1-1,Reyesano-2_tooth-1,e-ce,44,false,expert,Valenzuela2023,,,
-Sapibokona-2_tooth-1-1,Sapibokona-2_tooth-1,echee,44,false,expert,Valenzuela2023,,,
-Mabenaro-2_tooth-1-1,Mabenaro-2_tooth-1,itsi,44,false,expert,Valenzuela2023,,,
-Cavinena-2_tooth-1-1,Cavinena-2_tooth-1,e-ce,44,false,expert,Valenzuela2023,,,
-EseEjja-2_tooth-1-1,EseEjja-2_tooth-1,e-se,44,false,expert,Valenzuela2023,,,
-Warayo-2_tooth-1-1,Warayo-2_tooth-1,e-sé,44,false,expert,Valenzuela2023,,,
-Tiatinawa-2_tooth-1-1,Tiatinawa-2_tooth-1,ese,44,false,expert,Valenzuela2023,,,
-Chama-2_tooth-1-1,Chama-2_tooth-1,e-sé,44,false,expert,Valenzuela2023,,,
-Arasa-2_tooth-1-1,Arasa-2_tooth-1,ese,44,false,expert,Valenzuela2023,,,
-Proto-Takana-3_two-1-1,Proto-Takana-3_two-1,beta,46,false,expert,Valenzuela2023,,,
-Tacanan-3_two-1-1,Tacanan-3_two-1,beta,46,false,expert,Valenzuela2023,,,
-Reyesano-3_two-1-1,Reyesano-3_two-1,mbeta,46,false,expert,Valenzuela2023,,,
-Sapibokona-3_two-1-1,Sapibokona-3_two-1,beta,46,false,expert,Valenzuela2023,,,
-Araona-3_two-1-1,Araona-3_two-1,beta,46,false,expert,Valenzuela2023,,,
-Cavinena-3_two-1-1,Cavinena-3_two-1,beta,46,false,expert,Valenzuela2023,,,
-EseEjja-3_two-1-1,EseEjja-3_two-1,beka,46,false,expert,Valenzuela2023,,,
-Warayo-3_two-1-1,Warayo-3_two-1,beabué,46,false,expert,Valenzuela2023,,,
-Tiatinawa-3_two-1-1,Tiatinawa-3_two-1,bikapiai,46,false,expert,Valenzuela2023,,,
-Chama-3_two-1-1,Chama-3_two-1,béka,46,false,expert,Valenzuela2023,,,
-Proto-Takana-4_liver-1-1,Proto-Takana-4_liver-1,takʷa,33,false,expert,Valenzuela2023,,,
-Tacanan-4_liver-1-1,Tacanan-4_liver-1,e-takwa,33,false,expert,Valenzuela2023,,,
-Reyesano-4_liver-1-1,Reyesano-4_liver-1,e-takwa,33,false,expert,Valenzuela2023,,,
-Cavinena-4_liver-1-1,Cavinena-4_liver-1,e-takwa,33,false,expert,Valenzuela2023,,,
-EseEjja-4_liver-1-1,EseEjja-4_liver-1,e-kakwa,33,false,expert,Valenzuela2023,,,
-Warayo-4_liver-1-1,Warayo-4_liver-1,e-takwe,33,false,expert,Valenzuela2023,,,
-Arasa-4_liver-1-1,Arasa-4_liver-1,etákua,33,false,expert,Valenzuela2023,,,
-Proto-Takana-27_tofan-1-1,Proto-Takana-27_tofan-1,pei,42,false,expert,Valenzuela2023,,,
-Cavinena-27_tofan-1-1,Cavinena-27_tofan-1,pei-,42,false,expert,Valenzuela2023,,,
-EseEjja-27_tofan-1-1,EseEjja-27_tofan-1,e-pexi,42,false,expert,Valenzuela2023,,,
-Warayo-27_tofan-1-1,Warayo-27_tofan-1,pio-,42,false,expert,Valenzuela2023,,,
-Proto-Takana-6_bone-1-1,Proto-Takana-6_bone-1,tʂau,5,false,expert,Valenzuela2023,,,
-Tacanan-6_bone-1-1,Tacanan-6_bone-1,e-cau,5,false,expert,Valenzuela2023,,,
-Reyesano-6_bone-1-1,Reyesano-6_bone-1,e-cao,5,false,expert,Valenzuela2023,,,
-Cavinena-6_bone-1-1,Cavinena-6_bone-1,e-cao,5,false,expert,Valenzuela2023,,,
-EseEjja-6_bone-1-1,EseEjja-6_bone-1,e-sá,5,false,expert,Valenzuela2023,,,
-Warayo-6_bone-1-1,Warayo-6_bone-1,e-sá,5,false,expert,Valenzuela2023,,,
-Proto-Takana-7_tongue-1-1,Proto-Takana-7_tongue-1,ana,43,false,expert,Valenzuela2023,,,
-Tacanan-7_tongue-1-1,Tacanan-7_tongue-1,y-ana,43,false,expert,Valenzuela2023,,,
-Reyesano-7_tongue-1-1,Reyesano-7_tongue-1,y-ana,43,false,expert,Valenzuela2023,,,
-Sapibokona-7_tongue-1-1,Sapibokona-7_tongue-1,eana,43,false,expert,Valenzuela2023,,,
-Cavinena-7_tongue-1-1,Cavinena-7_tongue-1,y-ana,43,false,expert,Valenzuela2023,,,
-EseEjja-7_tongue-1-1,EseEjja-7_tongue-1,eyana,43,false,expert,Valenzuela2023,,,
-Warayo-7_tongue-1-1,Warayo-7_tongue-1,y-ana,43,false,expert,Valenzuela2023,,,
-Tiatinawa-7_tongue-1-1,Tiatinawa-7_tongue-1,yana,43,false,expert,Valenzuela2023,,,
-Arasa-7_tongue-1-1,Arasa-7_tongue-1,eána,43,false,expert,Valenzuela2023,,,
-Proto-Takana-8_hand-1-1,Proto-Takana-8_hand-1,me-,27,false,expert,Valenzuela2023,,,
-Tacanan-8_hand-1-1,Tacanan-8_hand-1,e-me,27,false,expert,Valenzuela2023,,,
-Reyesano-8_hand-1-1,Reyesano-8_hand-1,-,27,false,expert,Valenzuela2023,,,
-Sapibokona-8_hand-1-1,Sapibokona-8_hand-1,eme,27,false,expert,Valenzuela2023,,,
-Araona-8_hand-1-1,Araona-8_hand-1,eme,27,false,expert,Valenzuela2023,,,
-Cavinena-8_hand-1-1,Cavinena-8_hand-1,e-me,27,false,expert,Valenzuela2023,,,
-EseEjja-8_hand-1-1,EseEjja-8_hand-1,e-me,27,false,expert,Valenzuela2023,,,
-Warayo-8_hand-1-1,Warayo-8_hand-1,e-mé,27,false,expert,Valenzuela2023,,,
-Arasa-8_hand-1-1,Arasa-8_hand-1,emã,27,false,expert,Valenzuela2023,,,
-Proto-Takana-9_night-1-1,Proto-Takana-9_night-1,meta,37,false,expert,Valenzuela2023,,,
-Tacanan-9_night-1-1,Tacanan-9_night-1,mueta,37,false,expert,Valenzuela2023,,,
-Reyesano-9_night-1-1,Reyesano-9_night-1,-,37,false,expert,Valenzuela2023,,,
-Sapibokona-9_night-1-1,Sapibokona-9_night-1,maetahe,37,false,expert,Valenzuela2023,,,
-Cavinena-9_night-1-1,Cavinena-9_night-1,meta,37,false,expert,Valenzuela2023,,,
-EseEjja-9_night-1-1,EseEjja-9_night-1,meka-waxe,37,false,expert,Valenzuela2023,,,
-Arasa-9_night-1-1,Arasa-9_night-1,eméte,37,false,expert,Valenzuela2023,,,
-Proto-Takana-10_skin-1-1,Proto-Takana-10_skin-1,biti,39,false,expert,Valenzuela2023,,,
-Tacanan-10_skin-1-1,Tacanan-10_skin-1,e-biti,39,false,expert,Valenzuela2023,,,
-Reyesano-10_skin-1-1,Reyesano-10_skin-1,e-mbiti,39,false,expert,Valenzuela2023,,,
-Cavinena-10_skin-1-1,Cavinena-10_skin-1,e-biti,39,false,expert,Valenzuela2023,,,
-Proto-Takana-11_fire-1-1,Proto-Takana-11_fire-1,ti,22,false,expert,Valenzuela2023,,,
-Tacanan-11_fire-1-1,Tacanan-11_fire-1,e-ti-ře,22,false,expert,Valenzuela2023,,,
-Reyesano-11_fire-1-1,Reyesano-11_fire-1,-ti-,22,false,expert,Valenzuela2023,,,
-Araona-11_fire-1-1,Araona-11_fire-1,etesi,22,false,expert,Valenzuela2023,,,
-Cavinena-11_fire-1-1,Cavinena-11_fire-1,e-tiki,22,false,expert,Valenzuela2023,,,
-Proto-Takana-12_knee-1-1,Proto-Takana-12_knee-1,da,30,false,expert,Valenzuela2023,,,
-Tacanan-12_knee-1-1,Tacanan-12_knee-1,e-ma-da-cua,30,false,expert,Valenzuela2023,,,
-Proto-Takana-13_blood-1-1,Proto-Takana-13_blood-1,ami,4,false,expert,Valenzuela2023,,,
-Tacanan-13_blood-1-1,Tacanan-13_blood-1,ami,4,false,expert,Valenzuela2023,,,
-Reyesano-13_blood-1-1,Reyesano-13_blood-1,ami,4,false,expert,Valenzuela2023,,,
-Cavinena-13_blood-1-1,Cavinena-13_blood-1,ami,4,false,expert,Valenzuela2023,,,
-Proto-Takana-14_breast-1-1,Proto-Takana-14_breast-1,aṭṣu,6,false,expert,Valenzuela2023,,,
-Proto-Takana-28_moon-1-1,Proto-Takana-28_moon-1,badi,34,false,expert,Valenzuela2023,,,
-Tacanan-28_moon-1-1,Tacanan-28_moon-1,badi,34,false,expert,Valenzuela2023,,,
-Reyesano-28_moon-1-1,Reyesano-28_moon-1,mbandzi,34,false,expert,Valenzuela2023,,,
-Sapibokona-28_moon-1-1,Sapibokona-28_moon-1,bari,34,false,expert,Valenzuela2023,,,
-Araona-28_moon-1-1,Araona-28_moon-1,badi,34,false,expert,Valenzuela2023,,,
-Cavinena-28_moon-1-1,Cavinena-28_moon-1,badi,34,false,expert,Valenzuela2023,,,
-EseEjja-28_moon-1-1,EseEjja-28_moon-1,baʔi,34,false,expert,Valenzuela2023,,,
-Chama-28_moon-1-1,Chama-28_moon-1,mái,34,false,expert,Valenzuela2023,,,
-Proto-Takana-16_you-1-1,Proto-Takana-16_you-1,mi,47,false,expert,Valenzuela2023,,,
-Tacanan-16_you-1-1,Tacanan-16_you-1,mi-ke,47,false,expert,Valenzuela2023,,,
-Reyesano-16_you-1-1,Reyesano-16_you-1,mibe,47,false,expert,Valenzuela2023,,,
-Araona-16_you-1-1,Araona-16_you-1,mitya,47,false,expert,Valenzuela2023,,,
-Cavinena-16_you-1-1,Cavinena-16_you-1,mi-kwana,47,false,expert,Valenzuela2023,,,
-EseEjja-16_you-1-1,EseEjja-16_you-1,mi-a,47,false,expert,Valenzuela2023,,,
-Arasa-16_you-1-1,Arasa-16_you-1,mikia,47,false,expert,Valenzuela2023,,,
-Proto-Takana-17_come-1-1,Proto-Takana-17_come-1,be-,10,false,expert,Valenzuela2023,,,
-Proto-Takana-18_i-1-1,Proto-Takana-18_i-1,e,28,false,expert,Valenzuela2023,,,
-Tacanan-18_i-1-1,Tacanan-18_i-1,e-ma,28,false,expert,Valenzuela2023,,,
-Reyesano-18_i-1-1,Reyesano-18_i-1,e-me,28,false,expert,Valenzuela2023,,,
-Araona-18_i-1-1,Araona-18_i-1,ema,28,false,expert,Valenzuela2023,,,
-Cavinena-18_i-1-1,Cavinena-18_i-1,e-ra,28,false,expert,Valenzuela2023,,,
-EseEjja-18_i-1-1,EseEjja-18_i-1,ea,28,false,expert,Valenzuela2023,,,
-Proto-Takana-19_flesh-1-1,Proto-Takana-19_flesh-1,ɾami,23,false,expert,Valenzuela2023,,,
-Tacanan-19_flesh-1-1,Tacanan-19_flesh-1,yami,23,false,expert,Valenzuela2023,,,
-Reyesano-19_flesh-1-1,Reyesano-19_flesh-1,yami,23,false,expert,Valenzuela2023,,,
-Araona-19_flesh-1-1,Araona-19_flesh-1,yami,23,false,expert,Valenzuela2023,,,
-Cavinena-19_flesh-1-1,Cavinena-19_flesh-1,e-rami,23,false,expert,Valenzuela2023,,,
-EseEjja-19_flesh-1-1,EseEjja-19_flesh-1,eyami,23,false,expert,Valenzuela2023,,,
-Warayo-19_flesh-1-1,Warayo-19_flesh-1,eyami,23,false,expert,Valenzuela2023,,,
-Arasa-19_flesh-1-1,Arasa-19_flesh-1,éami,23,false,expert,Valenzuela2023,,,
-Proto-Takana-20_fat-1-1,Proto-Takana-20_fat-1,ṭṣeri,20,false,expert,Valenzuela2023,,,
-Tacanan-20_fat-1-1,Tacanan-20_fat-1,e-cei,20,false,expert,Valenzuela2023,,,
-Cavinena-20_fat-1-1,Cavinena-20_fat-1,e-ceri,20,false,expert,Valenzuela2023,,,
-EseEjja-20_fat-1-1,EseEjja-20_fat-1,e-sei,20,false,expert,Valenzuela2023,,,
-Arasa-20_fat-1-1,Arasa-20_fat-1,ésey,20,false,expert,Valenzuela2023,,,
-Proto-Takana-21_fingernail-1-1,Proto-Takana-21_fingernail-1,metiji,21,false,expert,Valenzuela2023,,,
-Tacanan-21_fingernail-1-1,Tacanan-21_fingernail-1,e-me-haca,21,false,expert,Valenzuela2023,,,
-Reyesano-21_fingernail-1-1,Reyesano-21_fingernail-1,-,21,false,expert,Valenzuela2023,,,
-Cavinena-21_fingernail-1-1,Cavinena-21_fingernail-1,e-me-šoro,21,false,expert,Valenzuela2023,,,
-EseEjja-21_fingernail-1-1,EseEjja-21_fingernail-1,e-me-kiše,21,false,expert,Valenzuela2023,,,
-Proto-Takana-22_footleg-1-1,Proto-Takana-22_footleg-1,ta-,24,false,expert,Valenzuela2023,,,
-Tacanan-22_footleg-1-1,Tacanan-22_footleg-1,e-ta-buce,24,false,expert,Valenzuela2023,,,
-Mabenaro-22_footleg-1-1,Mabenaro-22_footleg-1,itha,24,false,expert,Valenzuela2023,,,
-Cavinena-22_footleg-1-1,Cavinena-22_footleg-1,awa-taka,24,false,expert,Valenzuela2023,,,
-Proto-Takana-23_lipedge-1-1,Proto-Takana-23_lipedge-1,kʷe-,32,false,expert,Valenzuela2023,,,
-Tacanan-23_lipedge-1-1,Tacanan-23_lipedge-1,e-ke-ke,32,false,expert,Valenzuela2023,,,
-Reyesano-23_lipedge-1-1,Reyesano-23_lipedge-1,kwesa,32,false,expert,Valenzuela2023,,,
-Cavinena-23_lipedge-1-1,Cavinena-23_lipedge-1,kwesa,32,false,expert,Valenzuela2023,,,
-EseEjja-23_lipedge-1-1,EseEjja-23_lipedge-1,e-kwe-ša,32,false,expert,Valenzuela2023,,,
-Proto-Takana-24_cheek-1-1,Proto-Takana-24_cheek-1,tamu,9,false,expert,Valenzuela2023,,,
-Reyesano-24_cheek-1-1,Reyesano-24_cheek-1,ebu-tamu,9,false,expert,Valenzuela2023,,,
-Cavinena-24_cheek-1-1,Cavinena-24_cheek-1,-tamu,9,false,expert,Valenzuela2023,,,
-EseEjja-24_cheek-1-1,EseEjja-24_cheek-1,-shemo,9,false,expert,Valenzuela2023,,,
-Proto-Takana-25_mouth-1-1,Proto-Takana-25_mouth-1,kʷatʂa,35,false,expert,Valenzuela2023,,,
-Tacanan-25_mouth-1-1,Tacanan-25_mouth-1,e-kwaca,35,false,expert,Valenzuela2023,,,
-Reyesano-25_mouth-1-1,Reyesano-25_mouth-1,e-kwaca,35,false,expert,Valenzuela2023,,,
-Sapibokona-25_mouth-1-1,Sapibokona-25_mouth-1,ecuacha,35,false,expert,Valenzuela2023,,,
-Mabenaro-25_mouth-1-1,Mabenaro-25_mouth-1,ikwatsa,35,false,expert,Valenzuela2023,,,
-Cavinena-25_mouth-1-1,Cavinena-25_mouth-1,e-kwaca,35,false,expert,Valenzuela2023,,,
-EseEjja-25_mouth-1-1,EseEjja-25_mouth-1,e-kwasa,35,false,expert,Valenzuela2023,,,
-Warayo-25_mouth-1-1,Warayo-25_mouth-1,e-kwasa,35,false,expert,Valenzuela2023,,,
-Proto-Takana-26_elbow-1-1,Proto-Takana-26_elbow-1,-baṭṣu,19,false,expert,Valenzuela2023,,,
-Tacanan-26_elbow-1-1,Tacanan-26_elbow-1,e-ba-cu,19,false,expert,Valenzuela2023,,,
-Reyesano-26_elbow-1-1,Reyesano-26_elbow-1,e-mba-co,19,false,expert,Valenzuela2023,,,
-EseEjja-26_elbow-1-1,EseEjja-26_elbow-1,e-bašo,19,false,expert,Valenzuela2023,,,
-Warayo-26_elbow-1-1,Warayo-26_elbow-1,e-bašo,19,false,expert,Valenzuela2023,,,
-Tiatinawa-26_elbow-1-1,Tiatinawa-26_elbow-1,wacu,19,false,expert,Valenzuela2023,,,
-Arasa-26_elbow-1-1,Arasa-26_elbow-1,ebaša,19,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-29_1stsgi-1-1,Proto-Pano-Takana-29_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,,,
-Proto-Pano-29_1stsgi-1-1,Proto-Pano-29_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,,,
-Kakataibo-29_1stsgi-1-1,Kakataibo-29_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,,,
-ShipiboKonibo-29_1stsgi-1-1,ShipiboKonibo-29_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,,,
-Kapanawa-29_1stsgi-1-1,Kapanawa-29_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,,,
-Chacobo-29_1stsgi-1-1,Chacobo-29_1stsgi-1,ɨ,1,false,expert,Valenzuela2023,,,
-Yaminawa-29_1stsgi-1-1,Yaminawa-29_1stsgi-1,ɨ̃,1,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-30_2ndsgyou-1-1,Proto-Pano-Takana-30_2ndsgyou-1,mi,2,false,expert,Valenzuela2023,,,
-Proto-Pano-30_2ndsgyou-1-1,Proto-Pano-30_2ndsgyou-1,mi,2,false,expert,Valenzuela2023,,,
-Kakataibo-30_2ndsgyou-1-1,Kakataibo-30_2ndsgyou-1,mii,2,false,expert,Valenzuela2023,,,
-ShipiboKonibo-30_2ndsgyou-1-1,ShipiboKonibo-30_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,,,
-Kapanawa-30_2ndsgyou-1-1,Kapanawa-30_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,,,
-Chacobo-30_2ndsgyou-1-1,Chacobo-30_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,,,
-Yaminawa-30_2ndsgyou-1-1,Yaminawa-30_2ndsgyou-1,mĩ,2,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-31_demonstrativedistal-1-1,Proto-Pano-Takana-31_demonstrativedistal-1,ʔu-,12,false,expert,Valenzuela2023,,,
-Proto-Pano-31_demonstrativedistal-1-1,Proto-Pano-31_demonstrativedistal-1,ʔo-,12,false,expert,Valenzuela2023,,,
-Kakataibo-31_demonstrativedistal-1-1,Kakataibo-31_demonstrativedistal-1,un_,12,false,expert,Valenzuela2023,,,
-ShipiboKonibo-31_demonstrativedistal-1-1,ShipiboKonibo-31_demonstrativedistal-1,oa,12,false,expert,Valenzuela2023,,,
-Chacobo-31_demonstrativedistal-1-1,Chacobo-31_demonstrativedistal-1,oa,12,false,expert,Valenzuela2023,,,
-Yaminawa-31_demonstrativedistal-1-1,Yaminawa-31_demonstrativedistal-1,oa,12,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-32_demonstrativeproximate-1-1,Proto-Pano-Takana-32_demonstrativeproximate-1,Nɨ-,13,false,expert,Valenzuela2023,,,
-Proto-Pano-32_demonstrativeproximate-1-1,Proto-Pano-32_demonstrativeproximate-1,nɨ-,13,false,expert,Valenzuela2023,,,
-Kakataibo-32_demonstrativeproximate-1-1,Kakataibo-32_demonstrativeproximate-1,ɨnɨn_,13,false,expert,Valenzuela2023,,,
-ShipiboKonibo-32_demonstrativeproximate-1-1,ShipiboKonibo-32_demonstrativeproximate-1,nɨ-,13,false,expert,Valenzuela2023,,,
-Chacobo-32_demonstrativeproximate-1-1,Chacobo-32_demonstrativeproximate-1,noa,13,false,expert,Valenzuela2023,,,
-Yaminawa-32_demonstrativeproximate-1-1,Yaminawa-32_demonstrativeproximate-1,na,13,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-33_genitive-1-1,Proto-Pano-Takana-33_genitive-1,-gʷi-n,25,false,expert,Valenzuela2023,,,
-Proto-Pano-33_genitive-1-1,Proto-Pano-33_genitive-1,-wɨ̃,25,false,expert,Valenzuela2023,,,
-Kakataibo-33_genitive-1-1,Kakataibo-33_genitive-1,=n,25,false,expert,Valenzuela2023,,,
-ShipiboKonibo-33_genitive-1-1,ShipiboKonibo-33_genitive-1,-n,25,false,expert,Valenzuela2023,,,
-Yaminawa-33_genitive-1-1,Yaminawa-33_genitive-1,-na,25,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-34_imperative-1-1,Proto-Pano-Takana-34_imperative-1,-gʷɨ,29,false,expert,Valenzuela2023,,,
-Proto-Pano-34_imperative-1-1,Proto-Pano-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Kakataibo-34_imperative-1-1,Kakataibo-34_imperative-1,-ɨ,29,false,expert,Valenzuela2023,,,
-ShipiboKonibo-34_imperative-1-1,ShipiboKonibo-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Kapanawa-34_imperative-1-1,Kapanawa-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Marubo-34_imperative-1-1,Marubo-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Chacobo-34_imperative-1-1,Chacobo-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Kaxarari-34_imperative-1-1,Kaxarari-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Yaminawa-34_imperative-1-1,Yaminawa-34_imperative-1,-ɸɨ,29,false,expert,Valenzuela2023,,,
-Sharanawa-34_imperative-1-1,Sharanawa-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-35_goingdowndownward-1-1,Proto-Pano-Takana-35_goingdowndownward-1,-butɨ,26,false,expert,Valenzuela2023,,,
-Proto-Pano-35_goingdowndownward-1-1,Proto-Pano-35_goingdowndownward-1,-βut,26,false,expert,Valenzuela2023,,,
-Kakataibo-35_goingdowndownward-1-1,Kakataibo-35_goingdowndownward-1,-but,26,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-36_docoming-1-1,Proto-Pano-Takana-36_docoming-1,-bɨ,17,false,expert,Valenzuela2023,,,
-Proto-Pano-36_docoming-1-1,Proto-Pano-36_docoming-1,-βɨ,17,false,expert,Valenzuela2023,,,
-Kakataibo-36_docoming-1-1,Kakataibo-36_docoming-1,-bɨtsin,17,false,expert,Valenzuela2023,,,
-ShipiboKonibo-36_docoming-1-1,ShipiboKonibo-36_docoming-1,-bɨiran,17,false,expert,Valenzuela2023,,,
-Chacobo-36_docoming-1-1,Chacobo-36_docoming-1,-bɨna,17,false,expert,Valenzuela2023,,,
-Yaminawa-36_docoming-1-1,Yaminawa-36_docoming-1,-ɸɨran,17,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-37_desiderative-1-1,Proto-Pano-Takana-37_desiderative-1,-katsa,14,false,expert,Valenzuela2023,,,
-Proto-Pano-37_desiderative-1-1,Proto-Pano-37_desiderative-1,-katsa,14,false,expert,Valenzuela2023,,,
-Kakataibo-37_desiderative-1-1,Kakataibo-37_desiderative-1,-kas,14,false,expert,Valenzuela2023,,,
-ShipiboKonibo-37_desiderative-1-1,ShipiboKonibo-37_desiderative-1,-kas,14,false,expert,Valenzuela2023,,,
-Kapanawa-37_desiderative-1-1,Kapanawa-37_desiderative-1,-katsiʔ-,14,false,expert,Valenzuela2023,,,
-Marubo-37_desiderative-1-1,Marubo-37_desiderative-1,-katsi,14,false,expert,Valenzuela2023,,,
-Chacobo-37_desiderative-1-1,Chacobo-37_desiderative-1,-kas-,14,false,expert,Valenzuela2023,,,
-Kaxarari-37_desiderative-1-1,Kaxarari-37_desiderative-1,-katsa,14,false,expert,Valenzuela2023,,,
-Yaminawa-37_desiderative-1-1,Yaminawa-37_desiderative-1,kasma,14,false,expert,Valenzuela2023,,,
-Sharanawa-37_desiderative-1-1,Sharanawa-37_desiderative-1,-kas-mai,14,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-38_negative-1-1,Proto-Pano-Takana-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Proto-Pano-38_negative-1-1,Proto-Pano-38_negative-1,-yama,36,false,expert,Valenzuela2023,,,
-Kakataibo-38_negative-1-1,Kakataibo-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-ShipiboKonibo-38_negative-1-1,ShipiboKonibo-38_negative-1,-yama,36,false,expert,Valenzuela2023,,,
-Kapanawa-38_negative-1-1,Kapanawa-38_negative-1,yama,36,false,expert,Valenzuela2023,,,
-Marubo-38_negative-1-1,Marubo-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Chacobo-38_negative-1-1,Chacobo-38_negative-1,-yama,36,false,expert,Valenzuela2023,,,
-Kaxarari-38_negative-1-1,Kaxarari-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Yaminawa-38_negative-1-1,Yaminawa-38_negative-1,maa,36,false,expert,Valenzuela2023,,,
-Sharanawa-38_negative-1-1,Sharanawa-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-39_causative-1-1,Proto-Pano-Takana-39_causative-1,-ma,7,false,expert,Valenzuela2023,,,
-Proto-Pano-39_causative-1-1,Proto-Pano-39_causative-1,-ma,7,false,expert,Valenzuela2023,,,
-Kakataibo-39_causative-1-1,Kakataibo-39_causative-1,-mi-,7,false,expert,Valenzuela2023,,,
-ShipiboKonibo-39_causative-1-1,ShipiboKonibo-39_causative-1,-ma-,7,false,expert,Valenzuela2023,,,
-Kapanawa-39_causative-1-1,Kapanawa-39_causative-1,-ma-,7,false,expert,Valenzuela2023,,,
-Marubo-39_causative-1-1,Marubo-39_causative-1,-ma,7,false,expert,Valenzuela2023,,,
-Chacobo-39_causative-1-1,Chacobo-39_causative-1,-ma,7,false,expert,Valenzuela2023,,,
-Yaminawa-39_causative-1-1,Yaminawa-39_causative-1,-ma,7,false,expert,Valenzuela2023,,,
-Sharanawa-39_causative-1-1,Sharanawa-39_causative-1,-ma-,7,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-40_augmentative-1-1,Proto-Pano-Takana-40_augmentative-1,-pa,3,false,expert,Valenzuela2023,,,
-Proto-Pano-40_augmentative-1-1,Proto-Pano-40_augmentative-1,pa,3,false,expert,Valenzuela2023,,,
-ShipiboKonibo-40_augmentative-1-1,ShipiboKonibo-40_augmentative-1,-n_ewá,3,false,expert,Valenzuela2023,,,
-Kapanawa-40_augmentative-1-1,Kapanawa-40_augmentative-1,-ahhuan,3,false,expert,Valenzuela2023,,,
-Chacobo-40_augmentative-1-1,Chacobo-40_augmentative-1,-wa,3,false,expert,Valenzuela2023,,,
-Yaminawa-40_augmentative-1-1,Yaminawa-40_augmentative-1,-nfã,3,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-41_dotrauxiliarytr-1-1,Proto-Pano-Takana-41_dotrauxiliarytr-1,ʔak-,16,false,expert,Valenzuela2023,,,
-Proto-Pano-41_dotrauxiliarytr-1-1,Proto-Pano-41_dotrauxiliarytr-1,ʔak-,16,false,expert,Valenzuela2023,,,
-Kakataibo-41_dotrauxiliarytr-1-1,Kakataibo-41_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,,,
-ShipiboKonibo-41_dotrauxiliarytr-1-1,ShipiboKonibo-41_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,,,
-Kapanawa-41_dotrauxiliarytr-1-1,Kapanawa-41_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,,,
-Marubo-41_dotrauxiliarytr-1-1,Marubo-41_dotrauxiliarytr-1,a,16,false,expert,Valenzuela2023,,,
-Chacobo-41_dotrauxiliarytr-1-1,Chacobo-41_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,,,
-Kaxarari-41_dotrauxiliarytr-1-1,Kaxarari-41_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,,,
-Yaminawa-41_dotrauxiliarytr-1-1,Yaminawa-41_dotrauxiliarytr-1,ak-,16,false,expert,Valenzuela2023,,,
-Chaninawa-41_dotrauxiliarytr-1-1,Chaninawa-41_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,,,
-Sharanawa-41_dotrauxiliarytr-1-1,Sharanawa-41_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-42_transitivizer-1-1,Proto-Pano-Takana-42_transitivizer-1,-wa,41,false,expert,Valenzuela2023,,,
-Proto-Pano-42_transitivizer-1-1,Proto-Pano-42_transitivizer-1,-wa,41,false,expert,Valenzuela2023,,,
-Kakataibo-42_transitivizer-1-1,Kakataibo-42_transitivizer-1,-ɔ,41,false,expert,Valenzuela2023,,,
-Chacobo-42_transitivizer-1-1,Chacobo-42_transitivizer-1,-wa,41,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-43_detransitivizerreflexive-1-1,Proto-Pano-Takana-43_detransitivizerreflexive-1,-ti,15,false,expert,Valenzuela2023,,,
-Proto-Pano-43_detransitivizerreflexive-1-1,Proto-Pano-43_detransitivizerreflexive-1,-t,15,false,expert,Valenzuela2023,,,
-Kakataibo-43_detransitivizerreflexive-1-1,Kakataibo-43_detransitivizerreflexive-1,-t,15,false,expert,Valenzuela2023,,,
-ShipiboKonibo-43_detransitivizerreflexive-1-1,ShipiboKonibo-43_detransitivizerreflexive-1,-t,15,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-44_ergative-1-1,Proto-Pano-Takana-44_ergative-1,-Na,18,false,expert,Valenzuela2023,,,
-Proto-Pano-44_ergative-1-1,Proto-Pano-44_ergative-1,-n,18,false,expert,Valenzuela2023,,,
-Kakataibo-44_ergative-1-1,Kakataibo-44_ergative-1,=n,18,false,expert,Valenzuela2023,,,
-ShipiboKonibo-44_ergative-1-1,ShipiboKonibo-44_ergative-1,=n,18,false,expert,Valenzuela2023,,,
-Kapanawa-44_ergative-1-1,Kapanawa-44_ergative-1,-n,18,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-45_previouseventsamesubject-1-1,Proto-Pano-Takana-45_previouseventsamesubject-1,-ṣu,38,false,expert,Valenzuela2023,,,
-Proto-Pano-45_previouseventsamesubject-1-1,Proto-Pano-45_previouseventsamesubject-1,-ʂo-n,38,false,expert,Valenzuela2023,,,
-Kakataibo-45_previouseventsamesubject-1-1,Kakataibo-45_previouseventsamesubject-1,-ʂun,38,false,expert,Valenzuela2023,,,
-ShipiboKonibo-45_previouseventsamesubject-1-1,ShipiboKonibo-45_previouseventsamesubject-1,-ʂon,38,false,expert,Valenzuela2023,,,
-Chacobo-45_previouseventsamesubject-1-1,Chacobo-45_previouseventsamesubject-1,-ʂo,38,false,expert,Valenzuela2023,,,
-Kaxarari-45_previouseventsamesubject-1-1,Kaxarari-45_previouseventsamesubject-1,-ʂu,38,false,expert,Valenzuela2023,,,
-Proto-Pano-Takana-46_comitativealongwith-1-1,Proto-Pano-Takana-46_comitativealongwith-1,bɨta,8,false,expert,Valenzuela2023,,,
-Proto-Pano-46_comitativealongwith-1-1,Proto-Pano-46_comitativealongwith-1,βɨta,8,false,expert,Valenzuela2023,,,
-Kakataibo-46_comitativealongwith-1-1,Kakataibo-46_comitativealongwith-1,-bɨ,8,false,expert,Valenzuela2023,,,
-ShipiboKonibo-46_comitativealongwith-1-1,ShipiboKonibo-46_comitativealongwith-1,-bɨ,8,false,expert,Valenzuela2023,,,
-Chacobo-46_comitativealongwith-1-1,Chacobo-46_comitativealongwith-1,-bɨta,8,false,expert,Valenzuela2023,,,
-Yaminawa-46_comitativealongwith-1-1,Yaminawa-46_comitativealongwith-1,-fɨtã,8,false,expert,Valenzuela2023,,,
-Amawaka-29_1stsgi-1-1,Amawaka-29_1stsgi-1,ɨ,1,false,expert,Valenzuela2023,,,
-Kaxinawa-29_1stsgi-1-1,Kaxinawa-29_1stsgi-1,ɨ,1,false,expert,Valenzuela2023,,,
-Marinawa-29_1stsgi-1-1,Marinawa-29_1stsgi-1,ɨ,1,false,expert,Valenzuela2023,,,
-Amawaka-30_2ndsgyou-1-1,Amawaka-30_2ndsgyou-1,miya,2,false,expert,Valenzuela2023,,,
-Kaxinawa-30_2ndsgyou-1-1,Kaxinawa-30_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,,,
-Marinawa-30_2ndsgyou-1-1,Marinawa-30_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,,,
-Korubo-30_2ndsgyou-1-1,Korubo-30_2ndsgyou-1,mi,2,false,expert,Valenzuela2023,,,
-Matis-30_2ndsgyou-1-1,Matis-30_2ndsgyou-1,mi_,2,false,expert,Valenzuela2023,,,
-Matses-30_2ndsgyou-1-1,Matses-30_2ndsgyou-1,mi_,2,false,expert,Valenzuela2023,,,
-Matses-31_demonstrativedistal-1-1,Matses-31_demonstrativedistal-1,uid,12,false,expert,Valenzuela2023,,,
-Matses-32_demonstrativeproximate-1-1,Matses-32_demonstrativeproximate-1,nɨid,13,false,expert,Valenzuela2023,,,
-Shanenawa-34_imperative-1-1,Shanenawa-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Katukina-34_imperative-1-1,Katukina-34_imperative-1,wɨ,29,false,expert,Valenzuela2023,,,
-Kaxinawa-34_imperative-1-1,Kaxinawa-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Marinawa-34_imperative-1-1,Marinawa-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Yawanawa-34_imperative-1-1,Yawanawa-34_imperative-1,-wɨ,29,false,expert,Valenzuela2023,,,
-Matses-35_goingdowndownward-1-1,Matses-35_goingdowndownward-1,-bud,26,false,expert,Valenzuela2023,,,
-Amawaka-36_docoming-1-1,Amawaka-36_docoming-1,-vɨran,17,false,expert,Valenzuela2023,,,
-Matses-36_docoming-1-1,Matses-36_docoming-1,-bɨtsen,17,false,expert,Valenzuela2023,,,
-Amawaka-37_desiderative-1-1,Amawaka-37_desiderative-1,-katsi,14,false,expert,Valenzuela2023,,,
-Matses-37_desiderative-1-1,Matses-37_desiderative-1,-kas-,14,false,expert,Valenzuela2023,,,
-Shanenawa-38_negative-1-1,Shanenawa-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Katukina-38_negative-1-1,Katukina-38_negative-1,yama,36,false,expert,Valenzuela2023,,,
-Poyanawa-38_negative-1-1,Poyanawa-38_negative-1,ba,36,false,expert,Valenzuela2023,,,
-Amawaka-38_negative-1-1,Amawaka-38_negative-1,-yama,36,false,expert,Valenzuela2023,,,
-Kaxinawa-38_negative-1-1,Kaxinawa-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Marinawa-38_negative-1-1,Marinawa-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Yawanawa-38_negative-1-1,Yawanawa-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Korubo-38_negative-1-1,Korubo-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Matis-38_negative-1-1,Matis-38_negative-1,-ama,36,false,expert,Valenzuela2023,,,
-Shanenawa-39_causative-1-1,Shanenawa-39_causative-1,-ma,7,false,expert,Valenzuela2023,,,
-Amawaka-39_causative-1-1,Amawaka-39_causative-1,-ma-,7,false,expert,Valenzuela2023,,,
-Kaxinawa-39_causative-1-1,Kaxinawa-39_causative-1,-ma-,7,false,expert,Valenzuela2023,,,
-Marinawa-39_causative-1-1,Marinawa-39_causative-1,-ma,7,false,expert,Valenzuela2023,,,
-Yawanawa-39_causative-1-1,Yawanawa-39_causative-1,-ma-,7,false,expert,Valenzuela2023,,,
-Korubo-39_causative-1-1,Korubo-39_causative-1,-me,7,false,expert,Valenzuela2023,,,
-Matis-39_causative-1-1,Matis-39_causative-1,-me,7,false,expert,Valenzuela2023,,,
-Matses-39_causative-1-1,Matses-39_causative-1,-me,7,false,expert,Valenzuela2023,,,
-Matses-40_augmentative-1-1,Matses-40_augmentative-1,-pa,3,false,expert,Valenzuela2023,,,
-Amawaka-41_dotrauxiliarytr-1-1,Amawaka-41_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,,,
-Kaxinawa-41_dotrauxiliarytr-1-1,Kaxinawa-41_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,,,
-Marinawa-41_dotrauxiliarytr-1-1,Marinawa-41_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,,,
-Korubo-41_dotrauxiliarytr-1-1,Korubo-41_dotrauxiliarytr-1,ak-,16,false,expert,Valenzuela2023,,,
-Matis-41_dotrauxiliarytr-1-1,Matis-41_dotrauxiliarytr-1,ak-,16,false,expert,Valenzuela2023,,,
-Matses-41_dotrauxiliarytr-1-1,Matses-41_dotrauxiliarytr-1,ak-,16,false,expert,Valenzuela2023,,,
-Kaxinawa-42_transitivizer-1-1,Kaxinawa-42_transitivizer-1,wa-,41,false,expert,Valenzuela2023,,,
-Matses-44_ergative-1-1,Matses-44_ergative-1,-n,18,false,expert,Valenzuela2023,,,
-Amawaka-45_previouseventsamesubject-1-1,Amawaka-45_previouseventsamesubject-1,=çon,38,false,expert,Valenzuela2023,,,
-Kaxinawa-45_previouseventsamesubject-1-1,Kaxinawa-45_previouseventsamesubject-1,=ʂun,38,false,expert,Valenzuela2023,,,
-Matis-45_previouseventsamesubject-1-1,Matis-45_previouseventsamesubject-1,=ʂun,38,false,expert,Valenzuela2023,,,
-Matses-45_previouseventsamesubject-1-1,Matses-45_previouseventsamesubject-1,=ʂun,38,false,expert,Valenzuela2023,,,
-Amawaka-46_comitativealongwith-1-1,Amawaka-46_comitativealongwith-1,-wɨ,8,false,expert,Valenzuela2023,,,
-Kaxinawa-46_comitativealongwith-1-1,Kaxinawa-46_comitativealongwith-1,-bɨ,8,false,expert,Valenzuela2023,,,
-Marinawa-46_comitativealongwith-1-1,Marinawa-46_comitativealongwith-1,-fɨta,8,false,expert,Valenzuela2023,,,
-Matses-46_comitativealongwith-1-1,Matses-46_comitativealongwith-1,-bid_,8,false,expert,Valenzuela2023,,,
-Proto-Takana-29_1stsgi-1-1,Proto-Takana-29_1stsgi-1,e,1,false,expert,Valenzuela2023,,,
-Tacanan-29_1stsgi-1-1,Tacanan-29_1stsgi-1,e-ma,1,false,expert,Valenzuela2023,,,
-Reyesano-29_1stsgi-1-1,Reyesano-29_1stsgi-1,e-me,1,false,expert,Valenzuela2023,,,
-Araona-29_1stsgi-1-1,Araona-29_1stsgi-1,ema,1,false,expert,Valenzuela2023,,,
-Cavinena-29_1stsgi-1-1,Cavinena-29_1stsgi-1,e-ra,1,false,expert,Valenzuela2023,,,
-EseEjja-29_1stsgi-1-1,EseEjja-29_1stsgi-1,ea,1,false,expert,Valenzuela2023,,,
-Proto-Takana-30_2ndsgyou-1-1,Proto-Takana-30_2ndsgyou-1,mi,2,false,expert,Valenzuela2023,,,
-Tacanan-30_2ndsgyou-1-1,Tacanan-30_2ndsgyou-1,mi-ke,2,false,expert,Valenzuela2023,,,
-Reyesano-30_2ndsgyou-1-1,Reyesano-30_2ndsgyou-1,mibe,2,false,expert,Valenzuela2023,,,
-Araona-30_2ndsgyou-1-1,Araona-30_2ndsgyou-1,mitya,2,false,expert,Valenzuela2023,,,
-Cavinena-30_2ndsgyou-1-1,Cavinena-30_2ndsgyou-1,mi-kwana,2,false,expert,Valenzuela2023,,,
-EseEjja-30_2ndsgyou-1-1,EseEjja-30_2ndsgyou-1,mi-a,2,false,expert,Valenzuela2023,,,
-Proto-Takana-47_demonstrativethishe-1-1,Proto-Takana-47_demonstrativethishe-1,u-,11,false,expert,Valenzuela2023,,,
-Tacanan-47_demonstrativethishe-1-1,Tacanan-47_demonstrativethishe-1,u-ha,11,false,expert,Valenzuela2023,,,
-Cavinena-47_demonstrativethishe-1-1,Cavinena-47_demonstrativethishe-1,o-ho,11,false,expert,Valenzuela2023,,,
-EseEjja-47_demonstrativethishe-1-1,EseEjja-47_demonstrativethishe-1,o-haya,11,false,expert,Valenzuela2023,,,
-Proto-Takana-32_demonstrativeproximate-1-1,Proto-Takana-32_demonstrativeproximate-1,ree-,13,false,expert,Valenzuela2023,,,
-Tacanan-32_demonstrativeproximate-1-1,Tacanan-32_demonstrativeproximate-1,ye,13,false,expert,Valenzuela2023,,,
-Cavinena-32_demonstrativeproximate-1-1,Cavinena-32_demonstrativeproximate-1,reeke,13,false,expert,Valenzuela2023,,,
-EseEjja-32_demonstrativeproximate-1-1,EseEjja-32_demonstrativeproximate-1,hikio,13,false,expert,Valenzuela2023,,,
-Proto-Takana-33_genitive-1-1,Proto-Takana-33_genitive-1,-kʷe,25,false,expert,Valenzuela2023,,,
-Tacanan-33_genitive-1-1,Tacanan-33_genitive-1,-ke,25,false,expert,Valenzuela2023,,,
-Reyesano-33_genitive-1-1,Reyesano-33_genitive-1,ki-,25,false,expert,Valenzuela2023,,,
-Cavinena-33_genitive-1-1,Cavinena-33_genitive-1,-kwe,25,false,expert,Valenzuela2023,,,
-EseEjja-33_genitive-1-1,EseEjja-33_genitive-1,-kwe,25,false,expert,Valenzuela2023,,,
-Proto-Takana-34_imperative-1-1,Proto-Takana-34_imperative-1,-kʷe,29,false,expert,Valenzuela2023,,,
-Tacanan-34_imperative-1-1,Tacanan-34_imperative-1,-ke,29,false,expert,Valenzuela2023,,,
-Cavinena-34_imperative-1-1,Cavinena-34_imperative-1,-kwe,29,false,expert,Valenzuela2023,,,
-Proto-Takana-35_goingdowndownward-1-1,Proto-Takana-35_goingdowndownward-1,-bu,26,false,expert,Valenzuela2023,,,
-Tacanan-35_goingdowndownward-1-1,Tacanan-35_goingdowndownward-1,e-bute-hi,26,false,expert,Valenzuela2023,,,
-Reyesano-35_goingdowndownward-1-1,Reyesano-35_goingdowndownward-1,-,26,false,expert,Valenzuela2023,,,
-Araona-35_goingdowndownward-1-1,Araona-35_goingdowndownward-1,-bote,26,false,expert,Valenzuela2023,,,
-Cavinena-35_goingdowndownward-1-1,Cavinena-35_goingdowndownward-1,e-bote,26,false,expert,Valenzuela2023,,,
-EseEjja-35_goingdowndownward-1-1,EseEjja-35_goingdowndownward-1,'oke,26,false,expert,Valenzuela2023,,,
-Proto-Takana-36_docoming-1-1,Proto-Takana-36_docoming-1,-be,17,false,expert,Valenzuela2023,,,
-Tacanan-36_docoming-1-1,Tacanan-36_docoming-1,-be,17,false,expert,Valenzuela2023,,,
-Reyesano-36_docoming-1-1,Reyesano-36_docoming-1,-bebe,17,false,expert,Valenzuela2023,,,
-Cavinena-36_docoming-1-1,Cavinena-36_docoming-1,-be,17,false,expert,Valenzuela2023,,,
-EseEjja-36_docoming-1-1,EseEjja-36_docoming-1,-jebe,17,false,expert,Valenzuela2023,,,
-Proto-Takana-37_desiderative-1-1,Proto-Takana-37_desiderative-1,-katsa,14,false,expert,Valenzuela2023,,,
-Tacanan-37_desiderative-1-1,Tacanan-37_desiderative-1,-tsa,14,false,expert,Valenzuela2023,,,
-Araona-37_desiderative-1-1,Araona-37_desiderative-1,-hae,14,false,expert,Valenzuela2023,,,
-Cavinena-37_desiderative-1-1,Cavinena-37_desiderative-1,-kara,14,false,expert,Valenzuela2023,,,
-EseEjja-37_desiderative-1-1,EseEjja-37_desiderative-1,-sa,14,false,expert,Valenzuela2023,,,
-Proto-Takana-38_negative-1-1,Proto-Takana-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Tacanan-38_negative-1-1,Tacanan-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Cavinena-38_negative-1-1,Cavinena-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-EseEjja-38_negative-1-1,EseEjja-38_negative-1,-ma,36,false,expert,Valenzuela2023,,,
-Proto-Takana-39_causative-1-1,Proto-Takana-39_causative-1,-mere,7,false,expert,Valenzuela2023,,,
-Tacanan-39_causative-1-1,Tacanan-39_causative-1,-me,7,false,expert,Valenzuela2023,,,
-Araona-39_causative-1-1,Araona-39_causative-1,-me,7,false,expert,Valenzuela2023,,,
-Cavinena-39_causative-1-1,Cavinena-39_causative-1,-mere,7,false,expert,Valenzuela2023,,,
-EseEjja-39_causative-1-1,EseEjja-39_causative-1,-mee,7,false,expert,Valenzuela2023,,,
-Proto-Takana-40_augmentative-1-1,Proto-Takana-40_augmentative-1,-pa,3,false,expert,Valenzuela2023,,,
-Tacanan-40_augmentative-1-1,Tacanan-40_augmentative-1,-pa,3,false,expert,Valenzuela2023,,,
-Cavinena-40_augmentative-1-1,Cavinena-40_augmentative-1,-pa,3,false,expert,Valenzuela2023,,,
-Proto-Takana-41_dotrauxiliarytr-1-1,Proto-Takana-41_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,,,
-Tacanan-41_dotrauxiliarytr-1-1,Tacanan-41_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,,,
-Cavinena-41_dotrauxiliarytr-1-1,Cavinena-41_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,,,
-EseEjja-41_dotrauxiliarytr-1-1,EseEjja-41_dotrauxiliarytr-1,a-ka-,16,false,expert,Valenzuela2023,,,
-Proto-Takana-42_transitivizer-1-1,Proto-Takana-42_transitivizer-1,-a,41,false,expert,Valenzuela2023,,,
-Tacanan-42_transitivizer-1-1,Tacanan-42_transitivizer-1,-a,41,false,expert,Valenzuela2023,,,
-Reyesano-42_transitivizer-1-1,Reyesano-42_transitivizer-1,-a,41,false,expert,Valenzuela2023,,,
-Cavinena-42_transitivizer-1-1,Cavinena-42_transitivizer-1,-a,41,false,expert,Valenzuela2023,,,
-EseEjja-42_transitivizer-1-1,EseEjja-42_transitivizer-1,-a,41,false,expert,Valenzuela2023,,,
-Proto-Takana-43_detransitivizerreflexive-1-1,Proto-Takana-43_detransitivizerreflexive-1,-ti,15,false,expert,Valenzuela2023,,,
-Tacanan-43_detransitivizerreflexive-1-1,Tacanan-43_detransitivizerreflexive-1,-ti,15,false,expert,Valenzuela2023,,,
-Cavinena-43_detransitivizerreflexive-1-1,Cavinena-43_detransitivizerreflexive-1,-ti,15,false,expert,Valenzuela2023,,,
-EseEjja-43_detransitivizerreflexive-1-1,EseEjja-43_detransitivizerreflexive-1,-ki,15,false,expert,Valenzuela2023,,,
-Proto-Takana-44_ergative-1-1,Proto-Takana-44_ergative-1,-ra,18,false,expert,Valenzuela2023,,,
-Tacanan-44_ergative-1-1,Tacanan-44_ergative-1,-a,18,false,expert,Valenzuela2023,,,
-Cavinena-44_ergative-1-1,Cavinena-44_ergative-1,-ra,18,false,expert,Valenzuela2023,,,
-EseEjja-44_ergative-1-1,EseEjja-44_ergative-1,-a,18,false,expert,Valenzuela2023,,,
-Proto-Takana-45_previouseventsamesubject-1-1,Proto-Takana-45_previouseventsamesubject-1,-ṭṣu,38,false,expert,Valenzuela2023,,,
-Tacanan-45_previouseventsamesubject-1-1,Tacanan-45_previouseventsamesubject-1,-su,38,false,expert,Valenzuela2023,,,
-Araona-45_previouseventsamesubject-1-1,Araona-45_previouseventsamesubject-1,-tso,38,false,expert,Valenzuela2023,,,
-Cavinena-45_previouseventsamesubject-1-1,Cavinena-45_previouseventsamesubject-1,-atsu,38,false,expert,Valenzuela2023,,,
-Proto-Takana-46_comitativealongwith-1-1,Proto-Takana-46_comitativealongwith-1,beta,8,false,expert,Valenzuela2023,,,
-Tacanan-46_comitativealongwith-1-1,Tacanan-46_comitativealongwith-1,beta,8,false,expert,Valenzuela2023,,,
-Reyesano-46_comitativealongwith-1-1,Reyesano-46_comitativealongwith-1,mbeta,8,false,expert,Valenzuela2023,,,
-Araona-46_comitativealongwith-1-1,Araona-46_comitativealongwith-1,beta,8,false,expert,Valenzuela2023,,,
-Cavinena-46_comitativealongwith-1-1,Cavinena-46_comitativealongwith-1,beta,8,false,expert,Valenzuela2023,,,
-EseEjja-46_comitativealongwith-1-1,EseEjja-46_comitativealongwith-1,beka,8,false,expert,Valenzuela2023,,,
+ProPaTa-1_tree-1-1,ProPaTa-1_tree-1,hegʷi,45,false,expert,Valenzuela2023,h e gʷ i ( - - ),false,expert
+ProPa-1_tree-1-1,ProPa-1_tree-1,hiwi,45,false,expert,Valenzuela2023,h i w i ( - - ),false,expert
+Ksh-1_tree-1-1,Ksh-1_tree-1,i,45,false,expert,Valenzuela2023,- i - - ( - - ),false,expert
+SK-1_tree-1-1,SK-1_tree-1,hiwi,45,false,expert,Valenzuela2023,h i w i ( - - ),false,expert
+Kap-1_tree-1-1,Kap-1_tree-1,hiwi,45,false,expert,Valenzuela2023,h i w i ( - - ),false,expert
+Mar-1_tree-1-1,Mar-1_tree-1,iwi,45,false,expert,Valenzuela2023,- i w i ( - - ),false,expert
+Chak-1_tree-1-1,Chak-1_tree-1,hiwi,45,false,expert,Valenzuela2023,h i w i ( - - ),false,expert
+Kax-1_tree-1-1,Kax-1_tree-1,hiwi,45,false,expert,Valenzuela2023,h i w i ( - - ),false,expert
+Yam-1_tree-1-1,Yam-1_tree-1,iɸi,45,false,expert,Valenzuela2023,- i ɸ i ( - - ),false,expert
+Shar-1_tree-1-1,Shar-1_tree-1,iɸi,45,false,expert,Valenzuela2023,- i ɸ i ( - - ),false,expert
+ProPaTa-2_tooth-1-1,ProPaTa-2_tooth-1,ʂɨ-,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - - - ),false,expert
+ProPa-2_tooth-1-1,ProPa-2_tooth-1,ʂɨ-,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - - - ),false,expert
+Ksh-2_tooth-1-1,Ksh-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+SK-2_tooth-1-1,SK-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Kap-2_tooth-1-1,Kap-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Mar-2_tooth-1-1,Mar-2_tooth-1,ʃɨta,44,false,expert,Valenzuela2023,( - - ) ʃ ɨ ( - t a ),false,expert
+Chak-2_tooth-1-1,Chak-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Kax-2_tooth-1-1,Kax-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Shar-2_tooth-1-1,Shar-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+ProPaTa-3_two-1-1,ProPaTa-3_two-1,bɨta,46,false,expert,Valenzuela2023,( - - - ) b ɨ t a ( - - - - ),false,expert
+ProPa-3_two-1-1,ProPa-3_two-1,ra-βɨta,46,false,expert,Valenzuela2023,( r a + ) β ɨ t a ( - - - - ),false,expert
+Ksh-3_two-1-1,Ksh-3_two-1,raβɨ,46,false,expert,Valenzuela2023,( r a - ) β ɨ - - ( - - - - ),false,expert
+SK-3_two-1-1,SK-3_two-1,raβɨ,46,false,expert,Valenzuela2023,( r a - ) β ɨ - - ( - - - - ),false,expert
+Kap-3_two-1-1,Kap-3_two-1,raβɨ,46,false,expert,Valenzuela2023,( r a - ) β ɨ - - ( - - - - ),false,expert
+Mar-3_two-1-1,Mar-3_two-1,ravɨvakĩ,46,false,expert,Valenzuela2023,( r a - ) β ɨ - - ( β a k ĩ ),false,expert
+Chak-3_two-1-1,Chak-3_two-1,raβɨ,46,false,expert,Valenzuela2023,( r a - ) β ɨ - - ( - - - - ),false,expert
+Kax-3_two-1-1,Kax-3_two-1,tʃabɨta,46,false,expert,Valenzuela2023,( tʃ a - ) b ɨ t a ( - - - - ),false,expert
+Yam-3_two-1-1,Yam-3_two-1,raɸɨ,46,false,expert,Valenzuela2023,( r a - ) ɸ ɨ - - ( - - - - ),false,expert
+Chan-3_two-1-1,Chan-3_two-1,raɸɨ,46,false,expert,Valenzuela2023,( r a - ) ɸ ɨ - - ( - - - - ),false,expert
+Shar-3_two-1-1,Shar-3_two-1,raɸɨ,46,false,expert,Valenzuela2023,( r a - ) ɸ ɨ - - ( - - - - ),false,expert
+ProPaTa-4_liver-1-1,ProPaTa-4_liver-1,takʷa,33,false,expert,Valenzuela2023,( - - ) t a kʷ a,false,expert
+ProPa-4_liver-1-1,ProPa-4_liver-1,takʷa,33,false,expert,Valenzuela2023,( - - ) t a kʷ a,false,expert
+Ksh-4_liver-1-1,Ksh-4_liver-1,takʷa,33,false,expert,Valenzuela2023,( - - ) t a kʷ a,false,expert
+SK-4_liver-1-1,SK-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Kap-4_liver-1-1,Kap-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Mar-4_liver-1-1,Mar-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Chak-4_liver-1-1,Chak-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Kax-4_liver-1-1,Kax-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Chan-4_liver-1-1,Chan-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Shar-4_liver-1-1,Shar-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+ProPaTa-5_leaftofan-1-1,ProPaTa-5_leaftofan-1,pɨʔi,31,false,expert,Valenzuela2023,( - - ) p ɨ ʔ i,false,expert
+ProPa-5_leaftofan-1-1,ProPa-5_leaftofan-1,pɨʔi,31,false,expert,Valenzuela2023,( - - ) p ɨ ʔ i,false,expert
+Ksh-5_leaftofan-1-1,Ksh-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+SK-5_leaftofan-1-1,SK-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+Kap-5_leaftofan-1-1,Kap-5_leaftofan-1,pɨʔi,31,false,expert,Valenzuela2023,( - - ) p ɨ ʔ i,false,expert
+Mar-5_leaftofan-1-1,Mar-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+Chak-5_leaftofan-1-1,Chak-5_leaftofan-1,pɨʔi,31,false,expert,Valenzuela2023,( - - ) p ɨ ʔ i,false,expert
+Kax-5_leaftofan-1-1,Kax-5_leaftofan-1,pɨʔi,31,false,expert,Valenzuela2023,( - - ) p ɨ ʔ i,false,expert
+Yam-5_leaftofan-1-1,Yam-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+Chan-5_leaftofan-1-1,Chan-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+Shar-5_leaftofan-1-1,Shar-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+ProPaTa-6_bone-1-1,ProPaTa-6_bone-1,ʂau,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) u,false,expert
+ProPa-6_bone-1-1,ProPa-6_bone-1,ʂao,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) o,false,expert
+Ksh-6_bone-1-1,Ksh-6_bone-1,ʂɔː,5,false,expert,Valenzuela2023,( - - - ) ʂ !ɔː/ɔ ( - ) -,false,expert
+SK-6_bone-1-1,SK-6_bone-1,ʂao,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) o,false,expert
+Kap-6_bone-1-1,Kap-6_bone-1,ʂao,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) o,false,expert
+Mar-6_bone-1-1,Mar-6_bone-1,ʃau,5,false,expert,Valenzuela2023,( - - - ) ʃ a ( - ) u,false,expert
+Chak-6_bone-1-1,Chak-6_bone-1,ʂao,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) o,false,expert
+Kax-6_bone-1-1,Kax-6_bone-1,ʂahʷu,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( hʷ ) u,false,expert
+Yam-6_bone-1-1,Yam-6_bone-1,ʂao,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) o,false,expert
+Chan-6_bone-1-1,Chan-6_bone-1,ʃao,5,false,expert,Valenzuela2023,( - - - ) ʃ a ( - ) o,false,expert
+Shar-6_bone-1-1,Shar-6_bone-1,ʂao,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) o,false,expert
+ProPaTa-7_tongue-1-1,ProPaTa-7_tongue-1,hana,43,false,expert,Valenzuela2023,( - - - ) h a n ( - ) a,false,expert
+ProPa-7_tongue-1-1,ProPa-7_tongue-1,hana,43,false,expert,Valenzuela2023,( - - - ) h a n ( - ) a,false,expert
+Ksh-7_tongue-1-1,Ksh-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+SK-7_tongue-1-1,SK-7_tongue-1,hana,43,false,expert,Valenzuela2023,( - - - ) h a n ( - ) a,false,expert
+Kap-7_tongue-1-1,Kap-7_tongue-1,hana,43,false,expert,Valenzuela2023,( - - - ) h a n ( - ) a,false,expert
+Mar-7_tongue-1-1,Mar-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+Chak-7_tongue-1-1,Chak-7_tongue-1,hana,43,false,expert,Valenzuela2023,( - - - ) h a n ( - ) a,false,expert
+Kax-7_tongue-1-1,Kax-7_tongue-1,hana,43,false,expert,Valenzuela2023,( - - - ) h a n ( - ) a,false,expert
+Yam-7_tongue-1-1,Yam-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+Chan-7_tongue-1-1,Chan-7_tongue-1,ada,43,false,expert,Valenzuela2023,( - - - ) - a d ( - ) a,false,expert
+Shar-7_tongue-1-1,Shar-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+ProPaTa-8_hand-1-1,ProPaTa-8_hand-1,mɨ-,27,false,expert,Valenzuela2023,( - - ) m ɨ ( - - - - - - ),false,expert
+ProPa-8_hand-1-1,ProPa-8_hand-1,mɨ-,27,false,expert,Valenzuela2023,( - - ) m ɨ ( - - - - - - ),false,expert
+Ksh-8_hand-1-1,Ksh-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ ~ - - - ),false,expert
+SK-8_hand-1-1,SK-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ ~ - - - ),false,expert
+Kap-8_hand-1-1,Kap-8_hand-1,mɨkɨn,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ n - - - ),false,expert
+Chak-8_hand-1-1,Chak-8_hand-1,mɨkɨnɨ,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ n - ɨ - ),false,expert
+Kax-8_hand-1-1,Kax-8_hand-1,mɨkɨlɨ,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ l - ɨ - ),false,expert
+Yam-8_hand-1-1,Yam-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ ~ - - - ),false,expert
+Chan-8_hand-1-1,Chan-8_hand-1,mɨkɨ,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ - - - - ),false,expert
+Shar-8_hand-1-1,Shar-8_hand-1,mɨkɨ,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ - - - - ),false,expert
+ProPaTa-9_night-1-1,ProPaTa-9_night-1,mɨta,37,false,expert,Valenzuela2023,( - - - ) m ɨ t a ( - - - - - ),false,expert
+ProPa-9_night-1-1,ProPa-9_night-1,yamɨt,37,false,expert,Valenzuela2023,( - j a ) m ɨ t - ( - - - - - ),false,expert
+Ksh-9_night-1-1,Ksh-9_night-1,imɨ,37,false,expert,Valenzuela2023,( - - i ) m ɨ - - ( - - - - - ),false,expert
+SK-9_night-1-1,SK-9_night-1,yamɨ,37,false,expert,Valenzuela2023,( - j a ) m ɨ - - ( - - - - - ),false,expert
+Kap-9_night-1-1,Kap-9_night-1,yamɨ,37,false,expert,Valenzuela2023,( - j a ) m ɨ - - ( - - - - - ),false,expert
+Mar-9_night-1-1,Mar-9_night-1,yamɨ,37,false,expert,Valenzuela2023,( - j a ) m ɨ - - ( - - - - - ),false,expert
+Kax-9_night-1-1,Kax-9_night-1,yamɨta,37,false,expert,Valenzuela2023,( - j a ) m ɨ t a ( - - - - - ),false,expert
+Yam-9_night-1-1,Yam-9_night-1,yamɨa,37,false,expert,Valenzuela2023,( - j a ) m ɨ - a ( - - - - - ),false,expert
+Chan-9_night-1-1,Chan-9_night-1,yabɨ,37,false,expert,Valenzuela2023,( - j a ) b ɨ - - ( - - - - - ),false,expert
+Shar-9_night-1-1,Shar-9_night-1,yamɨ,37,false,expert,Valenzuela2023,( - j a ) m ɨ - - ( - - - - - ),false,expert
+ProPaTa-10_skin-1-1,ProPaTa-10_skin-1,bitsi,39,false,expert,Valenzuela2023,( - - ) b i ts i,false,expert
+ProPa-10_skin-1-1,ProPa-10_skin-1,βitsi,39,false,expert,Valenzuela2023,( - - ) β i ts i,false,expert
+Ksh-10_skin-1-1,Ksh-10_skin-1,βitʃi,39,false,expert,Valenzuela2023,( - - ) β i tʃ i,false,expert
+SK-10_skin-1-1,SK-10_skin-1,βitʃi,39,false,expert,Valenzuela2023,( - - ) β i tʃ i,false,expert
+Kap-10_skin-1-1,Kap-10_skin-1,βitʃi,39,false,expert,Valenzuela2023,( - - ) β i tʃ i,false,expert
+Mar-10_skin-1-1,Mar-10_skin-1,vitʃi,39,false,expert,Valenzuela2023,( - - ) β i tʃ i,false,expert
+Chak-10_skin-1-1,Chak-10_skin-1,βitʃi,39,false,expert,Valenzuela2023,( - - ) β i tʃ i,false,expert
+Kax-10_skin-1-1,Kax-10_skin-1,bitʃi,39,false,expert,Valenzuela2023,( - - ) b i tʃ i,false,expert
+Chan-10_skin-1-1,Chan-10_skin-1,ɸitʃi,39,false,expert,Valenzuela2023,( - - ) ɸ i tʃ i,false,expert
+Shar-10_skin-1-1,Shar-10_skin-1,ɸitʃi,39,false,expert,Valenzuela2023,( - - ) ɸ i tʃ i,false,expert
+ProPaTa-11_fire-1-1,ProPaTa-11_fire-1,tsiʔi,22,false,expert,Valenzuela2023,( - - ) ts i ʔ i ( - - - ),false,expert
+ProPa-11_fire-1-1,ProPa-11_fire-1,tsiʔi,22,false,expert,Valenzuela2023,( - - ) ts i ʔ i ( - - - ),false,expert
+Ksh-11_fire-1-1,Ksh-11_fire-1,tʃii,22,false,expert,Valenzuela2023,( - - ) tʃ i - i ( - - - ),false,expert
+SK-11_fire-1-1,SK-11_fire-1,tʃii,22,false,expert,Valenzuela2023,( - - ) tʃ i - i ( - - - ),false,expert
+Kap-11_fire-1-1,Kap-11_fire-1,tʃiʔi,22,false,expert,Valenzuela2023,( - - ) tʃ i ʔ i ( - - - ),false,expert
+Mar-11_fire-1-1,Mar-11_fire-1,tʃi,22,false,expert,Valenzuela2023,( - - ) tʃ i - - ( - - - ),false,expert
+Chak-11_fire-1-1,Chak-11_fire-1,tʃiʔi,22,false,expert,Valenzuela2023,( - - ) tʃ i ʔ i ( - - - ),false,expert
+Kax-11_fire-1-1,Kax-11_fire-1,tʃiʔi,22,false,expert,Valenzuela2023,( - - ) tʃ i ʔ i ( - - - ),false,expert
+Yam-11_fire-1-1,Yam-11_fire-1,tʃii,22,false,expert,Valenzuela2023,( - - ) tʃ i - i ( - - - ),false,expert
+Chan-11_fire-1-1,Chan-11_fire-1,tʃii,22,false,expert,Valenzuela2023,( - - ) tʃ i - i ( - - - ),false,expert
+Shar-11_fire-1-1,Shar-11_fire-1,tʃii,22,false,expert,Valenzuela2023,( - - ) tʃ i - i ( - - - ),false,expert
+ProPaTa-12_knee-1-1,ProPaTa-12_knee-1,da-n,30,false,expert,Valenzuela2023,( - - - - - ) d a n ( - - - - - ),false,expert
+ProPa-12_knee-1-1,ProPa-12_knee-1,rã-,30,false,expert,Valenzuela2023,( - - - - - ) r a ∼ ( - - - - - ),false,expert
+Ksh-12_knee-1-1,Ksh-12_knee-1,rãβoʂo,30,false,expert,Valenzuela2023,( - - - - - ) r a ∼ ( β o ʂ - o ),false,expert
+SK-12_knee-1-1,SK-12_knee-1,rãβoʂo,30,false,expert,Valenzuela2023,( - - - - - ) r a ∼ ( β o ʂ - o ),false,expert
+Kap-12_knee-1-1,Kap-12_knee-1,rãβoʂo,30,false,expert,Valenzuela2023,( - - - - - ) r a ∼ ( β o ʂ - o ),false,expert
+Mar-12_knee-1-1,Mar-12_knee-1,ravuʃɨ,30,false,expert,Valenzuela2023,( - - - - - ) r a - ( β u ʃ ɨ - ),false,expert
+Kax-12_knee-1-1,Kax-12_knee-1,tʃãburu,30,false,expert,Valenzuela2023,( - - - - - ) tʃ a ∼ ( b u r - u ),false,expert
+ProPaTa-13_blood-1-1,ProPaTa-13_blood-1,hemi,4,false,expert,Valenzuela2023,h e m i,false,expert
+ProPa-13_blood-1-1,ProPa-13_blood-1,himi,4,false,expert,Valenzuela2023,h i m i,false,expert
+Ksh-13_blood-1-1,Ksh-13_blood-1,imi,4,false,expert,Valenzuela2023,- i m i,false,expert
+SK-13_blood-1-1,SK-13_blood-1,himi,4,false,expert,Valenzuela2023,h i m i,false,expert
+Kap-13_blood-1-1,Kap-13_blood-1,himi,4,false,expert,Valenzuela2023,h i m i,false,expert
+Mar-13_blood-1-1,Mar-13_blood-1,imbi,4,false,expert,Valenzuela2023,- i m.b i,false,expert
+Chak-13_blood-1-1,Chak-13_blood-1,himi,4,false,expert,Valenzuela2023,h i m i,false,expert
+Kax-13_blood-1-1,Kax-13_blood-1,himi,4,false,expert,Valenzuela2023,h i m i,false,expert
+Yam-13_blood-1-1,Yam-13_blood-1,im,4,false,expert,Valenzuela2023,- i m -,false,expert
+Chan-13_blood-1-1,Chan-13_blood-1,ibi,4,false,expert,Valenzuela2023,- i b i,false,expert
+Shar-13_blood-1-1,Shar-13_blood-1,imi,4,false,expert,Valenzuela2023,- i m i,false,expert
+ProPaTa-14_breast-1-1,ProPaTa-14_breast-1,aṣu,6,false,expert,Valenzuela2023,a s u ( - - ),false,expert
+ProPa-14_breast-1-1,ProPa-14_breast-1,ʂo,6,false,expert,Valenzuela2023,- ʂ o ( - - ),false,expert
+Ksh-14_breast-1-1,Ksh-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,- ʂ o ( m a ),false,expert
+SK-14_breast-1-1,SK-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,- ʂ o ( m a ),false,expert
+Kap-14_breast-1-1,Kap-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,- ʂ o ( m a ),false,expert
+Mar-14_breast-1-1,Mar-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,- ʂ o ( m a ),false,expert
+Chak-14_breast-1-1,Chak-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,- ʂ o ( m a ),false,expert
+Chan-14_breast-1-1,Chan-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,- ʂ o ( m a ),false,expert
+Shar-14_breast-1-1,Shar-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,- ʂ o ( m a ),false,expert
+ProPaTa-15_moonsun-1-1,ProPaTa-15_moonsun-1,badi,40,false,expert,Valenzuela2023,b a d i ( - - ),false,expert
+ProPa-15_moonsun-1-1,ProPa-15_moonsun-1,βari,40,false,expert,Valenzuela2023,β a r i ( - - ),false,expert
+Ksh-15_moonsun-1-1,Ksh-15_moonsun-1,βaɾi,40,false,expert,Valenzuela2023,β a ɾ i ( - - ),false,expert
+SK-15_moonsun-1-1,SK-15_moonsun-1,βaɾi,40,false,expert,Valenzuela2023,β a ɾ i ( - - ),false,expert
+Kap-15_moonsun-1-1,Kap-15_moonsun-1,βaɾi,40,false,expert,Valenzuela2023,β a ɾ i ( - - ),false,expert
+Mar-15_moonsun-1-1,Mar-15_moonsun-1,vaɾi,40,false,expert,Valenzuela2023,β a ɾ i ( - - ),false,expert
+Chak-15_moonsun-1-1,Chak-15_moonsun-1,βaɾi,40,false,expert,Valenzuela2023,β a ɾ i ( - - ),false,expert
+Kax-15_moonsun-1-1,Kax-15_moonsun-1,βatʃi,40,false,expert,Valenzuela2023,β a tʃ i ( - - ),false,expert
+Chan-15_moonsun-1-1,Chan-15_moonsun-1,ɸaɾi,40,false,expert,Valenzuela2023,ɸ a ɾ i ( - - ),false,expert
+Shar-15_moonsun-1-1,Shar-15_moonsun-1,ɸari,40,false,expert,Valenzuela2023,ɸ a r i ( - - ),false,expert
+ProPaTa-16_you-1-1,ProPaTa-16_you-1,mi,47,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+ProPa-16_you-1-1,ProPa-16_you-1,mi,47,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+Ksh-16_you-1-1,Ksh-16_you-1,miː,47,false,expert,Valenzuela2023,m !iː/i ( - - - - - ),false,expert
+SK-16_you-1-1,SK-16_you-1,mia,47,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+Kap-16_you-1-1,Kap-16_you-1,mia,47,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+Chak-16_you-1-1,Chak-16_you-1,mia,47,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+ProPaTa-17_come-1-1,ProPaTa-17_come-1,bɨ-,10,false,expert,Valenzuela2023,b ɨ,false,expert
+ProPa-17_come-1-1,ProPa-17_come-1,βɨ-,10,false,expert,Valenzuela2023,β ɨ,false,expert
+Ksh-17_come-1-1,Ksh-17_come-1,βɨ-,10,false,expert,Valenzuela2023,β ɨ,false,expert
+SK-17_come-1-1,SK-17_come-1,βɨ-,10,false,expert,Valenzuela2023,β ɨ,false,expert
+Kap-17_come-1-1,Kap-17_come-1,βɨ-,10,false,expert,Valenzuela2023,β ɨ,false,expert
+Chak-17_come-1-1,Chak-17_come-1,βɨ-,10,false,expert,Valenzuela2023,β ɨ,false,expert
+Kax-17_come-1-1,Kax-17_come-1,bɨ-,10,false,expert,Valenzuela2023,b ɨ,false,expert
+Yam-17_come-1-1,Yam-17_come-1,ɸɨ-,10,false,expert,Valenzuela2023,ɸ ɨ,false,expert
+Chan-17_come-1-1,Chan-17_come-1,ɸɨ-,10,false,expert,Valenzuela2023,ɸ ɨ,false,expert
+Shar-17_come-1-1,Shar-17_come-1,ɸɨ-,10,false,expert,Valenzuela2023,ɸ ɨ,false,expert
+ProPaTa-18_i-1-1,ProPaTa-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+ProPa-18_i-1-1,ProPa-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+Ksh-18_i-1-1,Ksh-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+SK-18_i-1-1,SK-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+Kap-18_i-1-1,Kap-18_i-1,ʔɨ,28,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+Chak-18_i-1-1,Chak-18_i-1,ɨ,28,false,expert,Valenzuela2023,- ɨ ( - - - ),false,expert
+ProPaTa-19_flesh-1-1,ProPaTa-19_flesh-1,Nami,23,false,expert,Valenzuela2023,( - - ) !N/n a m i,false,expert
+ProPa-19_flesh-1-1,ProPa-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Ksh-19_flesh-1-1,Ksh-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+SK-19_flesh-1-1,SK-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Kap-19_flesh-1-1,Kap-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Mar-19_flesh-1-1,Mar-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Chak-19_flesh-1-1,Chak-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Kax-19_flesh-1-1,Kax-19_flesh-1,lami,23,false,expert,Valenzuela2023,( - - ) l a m i,false,expert
+Yam-19_flesh-1-1,Yam-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Chan-19_flesh-1-1,Chan-19_flesh-1,nabi,23,false,expert,Valenzuela2023,( - - ) n a b i,false,expert
+Shar-19_flesh-1-1,Shar-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+ProPaTa-20_fat-1-1,ProPaTa-20_fat-1,ʂɨNi,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ !N/n i,false,expert
+ProPa-20_fat-1-1,ProPa-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Ksh-20_fat-1-1,Ksh-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+SK-20_fat-1-1,SK-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Kap-20_fat-1-1,Kap-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Mar-20_fat-1-1,Mar-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Chak-20_fat-1-1,Chak-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Yam-20_fat-1-1,Yam-20_fat-1,ʂɨnĩ,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n !ĩ/i,false,expert
+Chan-20_fat-1-1,Chan-20_fat-1,ʃɨdi,20,false,expert,Valenzuela2023,( - - ) ʃ ɨ d i,false,expert
+Shar-20_fat-1-1,Shar-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+ProPaTa-21_fingernail-1-1,ProPaTa-21_fingernail-1,mɨ-tsizi,21,false,expert,Valenzuela2023,( - - ) m ɨ - ( + ) ts i z i ( - - - - - ),false,expert
+ProPa-21_fingernail-1-1,ProPa-21_fingernail-1,mɨ̃-tsisi,21,false,expert,Valenzuela2023,( - - ) m ɨ ∼ ( + ) ts i s i ( - - - - - ),false,expert
+Ksh-21_fingernail-1-1,Ksh-21_fingernail-1,Untsis,21,false,expert,Valenzuela2023,( - - ) - u n ( - ) ts i s - ( - - - - - ),false,expert
+SK-21_fingernail-1-1,SK-21_fingernail-1,mɨ̃ntsis,21,false,expert,Valenzuela2023,( - - ) m ɨ ∼ ( - ) ts i s - ( - - - - - ),false,expert
+Kap-21_fingernail-1-1,Kap-21_fingernail-1,mɨ̃ntsis,21,false,expert,Valenzuela2023,( - - ) m !ɨ̃/ɨ n ( - ) ts i s - ( - - - - - ),false,expert
+Mar-21_fingernail-1-1,Mar-21_fingernail-1,mɨ̃tsisi,21,false,expert,Valenzuela2023,( - - ) m ɨ ∼ ( - ) ts i s i ( - - - - - ),false,expert
+Chak-21_fingernail-1-1,Chak-21_fingernail-1,mɨ̃tsis,21,false,expert,Valenzuela2023,( - - ) m ɨ ∼ ( - ) ts i s - ( - - - - - ),false,expert
+Kax-21_fingernail-1-1,Kax-21_fingernail-1,mɨ̃tʃisi,21,false,expert,Valenzuela2023,( - - ) m ɨ ∼ ( - ) tʃ i s i ( - - - - - ),false,expert
+Yam-21_fingernail-1-1,Yam-21_fingernail-1,mitsis,21,false,expert,Valenzuela2023,( - - ) m i - ( - ) ts i s - ( - - - - - ),false,expert
+Chan-21_fingernail-1-1,Chan-21_fingernail-1,bitsis,21,false,expert,Valenzuela2023,( - - ) b i - ( - ) ts i s - ( - - - - - ),false,expert
+Shar-21_fingernail-1-1,Shar-21_fingernail-1,mɨtsisi,21,false,expert,Valenzuela2023,( - - ) m ɨ - ( - ) ts i s i ( - - - - - ),false,expert
+ProPaTa-22_footleg-1-1,ProPaTa-22_footleg-1,ta-,24,false,expert,Valenzuela2023,( - - - - ) t a ( - - - - - - - ),false,expert
+ProPa-22_footleg-1-1,ProPa-22_footleg-1,ta-,24,false,expert,Valenzuela2023,( - - - - ) t a ( - - - - - - - ),false,expert
+Ksh-22_footleg-1-1,Ksh-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+SK-22_footleg-1-1,SK-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+Kap-22_footleg-1-1,Kap-22_footleg-1,taʔɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( ʔ ɨ - - - - - ),false,expert
+Mar-22_footleg-1-1,Mar-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+Chak-22_footleg-1-1,Chak-22_footleg-1,taʔɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( ʔ ɨ - - - - - ),false,expert
+Kax-22_footleg-1-1,Kax-22_footleg-1,taʔɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( ʔ ɨ - - - - - ),false,expert
+Yam-22_footleg-1-1,Yam-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+Chan-22_footleg-1-1,Chan-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+Shar-22_footleg-1-1,Shar-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+ProPaTa-23_lipedge-1-1,ProPaTa-23_lipedge-1,kʷɨ,32,false,expert,Valenzuela2023,( - - ) kʷ ɨ ( - - - - - - - - ),false,expert
+ProPa-23_lipedge-1-1,ProPa-23_lipedge-1,kʷɨ-,32,false,expert,Valenzuela2023,( - - ) kʷ ɨ ( - - - - - - - - ),false,expert
+Ksh-23_lipedge-1-1,Ksh-23_lipedge-1,kʷɨβi-,32,false,expert,Valenzuela2023,( - - ) kʷ ɨ ( β i - - - - - - ),false,expert
+SK-23_lipedge-1-1,SK-23_lipedge-1,kɨβi-,32,false,expert,Valenzuela2023,( - - ) k ɨ ( β i - - - - - - ),false,expert
+Chak-23_lipedge-1-1,Chak-23_lipedge-1,kɨβitʃi,32,false,expert,Valenzuela2023,( - - ) k ɨ ( β i tʃ i - - - - ),false,expert
+Shar-23_lipedge-1-1,Shar-23_lipedge-1,kuɸirisika,32,false,expert,Valenzuela2023,( - - ) k u ( ɸ i r i s i k a ),false,expert
+ProPaTa-24_cheek-1-1,ProPaTa-24_cheek-1,tamu,9,false,expert,Valenzuela2023,( - - - - ) t a m u,false,expert
+ProPa-24_cheek-1-1,ProPa-24_cheek-1,tamo,9,false,expert,Valenzuela2023,( - - - - ) t a m o,false,expert
+Ksh-24_cheek-1-1,Ksh-24_cheek-1,tamo,9,false,expert,Valenzuela2023,( - - - - ) t a m o,false,expert
+SK-24_cheek-1-1,SK-24_cheek-1,tamo,9,false,expert,Valenzuela2023,( - - - - ) t a m o,false,expert
+Kap-24_cheek-1-1,Kap-24_cheek-1,tamo,9,false,expert,Valenzuela2023,( - - - - ) t a m o,false,expert
+Mar-24_cheek-1-1,Mar-24_cheek-1,tambo,9,false,expert,Valenzuela2023,( - - - - ) t a m.b o,false,expert
+Chak-24_cheek-1-1,Chak-24_cheek-1,tamo,9,false,expert,Valenzuela2023,( - - - - ) t a m o,false,expert
+Kax-24_cheek-1-1,Kax-24_cheek-1,tamu,9,false,expert,Valenzuela2023,( - - - - ) t a m u,false,expert
+Yam-24_cheek-1-1,Yam-24_cheek-1,tamo,9,false,expert,Valenzuela2023,( - - - - ) t a m o,false,expert
+Shar-24_cheek-1-1,Shar-24_cheek-1,tamo,9,false,expert,Valenzuela2023,( - - - - ) t a m o,false,expert
+ProPaTa-25_mouth-1-1,ProPaTa-25_mouth-1,kʷeʂa,35,false,expert,Valenzuela2023,( - - ) kʷ e ʂ a ( - - ),false,expert
+ProPa-25_mouth-1-1,ProPa-25_mouth-1,kʷɨʂa,35,false,expert,Valenzuela2023,( - - ) kʷ ɨ ʂ a ( - - ),false,expert
+Ksh-25_mouth-1-1,Ksh-25_mouth-1,kʷɨʂa,35,false,expert,Valenzuela2023,( - - ) kʷ ɨ ʂ a ( - - ),false,expert
+SK-25_mouth-1-1,SK-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,( - - ) k ɨ ʂ a ( - - ),false,expert
+Kap-25_mouth-1-1,Kap-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,( - - ) k ɨ ʂ a ( - - ),false,expert
+Mar-25_mouth-1-1,Mar-25_mouth-1,kɨʃa,35,false,expert,Valenzuela2023,( - - ) k ɨ ʃ a ( - - ),false,expert
+Kax-25_mouth-1-1,Kax-25_mouth-1,kɨʂaka,35,false,expert,Valenzuela2023,( - - ) k ɨ ʂ a ( k a ),false,expert
+Yam-25_mouth-1-1,Yam-25_mouth-1,kɨʂã,35,false,expert,Valenzuela2023,( - - ) k ɨ ʂ !ã/a ( - - ),false,expert
+Chan-25_mouth-1-1,Chan-25_mouth-1,kɨʃa,35,false,expert,Valenzuela2023,( - - ) k ɨ ʃ a ( - - ),false,expert
+Shar-25_mouth-1-1,Shar-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,( - - ) k ɨ ʂ a ( - - ),false,expert
+ProPaTa-26_elbow-1-1,ProPaTa-26_elbow-1,baṣu,19,false,expert,Valenzuela2023,( - - - - - - ) b a ( - ) s u ( - - - - - - - - - ),false,expert
+ProPa-26_elbow-1-1,ProPa-26_elbow-1,βaʂ-,19,false,expert,Valenzuela2023,( - - - - - - ) β a ( - ) ʂ - ( - - - - - - - - - ),false,expert
+Ksh-26_elbow-1-1,Ksh-26_elbow-1,banbuxu,19,false,expert,Valenzuela2023,( - - - b a n ) b u ( - ) x u ( - - - - - - - - - ),false,expert
+SK-26_elbow-1-1,SK-26_elbow-1,põtõko,19,false,expert,Valenzuela2023,( - - - - - - ) - - ( - ) - - ( p !õ/o - t o ~ - k o ),false,expert
+Kap-26_elbow-1-1,Kap-26_elbow-1,baʂpoʂko,19,false,expert,Valenzuela2023,( - - - - - - ) b a ( - ) ʂ - ( p o ʂ - - - - k o ),false,expert
+Chak-26_elbow-1-1,Chak-26_elbow-1,baspoto,19,false,expert,Valenzuela2023,( - - - - - - ) b a ( - ) s - ( p o - t o - - - - ),false,expert
+Kax-26_elbow-1-1,Kax-26_elbow-1,paxuxu,19,false,expert,Valenzuela2023,( - - - - - - ) p a ( - ) x u ( x u - - - - - - - ),false,expert
+Yam-26_elbow-1-1,Yam-26_elbow-1,po-to-ṣ̌ko,19,false,expert,Valenzuela2023,( - - - - - - ) - - ( - ) - - ( p o + t o + ʃ k o ),false,expert
+Shan-1_tree-1-1,Shan-1_tree-1,iwi,45,false,expert,Valenzuela2023,- i w i ( - - ),false,expert
+Kat-1_tree-1-1,Kat-1_tree-1,hiwi,45,false,expert,Valenzuela2023,h i w i ( - - ),false,expert
+Poy-1_tree-1-1,Poy-1_tree-1,iwi,45,false,expert,Valenzuela2023,- i w i ( - - ),false,expert
+Ama-1_tree-1-1,Ama-1_tree-1,hiː,45,false,expert,Valenzuela2023,h !iː/i - - ( - - ),false,expert
+HanKax-1_tree-1-1,HanKax-1_tree-1,hi,45,false,expert,Valenzuela2023,h i - - ( - - ),false,expert
+Maw-1_tree-1-1,Maw-1_tree-1,iwi,45,false,expert,Valenzuela2023,- i w i ( - - ),false,expert
+Kor-1_tree-1-1,Kor-1_tree-1,iwi,45,false,expert,Valenzuela2023,- i w i ( - - ),false,expert
+MatMay-1_tree-1-1,MatMay-1_tree-1,iwi,45,false,expert,Valenzuela2023,- i w i ( - - ),false,expert
+Shan-2_tooth-1-1,Shan-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Kat-2_tooth-1-1,Kat-2_tooth-1,ʂita,44,false,expert,Valenzuela2023,( - - ) ʂ i ( - t a ),false,expert
+Ama-2_tooth-1-1,Ama-2_tooth-1,xɨta,44,false,expert,Valenzuela2023,( - - ) x ɨ ( - t a ),false,expert
+HanKax-2_tooth-1-1,HanKax-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Maw-2_tooth-1-1,Maw-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Yaw-2_tooth-1-1,Yaw-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Kor-2_tooth-1-1,Kor-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Mat-2_tooth-1-1,Mat-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+MatMay-2_tooth-1-1,MatMay-2_tooth-1,ʂɨta,44,false,expert,Valenzuela2023,( - - ) ʂ ɨ ( - t a ),false,expert
+Shan-3_two-1-1,Shan-3_two-1,rafu,46,false,expert,Valenzuela2023,( r a - ) f u - - ( - - - - ),false,expert
+Kat-3_two-1-1,Kat-3_two-1,raβi,46,false,expert,Valenzuela2023,( r a - ) β i - - ( - - - - ),false,expert
+Poy-3_two-1-1,Poy-3_two-1,raβu,46,false,expert,Valenzuela2023,( r a - ) β u - - ( - - - - ),false,expert
+Ama-3_two-1-1,Ama-3_two-1,raβɨ,46,false,expert,Valenzuela2023,( r a - ) β ɨ - - ( - - - - ),false,expert
+Maw-3_two-1-1,Maw-3_two-1,raɸɨ,46,false,expert,Valenzuela2023,( r a - ) ɸ ɨ - - ( - - - - ),false,expert
+Yaw-3_two-1-1,Yaw-3_two-1,raβɨ,46,false,expert,Valenzuela2023,( r a - ) β ɨ - - ( - - - - ),false,expert
+Kor-3_two-1-1,Kor-3_two-1,ɬaβɨtpa,46,false,expert,Valenzuela2023,( ɬ a - ) β ɨ t - ( p a - - ),false,expert
+Mat-3_two-1-1,Mat-3_two-1,dabɨdpa,46,false,expert,Valenzuela2023,( d a - ) b ɨ d - ( p a - - ),false,expert
+MatMay-3_two-1-1,MatMay-3_two-1,daɨd,46,false,expert,Valenzuela2023,( d a - ) - ɨ d - ( - - - - ),false,expert
+Shan-4_liver-1-1,Shan-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Kat-4_liver-1-1,Kat-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Poy-4_liver-1-1,Poy-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Ama-4_liver-1-1,Ama-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+HanKax-4_liver-1-1,HanKax-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Maw-4_liver-1-1,Maw-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Yaw-4_liver-1-1,Yaw-4_liver-1,taka,33,false,expert,Valenzuela2023,( - - ) t a k a,false,expert
+Kor-4_liver-1-1,Kor-4_liver-1,takʷa,33,false,expert,Valenzuela2023,( - - ) t a kʷ a,false,expert
+Mat-4_liver-1-1,Mat-4_liver-1,takua,33,false,expert,Valenzuela2023,( - - ) t a kʷ a,false,expert
+MatMay-4_liver-1-1,MatMay-4_liver-1,takʷa,33,false,expert,Valenzuela2023,( - - ) t a kʷ a,false,expert
+Shan-5_leaftofan-1-1,Shan-5_leaftofan-1,pɨj,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+Kat-5_leaftofan-1-1,Kat-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+Poy-5_leaftofan-1-1,Poy-5_leaftofan-1,puy,31,false,expert,Valenzuela2023,( - - ) p u - i,false,expert
+Ama-5_leaftofan-1-1,Ama-5_leaftofan-1,pɨʔi,31,false,expert,Valenzuela2023,( - - ) p ɨ ʔ i,false,expert
+HanKax-5_leaftofan-1-1,HanKax-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+Maw-5_leaftofan-1-1,Maw-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+Yaw-5_leaftofan-1-1,Yaw-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+Mat-5_leaftofan-1-1,Mat-5_leaftofan-1,pɨi,31,false,expert,Valenzuela2023,( - - ) p ɨ - i,false,expert
+MatMay-5_leaftofan-1-1,MatMay-5_leaftofan-1,pɨ,31,false,expert,Valenzuela2023,( - - ) p ɨ - -,false,expert
+Shan-6_bone-1-1,Shan-6_bone-1,ʂaw,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) !w/o,false,expert
+Kat-6_bone-1-1,Kat-6_bone-1,ʃau,5,false,expert,Valenzuela2023,( - - - ) ʃ a ( - ) u,false,expert
+Poy-6_bone-1-1,Poy-6_bone-1,haw,5,false,expert,Valenzuela2023,( - - - ) h a ( - ) !w/u,false,expert
+Ama-6_bone-1-1,Ama-6_bone-1,xao,5,false,expert,Valenzuela2023,( - - - ) x a ( - ) o,false,expert
+HanKax-6_bone-1-1,HanKax-6_bone-1,ʂau,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) u,false,expert
+Maw-6_bone-1-1,Maw-6_bone-1,ʂao,5,false,expert,Valenzuela2023,( - - - ) ʂ a ( - ) o,false,expert
+Yaw-6_bone-1-1,Yaw-6_bone-1,ʃau,5,false,expert,Valenzuela2023,( - - - ) ʃ a ( - ) u,false,expert
+MatMay-6_bone-1-1,MatMay-6_bone-1,mɨ-ʂ,5,false,expert,Valenzuela2023,( m ɨ + ) ʂ - ( - ) -,false,expert
+Shan-7_tongue-1-1,Shan-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+Kat-7_tongue-1-1,Kat-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+Poy-7_tongue-1-1,Poy-7_tongue-1,ãda,43,false,expert,Valenzuela2023,( - - - ) - a ~.d ( - ) a,false,expert
+Ama-7_tongue-1-1,Ama-7_tongue-1,hana,43,false,expert,Valenzuela2023,( - - - ) h a n ( - ) a,false,expert
+HanKax-7_tongue-1-1,HanKax-7_tongue-1,hana,43,false,expert,Valenzuela2023,( - - - ) h a n ( - ) a,false,expert
+Maw-7_tongue-1-1,Maw-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+Yaw-7_tongue-1-1,Yaw-7_tongue-1,anna,43,false,expert,Valenzuela2023,( - - - ) - a n ( n ) a,false,expert
+Kor-7_tongue-1-1,Kor-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+Mat-7_tongue-1-1,Mat-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+Ama-8_hand-1-1,Ama-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ ~ - - - ),false,expert
+HanKax-8_hand-1-1,HanKax-8_hand-1,mɨkɨ̃,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ ~ - - - ),false,expert
+Maw-8_hand-1-1,Maw-8_hand-1,mɨkɨ,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ - - - - ),false,expert
+Mat-8_hand-1-1,Mat-8_hand-1,mɨkɨn,27,false,expert,Valenzuela2023,( - - ) m ɨ ( k ɨ n - - - ),false,expert
+MatMay-8_hand-1-1,MatMay-8_hand-1,mɨdante,27,false,expert,Valenzuela2023,( - - ) m ɨ ( d a n t e - ),false,expert
+Shan-9_night-1-1,Shan-9_night-1,yamɨ,37,false,expert,Valenzuela2023,( - j a ) m ɨ - - ( - - - - - ),false,expert
+Kat-9_night-1-1,Kat-9_night-1,yamɨ,37,false,expert,Valenzuela2023,( - j a ) m ɨ - - ( - - - - - ),false,expert
+Poy-9_night-1-1,Poy-9_night-1,iãvu,37,false,expert,Valenzuela2023,( - i a ) ~.b u - - ( - - - - - ),false,expert
+Ama-9_night-1-1,Ama-9_night-1,yamɨː,37,false,expert,Valenzuela2023,( - j a ) m !ɨː/ɨ - - ( - - - - - ),false,expert
+HanKax-9_night-1-1,HanKax-9_night-1,yamɨ,37,false,expert,Valenzuela2023,( - j a ) m ɨ - - ( - - - - - ),false,expert
+Maw-9_night-1-1,Maw-9_night-1,yamɨ,37,false,expert,Valenzuela2023,( - j a ) m ɨ - - ( - - - - - ),false,expert
+Yaw-9_night-1-1,Yaw-9_night-1,iamɨ,37,false,expert,Valenzuela2023,( - i a ) m ɨ - - ( - - - - - ),false,expert
+Kor-9_night-1-1,Kor-9_night-1,imɨt,37,false,expert,Valenzuela2023,( - - i ) m ɨ t - ( - - - - - ),false,expert
+Mat-9_night-1-1,Mat-9_night-1,imɨd,37,false,expert,Valenzuela2023,( - - i ) m ɨ d - ( - - - - - ),false,expert
+Shan-10_skin-1-1,Shan-10_skin-1,fitʃi,39,false,expert,Valenzuela2023,( - - ) f i tʃ i,false,expert
+HanKax-10_skin-1-1,HanKax-10_skin-1,bitʃi,39,false,expert,Valenzuela2023,( - - ) b i tʃ i,false,expert
+Maw-10_skin-1-1,Maw-10_skin-1,ɸitʃi,39,false,expert,Valenzuela2023,( - - ) ɸ i tʃ i,false,expert
+Yaw-10_skin-1-1,Yaw-10_skin-1,βɨtʃi,39,false,expert,Valenzuela2023,( - - ) β ɨ tʃ i,false,expert
+Mat-10_skin-1-1,Mat-10_skin-1,bitsi,39,false,expert,Valenzuela2023,( - - ) b i ts i,false,expert
+MatMay-10_skin-1-1,MatMay-10_skin-1,bitsi,39,false,expert,Valenzuela2023,( - - ) b i ts i,false,expert
+Shan-11_fire-1-1,Shan-11_fire-1,tʃi,22,false,expert,Valenzuela2023,( - - ) tʃ i - - ( - - - ),false,expert
+Kat-11_fire-1-1,Kat-11_fire-1,tʃii,22,false,expert,Valenzuela2023,( - - ) tʃ i - i ( - - - ),false,expert
+Ama-11_fire-1-1,Ama-11_fire-1,tʃiʔi,22,false,expert,Valenzuela2023,( - - ) tʃ i ʔ i ( - - - ),false,expert
+HanKax-11_fire-1-1,HanKax-11_fire-1,tʃi,22,false,expert,Valenzuela2023,( - - ) tʃ i - - ( - - - ),false,expert
+Maw-11_fire-1-1,Maw-11_fire-1,tʃi,22,false,expert,Valenzuela2023,( - - ) tʃ i - - ( - - - ),false,expert
+Yaw-11_fire-1-1,Yaw-11_fire-1,tʃi,22,false,expert,Valenzuela2023,( - - ) tʃ i - - ( - - - ),false,expert
+Kat-12_knee-1-1,Kat-12_knee-1,raβɨʂo,30,false,expert,Valenzuela2023,( - - - - - ) r a - ( β ɨ ʂ - o ),false,expert
+Ama-12_knee-1-1,Ama-12_knee-1,rawoxko,30,false,expert,Valenzuela2023,( - - - - - ) r a - ( w o x k o ),false,expert
+Shan-13_blood-1-1,Shan-13_blood-1,imi,4,false,expert,Valenzuela2023,- i m i,false,expert
+Kat-13_blood-1-1,Kat-13_blood-1,himi,4,false,expert,Valenzuela2023,h i m i,false,expert
+Poy-13_blood-1-1,Poy-13_blood-1,ibi,4,false,expert,Valenzuela2023,- i b i,false,expert
+Ama-13_blood-1-1,Ama-13_blood-1,himi,4,false,expert,Valenzuela2023,h i m i,false,expert
+HanKax-13_blood-1-1,HanKax-13_blood-1,himi,4,false,expert,Valenzuela2023,h i m i,false,expert
+Maw-13_blood-1-1,Maw-13_blood-1,imi,4,false,expert,Valenzuela2023,- i m i,false,expert
+Yaw-13_blood-1-1,Yaw-13_blood-1,imi,4,false,expert,Valenzuela2023,- i m i,false,expert
+Kor-13_blood-1-1,Kor-13_blood-1,inta,4,false,expert,Valenzuela2023,- i n.t a,false,expert
+Mat-13_blood-1-1,Mat-13_blood-1,imi,4,false,expert,Valenzuela2023,- i m i,false,expert
+MatMay-13_blood-1-1,MatMay-13_blood-1,imi,4,false,expert,Valenzuela2023,- i m i,false,expert
+Shan-14_breast-1-1,Shan-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,- ʂ u ( m a ),false,expert
+Kat-14_breast-1-1,Kat-14_breast-1,ʃuma,6,false,expert,Valenzuela2023,- ʃ u ( m a ),false,expert
+Poy-14_breast-1-1,Poy-14_breast-1,hũba,6,false,expert,Valenzuela2023,- h u ( ~.b a ),false,expert
+Ama-14_breast-1-1,Ama-14_breast-1,xoma,6,false,expert,Valenzuela2023,- x o ( m a ),false,expert
+HanKax-14_breast-1-1,HanKax-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,- ʂ u ( m a ),false,expert
+Maw-14_breast-1-1,Maw-14_breast-1,ʂoma,6,false,expert,Valenzuela2023,- ʂ o ( m a ),false,expert
+Yaw-14_breast-1-1,Yaw-14_breast-1,ʃuma,6,false,expert,Valenzuela2023,- ʃ u ( m a ),false,expert
+Kor-14_breast-1-1,Kor-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,- ʂ u ( m a ),false,expert
+Mat-14_breast-1-1,Mat-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,- ʂ u ( m a ),false,expert
+MatMay-14_breast-1-1,MatMay-14_breast-1,ʂuma,6,false,expert,Valenzuela2023,- ʂ u ( m a ),false,expert
+Shan-15_moonsun-1-1,Shan-15_moonsun-1,faɾi,40,false,expert,Valenzuela2023,f a ɾ i ( - - ),false,expert
+Kat-15_moonsun-1-1,Kat-15_moonsun-1,βaɾi,40,false,expert,Valenzuela2023,β a ɾ i ( - - ),false,expert
+Poy-15_moonsun-1-1,Poy-15_moonsun-1,βaɾi,40,false,expert,Valenzuela2023,β a ɾ i ( - - ),false,expert
+Ama-15_moonsun-1-1,Ama-15_moonsun-1,bari,40,false,expert,Valenzuela2023,b a r i ( - - ),false,expert
+HanKax-15_moonsun-1-1,HanKax-15_moonsun-1,badi,40,false,expert,Valenzuela2023,b a d i ( - - ),false,expert
+Maw-15_moonsun-1-1,Maw-15_moonsun-1,ɸaɾi,40,false,expert,Valenzuela2023,ɸ a ɾ i ( - - ),false,expert
+Yaw-15_moonsun-1-1,Yaw-15_moonsun-1,βaɾi,40,false,expert,Valenzuela2023,β a ɾ i ( - - ),false,expert
+Kor-15_moonsun-1-1,Kor-15_moonsun-1,βaɬi,40,false,expert,Valenzuela2023,β a ɬ i ( - - ),false,expert
+Mat-15_moonsun-1-1,Mat-15_moonsun-1,badi,40,false,expert,Valenzuela2023,b a d i ( - - ),false,expert
+MatMay-15_moonsun-1-1,MatMay-15_moonsun-1,badiad,40,false,expert,Valenzuela2023,b a d i ( a d ),false,expert
+Ama-16_you-1-1,Ama-16_you-1,miya,47,false,expert,Valenzuela2023,m i ( j - a - - ),false,expert
+HanKax-16_you-1-1,HanKax-16_you-1,mia,47,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+Maw-16_you-1-1,Maw-16_you-1,mia,47,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+Kor-16_you-1-1,Kor-16_you-1,mi,47,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+Mat-16_you-1-1,Mat-16_you-1,mi_,47,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+MatMay-16_you-1-1,MatMay-16_you-1,mi_,47,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+Ama-17_come-1-1,Ama-17_come-1,βɨ-,10,false,expert,Valenzuela2023,β ɨ,false,expert
+HanKax-17_come-1-1,HanKax-17_come-1,bɨ-,10,false,expert,Valenzuela2023,b ɨ,false,expert
+Maw-17_come-1-1,Maw-17_come-1,ɸɨ-,10,false,expert,Valenzuela2023,ɸ ɨ,false,expert
+Yaw-17_come-1-1,Yaw-17_come-1,βɨ-,10,false,expert,Valenzuela2023,β ɨ,false,expert
+Kor-17_come-1-1,Kor-17_come-1,βɨ-,10,false,expert,Valenzuela2023,β ɨ,false,expert
+Mat-17_come-1-1,Mat-17_come-1,βɨ-,10,false,expert,Valenzuela2023,β ɨ,false,expert
+MatMay-17_come-1-1,MatMay-17_come-1,bɨ-,10,false,expert,Valenzuela2023,b ɨ,false,expert
+Ama-18_i-1-1,Ama-18_i-1,ɨ,28,false,expert,Valenzuela2023,- ɨ ( - - - ),false,expert
+HanKax-18_i-1-1,HanKax-18_i-1,ɨ,28,false,expert,Valenzuela2023,- ɨ ( - - - ),false,expert
+Maw-18_i-1-1,Maw-18_i-1,ɨ,28,false,expert,Valenzuela2023,- ɨ ( - - - ),false,expert
+Shan-19_flesh-1-1,Shan-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Kat-19_flesh-1-1,Kat-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Poy-19_flesh-1-1,Poy-19_flesh-1,nãbi,23,false,expert,Valenzuela2023,( - - ) n a ~.b i,false,expert
+Ama-19_flesh-1-1,Ama-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+HanKax-19_flesh-1-1,HanKax-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Maw-19_flesh-1-1,Maw-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Yaw-19_flesh-1-1,Yaw-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Mat-19_flesh-1-1,Mat-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+MatMay-19_flesh-1-1,MatMay-19_flesh-1,nami,23,false,expert,Valenzuela2023,( - - ) n a m i,false,expert
+Shan-20_fat-1-1,Shan-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Kat-20_fat-1-1,Kat-20_fat-1,ʃɨni,20,false,expert,Valenzuela2023,( - - ) ʃ ɨ n i,false,expert
+Poy-20_fat-1-1,Poy-20_fat-1,hãdi,20,false,expert,Valenzuela2023,( - - ) h a ~.d i,false,expert
+Ama-20_fat-1-1,Ama-20_fat-1,xɨni,20,false,expert,Valenzuela2023,( - - ) x ɨ n i,false,expert
+HanKax-20_fat-1-1,HanKax-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Maw-20_fat-1-1,Maw-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Yaw-20_fat-1-1,Yaw-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Kor-20_fat-1-1,Kor-20_fat-1,ʃɨni,20,false,expert,Valenzuela2023,( - - ) ʃ ɨ n i,false,expert
+Mat-20_fat-1-1,Mat-20_fat-1,ʂɨni,20,false,expert,Valenzuela2023,( - - ) ʂ ɨ n i,false,expert
+Shan-21_fingernail-1-1,Shan-21_fingernail-1,mɨtʃiʃi,21,false,expert,Valenzuela2023,( - - ) m ɨ - ( - ) tʃ i ʃ i ( - - - - - ),false,expert
+Kat-21_fingernail-1-1,Kat-21_fingernail-1,mɨ̃tʃiʃi,21,false,expert,Valenzuela2023,( - - ) m ɨ ∼ ( - ) tʃ i ʃ i ( - - - - - ),false,expert
+Ama-21_fingernail-1-1,Ama-21_fingernail-1,mɨntsis,21,false,expert,Valenzuela2023,( - - ) m ɨ n ( - ) ts i s - ( - - - - - ),false,expert
+HanKax-21_fingernail-1-1,HanKax-21_fingernail-1,mɨ̃tsis,21,false,expert,Valenzuela2023,( - - ) m ɨ ∼ ( - ) ts i s - ( - - - - - ),false,expert
+Maw-21_fingernail-1-1,Maw-21_fingernail-1,mɨ̃tsisi,21,false,expert,Valenzuela2023,( - - ) m ɨ ∼ ( - ) ts i s i ( - - - - - ),false,expert
+Yaw-21_fingernail-1-1,Yaw-21_fingernail-1,mɨtsisi,21,false,expert,Valenzuela2023,( - - ) m ɨ - ( - ) ts i s i ( - - - - - ),false,expert
+Kor-21_fingernail-1-1,Kor-21_fingernail-1,mɨtʃiun,21,false,expert,Valenzuela2023,( - - ) m ɨ - ( - ) tʃ i - - ( u n - - - ),false,expert
+Mat-21_fingernail-1-1,Mat-21_fingernail-1,mɨntis,21,false,expert,Valenzuela2023,( - - ) m ɨ n ( - ) t i s - ( - - - - - ),false,expert
+MatMay-21_fingernail-1-1,MatMay-21_fingernail-1,mɨntsis,21,false,expert,Valenzuela2023,( - - ) m ɨ n ( - ) ts i s - ( - - - - - ),false,expert
+Shan-22_footleg-1-1,Shan-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+Kat-22_footleg-1-1,Kat-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+Poy-22_footleg-1-1,Poy-22_footleg-1,tay,24,false,expert,Valenzuela2023,( - - - - ) t a ( - j - - - - - ),false,expert
+Ama-22_footleg-1-1,Ama-22_footleg-1,taʔɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( ʔ ɨ - - - - - ),false,expert
+HanKax-22_footleg-1-1,HanKax-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+Maw-22_footleg-1-1,Maw-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+Yaw-22_footleg-1-1,Yaw-22_footleg-1,tai,24,false,expert,Valenzuela2023,( - - - - ) t a ( - i - - - - - ),false,expert
+Kor-22_footleg-1-1,Kor-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+Mat-22_footleg-1-1,Mat-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+MatMay-22_footleg-1-1,MatMay-22_footleg-1,taɨ,24,false,expert,Valenzuela2023,( - - - - ) t a ( - ɨ - - - - - ),false,expert
+HanKax-23_lipedge-1-1,HanKax-23_lipedge-1,kɨbitʃi,32,false,expert,Valenzuela2023,( - - ) k ɨ ( b i tʃ i - - - - ),false,expert
+MatMay-23_lipedge-1-1,MatMay-23_lipedge-1,kwibi,32,false,expert,Valenzuela2023,( - - ) kʷ i ( b i - - - - - - ),false,expert
+Kat-24_cheek-1-1,Kat-24_cheek-1,tamu,9,false,expert,Valenzuela2023,( - - - - ) t a m u,false,expert
+Poy-24_cheek-1-1,Poy-24_cheek-1,tãbu,9,false,expert,Valenzuela2023,( - - - - ) t !ã/a b u,false,expert
+Ama-24_cheek-1-1,Ama-24_cheek-1,tamo,9,false,expert,Valenzuela2023,( - - - - ) t a m o,false,expert
+HanKax-24_cheek-1-1,HanKax-24_cheek-1,tamu,9,false,expert,Valenzuela2023,( - - - - ) t a m u,false,expert
+Maw-24_cheek-1-1,Maw-24_cheek-1,tamo,9,false,expert,Valenzuela2023,( - - - - ) t a m o,false,expert
+MatMay-24_cheek-1-1,MatMay-24_cheek-1,tambu,9,false,expert,Valenzuela2023,( - - - - ) t a m.b u,false,expert
+Shan-25_mouth-1-1,Shan-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,( - - ) k ɨ ʂ a ( - - ),false,expert
+Kat-25_mouth-1-1,Kat-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,( - - ) k ɨ ʂ a ( - - ),false,expert
+Poy-25_mouth-1-1,Poy-25_mouth-1,kɨxaa,35,false,expert,Valenzuela2023,( - - ) k ɨ x a ( - a ),false,expert
+Ama-25_mouth-1-1,Ama-25_mouth-1,kɨʂa,35,false,expert,Valenzuela2023,( - - ) k ɨ ʂ a ( - - ),false,expert
+HanKax-25_mouth-1-1,HanKax-25_mouth-1,kɨʂ̃a,35,false,expert,Valenzuela2023,( - - ) k ɨ ʂ !ã/a ( - - ),false,expert
+Maw-25_mouth-1-1,Maw-25_mouth-1,kɨʃa,35,false,expert,Valenzuela2023,( - - ) k ɨ ʃ a ( - - ),false,expert
+Yaw-25_mouth-1-1,Yaw-25_mouth-1,kɨha,35,false,expert,Valenzuela2023,( - - ) k ɨ h a ( - - ),false,expert
+Ama-26_elbow-1-1,Ama-26_elbow-1,vapoxko,19,false,expert,Valenzuela2023,( - - - - - - ) b a ( - ) - - ( p o x k o - - - - ),false,expert
+HanKax-26_elbow-1-1,HanKax-26_elbow-1,baʂtunku,19,false,expert,Valenzuela2023,( - - - - - - ) b a ( - ) ʂ - ( t u n - - - - k u ),false,expert
+Mat-26_elbow-1-1,Mat-26_elbow-1,mɨntʂinβuru,19,false,expert,Valenzuela2023,( m ɨ n tʂ i n ) β u ( - ) r u ( - - - - - - - - - ),false,expert
+MatMay-26_elbow-1-1,MatMay-26_elbow-1,mɨntsimpis,19,false,expert,Valenzuela2023,( m ɨ n - - - ) - - ( - ) - - ( ts i m p i - - - s ),false,expert
+ProTa-1_tree-1-1,ProTa-1_tree-1,akʷi,45,false,expert,Valenzuela2023,- a kʷ i ( - - ),false,expert
+Tac-1_tree-1-1,Tac-1_tree-1,aki,45,false,expert,Valenzuela2023,- a k i ( - - ),false,expert
+ReyMar-1_tree-1-1,ReyMar-1_tree-1,ekená,45,false,expert,Valenzuela2023,- e k e ( n á ),false,expert
+Aro-1_tree-1-1,Aro-1_tree-1,acui,45,false,expert,Valenzuela2023,- a kʷ i ( - - ),false,expert
+Mab-1_tree-1-1,Mab-1_tree-1,akwi,45,false,expert,Valenzuela2023,- a kʷ i ( - - ),false,expert
+Cav-1_tree-1-1,Cav-1_tree-1,akwi,45,false,expert,Valenzuela2023,- a kʷ i ( - - ),false,expert
+Ese-1_tree-1-1,Ese-1_tree-1,akwi,45,false,expert,Valenzuela2023,- a kʷ i ( - - ),false,expert
+War-1_tree-1-1,War-1_tree-1,akwi,45,false,expert,Valenzuela2023,- a kʷ i ( - - ),false,expert
+Ara-1_tree-1-1,Ara-1_tree-1,akui,45,false,expert,Valenzuela2023,- a kʷ i ( - - ),false,expert
+ProTa-2_tooth-1-1,ProTa-2_tooth-1,e-ce,44,false,expert,Valenzuela2023,( e + ) tʂ e ( - - - ),false,expert
+ReyMar-2_tooth-1-1,ReyMar-2_tooth-1,e-ce,44,false,expert,Valenzuela2023,( e + ) tʂ e ( - - - ),false,expert
+Sap-2_tooth-1-1,Sap-2_tooth-1,echee,44,false,expert,Valenzuela2023,( e - ) tʃ e ( e - - ),false,expert
+Mab-2_tooth-1-1,Mab-2_tooth-1,itsi,44,false,expert,Valenzuela2023,( i - ) ts i ( - - - ),false,expert
+Cav-2_tooth-1-1,Cav-2_tooth-1,e-ce,44,false,expert,Valenzuela2023,( e + ) tʂ e ( - - - ),false,expert
+Ese-2_tooth-1-1,Ese-2_tooth-1,e-se,44,false,expert,Valenzuela2023,( e + ) s e ( - - - ),false,expert
+War-2_tooth-1-1,War-2_tooth-1,e-sé,44,false,expert,Valenzuela2023,( e + ) s !é/e ( - - - ),false,expert
+Tia-2_tooth-1-1,Tia-2_tooth-1,ese,44,false,expert,Valenzuela2023,( e - ) s e ( - - - ),false,expert
+Cham-2_tooth-1-1,Cham-2_tooth-1,e-sé,44,false,expert,Valenzuela2023,( e + ) s !é/e ( - - - ),false,expert
+Ara-2_tooth-1-1,Ara-2_tooth-1,ese,44,false,expert,Valenzuela2023,( e - ) s e ( - - - ),false,expert
+ProTa-3_two-1-1,ProTa-3_two-1,beta,46,false,expert,Valenzuela2023,( - - - ) b e t a ( - - - - ),false,expert
+Tac-3_two-1-1,Tac-3_two-1,beta,46,false,expert,Valenzuela2023,( - - - ) b e t a ( - - - - ),false,expert
+ReyMar-3_two-1-1,ReyMar-3_two-1,mbeta,46,false,expert,Valenzuela2023,( - - - ) m.b e t a ( - - - - ),false,expert
+Sap-3_two-1-1,Sap-3_two-1,beta,46,false,expert,Valenzuela2023,( - - - ) b e t a ( - - - - ),false,expert
+Aro-3_two-1-1,Aro-3_two-1,beta,46,false,expert,Valenzuela2023,( - - - ) b e t a ( - - - - ),false,expert
+Cav-3_two-1-1,Cav-3_two-1,beta,46,false,expert,Valenzuela2023,( - - - ) b e t a ( - - - - ),false,expert
+Ese-3_two-1-1,Ese-3_two-1,beka,46,false,expert,Valenzuela2023,( - - - ) b e k a ( - - - - ),false,expert
+War-3_two-1-1,War-3_two-1,beabué,46,false,expert,Valenzuela2023,( - - - ) b e - a ( b u !é/e - ),false,expert
+Tia-3_two-1-1,Tia-3_two-1,bikapiai,46,false,expert,Valenzuela2023,( - - - ) b i k a ( p i a i ),false,expert
+Cham-3_two-1-1,Cham-3_two-1,béka,46,false,expert,Valenzuela2023,( - - - ) b !é/e k a ( - - - - ),false,expert
+ProTa-4_liver-1-1,ProTa-4_liver-1,takʷa,33,false,expert,Valenzuela2023,( - - ) t a kʷ a,false,expert
+Tac-4_liver-1-1,Tac-4_liver-1,e-takwa,33,false,expert,Valenzuela2023,( e + ) t a kʷ a,false,expert
+ReyMar-4_liver-1-1,ReyMar-4_liver-1,e-takwa,33,false,expert,Valenzuela2023,( e + ) t a kʷ a,false,expert
+Cav-4_liver-1-1,Cav-4_liver-1,e-takwa,33,false,expert,Valenzuela2023,( e + ) t a kʷ a,false,expert
+Ese-4_liver-1-1,Ese-4_liver-1,e-kakwa,33,false,expert,Valenzuela2023,( e + ) k a kʷ a,false,expert
+War-4_liver-1-1,War-4_liver-1,e-takwe,33,false,expert,Valenzuela2023,( e + ) t a kʷ e,false,expert
+Ara-4_liver-1-1,Ara-4_liver-1,etákua,33,false,expert,Valenzuela2023,( e - ) t !á/a kʷ a,false,expert
+ProTa-5_leaftofan-1-1,ProTa-5_leaftofan-1,pei,31,false,expert,Valenzuela2023,( - - ) p e - i,false,expert
+Cav-5_leaftofan-1-1,Cav-5_leaftofan-1,pei-,31,false,expert,Valenzuela2023,( - - ) p e - i,false,expert
+Ese-5_leaftofan-1-1,Ese-5_leaftofan-1,e-pexi,31,false,expert,Valenzuela2023,( e + ) p e x i,false,expert
+War-5_leaftofan-1-1,War-5_leaftofan-1,pio-,31,false,expert,Valenzuela2023,( - - ) p i - o,false,expert
+ProTa-6_bone-1-1,ProTa-6_bone-1,tʂau,5,false,expert,Valenzuela2023,( - - - ) tʂ a ( - ) u,false,expert
+Tac-6_bone-1-1,Tac-6_bone-1,e-cau,5,false,expert,Valenzuela2023,( - e + ) tʂ a ( - ) u,false,expert
+ReyMar-6_bone-1-1,ReyMar-6_bone-1,e-cao,5,false,expert,Valenzuela2023,( - e + ) ts a ( - ) o,false,expert
+Cav-6_bone-1-1,Cav-6_bone-1,e-cao,5,false,expert,Valenzuela2023,( - e + ) tʂ a ( - ) o,false,expert
+Ese-6_bone-1-1,Ese-6_bone-1,e-sá,5,false,expert,Valenzuela2023,( - e + ) s !á/a ( - ) -,false,expert
+War-6_bone-1-1,War-6_bone-1,e-sá,5,false,expert,Valenzuela2023,( - e + ) s !á/a ( - ) -,false,expert
+ProTa-7_tongue-1-1,ProTa-7_tongue-1,ana,43,false,expert,Valenzuela2023,( - - - ) - a n ( - ) a,false,expert
+Tac-7_tongue-1-1,Tac-7_tongue-1,y-ana,43,false,expert,Valenzuela2023,( - j + ) - a n ( - ) a,false,expert
+ReyMar-7_tongue-1-1,ReyMar-7_tongue-1,y-ana,43,false,expert,Valenzuela2023,( - j + ) - a n ( - ) a,false,expert
+Sap-7_tongue-1-1,Sap-7_tongue-1,eana,43,false,expert,Valenzuela2023,( - - e ) - a n ( - ) a,false,expert
+Cav-7_tongue-1-1,Cav-7_tongue-1,y-ana,43,false,expert,Valenzuela2023,( - j + ) - a n ( - ) a,false,expert
+Ese-7_tongue-1-1,Ese-7_tongue-1,eyana,43,false,expert,Valenzuela2023,( e j - ) - a n ( - ) a,false,expert
+War-7_tongue-1-1,War-7_tongue-1,y-ana,43,false,expert,Valenzuela2023,( - j + ) - a n ( - ) a,false,expert
+Tia-7_tongue-1-1,Tia-7_tongue-1,yana,43,false,expert,Valenzuela2023,( - j - ) - a n ( - ) a,false,expert
+Ara-7_tongue-1-1,Ara-7_tongue-1,eána,43,false,expert,Valenzuela2023,( e - - ) - !á/a n ( - ) a,false,expert
+ProTa-8_hand-1-1,ProTa-8_hand-1,me-,27,false,expert,Valenzuela2023,( - - ) m e ( - - - - - - ),false,expert
+Tac-8_hand-1-1,Tac-8_hand-1,e-me,27,false,expert,Valenzuela2023,( e + ) m e ( - - - - - - ),false,expert
+ReyMar-8_hand-1-1,ReyMar-8_hand-1,emechuja,27,false,expert,Valenzuela2023,( e - ) m e ( - - tʃ u j a ),false,expert
+Sap-8_hand-1-1,Sap-8_hand-1,eme,27,false,expert,Valenzuela2023,( e - ) m e ( - - - - - - ),false,expert
+Aro-8_hand-1-1,Aro-8_hand-1,eme,27,false,expert,Valenzuela2023,( e - ) m e ( - - - - - - ),false,expert
+Cav-8_hand-1-1,Cav-8_hand-1,e-me,27,false,expert,Valenzuela2023,( e + ) m e ( - - - - - - ),false,expert
+Ese-8_hand-1-1,Ese-8_hand-1,e-me,27,false,expert,Valenzuela2023,( e + ) m e ( - - - - - - ),false,expert
+War-8_hand-1-1,War-8_hand-1,e-mé,27,false,expert,Valenzuela2023,( e + ) m !é/e ( - - - - - - ),false,expert
+Ara-8_hand-1-1,Ara-8_hand-1,emã,27,false,expert,Valenzuela2023,( e - ) m !ã/a ( - - - - - - ),false,expert
+ProTa-9_night-1-1,ProTa-9_night-1,meta,37,false,expert,Valenzuela2023,( - - - ) m e t a ( - - - - - ),false,expert
+Tac-9_night-1-1,Tac-9_night-1,mueta,37,false,expert,Valenzuela2023,( - - - ) m ue t a ( - - - - - ),false,expert
+ReyMar-9_night-1-1,ReyMar-9_night-1,maita,37,false,expert,Valenzuela2023,( - - - ) m ai t a ( - - - - - ),false,expert
+Sap-9_night-1-1,Sap-9_night-1,maetahe,37,false,expert,Valenzuela2023,( - - - ) m ae t a ( h e - - - ),false,expert
+Cav-9_night-1-1,Cav-9_night-1,meta,37,false,expert,Valenzuela2023,( - - - ) m e t a ( - - - - - ),false,expert
+Ese-9_night-1-1,Ese-9_night-1,meka-waxe,37,false,expert,Valenzuela2023,( - - - ) m e k a ( + w a x e ),false,expert
+Ara-9_night-1-1,Ara-9_night-1,eméte,37,false,expert,Valenzuela2023,( e - - ) m !é/e t e ( - - - - - ),false,expert
+ProTa-10_skin-1-1,ProTa-10_skin-1,biti,39,false,expert,Valenzuela2023,( - - ) b i t i,false,expert
+Tac-10_skin-1-1,Tac-10_skin-1,e-biti,39,false,expert,Valenzuela2023,( e + ) b i t i,false,expert
+ReyMar-10_skin-1-1,ReyMar-10_skin-1,e-mbiti,39,false,expert,Valenzuela2023,( e + ) m.b i t i,false,expert
+Cav-10_skin-1-1,Cav-10_skin-1,e-biti,39,false,expert,Valenzuela2023,( e + ) b i t i,false,expert
+ProTa-11_fire-1-1,ProTa-11_fire-1,ti,22,false,expert,Valenzuela2023,( - - ) t i - - ( - - - ),false,expert
+Tac-11_fire-1-1,Tac-11_fire-1,e-ti-ře,22,false,expert,Valenzuela2023,( e + ) t i - - ( + ɽ e ),false,expert
+ReyMar-11_fire-1-1,ReyMar-11_fire-1,-ti-,22,false,expert,Valenzuela2023,( - - ) t i - - ( - - - ),false,expert
+Aro-11_fire-1-1,Aro-11_fire-1,etesi,22,false,expert,Valenzuela2023,( e - ) t e - - ( - s i ),false,expert
+Cav-11_fire-1-1,Cav-11_fire-1,e-tiki,22,false,expert,Valenzuela2023,( e + ) t i - - ( - k i ),false,expert
+ProTa-12_knee-1-1,ProTa-12_knee-1,da,30,false,expert,Valenzuela2023,( - - - - - ) d a - ( - - - - - ),false,expert
+Tac-12_knee-1-1,Tac-12_knee-1,e-ma-da-cua,30,false,expert,Valenzuela2023,( e + m a + ) d a + ( kʷ a - - - ),false,expert
+ProTa-13_blood-1-1,ProTa-13_blood-1,ami,4,false,expert,Valenzuela2023,- a m i,false,expert
+Tac-13_blood-1-1,Tac-13_blood-1,ami,4,false,expert,Valenzuela2023,- a m i,false,expert
+ReyMar-13_blood-1-1,ReyMar-13_blood-1,ami,4,false,expert,Valenzuela2023,- a m i,false,expert
+Cav-13_blood-1-1,Cav-13_blood-1,ami,4,false,expert,Valenzuela2023,- a m i,false,expert
+ProTa-14_breast-1-1,ProTa-14_breast-1,aṭṣu,6,false,expert,Valenzuela2023,a ts u ( - - ),false,expert
+ProTa-15_moonsun-1-1,ProTa-15_moonsun-1,badi,40,false,expert,Valenzuela2023,b a d i ( - - ),false,expert
+Tac-15_moonsun-1-1,Tac-15_moonsun-1,badi,40,false,expert,Valenzuela2023,b a d i ( - - ),false,expert
+ReyMar-15_moonsun-1-1,ReyMar-15_moonsun-1,mbandzi,40,false,expert,Valenzuela2023,m.b a n.dz i ( - - ),false,expert
+Sap-15_moonsun-1-1,Sap-15_moonsun-1,bari,40,false,expert,Valenzuela2023,b a r i ( - - ),false,expert
+Aro-15_moonsun-1-1,Aro-15_moonsun-1,badi,40,false,expert,Valenzuela2023,b a d i ( - - ),false,expert
+Cav-15_moonsun-1-1,Cav-15_moonsun-1,badi,40,false,expert,Valenzuela2023,b a d i ( - - ),false,expert
+Ese-15_moonsun-1-1,Ese-15_moonsun-1,baʔi,40,false,expert,Valenzuela2023,b a ʔ i ( - - ),false,expert
+Cham-15_moonsun-1-1,Cham-15_moonsun-1,mái,40,false,expert,Valenzuela2023,m !á/a - i ( - - ),false,expert
+ProTa-16_you-1-1,ProTa-16_you-1,mi,47,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+Tac-16_you-1-1,Tac-16_you-1,mi-ke,47,false,expert,Valenzuela2023,m i ( + k e - - ),false,expert
+ReyMar-16_you-1-1,ReyMar-16_you-1,mibe,47,false,expert,Valenzuela2023,m i ( b - e - - ),false,expert
+Aro-16_you-1-1,Aro-16_you-1,mitya,47,false,expert,Valenzuela2023,m i ( t j a - - ),false,expert
+Cav-16_you-1-1,Cav-16_you-1,mi-kwana,47,false,expert,Valenzuela2023,m i ( + kʷ a n a ),false,expert
+Ese-16_you-1-1,Ese-16_you-1,mi-a,47,false,expert,Valenzuela2023,m i ( + - a - - ),false,expert
+Ara-16_you-1-1,Ara-16_you-1,mikia,47,false,expert,Valenzuela2023,m i ( - k i - a ),false,expert
+ProTa-17_come-1-1,ProTa-17_come-1,be-,10,false,expert,Valenzuela2023,b e,false,expert
+ProTa-18_i-1-1,ProTa-18_i-1,e,28,false,expert,Valenzuela2023,- e ( - - - ),false,expert
+Tac-18_i-1-1,Tac-18_i-1,e-ma,28,false,expert,Valenzuela2023,- e ( + m a ),false,expert
+ReyMar-18_i-1-1,ReyMar-18_i-1,e-me,28,false,expert,Valenzuela2023,- e ( + m e ),false,expert
+Aro-18_i-1-1,Aro-18_i-1,ema,28,false,expert,Valenzuela2023,- e ( - m a ),false,expert
+Cav-18_i-1-1,Cav-18_i-1,e-ra,28,false,expert,Valenzuela2023,- e ( + r a ),false,expert
+Ese-18_i-1-1,Ese-18_i-1,ea,28,false,expert,Valenzuela2023,- e ( - - a ),false,expert
+ProTa-19_flesh-1-1,ProTa-19_flesh-1,ɾami,23,false,expert,Valenzuela2023,( - - ) ɾ a m i,false,expert
+Tac-19_flesh-1-1,Tac-19_flesh-1,yami,23,false,expert,Valenzuela2023,( - - ) j a m i,false,expert
+ReyMar-19_flesh-1-1,ReyMar-19_flesh-1,yami,23,false,expert,Valenzuela2023,( - - ) j a m i,false,expert
+Aro-19_flesh-1-1,Aro-19_flesh-1,yami,23,false,expert,Valenzuela2023,( - - ) j a m i,false,expert
+Cav-19_flesh-1-1,Cav-19_flesh-1,e-rami,23,false,expert,Valenzuela2023,( e + ) r a m i,false,expert
+Ese-19_flesh-1-1,Ese-19_flesh-1,eyami,23,false,expert,Valenzuela2023,( e - ) j a m i,false,expert
+War-19_flesh-1-1,War-19_flesh-1,eyami,23,false,expert,Valenzuela2023,( e - ) j a m i,false,expert
+Ara-19_flesh-1-1,Ara-19_flesh-1,éami,23,false,expert,Valenzuela2023,( !é/e - ) - a m i,false,expert
+ProTa-20_fat-1-1,ProTa-20_fat-1,ṭṣeri,20,false,expert,Valenzuela2023,( - - ) ts e r i,false,expert
+Tac-20_fat-1-1,Tac-20_fat-1,e-cei,20,false,expert,Valenzuela2023,( e + ) tʂ e - i,false,expert
+Cav-20_fat-1-1,Cav-20_fat-1,e-ceri,20,false,expert,Valenzuela2023,( e + ) tʂ e r i,false,expert
+Ese-20_fat-1-1,Ese-20_fat-1,e-sei,20,false,expert,Valenzuela2023,( e + ) s e - i,false,expert
+Ara-20_fat-1-1,Ara-20_fat-1,ésey,20,false,expert,Valenzuela2023,( !é/e - ) s e - !j/i,false,expert
+ProTa-21_fingernail-1-1,ProTa-21_fingernail-1,metiji,21,false,expert,Valenzuela2023,( - - ) m e - ( - ) t i j i ( - - - - - ),false,expert
+Tac-21_fingernail-1-1,Tac-21_fingernail-1,e-me-haca,21,false,expert,Valenzuela2023,( e + ) m e - ( - ) - - - - ( + h a tʂ a ),false,expert
+ReyMar-21_fingernail-1-1,ReyMar-21_fingernail-1,emetichi,21,false,expert,Valenzuela2023,( e - ) m e - ( - ) t i tʃ i ( - - - - - ),false,expert
+Cav-21_fingernail-1-1,Cav-21_fingernail-1,e-me-šoro,21,false,expert,Valenzuela2023,( e + ) m e - ( + ) - - - - ( ʃ o r o - ),false,expert
+Ese-21_fingernail-1-1,Ese-21_fingernail-1,e-me-kiše,21,false,expert,Valenzuela2023,( e + ) m e - ( + ) k i ʃ e ( - - - - - ),false,expert
+ProTa-22_footleg-1-1,ProTa-22_footleg-1,ta-,24,false,expert,Valenzuela2023,( - - - - ) t a ( - - - - - - - ),false,expert
+Tac-22_footleg-1-1,Tac-22_footleg-1,e-ta-buce,24,false,expert,Valenzuela2023,( e + - - ) t a ( - - + b u tʂ e ),false,expert
+Mab-22_footleg-1-1,Mab-22_footleg-1,itha,24,false,expert,Valenzuela2023,( - - i - ) tʰ a ( - - - - - - - ),false,expert
+Cav-22_footleg-1-1,Cav-22_footleg-1,awa-taka,24,false,expert,Valenzuela2023,( a w a + ) t a ( - - k a - - - ),false,expert
+ProTa-23_lipedge-1-1,ProTa-23_lipedge-1,kʷe-,32,false,expert,Valenzuela2023,( - - ) kʷ e ( - - - - - - - - ),false,expert
+Tac-23_lipedge-1-1,Tac-23_lipedge-1,e-ke-ke,32,false,expert,Valenzuela2023,( e + ) k e ( + k e - - - - - ),false,expert
+ReyMar-23_lipedge-1-1,ReyMar-23_lipedge-1,kwesa,32,false,expert,Valenzuela2023,( - - ) kʷ e ( - s a - - - - - ),false,expert
+Cav-23_lipedge-1-1,Cav-23_lipedge-1,kwesa,32,false,expert,Valenzuela2023,( - - ) kʷ e ( - s a - - - - - ),false,expert
+Ese-23_lipedge-1-1,Ese-23_lipedge-1,e-kwe-ša,32,false,expert,Valenzuela2023,( e + ) kʷ e ( + ʃ a - - - - - ),false,expert
+ProTa-24_cheek-1-1,ProTa-24_cheek-1,tamu,9,false,expert,Valenzuela2023,( - - - - ) t a m u,false,expert
+ReyMar-24_cheek-1-1,ReyMar-24_cheek-1,ebu-tamu,9,false,expert,Valenzuela2023,( e b u + ) t a m u,false,expert
+Cav-24_cheek-1-1,Cav-24_cheek-1,-tamu,9,false,expert,Valenzuela2023,( - - - - ) t a m u,false,expert
+Ese-24_cheek-1-1,Ese-24_cheek-1,-shemo,9,false,expert,Valenzuela2023,( - - - - ) ʃ e m o,false,expert
+ProTa-25_mouth-1-1,ProTa-25_mouth-1,kʷatʂa,35,false,expert,Valenzuela2023,( - - ) kʷ a tʂ a ( - - ),false,expert
+Tac-25_mouth-1-1,Tac-25_mouth-1,e-kwaca,35,false,expert,Valenzuela2023,( e + ) kʷ a tʂ a ( - - ),false,expert
+ReyMar-25_mouth-1-1,ReyMar-25_mouth-1,e-kwaca,35,false,expert,Valenzuela2023,( e + ) kʷ a tʂ a ( - - ),false,expert
+Sap-25_mouth-1-1,Sap-25_mouth-1,ecuacha,35,false,expert,Valenzuela2023,( e - ) kʷ a tʃ a ( - - ),false,expert
+Mab-25_mouth-1-1,Mab-25_mouth-1,ikwatsa,35,false,expert,Valenzuela2023,( i - ) kʷ a ts a ( - - ),false,expert
+Cav-25_mouth-1-1,Cav-25_mouth-1,e-kwaca,35,false,expert,Valenzuela2023,( e + ) kʷ a tʂ a ( - - ),false,expert
+Ese-25_mouth-1-1,Ese-25_mouth-1,e-kwasa,35,false,expert,Valenzuela2023,( e + ) kʷ a s a ( - - ),false,expert
+War-25_mouth-1-1,War-25_mouth-1,e-kwasa,35,false,expert,Valenzuela2023,( e + ) kʷ a s a ( - - ),false,expert
+ProTa-26_elbow-1-1,ProTa-26_elbow-1,-baṭṣu,19,false,expert,Valenzuela2023,( - - - - - - ) b a ( - ) ts u ( - - - - - - - - - ),false,expert
+Tac-26_elbow-1-1,Tac-26_elbow-1,e-ba-cu,19,false,expert,Valenzuela2023,( - - - - e + ) b a ( + ) tʂ u ( - - - - - - - - - ),false,expert
+ReyMar-26_elbow-1-1,ReyMar-26_elbow-1,e-mba-co,19,false,expert,Valenzuela2023,( - - - - e + ) m.b a ( + ) ts o ( - - - - - - - - - ),false,expert
+Ese-26_elbow-1-1,Ese-26_elbow-1,e-bašo,19,false,expert,Valenzuela2023,( - - - - e + ) b a ( - ) ʃ o ( - - - - - - - - - ),false,expert
+War-26_elbow-1-1,War-26_elbow-1,e-bašo,19,false,expert,Valenzuela2023,( - - - - e + ) b a ( - ) ʃ o ( - - - - - - - - - ),false,expert
+Tia-26_elbow-1-1,Tia-26_elbow-1,wacu,19,false,expert,Valenzuela2023,( - - - - - - ) w a ( - ) ts u ( - - - - - - - - - ),false,expert
+Ara-26_elbow-1-1,Ara-26_elbow-1,ebaša,19,false,expert,Valenzuela2023,( - - - - e - ) b a ( - ) ʃ a ( - - - - - - - - - ),false,expert
+ProPaTa-27_1stsgi-1-1,ProPaTa-27_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+ProPa-27_1stsgi-1-1,ProPa-27_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+Ksh-27_1stsgi-1-1,Ksh-27_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+SK-27_1stsgi-1-1,SK-27_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+Kap-27_1stsgi-1-1,Kap-27_1stsgi-1,ʔɨ,1,false,expert,Valenzuela2023,ʔ ɨ ( - - - ),false,expert
+Chak-27_1stsgi-1-1,Chak-27_1stsgi-1,ɨ,1,false,expert,Valenzuela2023,- ɨ ( - - - ),false,expert
+Yam-27_1stsgi-1-1,Yam-27_1stsgi-1,ɨ̃,1,false,expert,Valenzuela2023,- !ɨ̃/ɨ ( - - - ),false,expert
+ProPaTa-28_2ndsgyou-1-1,ProPaTa-28_2ndsgyou-1,mi,2,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+ProPa-28_2ndsgyou-1-1,ProPa-28_2ndsgyou-1,mi,2,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+Ksh-28_2ndsgyou-1-1,Ksh-28_2ndsgyou-1,mii,2,false,expert,Valenzuela2023,m i ( - - i - - ),false,expert
+SK-28_2ndsgyou-1-1,SK-28_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+Kap-28_2ndsgyou-1-1,Kap-28_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+Chak-28_2ndsgyou-1-1,Chak-28_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+Yam-28_2ndsgyou-1-1,Yam-28_2ndsgyou-1,mĩ,2,false,expert,Valenzuela2023,m !ĩ/i ( - - - - - ),false,expert
+ProPaTa-29_demonstrative-1-1,ProPaTa-29_demonstrative-1,ʔu-,11,false,expert,Valenzuela2023,ʔ u ( - - - - - ),false,expert
+ProPa-29_demonstrative-1-1,ProPa-29_demonstrative-1,ʔo-,11,false,expert,Valenzuela2023,ʔ o ( - - - - - ),false,expert
+Ksh-29_demonstrative-1-1,Ksh-29_demonstrative-1,un_,11,false,expert,Valenzuela2023,- u ( - - - n - ),false,expert
+SK-29_demonstrative-1-1,SK-29_demonstrative-1,oa,11,false,expert,Valenzuela2023,- o ( - - a - - ),false,expert
+Chak-29_demonstrative-1-1,Chak-29_demonstrative-1,oa,11,false,expert,Valenzuela2023,- o ( - - a - - ),false,expert
+Yam-29_demonstrative-1-1,Yam-29_demonstrative-1,oa,11,false,expert,Valenzuela2023,- o ( - - a - - ),false,expert
+ProPaTa-30_demonstrativeproximate-1-1,ProPaTa-30_demonstrativeproximate-1,Nɨ-,13,false,expert,Valenzuela2023,( - ) !N/n ɨ ( - - - - ),false,expert
+ProPa-30_demonstrativeproximate-1-1,ProPa-30_demonstrativeproximate-1,nɨ-,13,false,expert,Valenzuela2023,( - ) n ɨ ( - - - - ),false,expert
+Ksh-30_demonstrativeproximate-1-1,Ksh-30_demonstrativeproximate-1,ɨnɨn_,13,false,expert,Valenzuela2023,( ɨ ) n ɨ ( - n - - ),false,expert
+SK-30_demonstrativeproximate-1-1,SK-30_demonstrativeproximate-1,nɨ-,13,false,expert,Valenzuela2023,( - ) n ɨ ( - - - - ),false,expert
+Chak-30_demonstrativeproximate-1-1,Chak-30_demonstrativeproximate-1,noa,13,false,expert,Valenzuela2023,( - ) n o ( - a - - ),false,expert
+Yam-30_demonstrativeproximate-1-1,Yam-30_demonstrativeproximate-1,na,13,false,expert,Valenzuela2023,( - ) n a ( - - - - ),false,expert
+ProPaTa-31_genitive-1-1,ProPaTa-31_genitive-1,-gʷi-n,25,false,expert,Valenzuela2023,gʷ i ( + ) n ( - ),false,expert
+ProPa-31_genitive-1-1,ProPa-31_genitive-1,-wɨ̃,25,false,expert,Valenzuela2023,w ɨ ( - ) ∼ ( - ),false,expert
+Ksh-31_genitive-1-1,Ksh-31_genitive-1,=n,25,false,expert,Valenzuela2023,- - ( - ) n ( - ),false,expert
+SK-31_genitive-1-1,SK-31_genitive-1,-n,25,false,expert,Valenzuela2023,- - ( - ) n ( - ),false,expert
+Yam-31_genitive-1-1,Yam-31_genitive-1,-na,25,false,expert,Valenzuela2023,- - ( - ) n ( a ),false,expert
+ProPaTa-32_imperative-1-1,ProPaTa-32_imperative-1,-gʷɨ,29,false,expert,Valenzuela2023,gʷ ɨ,false,expert
+ProPa-32_imperative-1-1,ProPa-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+Ksh-32_imperative-1-1,Ksh-32_imperative-1,-ɨ,29,false,expert,Valenzuela2023,- ɨ,false,expert
+SK-32_imperative-1-1,SK-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+Kap-32_imperative-1-1,Kap-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+Mar-32_imperative-1-1,Mar-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+Chak-32_imperative-1-1,Chak-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+Kax-32_imperative-1-1,Kax-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+Yam-32_imperative-1-1,Yam-32_imperative-1,-ɸɨ,29,false,expert,Valenzuela2023,ɸ ɨ,false,expert
+Shar-32_imperative-1-1,Shar-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+ProPaTa-33_goingdowndownward-1-1,ProPaTa-33_goingdowndownward-1,-butɨ,26,false,expert,Valenzuela2023,( - - ) b u t ɨ ( - - - ),false,expert
+ProPa-33_goingdowndownward-1-1,ProPa-33_goingdowndownward-1,-βut,26,false,expert,Valenzuela2023,( - - ) β u t - ( - - - ),false,expert
+Ksh-33_goingdowndownward-1-1,Ksh-33_goingdowndownward-1,-but,26,false,expert,Valenzuela2023,( - - ) b u t - ( - - - ),false,expert
+ProPaTa-34_docoming-1-1,ProPaTa-34_docoming-1,-bɨ,17,false,expert,Valenzuela2023,( - - ) b ɨ ( - - - - ),false,expert
+ProPa-34_docoming-1-1,ProPa-34_docoming-1,-βɨ,17,false,expert,Valenzuela2023,( - - ) β ɨ ( - - - - ),false,expert
+Ksh-34_docoming-1-1,Ksh-34_docoming-1,-bɨtsin,17,false,expert,Valenzuela2023,( - - ) b ɨ ( ts - i n ),false,expert
+SK-34_docoming-1-1,SK-34_docoming-1,-bɨiran,17,false,expert,Valenzuela2023,( - - ) b ɨ ( i r a n ),false,expert
+Chak-34_docoming-1-1,Chak-34_docoming-1,-bɨna,17,false,expert,Valenzuela2023,( - - ) b ɨ ( n - a - ),false,expert
+Yam-34_docoming-1-1,Yam-34_docoming-1,-ɸɨran,17,false,expert,Valenzuela2023,( - - ) ɸ ɨ ( - r a n ),false,expert
+ProPaTa-35_desiderative-1-1,ProPaTa-35_desiderative-1,-katsa,14,false,expert,Valenzuela2023,k a ts a ( - - - - ),false,expert
+ProPa-35_desiderative-1-1,ProPa-35_desiderative-1,-katsa,14,false,expert,Valenzuela2023,k a ts a ( - - - - ),false,expert
+Ksh-35_desiderative-1-1,Ksh-35_desiderative-1,-kas,14,false,expert,Valenzuela2023,k a s - ( - - - - ),false,expert
+SK-35_desiderative-1-1,SK-35_desiderative-1,-kas,14,false,expert,Valenzuela2023,k a s - ( - - - - ),false,expert
+Kap-35_desiderative-1-1,Kap-35_desiderative-1,-katsiʔ-,14,false,expert,Valenzuela2023,k a ts i ( ʔ - - - ),false,expert
+Mar-35_desiderative-1-1,Mar-35_desiderative-1,-katsi,14,false,expert,Valenzuela2023,k a ts i ( - - - - ),false,expert
+Chak-35_desiderative-1-1,Chak-35_desiderative-1,-kas-,14,false,expert,Valenzuela2023,k a s - ( - - - - ),false,expert
+Kax-35_desiderative-1-1,Kax-35_desiderative-1,-katsa,14,false,expert,Valenzuela2023,k a ts a ( - - - - ),false,expert
+Yam-35_desiderative-1-1,Yam-35_desiderative-1,kasma,14,false,expert,Valenzuela2023,k a s - ( - m a - ),false,expert
+Shar-35_desiderative-1-1,Shar-35_desiderative-1,-kas-mai,14,false,expert,Valenzuela2023,k a s - ( + m a i ),false,expert
+ProPaTa-36_negative-1-1,ProPaTa-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+ProPa-36_negative-1-1,ProPa-36_negative-1,-yama,36,false,expert,Valenzuela2023,( j a ) m a ( - ),false,expert
+Ksh-36_negative-1-1,Ksh-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+SK-36_negative-1-1,SK-36_negative-1,-yama,36,false,expert,Valenzuela2023,( j a ) m a ( - ),false,expert
+Kap-36_negative-1-1,Kap-36_negative-1,yama,36,false,expert,Valenzuela2023,( j a ) m a ( - ),false,expert
+Mar-36_negative-1-1,Mar-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Chak-36_negative-1-1,Chak-36_negative-1,-yama,36,false,expert,Valenzuela2023,( j a ) m a ( - ),false,expert
+Kax-36_negative-1-1,Kax-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Yam-36_negative-1-1,Yam-36_negative-1,maa,36,false,expert,Valenzuela2023,( - - ) m a ( a ),false,expert
+Shar-36_negative-1-1,Shar-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+ProPaTa-37_causative-1-1,ProPaTa-37_causative-1,-ma,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+ProPa-37_causative-1-1,ProPa-37_causative-1,-ma,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Ksh-37_causative-1-1,Ksh-37_causative-1,-mi-,7,false,expert,Valenzuela2023,m i ( - - ),false,expert
+SK-37_causative-1-1,SK-37_causative-1,-ma-,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Kap-37_causative-1-1,Kap-37_causative-1,-ma-,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Mar-37_causative-1-1,Mar-37_causative-1,-ma,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Chak-37_causative-1-1,Chak-37_causative-1,-ma,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Yam-37_causative-1-1,Yam-37_causative-1,-ma,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Shar-37_causative-1-1,Shar-37_causative-1,-ma-,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+ProPaTa-38_augmentative-1-1,ProPaTa-38_augmentative-1,-pa,3,false,expert,Valenzuela2023,( - - - ) p ( - ) a ( - ),false,expert
+ProPa-38_augmentative-1-1,ProPa-38_augmentative-1,pa,3,false,expert,Valenzuela2023,( - - - ) p ( - ) a ( - ),false,expert
+SK-38_augmentative-1-1,SK-38_augmentative-1,-n_ewá,3,false,expert,Valenzuela2023,( n + e ) w ( - ) !á/a ( - ),false,expert
+Kap-38_augmentative-1-1,Kap-38_augmentative-1,-ahhuan,3,false,expert,Valenzuela2023,( - a h ) h ( u ) a ( n ),false,expert
+Chak-38_augmentative-1-1,Chak-38_augmentative-1,-wa,3,false,expert,Valenzuela2023,( - - - ) w ( - ) a ( - ),false,expert
+Yam-38_augmentative-1-1,Yam-38_augmentative-1,-nfã,3,false,expert,Valenzuela2023,( n - - ) f ( - ) !ã/a ( - ),false,expert
+ProPaTa-39_dotrauxiliarytr-1-1,ProPaTa-39_dotrauxiliarytr-1,ʔak-,16,false,expert,Valenzuela2023,( ʔ ) a ( - ) k ( - ),false,expert
+ProPa-39_dotrauxiliarytr-1-1,ProPa-39_dotrauxiliarytr-1,ʔak-,16,false,expert,Valenzuela2023,( ʔ ) a ( - ) k ( - ),false,expert
+Ksh-39_dotrauxiliarytr-1-1,Ksh-39_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,( ʔ ) a ( - ) - ( - ),false,expert
+SK-39_dotrauxiliarytr-1-1,SK-39_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,( ʔ ) a ( - ) - ( - ),false,expert
+Kap-39_dotrauxiliarytr-1-1,Kap-39_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,( ʔ ) a ( - ) - ( - ),false,expert
+Mar-39_dotrauxiliarytr-1-1,Mar-39_dotrauxiliarytr-1,a,16,false,expert,Valenzuela2023,( - ) a ( - ) - ( - ),false,expert
+Chak-39_dotrauxiliarytr-1-1,Chak-39_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,( ʔ ) a ( - ) - ( - ),false,expert
+Kax-39_dotrauxiliarytr-1-1,Kax-39_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,( - ) a ( - ) - ( - ),false,expert
+Yam-39_dotrauxiliarytr-1-1,Yam-39_dotrauxiliarytr-1,ak-,16,false,expert,Valenzuela2023,( - ) a ( - ) k ( - ),false,expert
+Chan-39_dotrauxiliarytr-1-1,Chan-39_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,( - ) a ( - ) - ( - ),false,expert
+Shar-39_dotrauxiliarytr-1-1,Shar-39_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,( - ) a ( - ) - ( - ),false,expert
+ProPaTa-40_transitivizer-1-1,ProPaTa-40_transitivizer-1,-wa,41,false,expert,Valenzuela2023,w a,false,expert
+ProPa-40_transitivizer-1-1,ProPa-40_transitivizer-1,-wa,41,false,expert,Valenzuela2023,w a,false,expert
+Ksh-40_transitivizer-1-1,Ksh-40_transitivizer-1,-ɔ,41,false,expert,Valenzuela2023,- ɔ,false,expert
+Chak-40_transitivizer-1-1,Chak-40_transitivizer-1,-wa,41,false,expert,Valenzuela2023,w a,false,expert
+ProPaTa-41_detransitivizerreflexive-1-1,ProPaTa-41_detransitivizerreflexive-1,-ti,15,false,expert,Valenzuela2023,t i,false,expert
+ProPa-41_detransitivizerreflexive-1-1,ProPa-41_detransitivizerreflexive-1,-t,15,false,expert,Valenzuela2023,t -,false,expert
+Ksh-41_detransitivizerreflexive-1-1,Ksh-41_detransitivizerreflexive-1,-t,15,false,expert,Valenzuela2023,t -,false,expert
+SK-41_detransitivizerreflexive-1-1,SK-41_detransitivizerreflexive-1,-t,15,false,expert,Valenzuela2023,t -,false,expert
+ProPaTa-42_ergative-1-1,ProPaTa-42_ergative-1,-Na,18,false,expert,Valenzuela2023,!N/n a,false,expert
+ProPa-42_ergative-1-1,ProPa-42_ergative-1,-n,18,false,expert,Valenzuela2023,n -,false,expert
+Ksh-42_ergative-1-1,Ksh-42_ergative-1,=n,18,false,expert,Valenzuela2023,n -,false,expert
+SK-42_ergative-1-1,SK-42_ergative-1,=n,18,false,expert,Valenzuela2023,n -,false,expert
+Kap-42_ergative-1-1,Kap-42_ergative-1,-n,18,false,expert,Valenzuela2023,n -,false,expert
+ProPaTa-43_previouseventsamesubject-1-1,ProPaTa-43_previouseventsamesubject-1,-ṣu,38,false,expert,Valenzuela2023,( - ) s u ( - - ),false,expert
+ProPa-43_previouseventsamesubject-1-1,ProPa-43_previouseventsamesubject-1,-ʂo-n,38,false,expert,Valenzuela2023,( - ) ʂ o ( + n ),false,expert
+Ksh-43_previouseventsamesubject-1-1,Ksh-43_previouseventsamesubject-1,-ʂun,38,false,expert,Valenzuela2023,( - ) ʂ u ( - n ),false,expert
+SK-43_previouseventsamesubject-1-1,SK-43_previouseventsamesubject-1,-ʂon,38,false,expert,Valenzuela2023,( - ) ʂ o ( - n ),false,expert
+Chak-43_previouseventsamesubject-1-1,Chak-43_previouseventsamesubject-1,-ʂo,38,false,expert,Valenzuela2023,( - ) ʂ o ( - - ),false,expert
+Kax-43_previouseventsamesubject-1-1,Kax-43_previouseventsamesubject-1,-ʂu,38,false,expert,Valenzuela2023,( - ) ʂ u ( - - ),false,expert
+ProPaTa-44_comitativealongwith-1-1,ProPaTa-44_comitativealongwith-1,bɨta,8,false,expert,Valenzuela2023,b ɨ t a,false,expert
+ProPa-44_comitativealongwith-1-1,ProPa-44_comitativealongwith-1,βɨta,8,false,expert,Valenzuela2023,β ɨ t a,false,expert
+Ksh-44_comitativealongwith-1-1,Ksh-44_comitativealongwith-1,-bɨ,8,false,expert,Valenzuela2023,b ɨ - -,false,expert
+SK-44_comitativealongwith-1-1,SK-44_comitativealongwith-1,-bɨ,8,false,expert,Valenzuela2023,b ɨ - -,false,expert
+Chak-44_comitativealongwith-1-1,Chak-44_comitativealongwith-1,-bɨta,8,false,expert,Valenzuela2023,b ɨ t a,false,expert
+Yam-44_comitativealongwith-1-1,Yam-44_comitativealongwith-1,-fɨtã,8,false,expert,Valenzuela2023,f ɨ t !ã/a,false,expert
+Ama-27_1stsgi-1-1,Ama-27_1stsgi-1,ɨ,1,false,expert,Valenzuela2023,- ɨ ( - - - ),false,expert
+HanKax-27_1stsgi-1-1,HanKax-27_1stsgi-1,ɨ,1,false,expert,Valenzuela2023,- ɨ ( - - - ),false,expert
+Maw-27_1stsgi-1-1,Maw-27_1stsgi-1,ɨ,1,false,expert,Valenzuela2023,- ɨ ( - - - ),false,expert
+Ama-28_2ndsgyou-1-1,Ama-28_2ndsgyou-1,miya,2,false,expert,Valenzuela2023,m i ( j - a - - ),false,expert
+HanKax-28_2ndsgyou-1-1,HanKax-28_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+Maw-28_2ndsgyou-1-1,Maw-28_2ndsgyou-1,mia,2,false,expert,Valenzuela2023,m i ( - - a - - ),false,expert
+Kor-28_2ndsgyou-1-1,Kor-28_2ndsgyou-1,mi,2,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+Mat-28_2ndsgyou-1-1,Mat-28_2ndsgyou-1,mi_,2,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+MatMay-28_2ndsgyou-1-1,MatMay-28_2ndsgyou-1,mi_,2,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+MatMay-29_demonstrative-1-1,MatMay-29_demonstrative-1,uid,11,false,expert,Valenzuela2023,- u ( - - - i d ),false,expert
+MatMay-30_demonstrativeproximate-1-1,MatMay-30_demonstrativeproximate-1,nɨid,13,false,expert,Valenzuela2023,( - ) n ɨ ( - i d - ),false,expert
+Shan-32_imperative-1-1,Shan-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+Kat-32_imperative-1-1,Kat-32_imperative-1,wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+HanKax-32_imperative-1-1,HanKax-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+Maw-32_imperative-1-1,Maw-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+Yaw-32_imperative-1-1,Yaw-32_imperative-1,-wɨ,29,false,expert,Valenzuela2023,w ɨ,false,expert
+MatMay-33_goingdowndownward-1-1,MatMay-33_goingdowndownward-1,-bud,26,false,expert,Valenzuela2023,( - - ) b u d - ( - - - ),false,expert
+Ama-34_docoming-1-1,Ama-34_docoming-1,-vɨran,17,false,expert,Valenzuela2023,( - - ) b ɨ ( r a n - ),false,expert
+MatMay-34_docoming-1-1,MatMay-34_docoming-1,-bɨtsen,17,false,expert,Valenzuela2023,( - - ) b ɨ ( ts - e n ),false,expert
+Ama-35_desiderative-1-1,Ama-35_desiderative-1,-katsi,14,false,expert,Valenzuela2023,k a ts i ( - - - - ),false,expert
+MatMay-35_desiderative-1-1,MatMay-35_desiderative-1,-kas-,14,false,expert,Valenzuela2023,k a s - ( - - - - ),false,expert
+Shan-36_negative-1-1,Shan-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Kat-36_negative-1-1,Kat-36_negative-1,yama,36,false,expert,Valenzuela2023,( j a ) m a ( - ),false,expert
+Poy-36_negative-1-1,Poy-36_negative-1,ba,36,false,expert,Valenzuela2023,( - - ) b a ( - ),false,expert
+Ama-36_negative-1-1,Ama-36_negative-1,-yama,36,false,expert,Valenzuela2023,( j a ) m a ( - ),false,expert
+HanKax-36_negative-1-1,HanKax-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Maw-36_negative-1-1,Maw-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Yaw-36_negative-1-1,Yaw-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Kor-36_negative-1-1,Kor-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Mat-36_negative-1-1,Mat-36_negative-1,-ama,36,false,expert,Valenzuela2023,( - a ) m a ( - ),false,expert
+Shan-37_causative-1-1,Shan-37_causative-1,-ma,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Ama-37_causative-1-1,Ama-37_causative-1,-ma-,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+HanKax-37_causative-1-1,HanKax-37_causative-1,-ma-,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Maw-37_causative-1-1,Maw-37_causative-1,-ma,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Yaw-37_causative-1-1,Yaw-37_causative-1,-ma-,7,false,expert,Valenzuela2023,m a ( - - ),false,expert
+Kor-37_causative-1-1,Kor-37_causative-1,-me,7,false,expert,Valenzuela2023,m e ( - - ),false,expert
+Mat-37_causative-1-1,Mat-37_causative-1,-me,7,false,expert,Valenzuela2023,m e ( - - ),false,expert
+MatMay-37_causative-1-1,MatMay-37_causative-1,-me,7,false,expert,Valenzuela2023,m e ( - - ),false,expert
+MatMay-38_augmentative-1-1,MatMay-38_augmentative-1,-pa,3,false,expert,Valenzuela2023,( - - - ) p ( - ) a ( - ),false,expert
+Ama-39_dotrauxiliarytr-1-1,Ama-39_dotrauxiliarytr-1,ʔa-,16,false,expert,Valenzuela2023,( ʔ ) a ( - ) - ( - ),false,expert
+HanKax-39_dotrauxiliarytr-1-1,HanKax-39_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,( - ) a ( - ) - ( - ),false,expert
+Maw-39_dotrauxiliarytr-1-1,Maw-39_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,( - ) a ( - ) - ( - ),false,expert
+Kor-39_dotrauxiliarytr-1-1,Kor-39_dotrauxiliarytr-1,ak-,16,false,expert,Valenzuela2023,( - ) a ( - ) k ( - ),false,expert
+Mat-39_dotrauxiliarytr-1-1,Mat-39_dotrauxiliarytr-1,ak-,16,false,expert,Valenzuela2023,( - ) a ( - ) k ( - ),false,expert
+MatMay-39_dotrauxiliarytr-1-1,MatMay-39_dotrauxiliarytr-1,ak-,16,false,expert,Valenzuela2023,( - ) a ( - ) k ( - ),false,expert
+HanKax-40_transitivizer-1-1,HanKax-40_transitivizer-1,wa-,41,false,expert,Valenzuela2023,w a,false,expert
+MatMay-42_ergative-1-1,MatMay-42_ergative-1,-n,18,false,expert,Valenzuela2023,n -,false,expert
+Ama-43_previouseventsamesubject-1-1,Ama-43_previouseventsamesubject-1,=çon,38,false,expert,Valenzuela2023,( - ) ts o ( - n ),false,expert
+HanKax-43_previouseventsamesubject-1-1,HanKax-43_previouseventsamesubject-1,=ʂun,38,false,expert,Valenzuela2023,( - ) ʂ u ( - n ),false,expert
+Mat-43_previouseventsamesubject-1-1,Mat-43_previouseventsamesubject-1,=ʂun,38,false,expert,Valenzuela2023,( - ) ʂ u ( - n ),false,expert
+MatMay-43_previouseventsamesubject-1-1,MatMay-43_previouseventsamesubject-1,=ʂun,38,false,expert,Valenzuela2023,( - ) ʂ u ( - n ),false,expert
+Ama-44_comitativealongwith-1-1,Ama-44_comitativealongwith-1,-wɨ,8,false,expert,Valenzuela2023,w ɨ - -,false,expert
+HanKax-44_comitativealongwith-1-1,HanKax-44_comitativealongwith-1,-bɨ,8,false,expert,Valenzuela2023,b ɨ - -,false,expert
+Maw-44_comitativealongwith-1-1,Maw-44_comitativealongwith-1,-fɨta,8,false,expert,Valenzuela2023,f ɨ t a,false,expert
+MatMay-44_comitativealongwith-1-1,MatMay-44_comitativealongwith-1,-bid_,8,false,expert,Valenzuela2023,b i d -,false,expert
+ProTa-27_1stsgi-1-1,ProTa-27_1stsgi-1,e,1,false,expert,Valenzuela2023,- e ( - - - ),false,expert
+Tac-27_1stsgi-1-1,Tac-27_1stsgi-1,e-ma,1,false,expert,Valenzuela2023,- e ( + m a ),false,expert
+ReyMar-27_1stsgi-1-1,ReyMar-27_1stsgi-1,e-me,1,false,expert,Valenzuela2023,- e ( + m e ),false,expert
+Aro-27_1stsgi-1-1,Aro-27_1stsgi-1,ema,1,false,expert,Valenzuela2023,- e ( - m a ),false,expert
+Cav-27_1stsgi-1-1,Cav-27_1stsgi-1,e-ra,1,false,expert,Valenzuela2023,- e ( + r a ),false,expert
+Ese-27_1stsgi-1-1,Ese-27_1stsgi-1,ea,1,false,expert,Valenzuela2023,- e ( - - a ),false,expert
+ProTa-28_2ndsgyou-1-1,ProTa-28_2ndsgyou-1,mi,2,false,expert,Valenzuela2023,m i ( - - - - - ),false,expert
+Tac-28_2ndsgyou-1-1,Tac-28_2ndsgyou-1,mi-ke,2,false,expert,Valenzuela2023,m i ( + k e - - ),false,expert
+ReyMar-28_2ndsgyou-1-1,ReyMar-28_2ndsgyou-1,mibe,2,false,expert,Valenzuela2023,m i ( b - e - - ),false,expert
+Aro-28_2ndsgyou-1-1,Aro-28_2ndsgyou-1,mitya,2,false,expert,Valenzuela2023,m i ( t j a - - ),false,expert
+Cav-28_2ndsgyou-1-1,Cav-28_2ndsgyou-1,mi-kwana,2,false,expert,Valenzuela2023,m i ( + kʷ a n a ),false,expert
+Ese-28_2ndsgyou-1-1,Ese-28_2ndsgyou-1,mi-a,2,false,expert,Valenzuela2023,m i ( + - a - - ),false,expert
+ProTa-29_demonstrative-1-1,ProTa-29_demonstrative-1,u-,11,false,expert,Valenzuela2023,- u ( - - - - - ),false,expert
+Tac-29_demonstrative-1-1,Tac-29_demonstrative-1,u-ha,11,false,expert,Valenzuela2023,- u ( + h a - - ),false,expert
+Cav-29_demonstrative-1-1,Cav-29_demonstrative-1,o-ho,11,false,expert,Valenzuela2023,- o ( + h o - - ),false,expert
+Ese-29_demonstrative-1-1,Ese-29_demonstrative-1,o-haya,11,false,expert,Valenzuela2023,- o ( + h a j a ),false,expert
+ProTa-30_demonstrativeproximate-1-1,ProTa-30_demonstrativeproximate-1,ree-,13,false,expert,Valenzuela2023,( - ) r e ( e - - - ),false,expert
+Tac-30_demonstrativeproximate-1-1,Tac-30_demonstrativeproximate-1,ye,13,false,expert,Valenzuela2023,( - ) j e ( - - - - ),false,expert
+Cav-30_demonstrativeproximate-1-1,Cav-30_demonstrativeproximate-1,reeke,13,false,expert,Valenzuela2023,( - ) r e ( e k e - ),false,expert
+Ese-30_demonstrativeproximate-1-1,Ese-30_demonstrativeproximate-1,hikio,13,false,expert,Valenzuela2023,( - ) h i ( - k i o ),false,expert
+ProTa-31_genitive-1-1,ProTa-31_genitive-1,-kʷe,25,false,expert,Valenzuela2023,kʷ e ( - ) - ( - ),false,expert
+Tac-31_genitive-1-1,Tac-31_genitive-1,-ke,25,false,expert,Valenzuela2023,k e ( - ) - ( - ),false,expert
+ReyMar-31_genitive-1-1,ReyMar-31_genitive-1,ki-,25,false,expert,Valenzuela2023,k i ( - ) - ( - ),false,expert
+Cav-31_genitive-1-1,Cav-31_genitive-1,-kwe,25,false,expert,Valenzuela2023,kʷ e ( - ) - ( - ),false,expert
+Ese-31_genitive-1-1,Ese-31_genitive-1,-kwe,25,false,expert,Valenzuela2023,kʷ e ( - ) - ( - ),false,expert
+ProTa-32_imperative-1-1,ProTa-32_imperative-1,-kʷe,29,false,expert,Valenzuela2023,kʷ e,false,expert
+Tac-32_imperative-1-1,Tac-32_imperative-1,-ke,29,false,expert,Valenzuela2023,k e,false,expert
+Cav-32_imperative-1-1,Cav-32_imperative-1,-kwe,29,false,expert,Valenzuela2023,kʷ e,false,expert
+ProTa-33_goingdowndownward-1-1,ProTa-33_goingdowndownward-1,-bu,26,false,expert,Valenzuela2023,( - - ) b u t e ( - - - ),false,expert
+Tac-33_goingdowndownward-1-1,Tac-33_goingdowndownward-1,e-bute-hi,26,false,expert,Valenzuela2023,( e + ) b u t e ( + h i ),false,expert
+ReyMar-33_goingdowndownward-1-1,ReyMar-33_goingdowndownward-1,bute,26,false,expert,Valenzuela2023,( - - ) b u t e ( - - - ),false,expert
+Aro-33_goingdowndownward-1-1,Aro-33_goingdowndownward-1,-bote,26,false,expert,Valenzuela2023,( - - ) b o t e ( - - - ),false,expert
+Cav-33_goingdowndownward-1-1,Cav-33_goingdowndownward-1,e-bote,26,false,expert,Valenzuela2023,( e + ) b o t e ( - - - ),false,expert
+Ese-33_goingdowndownward-1-1,Ese-33_goingdowndownward-1,'oke,26,false,expert,Valenzuela2023,( - - ) - o k e ( - - - ),false,expert
+ProTa-34_docoming-1-1,ProTa-34_docoming-1,-be,17,false,expert,Valenzuela2023,( - - ) b e ( - - - - ),false,expert
+Tac-34_docoming-1-1,Tac-34_docoming-1,-be,17,false,expert,Valenzuela2023,( - - ) b e ( - - - - ),false,expert
+ReyMar-34_docoming-1-1,ReyMar-34_docoming-1,-bebe,17,false,expert,Valenzuela2023,( - - ) b e ( b - e - ),false,expert
+Cav-34_docoming-1-1,Cav-34_docoming-1,-be,17,false,expert,Valenzuela2023,( - - ) b e ( - - - - ),false,expert
+Ese-34_docoming-1-1,Ese-34_docoming-1,-jebe,17,false,expert,Valenzuela2023,( j e ) b e ( - - - - ),false,expert
+ProTa-35_desiderative-1-1,ProTa-35_desiderative-1,-katsa,14,false,expert,Valenzuela2023,k a ts a ( - - - - ),false,expert
+Tac-35_desiderative-1-1,Tac-35_desiderative-1,-tsa,14,false,expert,Valenzuela2023,- - ts a ( - - - - ),false,expert
+Aro-35_desiderative-1-1,Aro-35_desiderative-1,-hae,14,false,expert,Valenzuela2023,h a - e ( - - - - ),false,expert
+Cav-35_desiderative-1-1,Cav-35_desiderative-1,-kara,14,false,expert,Valenzuela2023,k a r a ( - - - - ),false,expert
+Ese-35_desiderative-1-1,Ese-35_desiderative-1,-sa,14,false,expert,Valenzuela2023,- - s a ( - - - - ),false,expert
+ProTa-36_negative-1-1,ProTa-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Tac-36_negative-1-1,Tac-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Cav-36_negative-1-1,Cav-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+Ese-36_negative-1-1,Ese-36_negative-1,-ma,36,false,expert,Valenzuela2023,( - - ) m a ( - ),false,expert
+ProTa-37_causative-1-1,ProTa-37_causative-1,-mere,7,false,expert,Valenzuela2023,m e ( r e ),false,expert
+Tac-37_causative-1-1,Tac-37_causative-1,-me,7,false,expert,Valenzuela2023,m e ( - - ),false,expert
+Aro-37_causative-1-1,Aro-37_causative-1,-me,7,false,expert,Valenzuela2023,m e ( - - ),false,expert
+Cav-37_causative-1-1,Cav-37_causative-1,-mere,7,false,expert,Valenzuela2023,m e ( r e ),false,expert
+Ese-37_causative-1-1,Ese-37_causative-1,-mee,7,false,expert,Valenzuela2023,m e ( - e ),false,expert
+ProTa-38_augmentative-1-1,ProTa-38_augmentative-1,-pa,3,false,expert,Valenzuela2023,( - - - ) p ( - ) a ( - ),false,expert
+Tac-38_augmentative-1-1,Tac-38_augmentative-1,-pa,3,false,expert,Valenzuela2023,( - - - ) p ( - ) a ( - ),false,expert
+Cav-38_augmentative-1-1,Cav-38_augmentative-1,-pa,3,false,expert,Valenzuela2023,( - - - ) p ( - ) a ( - ),false,expert
+ProTa-39_dotrauxiliarytr-1-1,ProTa-39_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,( - ) a ( - ) - ( - ),false,expert
+Tac-39_dotrauxiliarytr-1-1,Tac-39_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,( - ) a ( - ) - ( - ),false,expert
+Cav-39_dotrauxiliarytr-1-1,Cav-39_dotrauxiliarytr-1,a-,16,false,expert,Valenzuela2023,( - ) a ( - ) - ( - ),false,expert
+Ese-39_dotrauxiliarytr-1-1,Ese-39_dotrauxiliarytr-1,a-ka-,16,false,expert,Valenzuela2023,( - ) a ( + ) k ( a ),false,expert
+ProTa-40_transitivizer-1-1,ProTa-40_transitivizer-1,-a,41,false,expert,Valenzuela2023,- a,false,expert
+Tac-40_transitivizer-1-1,Tac-40_transitivizer-1,-a,41,false,expert,Valenzuela2023,- a,false,expert
+ReyMar-40_transitivizer-1-1,ReyMar-40_transitivizer-1,-a,41,false,expert,Valenzuela2023,- a,false,expert
+Cav-40_transitivizer-1-1,Cav-40_transitivizer-1,-a,41,false,expert,Valenzuela2023,- a,false,expert
+Ese-40_transitivizer-1-1,Ese-40_transitivizer-1,-a,41,false,expert,Valenzuela2023,- a,false,expert
+ProTa-41_detransitivizerreflexive-1-1,ProTa-41_detransitivizerreflexive-1,-ti,15,false,expert,Valenzuela2023,t i,false,expert
+Tac-41_detransitivizerreflexive-1-1,Tac-41_detransitivizerreflexive-1,-ti,15,false,expert,Valenzuela2023,t i,false,expert
+Cav-41_detransitivizerreflexive-1-1,Cav-41_detransitivizerreflexive-1,-ti,15,false,expert,Valenzuela2023,t i,false,expert
+Ese-41_detransitivizerreflexive-1-1,Ese-41_detransitivizerreflexive-1,-ki,15,false,expert,Valenzuela2023,k i,false,expert
+ProTa-42_ergative-1-1,ProTa-42_ergative-1,-ra,18,false,expert,Valenzuela2023,r a,false,expert
+Tac-42_ergative-1-1,Tac-42_ergative-1,-a,18,false,expert,Valenzuela2023,- a,false,expert
+Cav-42_ergative-1-1,Cav-42_ergative-1,-ra,18,false,expert,Valenzuela2023,r a,false,expert
+Ese-42_ergative-1-1,Ese-42_ergative-1,-a,18,false,expert,Valenzuela2023,- a,false,expert
+ProTa-43_previouseventsamesubject-1-1,ProTa-43_previouseventsamesubject-1,-ṭṣu,38,false,expert,Valenzuela2023,( - ) ts u ( - - ),false,expert
+Tac-43_previouseventsamesubject-1-1,Tac-43_previouseventsamesubject-1,-su,38,false,expert,Valenzuela2023,( - ) s u ( - - ),false,expert
+Aro-43_previouseventsamesubject-1-1,Aro-43_previouseventsamesubject-1,-tso,38,false,expert,Valenzuela2023,( - ) ts o ( - - ),false,expert
+Cav-43_previouseventsamesubject-1-1,Cav-43_previouseventsamesubject-1,-atsu,38,false,expert,Valenzuela2023,( a ) ts u ( - - ),false,expert
+ProTa-44_comitativealongwith-1-1,ProTa-44_comitativealongwith-1,beta,8,false,expert,Valenzuela2023,b e t a,false,expert
+Tac-44_comitativealongwith-1-1,Tac-44_comitativealongwith-1,beta,8,false,expert,Valenzuela2023,b e t a,false,expert
+ReyMar-44_comitativealongwith-1-1,ReyMar-44_comitativealongwith-1,mbeta,8,false,expert,Valenzuela2023,m.b e t a,false,expert
+Aro-44_comitativealongwith-1-1,Aro-44_comitativealongwith-1,beta,8,false,expert,Valenzuela2023,b e t a,false,expert
+Cav-44_comitativealongwith-1-1,Cav-44_comitativealongwith-1,beta,8,false,expert,Valenzuela2023,b e t a,false,expert
+Ese-44_comitativealongwith-1-1,Ese-44_comitativealongwith-1,beka,8,false,expert,Valenzuela2023,b e k a,false,expert

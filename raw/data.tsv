@@ -1,857 +1,857 @@
-TABLE	ID	ROW_IN_SOURCE	PROTO_CONCEPT	CONCEPT	NUMBER_SHELL	PROTO_FORM	DOCULECT	VALUE	NOTE
-Reconstruction	R1	1	Tree	Tree	47	**hegʷi	ProPaTa	hegʷi	
-Pano_Lexical_List	A1	1	Tree	Tree	47	**hegʷi	ProPa	hiwi	
-Pano_Lexical_List	A2	1	Tree	Tree	47	**hegʷi	Ksh	i	
-Pano_Lexical_List	A3	1	Tree	Tree	47	**hegʷi	SK	hiwi	
-Pano_Lexical_List	A4	1	Tree	Tree	47	**hegʷi	Kap	hiwi	
-Pano_Lexical_List	A5	1	Tree	Tree	47	**hegʷi	Mar	iwi	
-Pano_Lexical_List	A6	1	Tree	Tree	47	**hegʷi	Chak	hiwi	
-Pano_Lexical_List	A7	1	Tree	Tree	47	**hegʷi	Kax	hiwi	
-Pano_Lexical_List	A8	1	Tree	Tree	47	**hegʷi	Yam	iɸi	
-Pano_Lexical_List	A9	1	Tree	Tree	47	**hegʷi	Shar	iɸi	
-Reconstruction	R2	2	Tooth	Tooth	96	**ʂɨ-	ProPaTa	ʂɨ-	
-Pano_Lexical_List	A10	2	Tooth	Tooth	96	**ʂɨ-	ProPa	ʂɨ-	
-Pano_Lexical_List	A11	2	Tooth	Tooth	96	**ʂɨ-	Ksh	ʂɨta	
-Pano_Lexical_List	A12	2	Tooth	Tooth	96	**ʂɨ-	SK	ʂɨta	
-Pano_Lexical_List	A13	2	Tooth	Tooth	96	**ʂɨ-	Kap	ʂɨta	
-Pano_Lexical_List	A14	2	Tooth	Tooth	96	**ʂɨ-	Mar	ʃɨta	
-Pano_Lexical_List	A15	2	Tooth	Tooth	96	**ʂɨ-	Chak	ʂɨta	
-Pano_Lexical_List	A16	2	Tooth	Tooth	96	**ʂɨ-	Kax	ʂɨta	
-Pano_Lexical_List	A17	2	Tooth	Tooth	96	**ʂɨ-	Shar	ʂɨta	
-Reconstruction	R3	3	Two	Two	24	**bɨta	ProPaTa	bɨta	
-Pano_Lexical_List	A18	3	Two	Two	24	**bɨta	ProPa	ra-βɨta	
-Pano_Lexical_List	A19	3	Two	Two	24	**bɨta	Ksh	raβɨ	
-Pano_Lexical_List	A20	3	Two	Two	24	**bɨta	SK	raβɨ	
-Pano_Lexical_List	A21	3	Two	Two	24	**bɨta	Kap	raβɨ	
-Pano_Lexical_List	A22	3	Two	Two	24	**bɨta	Mar	ravɨvakĩ	
-Pano_Lexical_List	A23	3	Two	Two	24	**bɨta	Chak	raβɨ	
-Pano_Lexical_List	A24	3	Two	Two	24	**bɨta	Kax	tʃabɨta	
-Pano_Lexical_List	A25	3	Two	Two	24	**bɨta	Yam	raɸɨ	
-Pano_Lexical_List	A26	3	Two	Two	24	**bɨta	Chan	raɸɨ	
-Pano_Lexical_List	A27	3	Two	Two	24	**bɨta	Shar	raɸɨ	
-Reconstruction	R4	4	Liver	Liver	104	takʷa	ProPaTa	takʷa	
-Pano_Lexical_List	A28	4	Liver	Liver	104	**takʷa	ProPa	takʷa	
-Pano_Lexical_List	A29	4	Liver	Liver	104	**takʷa	Ksh	takʷa	
-Pano_Lexical_List	A30	4	Liver	Liver	104	**takʷa	SK	taka	
-Pano_Lexical_List	A31	4	Liver	Liver	104	**takʷa	Kap	taka	
-Pano_Lexical_List	A32	4	Liver	Liver	104	**takʷa	Mar	taka	
-Pano_Lexical_List	A33	4	Liver	Liver	104	**takʷa	Chak	taka	
-Pano_Lexical_List	A34	4	Liver	Liver	104	**takʷa	Kax	taka	
-Pano_Lexical_List	A35	4	Liver	Liver	104	**takʷa	Chan	taka	
-Pano_Lexical_List	A36	4	Liver	Liver	104	**takʷa	Shar	taka	
-Reconstruction	R5	5	Leaf	Leaf		**pɨʔi	ProPaTa	pɨʔi	
-Pano_Lexical_List	A37	5	Leaf	Leaf		**pɨʔi	ProPa	pɨʔi	
-Pano_Lexical_List	A38	5	Leaf	Leaf		**pɨʔi	Ksh	pɨi	
-Pano_Lexical_List	A39	5	Leaf	Leaf		**pɨʔi	SK	pɨi	
-Pano_Lexical_List	A40	5	Leaf	Leaf		**pɨʔi	Kap	pɨʔi	
-Pano_Lexical_List	A41	5	Leaf	Leaf		**pɨʔi	Mar	pɨi	
-Pano_Lexical_List	A42	5	Leaf	Leaf		**pɨʔi	Chak	pɨʔi	
-Pano_Lexical_List	A43	5	Leaf	Leaf		**pɨʔi	Kax	pɨʔi	
-Pano_Lexical_List	A44	5	Leaf	Leaf		**pɨʔi	Yam	pɨi	
-Pano_Lexical_List	A45	5	Leaf	Leaf		**pɨʔi	Chan	pɨi	
-Pano_Lexical_List	A46	5	Leaf	Leaf		**pɨʔi	Shar	pɨi	
-Reconstruction	R6	6	Bone	Bone	93	**ʂau	ProPaTa	ʂau	
-Pano_Lexical_List	A47	6	Bone	Bone	93	**ʂau	ProPa	ʂao	
-Pano_Lexical_List	A48	6	Bone	Bone	93	**ʂau	Ksh	ʂɔː	
-Pano_Lexical_List	A49	6	Bone	Bone	93	**ʂau	SK	ʂao	
-Pano_Lexical_List	A50	6	Bone	Bone	93	**ʂau	Kap	ʂao	
-Pano_Lexical_List	A51	6	Bone	Bone	93	**ʂau	Mar	ʃau	
-Pano_Lexical_List	A52	6	Bone	Bone	93	**ʂau	Chak	ʂao	
-Pano_Lexical_List	A53	6	Bone	Bone	93	**ʂau	Kax	ʂahʷu	
-Pano_Lexical_List	A54	6	Bone	Bone	93	**ʂau	Yam	ʂao	
-Pano_Lexical_List	A55	6	Bone	Bone	93	**ʂau	Chan	ʃao,ʂao	
-Pano_Lexical_List	A56	6	Bone	Bone	93	**ʂau	Shar	ʂao	
-Reconstruction	R7	7	Tongue	Tongue	46	**hana	ProPaTa	hana	
-Pano_Lexical_List	A57	7	Tongue	Tongue	46	**hana	ProPa	hana	
-Pano_Lexical_List	A58	7	Tongue	Tongue	46	**hana	Ksh	ana	
-Pano_Lexical_List	A59	7	Tongue	Tongue	46	**hana	SK	hana	
-Pano_Lexical_List	A60	7	Tongue	Tongue	46	**hana	Kap	hana	
-Pano_Lexical_List	A61	7	Tongue	Tongue	46	**hana	Mar	ana	
-Pano_Lexical_List	A62	7	Tongue	Tongue	46	**hana	Chak	hana	
-Pano_Lexical_List	A63	7	Tongue	Tongue	46	**hana	Kax	hana	
-Pano_Lexical_List	A64	7	Tongue	Tongue	46	**hana	Yam	ana	
-Pano_Lexical_List	A65	7	Tongue	Tongue	46	**hana	Chan	ada	
-Pano_Lexical_List	A66	7	Tongue	Tongue	46	**hana	Shar	ana	
-Reconstruction	R8	8	Hand	Hand	70	**mɨ-	ProPaTa	mɨ-	
-Pano_Lexical_List	A67	8	Hand	Hand	70	**mɨ-	ProPa	mɨ-	
-Pano_Lexical_List	A68	8	Hand	Hand	70	**mɨ-	Ksh	mɨkɨ̃	
-Pano_Lexical_List	A69	8	Hand	Hand	70	**mɨ-	SK	mɨkɨ̃	
-Pano_Lexical_List	A70	8	Hand	Hand	70	**mɨ-	Kap	mɨkɨn	
-Pano_Lexical_List	A71	8	Hand	Hand	70	**mɨ-	Chak	mɨkɨnɨ	
-Pano_Lexical_List	A72	8	Hand	Hand	70	**mɨ-	Kax	mɨkɨlɨ	
-Pano_Lexical_List	A73	8	Hand	Hand	70	**mɨ-	Yam	mɨkɨ̃	
-Pano_Lexical_List	A74	8	Hand	Hand	70	**mɨ-	Chan	mɨkɨ	
-Pano_Lexical_List	A75	8	Hand	Hand	70	**mɨ-	Shar	mɨkɨ	
-Reconstruction	R9	9	Night	Night	71	**mɨta	ProPaTa	mɨta	
-Pano_Lexical_List	A76	9	Night	Night	71	**mɨta	ProPa	yamɨtV	
-Pano_Lexical_List	A77	9	Night	Night	71	**mɨta	Ksh	imɨ	
-Pano_Lexical_List	A78	9	Night	Night	71	**mɨta	SK	yamɨ	
-Pano_Lexical_List	A79	9	Night	Night	71	**mɨta	Kap	yamɨ	
-Pano_Lexical_List	A80	9	Night	Night	71	**mɨta	Mar	yamɨ	
-Pano_Lexical_List	A81	9	Night	Night	71	**mɨta	Kax	yamɨta	
-Pano_Lexical_List	A82	9	Night	Night	71	**mɨta	Yam	yamɨa	
-Pano_Lexical_List	A83	9	Night	Night	71	**mɨta	Chan	yabɨ	
-Pano_Lexical_List	A84	9	Night	Night	71	**mɨta	Shar	yamɨ	
-Reconstruction	R10	10	Skin	Skin	22	**bitsi	ProPaTa	bitsi	
-Pano_Lexical_List	A85	10	Skin	Skin	22	**bitsi	ProPa	βitsi	
-Pano_Lexical_List	A86	10	Skin	Skin	22	**bitsi	Ksh	βitʃi	
-Pano_Lexical_List	A87	10	Skin	Skin	22	**bitsi	SK	βitʃi	
-Pano_Lexical_List	A88	10	Skin	Skin	22	**bitsi	Kap	βitʃi	
-Pano_Lexical_List	A89	10	Skin	Skin	22	**bitsi	Mar	vitʃi	
-Pano_Lexical_List	A90	10	Skin	Skin	22	**bitsi	Chak	βitʃi	
-Pano_Lexical_List	A91	10	Skin	Skin	22	**bitsi	Kax	bitʃi	
-Pano_Lexical_List	A92	10	Skin	Skin	22	**bitsi	Chan	ɸitʃi	
-Pano_Lexical_List	A93	10	Skin	Skin	22	**bitsi	Shar	ɸitʃi	
-Reconstruction	R11	11	Fire	Fire		**tsiʔi	ProPaTa	tsiʔi	
-Pano_Lexical_List	A94	11	Fire	Fire		**tsiʔi	ProPa	tsiʔi	
-Pano_Lexical_List	A95	11	Fire	Fire		**tsiʔi	Ksh	tʃii	
-Pano_Lexical_List	A96	11	Fire	Fire		**tsiʔi	SK	tʃii	
-Pano_Lexical_List	A97	11	Fire	Fire		**tsiʔi	Kap	tʃiʔi	
-Pano_Lexical_List	A99	11	Fire	Fire		**tsiʔi	Mar	tʃi	
-Pano_Lexical_List	A100	11	Fire	Fire		**tsiʔi	Chak	tʃiʔi	
-Pano_Lexical_List	A101	11	Fire	Fire		**tsiʔi	Kax	tʃiʔi	
-Pano_Lexical_List	A102	11	Fire	Fire		**tsiʔi	Yam	tʃii	
-Pano_Lexical_List	A103	11	Fire	Fire		**tsiʔi	Chan	tʃii	
-Pano_Lexical_List	A104	11	Fire	Fire		**tsiʔi	Shar	tʃii	
-Reconstruction	R12	12	Knee	Knee	37	**da-n	ProPaTa	da-n	
-Pano_Lexical_List	A105	12	Knee	Knee	37	**da-n	ProPa	rã-	
-Pano_Lexical_List	A106	12	Knee	Knee	37	**da-n	Ksh	rãβoʂo	
-Pano_Lexical_List	A107	12	Knee	Knee	37	**da-n	SK	rãβoʂo	
-Pano_Lexical_List	A108	12	Knee	Knee	37	**da-n	Kap	rãβoʂo	
-Pano_Lexical_List	A109	12	Knee	Knee	37	**da-n	Mar	ravuʃɨ	
-Pano_Lexical_List	A110	12	Knee	Knee	37	**da-n	Kax	tʃãburu	
-Reconstruction	R13	13	Blood	Blood	48	**hemi	ProPaTa	hemi	
-Pano_Lexical_List	A111	13	Blood	Blood	48	**hemi	ProPa	himi	
-Pano_Lexical_List	A112	13	Blood	Blood	48	**hemi	Ksh	imi	
-Pano_Lexical_List	A113	13	Blood	Blood	48	**hemi	SK	himi	
-Pano_Lexical_List	A114	13	Blood	Blood	48	**hemi	Kap	himi	
-Pano_Lexical_List	A115	13	Blood	Blood	48	**hemi	Mar	imbi	/b/ as superscript bb
-Pano_Lexical_List	A116	13	Blood	Blood	48	**hemi	Chak	himi	
-Pano_Lexical_List	A117	13	Blood	Blood	48	**hemi	Kax	himi	
-Pano_Lexical_List	A118	13	Blood	Blood	48	**hemi	Yam	im	
-Pano_Lexical_List	A119	13	Blood	Blood	48	**hemi	Chan	ibi	
-Pano_Lexical_List	A120	13	Blood	Blood	48	**hemi	Shar	imi	
-Reconstruction	R14	14	Breast	Breast		**aṣu	ProPaTa	aṣu	
-Pano_Lexical_List	A121	14	Breast	Breast		**aṣu	ProPa	ʂo	
-Pano_Lexical_List	A122	14	Breast	Breast		**aṣu	Ksh	ʂoma	
-Pano_Lexical_List	A123	14	Breast	Breast		**aṣu	SK	ʂoma	
-Pano_Lexical_List	A124	14	Breast	Breast		**aṣu	Kap	ʂoma	
-Pano_Lexical_List	A125	14	Breast	Breast		**aṣu	Mar	ʂoma	
-Pano_Lexical_List	A126	14	Breast	Breast		**aṣu	Chak	ʂoma	
-Pano_Lexical_List	A127	14	Breast	Breast		**aṣu	Chan	ʂoma	
-Pano_Lexical_List	A128	14	Breast	Breast		**aṣu	Shar	ʂoma	
-Reconstruction	R15	15	Sun	Sun	16	**badi	ProPaTa	badi	
-Pano_Lexical_List	A129	15	Sun	Sun	16	**badi	ProPa	βari	
-Pano_Lexical_List	A130	15	Sun	Sun	16	**badi	Ksh	βaɾi	
-Pano_Lexical_List	A131	15	Sun	Sun	16	**badi	SK	βaɾi	
-Pano_Lexical_List	A132	15	Sun	Sun	16	**badi	Kap	βaɾi	
-Pano_Lexical_List	A133	15	Sun	Sun	16	**badi	Mar	vaɾi	
-Pano_Lexical_List	A134	15	Sun	Sun	16	**badi	Chak	βaɾi	
-Pano_Lexical_List	A135	15	Sun	Sun	16	**badi	Kax	βatʃi	
-Pano_Lexical_List	A136	15	Sun	Sun	16	**badi	Chan	ɸaɾi	
-Pano_Lexical_List	A137	15	Sun	Sun	16	**badi	Shar	ɸari	
-Reconstruction	R16	16	You	You	72	**mi	ProPaTa	mi	
-Pano_Lexical_List	A138	16	You	You	72	**mi	ProPa	mi	
-Pano_Lexical_List	A139	16	You	You	72	**mi	Ksh	miː	
-Pano_Lexical_List	A140	16	You	You	72	**mi	SK	mia	
-Pano_Lexical_List	A141	16	You	You	72	**mi	Kap	mia	
-Pano_Lexical_List	A142	16	You	You	72	**mi	Chak	mia	object form
-Reconstruction	R17	17	Come	Come	24	**bɨ-	ProPaTa	bɨ-	
-Pano_Lexical_List	A143	17	Come	Come	24	**bɨ-	ProPa	βɨ-	'come,bring'
-Pano_Lexical_List	A144	17	Come	Come	24	**bɨ-	Ksh	βɨ-	
-Pano_Lexical_List	A145	17	Come	Come	24	**bɨ-	SK	βɨ-	
-Pano_Lexical_List	A146	17	Come	Come	24	**bɨ-	Kap	βɨ-	
-Pano_Lexical_List	A147	17	Come	Come	24	**bɨ-	Chak	βɨ-	
-Pano_Lexical_List	A148	17	Come	Come	24	**bɨ-	Kax	bɨ-	
-Pano_Lexical_List	A149	17	Come	Come	24	**bɨ-	Yam	ɸɨ-	
-Pano_Lexical_List	A150	17	Come	Come	24	**bɨ-	Chan	ɸɨ-	
-Pano_Lexical_List	A151	17	Come	Come	24	**bɨ-	Shar	ɸɨ-	
-Reconstruction	R18	18	I	I	11	**ʔɨ	ProPaTa	ʔɨ	
-Pano_Lexical_List	A152	18	I	I	11	**ʔɨ	ProPa	ʔɨ	
-Pano_Lexical_List	A153	18	I	I	11	**ʔɨ	Ksh	ʔɨ	
-Pano_Lexical_List	A154	18	I	I	11	**ʔɨ	SK	ʔɨ	
-Pano_Lexical_List	A155	18	I	I	11	**ʔɨ	Kap	ʔɨ	
-Pano_Lexical_List	A156	18	I	I	11	**ʔɨ	Chak	ɨ	
-Reconstruction	R19		Flesh	Flesh	78	**Nami	ProPaTa	Nami	
-Pano_Lexical_List	A157		Flesh	Flesh	78	**Nami	ProPa	nami	Additional cognates refering to body parts
-Pano_Lexical_List	A158		Flesh	Flesh	78	**Nami	Ksh	nami	
-Pano_Lexical_List	A159		Flesh	Flesh	78	**Nami	SK	nami	
-Pano_Lexical_List	A160		Flesh	Flesh	78	**Nami	Kap	nami	
-Pano_Lexical_List	A161		Flesh	Flesh	78	**Nami	Mar	nami	
-Pano_Lexical_List	A162		Flesh	Flesh	78	**Nami	Chak	nami	
-Pano_Lexical_List	A163		Flesh	Flesh	78	**Nami	Kax	lami	
-Pano_Lexical_List	A164		Flesh	Flesh	78	**Nami	Yam	nami,nãmi	
-Pano_Lexical_List	A165		Flesh	Flesh	78	**Nami	Chan	nabi,dami	
-Pano_Lexical_List	A166		Flesh	Flesh	78	**Nami	Shar	nami,namin	
-Reconstruction	R20		Fat	Fat	99	**ʂɨNi	ProPaTa	ʂɨNi	
-Pano_Lexical_List	A167		Fat	Fat	99	**ʂɨNi	ProPa	ʂɨni	
-Pano_Lexical_List	A168		Fat	Fat	99	**ʂɨNi	Ksh	ʂɨni	
-Pano_Lexical_List	A169		Fat	Fat	99	**ʂɨNi	SK	ʂɨni	
-Pano_Lexical_List	A170		Fat	Fat	99	**ʂɨNi	Kap	ʂɨni	
-Pano_Lexical_List	A171		Fat	Fat	99	**ʂɨNi	Mar	ʂɨni	
-Pano_Lexical_List	A172		Fat	Fat	99	**ʂɨNi	Chak	ʂɨni	
-Pano_Lexical_List	A173		Fat	Fat	99	**ʂɨNi	Yam	ʂɨnĩ	
-Pano_Lexical_List	A174		Fat	Fat	99	**ʂɨNi	Chan	ʃɨdi,ʃidi,ʂidi	
-Pano_Lexical_List	A175		Fat	Fat	99	**ʂɨNi	Shar	ʂɨni	
-Reconstruction	R21		Fingernail	Fingernail		**mɨ-tsizi	ProPaTa	mɨ-tsizi	
-Pano_Lexical_List	A176		Fingernail	Fingernail		**mɨ-tsizi	ProPa	mɨ̃-tsis[i]	
-Pano_Lexical_List	A177		Fingernail	Fingernail		**mɨ-tsizi	Ksh	Untsis,untsɨs	
-Pano_Lexical_List	A178		Fingernail	Fingernail		**mɨ-tsizi	SK	mɨ̃ntsis,mɨ̃tsis	
-Pano_Lexical_List	A179		Fingernail	Fingernail		**mɨ-tsizi	Kap	mɨ̃ntsis	
-Pano_Lexical_List	A180		Fingernail	Fingernail		**mɨ-tsizi	Mar	mɨ̃tsisi	
-Pano_Lexical_List	A181		Fingernail	Fingernail		**mɨ-tsizi	Chak	mɨ̃tsis,mɨ̃tsisi	
-Pano_Lexical_List	A182		Fingernail	Fingernail		**mɨ-tsizi	Kax	mɨ̃tʃisi	
-Pano_Lexical_List	A183		Fingernail	Fingernail		**mɨ-tsizi	Yam	mitsis,mitsisi	
-Pano_Lexical_List	A184		Fingernail	Fingernail		**mɨ-tsizi	Chan	bitsis(otsis)	
-Pano_Lexical_List	A185		Fingernail	Fingernail		**mɨ-tsizi	Shar	mɨtsisi,otsisi	
-Reconstruction	R22		Foot,leg	Foot,leg	103	**ta-	ProPaTa	ta-	
-Pano_Lexical_List	A186		Foot,leg	Foot,leg	103	**ta-	ProPa	ta-	'foot'
-Pano_Lexical_List	A187		Foot,leg	Foot,leg	103	**ta-	Ksh	taɨ	
-Pano_Lexical_List	A188		Foot,leg	Foot,leg	103	**ta-	SK	taɨ	
-Pano_Lexical_List	A189		Foot,leg	Foot,leg	103	**ta-	Kap	taʔɨ	
-Pano_Lexical_List	A190		Foot,leg	Foot,leg	103	**ta-	Mar	taɨ	
-Pano_Lexical_List	A191		Foot,leg	Foot,leg	103	**ta-	Chak	taʔɨ	
-Pano_Lexical_List	A192		Foot,leg	Foot,leg	103	**ta-	Kax	taʔɨ	
-Pano_Lexical_List	A193		Foot,leg	Foot,leg	103	**ta-	Yam	taɨ,taɨ̃	
-Pano_Lexical_List	A194		Foot,leg	Foot,leg	103	**ta-	Chan	taɨ	
-Pano_Lexical_List	A195		Foot,leg	Foot,leg	103	**ta-	Shar	taɨ,taɨn	
-Reconstruction	R23		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	ProPaTa	kʷɨ~kɨ-	
-Pano_Lexical_List	A196		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	ProPa	kʷɨ-	
-Pano_Lexical_List	A197		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	Ksh	kʷɨβi-	
-Pano_Lexical_List	A198		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	SK	kɨβi-	
-Pano_Lexical_List	A199		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	Chak	kɨβitʃi	
-Pano_Lexical_List	A200		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	Shar	kuɸirisika	
-Reconstruction	R24		Cheek	Cheek	105	**tamu	ProPaTa	tamu	
-Pano_Lexical_List	A201		Cheek	Cheek	105	**tamu	ProPa	tamo	
-Pano_Lexical_List	A202		Cheek	Cheek	105	**tamu	Ksh	tamo	
-Pano_Lexical_List	A203		Cheek	Cheek	105	**tamu	SK	tamo	
-Pano_Lexical_List	A204		Cheek	Cheek	105	**tamu	Kap	tamo	
-Pano_Lexical_List	A205		Cheek	Cheek	105	**tamu	Mar	tambo	/m/ as superscript
-Pano_Lexical_List	A206		Cheek	Cheek	105	**tamu	Chak	tamo	
-Pano_Lexical_List	A207		Cheek	Cheek	105	**tamu	Kax	tamu	
-Pano_Lexical_List	A208		Cheek	Cheek	105	**tamu	Yam	tamo,tamõ	
-Pano_Lexical_List	A209		Cheek	Cheek	105	**tamu	Shar	tamo,tamon	
-Reconstruction	R25		Mouth	Mouth		**kʷeʂa	ProPaTa	kʷeʂa	
-Pano_Lexical_List	A210		Mouth	Mouth		**kʷeʂa	ProPa	kʷɨʂa[CV]	
-Pano_Lexical_List	A211		Mouth	Mouth		**kʷeʂa	Ksh	kʷɨʂa	
-Pano_Lexical_List	A212		Mouth	Mouth		**kʷeʂa	SK	kɨʂa	
-Pano_Lexical_List	A213		Mouth	Mouth		**kʷeʂa	Kap	kɨʂa	
-Pano_Lexical_List	A214		Mouth	Mouth		**kʷeʂa	Mar	kɨʃa	
-Pano_Lexical_List	A215		Mouth	Mouth		**kʷeʂa	Kax	kɨʂaka	
-Pano_Lexical_List	A216		Mouth	Mouth		**kʷeʂa	Yam	kɨʂã,kɨʂamã	
-Pano_Lexical_List	A217		Mouth	Mouth		**kʷeʂa	Chan	kɨʃa,kɨʂa	
-Pano_Lexical_List	A218		Mouth	Mouth		**kʷeʂa	Shar	kɨʂa,kɨʂan	
-Reconstruction	R26		Elbow	Elbow		**baṣu	ProPaTa	baṣu	
-Pano_Lexical_List	A219		Elbow	Elbow		**baṣu	ProPa	βaʂ(u)-	
-Pano_Lexical_List	A220		Elbow	Elbow		**baṣu	Ksh	banbuxu	
-Pano_Lexical_List	A221		Elbow	Elbow		**baṣu	SK	põtõko	
-Pano_Lexical_List	A222		Elbow	Elbow		**baṣu	Kap	baʂpoʂko	
-Pano_Lexical_List	A223		Elbow	Elbow		**baṣu	Chak	baspoto	
-Pano_Lexical_List	A224		Elbow	Elbow		**baṣu	Kax	paxuxu	
-Pano_Lexical_List	A225		Elbow	Elbow		**baṣu	Yam	po-to-ṣ̌ko	
-Pano_Lexical_List	A226	1	Tree	Tree	47	hegʷi	Shan	iwi	
-Pano_Lexical_List	A227	1	Tree	Tree	47	hegʷi	Kat	hiwi	
-Pano_Lexical_List	A228	1	Tree	Tree	47	hegʷi	Poy	iwi	
-Pano_Lexical_List	A229	1	Tree	Tree	47	hegʷi	Ama	hiː	
-Pano_Lexical_List	A230	1	Tree	Tree	47	hegʷi	HanKax	hi	
-Pano_Lexical_List	A231	1	Tree	Tree	47	hegʷi	Maw	iwi	
-Pano_Lexical_List	A232	1	Tree	Tree	47	hegʷi	Kor	iwi	
-Pano_Lexical_List	A233	1	Tree	Tree	47	hegʷi	MatMay	iwi	
-Pano_Lexical_List	A234	2	Tooth	Tooth	96	**ʂɨ-	Shan	ʂɨta	
-Pano_Lexical_List	A235	2	Tooth	Tooth	96	**ʂɨ-	Kat	ʂita	
-Pano_Lexical_List	A236	2	Tooth	Tooth	96	**ʂɨ-	Ama	xɨta	
-Pano_Lexical_List	A237	2	Tooth	Tooth	96	**ʂɨ-	HanKax	ʂɨta	
-Pano_Lexical_List	A238	2	Tooth	Tooth	96	**ʂɨ-	Maw	ʂɨta	
-Pano_Lexical_List	A239	2	Tooth	Tooth	96	**ʂɨ-	Yaw	ʂɨta	
-Pano_Lexical_List	A240	2	Tooth	Tooth	96	**ʂɨ-	Kor	ʂɨta	
-Pano_Lexical_List	A241	2	Tooth	Tooth	96	**ʂɨ-	Mat	ʂɨta	
-Pano_Lexical_List	A242	2	Tooth	Tooth	96	**ʂɨ-	MatMay	ʂɨta	
-Pano_Lexical_List	A243	3	Two	Two	24	**bɨta	Shan	rafu	
-Pano_Lexical_List	A244	3	Two	Two	24	**bɨta	Kat	raβi	
-Pano_Lexical_List	A245	3	Two	Two	24	**bɨta	Poy	raβu	
-Pano_Lexical_List	A246	3	Two	Two	24	**bɨta	Ama	raβɨ	
-Pano_Lexical_List	A247	3	Two	Two	24	**bɨta	Maw	raɸɨ	
-Pano_Lexical_List	A248	3	Two	Two	24	**bɨta	Yaw	raβɨ	
-Pano_Lexical_List	A249	3	Two	Two	24	**bɨta	Kor	ɬaβɨtpa	
-Pano_Lexical_List	A250	3	Two	Two	24	**bɨta	Mat	dabɨdpa	
-Pano_Lexical_List	A251	3	Two	Two	24	**bɨta	MatMay	daɨd	
-Pano_Lexical_List	A252	4	Liver	Liver	104	**takʷa	Shan	taka	
-Pano_Lexical_List	A253	4	Liver	Liver	104	**takʷa	Kat	taka	
-Pano_Lexical_List	A254	4	Liver	Liver	104	**takʷa	Poy	taka	
-Pano_Lexical_List	A255	4	Liver	Liver	104	**takʷa	Ama	taka	
-Pano_Lexical_List	A256	4	Liver	Liver	104	**takʷa	HanKax	taka	
-Pano_Lexical_List	A257	4	Liver	Liver	104	**takʷa	Maw	taka	
-Pano_Lexical_List	A258	4	Liver	Liver	104	**takʷa	Yaw	taka	
-Pano_Lexical_List	A259	4	Liver	Liver	104	**takʷa	Kor	takʷa	
-Pano_Lexical_List	A260	4	Liver	Liver	104	**takʷa	Mat	takua	
-Pano_Lexical_List	A261	4	Liver	Liver	104	**takʷa	MatMay	takʷa	
-Pano_Lexical_List	A262	5	Leaf	Leaf		**pɨʔi	Shan	pɨj	
-Pano_Lexical_List	A263	5	Leaf	Leaf		**pɨʔi	Kat	pɨi	
-Pano_Lexical_List	A264	5	Leaf	Leaf		**pɨʔi	Poy	puy	
-Pano_Lexical_List	A265	5	Leaf	Leaf		**pɨʔi	Ama	pɨʔi	
-Pano_Lexical_List	A266	5	Leaf	Leaf		**pɨʔi	HanKax	pɨi	
-Pano_Lexical_List	A267	5	Leaf	Leaf		**pɨʔi	Maw	pɨi	
-Pano_Lexical_List	A268	5	Leaf	Leaf		**pɨʔi	Yaw	pɨi	
-Pano_Lexical_List	A269	5	Leaf	Leaf		**pɨʔi	Mat	pɨi	
-Pano_Lexical_List	A270	5	Leaf	Leaf		**pɨʔi	MatMay	pɨ	
-Pano_Lexical_List	A271	6	Bone	Bone	93	ʂau	Shan	ʂaw	Shell (1975: 174, 398) and Oliveira (2014: 459, 398) reconstruct *ʂao. Kasharari presents the form ʂahu [ʂa'hwu] (Lanes 2005, in Oliveira 2014). For Matses/Mayoruna we consider as evidence the final consonant in mɨ-ʂ‘wrist bone’, taɨ-ʂ‘ankle bone’, and ʂomoʂ‘needle made of bone’ (Fleck et al. 2012).
-Pano_Lexical_List	A271	6	Bone	Bone	93	**ʂau	Kat	ʃau	
-Pano_Lexical_List	A271	6	Bone	Bone	93	**ʂau	Poy	haw	
-Pano_Lexical_List	A271	6	Bone	Bone	93	**ʂau	Ama	xao	
-Pano_Lexical_List	A271	6	Bone	Bone	93	**ʂau	HanKax	ʂau	
-Pano_Lexical_List	A271	6	Bone	Bone	93	**ʂau	Maw	ʂao	
-Pano_Lexical_List	A271	6	Bone	Bone	93	**ʂau	Yaw	ʃau	
-Pano_Lexical_List	A271	6	Bone	Bone	93	**ʂau	MatMay	mɨ-ʂ,taɨ-ʂ,ʂomoʂ	'wrist bone','ankle bone','needle made of bone'
-Pano_Lexical_List	A272	7	Tongue	Tongue	46	**hana	Shan	ana	
-Pano_Lexical_List	A273	7	Tongue	Tongue	46	**hana	Kat	ana	
-Pano_Lexical_List	A274	7	Tongue	Tongue	46	**hana	Poy	ãda	
-Pano_Lexical_List	A275	7	Tongue	Tongue	46	**hana	Ama	hana	
-Pano_Lexical_List	A276	7	Tongue	Tongue	46	**hana	HanKax	hana	
-Pano_Lexical_List	A277	7	Tongue	Tongue	46	**hana	Maw	ana	
-Pano_Lexical_List	A278	7	Tongue	Tongue	46	**hana	Yaw	anna	
-Pano_Lexical_List	A279	7	Tongue	Tongue	46	**hana	Kor	ana	
-Pano_Lexical_List	A280	7	Tongue	Tongue	46	**hana	Mat	ana	
-Pano_Lexical_List	A281	8	Hand	Hand	70	**mɨ-	Ama	mɨkɨ̃	
-Pano_Lexical_List	A282	8	Hand	Hand	70	**mɨ-	HanKax	mɨkɨ̃	
-Pano_Lexical_List	A283	8	Hand	Hand	70	**mɨ-	Maw	mɨkɨ	
-Pano_Lexical_List	A284	8	Hand	Hand	70	**mɨ-	Mat	mɨkɨn	
-Pano_Lexical_List	A285	8	Hand	Hand	70	**mɨ-	MatMay	mɨdante	
-Pano_Lexical_List	A286	9	Night	Night	71	**mɨta	Shan	yamɨ	
-Pano_Lexical_List	A287	9	Night	Night	71	**mɨta	Kat	yamɨ	
-Pano_Lexical_List	A288	9	Night	Night	71	**mɨta	Poy	iãvu	
-Pano_Lexical_List	A289	9	Night	Night	71	**mɨta	Ama	yamɨː	
-Pano_Lexical_List	A290	9	Night	Night	71	**mɨta	HanKax	yamɨ	
-Pano_Lexical_List	A291	9	Night	Night	71	**mɨta	Maw	yamɨ	
-Pano_Lexical_List	A292	9	Night	Night	71	**mɨta	Yaw	iamɨ	
-Pano_Lexical_List	A293	9	Night	Night	71	**mɨta	Kor	imɨt	
-Pano_Lexical_List	A294	9	Night	Night	71	**mɨta	Mat	imɨd	
-Pano_Lexical_List	A295	10	Skin	Skin	22	**bitsi	Shan	fitʃi	
-Pano_Lexical_List	A296	10	Skin	Skin	22	**bitsi	HanKax	bitʃi	
-Pano_Lexical_List	A297	10	Skin	Skin	22	**bitsi	Maw	ɸitʃi	
-Pano_Lexical_List	A298	10	Skin	Skin	22	**bitsi	Yaw	βɨtʃi	
-Pano_Lexical_List	A299	10	Skin	Skin	22	**bitsi	Mat	bitsi	
-Pano_Lexical_List	A300	10	Skin	Skin	22	**bitsi	MatMay	bitsi	
-Pano_Lexical_List	A301	11	Fire	Fire		**tsiʔi	Shan	tʃi	
-Pano_Lexical_List	A302	11	Fire	Fire		**tsiʔi	Kat	tʃii	
-Pano_Lexical_List	A303	11	Fire	Fire		**tsiʔi	Ama	tʃiʔi	
-Pano_Lexical_List	A304	11	Fire	Fire		**tsiʔi	HanKax	tʃi	
-Pano_Lexical_List	A305	11	Fire	Fire		**tsiʔi	Maw	tʃi	
-Pano_Lexical_List	A306	11	Fire	Fire		**tsiʔi	Yaw	tʃi	
-Pano_Lexical_List	A307	12	Knee	Knee	37	**da-n	Kat	raβɨʂo	
-Pano_Lexical_List	A308	12	Knee	Knee	37	**da-n	Ama	rawoxko	
-Pano_Lexical_List	A309	13	Blood	Blood	48	**hemi	Shan	imi	
-Pano_Lexical_List	A310	13	Blood	Blood	48	**hemi	Kat	himi	
-Pano_Lexical_List	A311	13	Blood	Blood	48	**hemi	Poy	ibi	
-Pano_Lexical_List	A312	13	Blood	Blood	48	**hemi	Ama	himi	
-Pano_Lexical_List	A313	13	Blood	Blood	48	**hemi	HanKax	himi	
-Pano_Lexical_List	A314	13	Blood	Blood	48	**hemi	Maw	imi	
-Pano_Lexical_List	A315	13	Blood	Blood	48	**hemi	Yaw	imi	
-Pano_Lexical_List	A316	13	Blood	Blood	48	**hemi	Kor	inta	
-Pano_Lexical_List	A317	13	Blood	Blood	48	**hemi	Mat	imi	
-Pano_Lexical_List	A318	13	Blood	Blood	48	**hemi	MatMay	imi	
-Pano_Lexical_List	A319	14	Breast	Breast		**aṣu	Shan	ʂuma	
-Pano_Lexical_List	A320	14	Breast	Breast		**aṣu	Kat	ʃuma	
-Pano_Lexical_List	A321	14	Breast	Breast		**aṣu	Poy	hũba	
-Pano_Lexical_List	A322	14	Breast	Breast		**aṣu	Ama	xoma	
-Pano_Lexical_List	A323	14	Breast	Breast		**aṣu	HanKax	ʂuma	
-Pano_Lexical_List	A324	14	Breast	Breast		**aṣu	Maw	ʂoma	
-Pano_Lexical_List	A325	14	Breast	Breast		**aṣu	Yaw	ʃuma	
-Pano_Lexical_List	A326	14	Breast	Breast		**aṣu	Kor	ʂuma	
-Pano_Lexical_List	A327	14	Breast	Breast		**aṣu	Mat	ʂuma	
-Pano_Lexical_List	A328	14	Breast	Breast		**aṣu	MatMay	ʂuma	
-Pano_Lexical_List	A329	15	Sun	Sun	16	**badi	Shan	faɾi	
-Pano_Lexical_List	A330	15	Sun	Sun	16	**badi	Kat	βaɾi	
-Pano_Lexical_List	A331	15	Sun	Sun	16	**badi	Poy	βaɾi	
-Pano_Lexical_List	A332	15	Sun	Sun	16	**badi	Ama	bari	
-Pano_Lexical_List	A333	15	Sun	Sun	16	**badi	HanKax	badi	
-Pano_Lexical_List	A334	15	Sun	Sun	16	**badi	Maw	ɸaɾi	
-Pano_Lexical_List	A335	15	Sun	Sun	16	**badi	Yaw	βaɾi	
-Pano_Lexical_List	A336	15	Sun	Sun	16	**badi	Kor	βaɬi	
-Pano_Lexical_List	A337	15	Sun	Sun	16	**badi	Mat	badi	
-Pano_Lexical_List	A338	15	Sun	Sun	16	**badi	MatMay	badiad	
-Pano_Lexical_List	A339	16	You	You	72	**mi	Ama	miya	
-Pano_Lexical_List	A340	16	You	You	72	**mi	HanKax	mia	
-Pano_Lexical_List	A341	16	You	You	72	**mi	Maw	mia	
-Pano_Lexical_List	A342	16	You	You	72	**mi	Kor	mi	
-Pano_Lexical_List	A343	16	You	You	72	**mi	Mat	mi (minbi,mibi,min)	
-Pano_Lexical_List	A344	16	You	You	72	**mi	MatMay	mi (minbi,mibi,min)	
-Pano_Lexical_List	A345	17	Come	Come	24	**bɨ-	Ama	βɨ-	
-Pano_Lexical_List	A346	17	Come	Come	24	**bɨ-	HanKax	bɨ-	
-Pano_Lexical_List	A347	17	Come	Come	24	**bɨ-	Maw	ɸɨ-	
-Pano_Lexical_List	A348	17	Come	Come	24	**bɨ-	Yaw	βɨ-	
-Pano_Lexical_List	A349	17	Come	Come	24	**bɨ-	Kor	βɨ-	
-Pano_Lexical_List	A350	17	Come	Come	24	**bɨ-	Mat	βɨ-	
-Pano_Lexical_List	A351	17	Come	Come	24	**bɨ-	MatMay	bɨ-	
-Pano_Lexical_List	A352	18	I	I	11	**ʔɨ	Ama	ɨ	
-Pano_Lexical_List	A353	18	I	I	11	**ʔɨ	HanKax	ɨ	
-Pano_Lexical_List	A354	18	I	I	11	**ʔɨ	Maw	ɨ	
-Pano_Lexical_List	A355		Flesh	Flesh	78	**Nami	Shan	nami	
-Pano_Lexical_List	A356		Flesh	Flesh	78	**Nami	Kat	nami	
-Pano_Lexical_List	A357		Flesh	Flesh	78	**Nami	Poy	nãbi	
-Pano_Lexical_List	A358		Flesh	Flesh	78	**Nami	Ama	nami	
-Pano_Lexical_List	A359		Flesh	Flesh	78	**Nami	HanKax	nami	
-Pano_Lexical_List	A360		Flesh	Flesh	78	**Nami	Maw	nami	
-Pano_Lexical_List	A361		Flesh	Flesh	78	**Nami	Yaw	nami	
-Pano_Lexical_List	A362		Flesh	Flesh	78	**Nami	Mat	nami	
-Pano_Lexical_List	A363		Flesh	Flesh	78	**Nami	MatMay	nami	
-Pano_Lexical_List	A364		Fat	Fat	99	**ʂɨNi	Shan	ʂɨni	
-Pano_Lexical_List	A365		Fat	Fat	99	**ʂɨNi	Kat	ʃɨni	
-Pano_Lexical_List	A366		Fat	Fat	99	**ʂɨNi	Poy	hãdi	
-Pano_Lexical_List	A367		Fat	Fat	99	**ʂɨNi	Ama	xɨni	
-Pano_Lexical_List	A368		Fat	Fat	99	**ʂɨNi	HanKax	ʂɨni	
-Pano_Lexical_List	A369		Fat	Fat	99	**ʂɨNi	Maw	ʂɨni	
-Pano_Lexical_List	A370		Fat	Fat	99	**ʂɨNi	Yaw	ʂɨni	
-Pano_Lexical_List	A371		Fat	Fat	99	**ʂɨNi	Kor	ʃɨni	
-Pano_Lexical_List	A372		Fat	Fat	99	**ʂɨNi	Mat	ʂɨni	
-Pano_Lexical_List	A373		Fingernail	Fingernail		**mɨ-tsizi	Shan	mɨtʃiʃi	
-Pano_Lexical_List	A374		Fingernail	Fingernail		**mɨ-tsizi	Kat	mɨ̃tʃiʃi	
-Pano_Lexical_List	A375		Fingernail	Fingernail		**mɨ-tsizi	Ama	mɨntsis	
-Pano_Lexical_List	A376		Fingernail	Fingernail		**mɨ-tsizi	HanKax	mɨ̃tsis	
-Pano_Lexical_List	A377		Fingernail	Fingernail		**mɨ-tsizi	Maw	mɨ̃tsisi	
-Pano_Lexical_List	A378		Fingernail	Fingernail		**mɨ-tsizi	Yaw	mɨtsisi	
-Pano_Lexical_List	A379		Fingernail	Fingernail		**mɨ-tsizi	Kor	mɨtʃiun	
-Pano_Lexical_List	A380		Fingernail	Fingernail		**mɨ-tsizi	Mat	mɨntis	
-Pano_Lexical_List	A381		Fingernail	Fingernail		**mɨ-tsizi	MatMay	mɨntsis	
-Pano_Lexical_List	A382		Foot,leg	Foot,leg	103	**ta-	Shan	taɨ	
-Pano_Lexical_List	A383		Foot,leg	Foot,leg	103	**ta-	Kat	taɨ	
-Pano_Lexical_List	A384		Foot,leg	Foot,leg	103	**ta-	Poy	tay	
-Pano_Lexical_List	A385		Foot,leg	Foot,leg	103	**ta-	Ama	taʔɨ	
-Pano_Lexical_List	A386		Foot,leg	Foot,leg	103	**ta-	HanKax	taɨ	
-Pano_Lexical_List	A387		Foot,leg	Foot,leg	103	**ta-	Maw	taɨ	
-Pano_Lexical_List	A388		Foot,leg	Foot,leg	103	**ta-	Yaw	tai	
-Pano_Lexical_List	A389		Foot,leg	Foot,leg	103	**ta-	Kor	taɨ	
-Pano_Lexical_List	A390		Foot,leg	Foot,leg	103	**ta-	Mat	taɨ	
-Pano_Lexical_List	A391		Foot,leg	Foot,leg	103	**ta-	MatMay	taɨ	
-Pano_Lexical_List	A392		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	HanKax	kɨbitʃi	
-Pano_Lexical_List	A393		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	MatMay	kwibi	
-Pano_Lexical_List	A394		Cheek	Cheek	105	**tamu	Kat	tamu	
-Pano_Lexical_List	A395		Cheek	Cheek	105	**tamu	Poy	tãbu	
-Pano_Lexical_List	A396		Cheek	Cheek	105	**tamu	Ama	tamo	
-Pano_Lexical_List	A397		Cheek	Cheek	105	**tamu	HanKax	tamu	
-Pano_Lexical_List	A398		Cheek	Cheek	105	**tamu	Maw	tamo	
-Pano_Lexical_List	A399		Cheek	Cheek	105	**tamu	MatMay	tambu	'beard'
-Pano_Lexical_List	A400		Mouth	Mouth		**kʷeʂa	Shan	kɨʂa	
-Pano_Lexical_List	A401		Mouth	Mouth		**kʷeʂa	Kat	kɨʂa	
-Pano_Lexical_List	A402		Mouth	Mouth		**kʷeʂa	Poy	kɨxaa	
-Pano_Lexical_List	A403		Mouth	Mouth		**kʷeʂa	Ama	kɨʂa	
-Pano_Lexical_List	A404		Mouth	Mouth		**kʷeʂa	HanKax	kɨʂ̃a	
-Pano_Lexical_List	A405		Mouth	Mouth		**kʷeʂa	Maw	kɨʃa	
-Pano_Lexical_List	A406		Mouth	Mouth		**kʷeʂa	Yaw	kɨha	
-Pano_Lexical_List	A407		Elbow	Elbow		**baṣu	Ama	vapoxko	
-Pano_Lexical_List	A408		Elbow	Elbow		**baṣu	HanKax	baʂtunku	
-Pano_Lexical_List	A409		Elbow	Elbow		**baṣu	Mat	mɨntʂinβuru	
-Pano_Lexical_List	A410		Elbow	Elbow		**baṣu	MatMay	mɨntsimpis	
-Takana_Lexical_List	B411	1	Tree	Tree	47	hegʷi	ProTa	akʷi	
-Takana_Lexical_List	B412	1	Tree	Tree	47	hegʷi	Tac	aki	
-Takana_Lexical_List	B413	1	Tree	Tree	47	hegʷi	ReyMar	-/ekená	
-Takana_Lexical_List	B414	1	Tree	Tree	47	hegʷi	Aro	acui	
-Takana_Lexical_List	B415	1	Tree	Tree	47	hegʷi	Mab	akwi	
-Takana_Lexical_List	B416	1	Tree	Tree	47	hegʷi	Cav	akwi	
-Takana_Lexical_List	B417	1	Tree	Tree	47	hegʷi	Ese	akwi	
-Takana_Lexical_List	B418	1	Tree	Tree	47	hegʷi	War	akwi	
-Takana_Lexical_List	B419	1	Tree	Tree	47	hegʷi	Ara	akui	
-Takana_Lexical_List	B420	2	Tooth	Tooth	96	**ʂɨ-	ProTa	e-ce	
-Takana_Lexical_List	B421	2	Tooth	Tooth	96	**ʂɨ-	ReyMar	e-ce/etre	
-Takana_Lexical_List	B422	2	Tooth	Tooth	96	**ʂɨ-	Sap	echee	
-Takana_Lexical_List	B423	2	Tooth	Tooth	96	**ʂɨ-	Mab	itsi	
-Takana_Lexical_List	B424	2	Tooth	Tooth	96	**ʂɨ-	Cav	e-ce	
-Takana_Lexical_List	B425	2	Tooth	Tooth	96	**ʂɨ-	Ese	e-se	
-Takana_Lexical_List	B426	2	Tooth	Tooth	96	**ʂɨ-	War	e-sé	
-Takana_Lexical_List	B427	2	Tooth	Tooth	96	**ʂɨ-	Tia	ese	
-Takana_Lexical_List	B428	2	Tooth	Tooth	96	**ʂɨ-	Cham	e-sé	
-Takana_Lexical_List	B429	2	Tooth	Tooth	96	**ʂɨ-	Ara	ese	
-Takana_Lexical_List	B430	3	Two	Two	24	**bɨta	ProTa	beta	
-Takana_Lexical_List	B431	3	Two	Two	24	**bɨta	Tac	beta	
-Takana_Lexical_List	B432	3	Two	Two	24	**bɨta	ReyMar	mbeta/beta	
-Takana_Lexical_List	B433	3	Two	Two	24	**bɨta	Sap	beta	
-Takana_Lexical_List	B434	3	Two	Two	24	**bɨta	Aro	beta	
-Takana_Lexical_List	B435	3	Two	Two	24	**bɨta	Cav	beta	
-Takana_Lexical_List	B436	3	Two	Two	24	**bɨta	Ese	beka	
-Takana_Lexical_List	B437	3	Two	Two	24	**bɨta	War	beabué	
-Takana_Lexical_List	B438	3	Two	Two	24	**bɨta	Tia	bikapiai	
-Takana_Lexical_List	B439	3	Two	Two	24	**bɨta	Cham	béka	
-Takana_Lexical_List	B440	4	Liver	Liver	104	**takʷa	ProTa	takʷa	
-Takana_Lexical_List	B441	4	Liver	Liver	104	**takʷa	Tac	e-takwa	
-Takana_Lexical_List	B442	4	Liver	Liver	104	**takʷa	ReyMar	e-takwa/-	
-Takana_Lexical_List	B443	4	Liver	Liver	104	**takʷa	Cav	e-takwa	
-Takana_Lexical_List	B444	4	Liver	Liver	104	**takʷa	Ese	e-kakwa	
-Takana_Lexical_List	B445	4	Liver	Liver	104	**takʷa	War	e-takwe	
-Takana_Lexical_List	B446	4	Liver	Liver	104	**takʷa	Ara	etákua	
-Takana_Lexical_List	B447	5	To fan	To fan		**pɨʔi	ProTa	pei	
-Takana_Lexical_List	B448	5	To fan	To fan		**pɨʔi	Cav	pei-	
-Takana_Lexical_List	B449	5	To fan	To fan		**pɨʔi	Ese	e-pexi	
-Takana_Lexical_List	B450	5	To fan	To fan		**pɨʔi	War	pio-	
-Takana_Lexical_List	B451	6	Bone	Bone	93	**ʂau	ProTa	tʂau	
-Takana_Lexical_List	B452	6	Bone	Bone	93	**ʂau	Tac	e-cau	
-Takana_Lexical_List	B453	6	Bone	Bone	93	**ʂau	ReyMar	e-cao/etrá	
-Takana_Lexical_List	B454	6	Bone	Bone	93	**ʂau	Cav	e-cao	
-Takana_Lexical_List	B455	6	Bone	Bone	93	**ʂau	Ese	e-sá	
-Takana_Lexical_List	B456	6	Bone	Bone	93	**ʂau	War	e-sá	
-Takana_Lexical_List	B457	7	Tongue	Tongue	46	**hana	ProTa	ana	
-Takana_Lexical_List	B458	7	Tongue	Tongue	46	**hana	Tac	y-ana	
-Takana_Lexical_List	B459	7	Tongue	Tongue	46	**hana	ReyMar	y-ana/eana	
-Takana_Lexical_List	B460	7	Tongue	Tongue	46	**hana	Sap	eana	
-Takana_Lexical_List	B461	7	Tongue	Tongue	46	**hana	Cav	y-ana	
-Takana_Lexical_List	B462	7	Tongue	Tongue	46	**hana	Ese	eyana	
-Takana_Lexical_List	B463	7	Tongue	Tongue	46	**hana	War	y-ana	
-Takana_Lexical_List	B464	7	Tongue	Tongue	46	**hana	Tia	yana	
-Takana_Lexical_List	B465	7	Tongue	Tongue	46	**hana	Ara	eána	
-Takana_Lexical_List	B466	8	Hand	Hand	70	**mɨ-	ProTa	me-	
-Takana_Lexical_List	B467	8	Hand	Hand	70	**mɨ-	Tac	e-me	
-Takana_Lexical_List	B468	8	Hand	Hand	70	**mɨ-	ReyMar	-/emechuja	
-Takana_Lexical_List	B469	8	Hand	Hand	70	**mɨ-	Sap	eme	
-Takana_Lexical_List	B470	8	Hand	Hand	70	**mɨ-	Aro	eme	
-Takana_Lexical_List	B471	8	Hand	Hand	70	**mɨ-	Cav	e-me	
-Takana_Lexical_List	B472	8	Hand	Hand	70	**mɨ-	Ese	e-me	
-Takana_Lexical_List	B473	8	Hand	Hand	70	**mɨ-	War	e-mé	
-Takana_Lexical_List	B474	8	Hand	Hand	70	**mɨ-	Ara	emã	
-Takana_Lexical_List	B475	9	Night	Night,tomorrow	71	**mɨta	ProTa	meta	
-Takana_Lexical_List	B476	9	Night	Night,tomorrow	71	**mɨta	Tac	mueta	
-Takana_Lexical_List	B477	9	Night	Night,tomorrow	71	**mɨta	ReyMar	-/maita	
-Takana_Lexical_List	B478	9	Night	Night,tomorrow	71	**mɨta	Sap	maetahe	
-Takana_Lexical_List	B479	9	Night	Night,tomorrow	71	**mɨta	Cav	meta	
-Takana_Lexical_List	B480	9	Night	Night,tomorrow	71	**mɨta	Ese	meka-waxe	
-Takana_Lexical_List	B481	9	Night	Night,tomorrow	71	**mɨta	Ara	eméte	
-Takana_Lexical_List	B482	10	Skin	Skin	22	**bitsi	ProTa	biti	
-Takana_Lexical_List	B483	10	Skin	Skin	22	**bitsi	Tac	e-biti	
-Takana_Lexical_List	B484	10	Skin	Skin	22	**bitsi	ReyMar	e-mbiti/embiti	
-Takana_Lexical_List	B485	10	Skin	Skin	22	**bitsi	Cav	e-biti	
-Takana_Lexical_List	B486	11	Fire	Fire		**tsiʔi	ProTa	ti	
-Takana_Lexical_List	B487	11	Fire	Fire		**tsiʔi	Tac	e-ti-ře	
-Takana_Lexical_List	B488	11	Fire	Fire		**tsiʔi	ReyMar	-ti-/-	
-Takana_Lexical_List	B489	11	Fire	Fire		**tsiʔi	Aro	etesi	
-Takana_Lexical_List	B490	11	Fire	Fire		**tsiʔi	Cav	e-tiki	
-Takana_Lexical_List	B491	12	Knee	Knee	37	**da-n	ProTa	da	
-Takana_Lexical_List	B492	12	Knee	Knee	37	**da-n	Tac	e-ma-da-cua	
-Takana_Lexical_List	B493	13	Blood	Blood	48	**hemi	ProTa	ami	
-Takana_Lexical_List	B494	13	Blood	Blood	48	**hemi	Tac	ami	
-Takana_Lexical_List	B495	13	Blood	Blood	48	**hemi	ReyMar	ami/ami	
-Takana_Lexical_List	B496	13	Blood	Blood	48	**hemi	Cav	ami	
-Takana_Lexical_List	B497	14	Breast	Breast		**aṣu	ProTa	aṭṣu	
-Takana_Lexical_List	B498	15	Moon	Moon	16	**badi	ProTa	badi	
-Takana_Lexical_List	B499	15	Moon	Moon	16	**badi	Tac	badi	
-Takana_Lexical_List	B500	15	Moon	Moon	16	**badi	ReyMar	mbandzi/bansri	
-Takana_Lexical_List	B501	15	Moon	Moon	16	**badi	Sap	bari	
-Takana_Lexical_List	B502	15	Moon	Moon	16	**badi	Aro	badi	
-Takana_Lexical_List	B503	15	Moon	Moon	16	**badi	Cav	badi	
-Takana_Lexical_List	B504	15	Moon	Moon	16	**badi	Ese	baʔi	
-Takana_Lexical_List	B505	15	Moon	Moon	16	**badi	Cham	mái	
-Takana_Lexical_List	B506	16	You	You	72	**mi	ProTa	mi	
-Takana_Lexical_List	B507	16	You	You	72	**mi	Tac	mi-ke	
-Takana_Lexical_List	B508	16	You	You	72	**mi	ReyMar	mibe/mive	
-Takana_Lexical_List	B509	16	You	You	72	**mi	Aro	mitya	
-Takana_Lexical_List	B510	16	You	You	72	**mi	Cav	mi-kwana	
-Takana_Lexical_List	B511	16	You	You	72	**mi	Ese	mi-a	
-Takana_Lexical_List	B512	16	You	You	72	**mi	Ara	mikia	
-Takana_Lexical_List	B513	17	Come	Come	24	**bɨ-	ProTa	be-	'bring'
-Takana_Lexical_List	B514	18	I	I	11	**Ɂɨ	ProTa	e	
-Takana_Lexical_List	B515	18	I	I	11	**Ɂɨ	Tac	e-ma	
-Takana_Lexical_List	B516	18	I	I	11	**Ɂɨ	ReyMar	e-me/éme	
-Takana_Lexical_List	B517	18	I	I	11	**Ɂɨ	Aro	ema,yama	
-Takana_Lexical_List	B518	18	I	I	11	**Ɂɨ	Cav	e-ra	
-Takana_Lexical_List	B519	18	I	I	11	**Ɂɨ	Ese	ea,eyaya	
-Takana_Lexical_List	B520		Flesh	Flesh	78	**Nami	ProTa	ɾami	
-Takana_Lexical_List	B521		Flesh	Flesh	78	**Nami	Tac	yami	
-Takana_Lexical_List	B522		Flesh	Flesh	78	**Nami	ReyMar	yami/eami	
-Takana_Lexical_List	B523		Flesh	Flesh	78	**Nami	Aro	yami	
-Takana_Lexical_List	B524		Flesh	Flesh	78	**Nami	Cav	e-rami	
-Takana_Lexical_List	B525		Flesh	Flesh	78	**Nami	Ese	eyami	
-Takana_Lexical_List	B526		Flesh	Flesh	78	**Nami	War	eyami	
-Takana_Lexical_List	B527		Flesh	Flesh	78	**Nami	Ara	éami	
-Takana_Lexical_List	B528		Fat	Fat	99	**ʂɨNi	ProTa	ṭṣeri	
-Takana_Lexical_List	B529		Fat	Fat	99	**ʂɨNi	Tac	e-cei	
-Takana_Lexical_List	B530		Fat	Fat	99	**ʂɨNi	Cav	e-ceri	
-Takana_Lexical_List	B531		Fat	Fat	99	**ʂɨNi	Ese	e-sei	
-Takana_Lexical_List	B532		Fat	Fat	99	**ʂɨNi	Ara	ésey	
-Takana_Lexical_List	B533		Fingernail	Fingernail		**mɨ-tsizi	ProTa	metiji	
-Takana_Lexical_List	B534		Fingernail	Fingernail		**mɨ-tsizi	Tac	e-me-haca	
-Takana_Lexical_List	B535		Fingernail	Fingernail		**mɨ-tsizi	ReyMar	-/emechuja,emetichi	'fingers','nails'
-Takana_Lexical_List	B536		Fingernail	Fingernail		**mɨ-tsizi	Cav	e-me-šoro	'nail'
-Takana_Lexical_List	B537		Fingernail	Fingernail		**mɨ-tsizi	Ese	e-me-kiše	'nail'
-Takana_Lexical_List	B538		Foot,leg	Foot,leg	103	**ta-	ProTa	ta-	'leg'
-Takana_Lexical_List	B539		Foot,leg	Foot,leg	103	**ta-	Tac	e-ta-buce	'shin bone'
-Takana_Lexical_List	B540		Foot,leg	Foot,leg	103	**ta-	Mab	itha	
-Takana_Lexical_List	B541		Foot,leg	Foot,leg	103	**ta-	Cav	awa-taka	'tapir-foot (plant)'
-Takana_Lexical_List	B542		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	ProTa	kʷe(i)-	
-Takana_Lexical_List	B543		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	Tac	e-ke-ke	
-Takana_Lexical_List	B544		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	ReyMar	kwesa/euesa	'beard'/'beard'
-Takana_Lexical_List	B545		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	Cav	kwesa	'beard'
-Takana_Lexical_List	B546		Lip,edge	Lip,edge	59	**kʷɨ~kɨ-	Ese	e-kwe-ša	'beard'
-Takana_Lexical_List	B547		Cheek	Cheek	105	**tamu	ProTa	tamu	
-Takana_Lexical_List	B548		Cheek	Cheek	105	**tamu	ReyMar	ebu-tamu/-	
-Takana_Lexical_List	B549		Cheek	Cheek	105	**tamu	Cav	-tamu	
-Takana_Lexical_List	B550		Cheek	Cheek	105	**tamu	Ese	-shemo	
-Takana_Lexical_List	B551		Mouth	Mouth		**kʷeʂa	ProTa	kʷatʂa	
-Takana_Lexical_List	B552		Mouth	Mouth		**kʷeʂa	Tac	e-kwaca	
-Takana_Lexical_List	B553		Mouth	Mouth		**kʷeʂa	ReyMar	e-kwaca/ekuatra	
-Takana_Lexical_List	B554		Mouth	Mouth		**kʷeʂa	Sap	ecuacha	
-Takana_Lexical_List	B555		Mouth	Mouth		**kʷeʂa	Mab	ikwatsa	
-Takana_Lexical_List	B556		Mouth	Mouth		**kʷeʂa	Cav	e-kwaca	
-Takana_Lexical_List	B557		Mouth	Mouth		**kʷeʂa	Ese	e-kwasa	
-Takana_Lexical_List	B558		Mouth	Mouth		**kʷeʂa	War	e-kwasa	
-Takana_Lexical_List	B559		Elbow	Elbow		**baṣu	ProTa	-baṭṣu	
-Takana_Lexical_List	B560		Elbow	Elbow		**baṣu	Tac	e-ba-cu	
-Takana_Lexical_List	B561		Elbow	Elbow		**baṣu	ReyMar	e-mba-co/-	
-Takana_Lexical_List	B562		Elbow	Elbow		**baṣu	Ese	e-bašo	
-Takana_Lexical_List	B563		Elbow	Elbow		**baṣu	War	e-bašo	
-Takana_Lexical_List	B564		Elbow	Elbow		**baṣu	Tia	wacu	
-Takana_Lexical_List	B565		Elbow	Elbow		**baṣu	Ara	ebaša	
-Reconstruction	R27	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	ProPaTa	ʔɨ	
-Pano_Grammatical_Morphemes	C566	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	ProPa	ʔɨ	
-Pano_Grammatical_Morphemes	C567	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	Ksh	ʔɨ	
-Pano_Grammatical_Morphemes	C568	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	SK	ʔɨ	
-Pano_Grammatical_Morphemes	C569	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	Kap	ʔɨ	
-Pano_Grammatical_Morphemes	C570	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	Chak	ɨ	
-Pano_Grammatical_Morphemes	C571	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	Yam	ɨ̃	
-Reconstruction	R28	2	2nd SG 'you'	2nd SG 'you'	72	**mi	ProPaTa	mi	
-Pano_Grammatical_Morphemes	C572	2	2nd SG 'you'	2nd SG 'you'	72	**mi	ProPa	mi	
-Pano_Grammatical_Morphemes	C573	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Ksh	mii	
-Pano_Grammatical_Morphemes	C574	2	2nd SG 'you'	2nd SG 'you'	72	**mi	SK	mia	
-Pano_Grammatical_Morphemes	C575	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Kap	mia	
-Pano_Grammatical_Morphemes	C576	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Chak	mia	object form
-Pano_Grammatical_Morphemes	C577	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Yam	mĩ	
-Reconstruction	R29	3	DEMONSTRATIVE distal	DEMONSTRATIVE distal	14	**ʔu-	ProPaTa	ʔu-	
-Pano_Grammatical_Morphemes	C578	3	DEMONSTRATIVE distal	DEMONSTRATIVE distal	14	**ʔu-	ProPa	ʔo-	
-Pano_Grammatical_Morphemes	C579	3	DEMONSTRATIVE distal	DEMONSTRATIVE distal	14	**ʔu-	Ksh	un (A),ux (S),u (O)	
-Pano_Grammatical_Morphemes	C580	3	DEMONSTRATIVE distal	DEMONSTRATIVE distal	14	**ʔu-	SK	oa	
-Pano_Grammatical_Morphemes	C581	3	DEMONSTRATIVE distal	DEMONSTRATIVE distal	14	**ʔu-	Chak	oa	
-Pano_Grammatical_Morphemes	C582	3	DEMONSTRATIVE distal	DEMONSTRATIVE distal	14	**ʔu-	Yam	oa	
-Reconstruction	R30	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	ProPaTa	Nɨ-	
-Pano_Grammatical_Morphemes	C583	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	ProPa	nɨ-	
-Pano_Grammatical_Morphemes	C584	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	Ksh	ɨnɨn (A),ɨnɨx (S),ɨnɨ (O)	
-Pano_Grammatical_Morphemes	C585	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	SK	nɨ-~nato	
-Pano_Grammatical_Morphemes	C586	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	Chak	noa,toa	
-Pano_Grammatical_Morphemes	C587	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	Yam	na	
-Reconstruction	R31	5	GENITIVE	GENITIVE	44	**-gʷi-n	ProPaTa	-gʷi-n	
-Pano_Grammatical_Morphemes	C588	5	GENITIVE	GENITIVE	44	**-gʷi-n	ProPa	-wɨ̃	
-Pano_Grammatical_Morphemes	C589	5	GENITIVE	GENITIVE	44	**-gʷi-n	Ksh	=(a)n	
-Pano_Grammatical_Morphemes	C590	5	GENITIVE	GENITIVE	44	**-gʷi-n	SK	-n	
-Pano_Grammatical_Morphemes	C591	5	GENITIVE	GENITIVE	44	**-gʷi-n	Yam	-na,-fɨna	
-Reconstruction	R32	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	ProPaTa	-gʷɨ	
-Pano_Grammatical_Morphemes	C592	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	ProPa	-wɨ	
-Pano_Grammatical_Morphemes	C593	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Ksh	-ɨ	
-Pano_Grammatical_Morphemes	C594	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	SK	-wɨ	
-Pano_Grammatical_Morphemes	C595	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Kap	-wɨ	
-Pano_Grammatical_Morphemes	C596	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Mar	-wɨ	
-Pano_Grammatical_Morphemes	C597	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Chak	-wɨ	
-Pano_Grammatical_Morphemes	C598	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Kax	-wɨ	
-Pano_Grammatical_Morphemes	C599	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Yam	-ɸɨ	
-Pano_Grammatical_Morphemes	C600	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Shar	-wɨ	
-Reconstruction	R33	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	ProPaTa	-but[ɨ]	
-Pano_Grammatical_Morphemes	C601	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	ProPa	-βut	For  pP  Girard  (1971:  163,  26)  proposes  *-bu  ‘down’,  while  we  consider  *-but  more  accurate  based  on Matses/Mayoruna -budand Kakataibo -but.
-Pano_Grammatical_Morphemes	C602	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	Ksh	-but	
-Reconstruction	R34	8	DO COMING	DO COMING		**-bɨ	ProPaTa	-bɨ	
-Pano_Grammatical_Morphemes	C603	8	DO COMING	DO COMING		**-bɨ	ProPa	-βɨ[...]	Guillaume 2017:254
-Pano_Grammatical_Morphemes	C604	8	DO COMING	DO COMING		**-bɨ	Ksh	-bɨtsin	
-Pano_Grammatical_Morphemes	C605	8	DO COMING	DO COMING		**-bɨ	SK	-bɨiran	
-Pano_Grammatical_Morphemes	C606	8	DO COMING	DO COMING		**-bɨ	Chak	-bɨna	
-Pano_Grammatical_Morphemes	C607	8	DO COMING	DO COMING		**-bɨ	Yam	-ɸɨran	
-Reconstruction	R35	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	ProPaTa	-katsa	
-Pano_Grammatical_Morphemes	C608	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	ProPa	-katsa	
-Pano_Grammatical_Morphemes	C609	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Ksh	-kas,-katsi	
-Pano_Grammatical_Morphemes	C610	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	SK	-kas	
-Pano_Grammatical_Morphemes	C611	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Kap	-katsiʔ-,-katsiʔki-	
-Pano_Grammatical_Morphemes	C612	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Mar	-katsi	
-Pano_Grammatical_Morphemes	C613	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Chak	-kas-	
-Pano_Grammatical_Morphemes	C614	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Kax	-katsa	
-Pano_Grammatical_Morphemes	C615	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Yam	kasma,kaspa,katsa	'not to want','desiderative negative','to have'
-Pano_Grammatical_Morphemes	C616	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Shar	-kas-mai	'not to want'
-Reconstruction	R36	10	NEGATIVE	NEGATIVE	61	(...a)ma	ProPaTa	-(...a)ma	
-Pano_Grammatical_Morphemes	C617	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	ProPa	-[ya]ma	verbal
-Pano_Grammatical_Morphemes	C618	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Ksh	-ma	
-Pano_Grammatical_Morphemes	C619	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	SK	-yama	
-Pano_Grammatical_Morphemes	C620	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Kap	yama	
-Pano_Grammatical_Morphemes	C621	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Mar	-ma,-ama	
-Pano_Grammatical_Morphemes	C622	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Chak	-yama	
-Pano_Grammatical_Morphemes	C623	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Kax	-ma,maʔa	
-Pano_Grammatical_Morphemes	C624	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Yam	maa,ma,yama	'not','negative','negative prohibitive'
-Pano_Grammatical_Morphemes	C625	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Shar	-ma,-yama	'no','imperative,negative,prohibitive'
-Reconstruction	R37	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	ProPaTa	-m[a/e]	
-Pano_Grammatical_Morphemes	C626	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	ProPa	-m[a]	
-Pano_Grammatical_Morphemes	C627	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Ksh	-mi-	
-Pano_Grammatical_Morphemes	C628	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	SK	-ma-	
-Pano_Grammatical_Morphemes	C629	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Kap	-ma-	
-Pano_Grammatical_Morphemes	C630	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Mar	-ma	
-Pano_Grammatical_Morphemes	C631	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Chak	-ma	
-Pano_Grammatical_Morphemes	C632	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Yam	-ma	
-Pano_Grammatical_Morphemes	C634	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Shar	-ma-	
-Reconstruction	R38	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	ProPaTa	-pa	
-Pano_Grammatical_Morphemes	C635	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	ProPa	pa	
-Pano_Grammatical_Morphemes	C636	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	SK	-n ewá	
-Pano_Grammatical_Morphemes	C637	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	Kap	-ahhuan	
-Pano_Grammatical_Morphemes	C638	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	Chak	-wa	
-Pano_Grammatical_Morphemes	C639	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	Yam	-nfã	
-Reconstruction	R39	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	ProPaTa	ʔak-	
-Pano_Grammatical_Morphemes	C640	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	ProPa	ʔak-	
-Pano_Grammatical_Morphemes	C641	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Ksh	ʔa-	
-Pano_Grammatical_Morphemes	C642	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	SK	ʔa-	
-Pano_Grammatical_Morphemes	C643	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Kap	ʔa-	
-Pano_Grammatical_Morphemes	C644	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Mar	a	
-Pano_Grammatical_Morphemes	C645	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Chak	ʔa-	
-Pano_Grammatical_Morphemes	C646	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Kax	a-	
-Pano_Grammatical_Morphemes	C647	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Yam	ak-	
-Pano_Grammatical_Morphemes	C648	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Chan	a-	
-Pano_Grammatical_Morphemes	C649	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Shar	a-	
-Reconstruction	R40	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	ProPaTa	-[w]a	
-Pano_Grammatical_Morphemes	C650	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	ProPa	-wa	
-Pano_Grammatical_Morphemes	C651	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	Ksh	-ɔ	
-Pano_Grammatical_Morphemes	C652	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	Chak	-wa	
-Reconstruction	R41	15	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE		**-t[i]	ProPaTa	-t[i]	
-Pano_Grammatical_Morphemes	C653	15	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE		**-t[i]	ProPa	-t	
-Pano_Grammatical_Morphemes	C654	15	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE		**-t[i]	Ksh	-t	
-Pano_Grammatical_Morphemes	C655	15	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE		**-t[i]	SK	-t	
-Reconstruction	R42	16	ERGATIVE	ERGATIVE		**-N[a]	ProPaTa	-N[a]	
-Pano_Grammatical_Morphemes	C656	16	ERGATIVE	ERGATIVE		**-N[a]	ProPa	-n	
-Pano_Grammatical_Morphemes	C657	16	ERGATIVE	ERGATIVE		**-N[a]	Ksh	=(a)n	
-Pano_Grammatical_Morphemes	C658	16	ERGATIVE	ERGATIVE		**-N[a]	SK	=n	
-Pano_Grammatical_Morphemes	C659	16	ERGATIVE	ERGATIVE		**-N[a]	Kap	-n	
-Reconstruction	R43	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	ProPaTa	-ṣu	
-Pano_Grammatical_Morphemes	C660	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	ProPa	-ʂo-n	
-Pano_Grammatical_Morphemes	C661	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	Ksh	-ʂun	
-Pano_Grammatical_Morphemes	C662	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	SK	-ʂon	
-Pano_Grammatical_Morphemes	C663	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	Chak	-ʂo	
-Pano_Grammatical_Morphemes	C664	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	Kax	-ʂu	
-Reconstruction	R44	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	ProPaTa	bɨta	
-Pano_Grammatical_Morphemes	C665	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	ProPa	βɨta	
-Pano_Grammatical_Morphemes	C666	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	Ksh	-bɨ~-bɨtan	
-Pano_Grammatical_Morphemes	C667	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	SK	-bɨ	
-Pano_Grammatical_Morphemes	C668	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	Chak	-bɨta	
-Pano_Grammatical_Morphemes	C669	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	Yam	-fɨtã	
-Pano_Grammatical_Morphemes	C670	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	Ama	ɨ	
-Pano_Grammatical_Morphemes	C671	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	HanKax	ɨ	
-Pano_Grammatical_Morphemes	C672	1	1st SG 'I'	1st SG 'I'	11	**ʔɨ	Maw	ɨ	
-Pano_Grammatical_Morphemes	C673	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Ama	miya	
-Pano_Grammatical_Morphemes	C674	2	2nd SG 'you'	2nd SG 'you'	72	**mi	HanKax	mia	
-Pano_Grammatical_Morphemes	C675	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Maw	mia	
-Pano_Grammatical_Morphemes	C676	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Kor	mi	
-Pano_Grammatical_Morphemes	C677	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Mat	mi (minbi,mibi,min)	
-Pano_Grammatical_Morphemes	C678	2	2nd SG 'you'	2nd SG 'you'	72	**mi	MatMay	mi (minbi,mibi,min)	
-Pano_Grammatical_Morphemes	C679	3	DEMONSTRATIVE distal	DEMONSTRATIVE distal	14	**ʔu-	MatMay	uid	
-Pano_Grammatical_Morphemes	C680	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	MatMay	nɨid	
-Pano_Grammatical_Morphemes	C681	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Shan	-wɨ	
-Pano_Grammatical_Morphemes	C682	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Kat	wɨ	
-Pano_Grammatical_Morphemes	C683	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	HanKax	-wɨ	
-Pano_Grammatical_Morphemes	C684	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Maw	-wɨ	
-Pano_Grammatical_Morphemes	C685	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Yaw	-wɨ	
-Pano_Grammatical_Morphemes	C686	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	MatMay	-bud	
-Pano_Grammatical_Morphemes	C687	8	DO COMING	DO COMING		**-bɨ	Ama	-vɨran	
-Pano_Grammatical_Morphemes	C688	8	DO COMING	DO COMING		**-bɨ	MatMay	-bɨtsen	
-Pano_Grammatical_Morphemes	C689	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Ama	-katsi	
-Pano_Grammatical_Morphemes	C690	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	MatMay	-kas-,katsi	
-Pano_Grammatical_Morphemes	C691	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Shan	-ma,-yama,	'negación general','negación de imperativo
-Pano_Grammatical_Morphemes	C692	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Kat	yama,ma	'no tener,negativo','no'
-Pano_Grammatical_Morphemes	C693	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Poy	ba	'asertivo negativo'
-Pano_Grammatical_Morphemes	C694	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Ama	-yama	
-Pano_Grammatical_Morphemes	C695	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	HanKax	-ma,-yama	
-Pano_Grammatical_Morphemes	C696	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Maw	-ma	
-Pano_Grammatical_Morphemes	C697	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Yaw	-ma	'negación'
-Pano_Grammatical_Morphemes	C698	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Kor	-ma	'negación pasado'
-Pano_Grammatical_Morphemes	C699	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Mat	-ama	'negación pasado'
-Pano_Grammatical_Morphemes	C700	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Shan	-ma	
-Pano_Grammatical_Morphemes	C701	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Ama	-ma-	
-Pano_Grammatical_Morphemes	C702	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	HanKax	-ma-	
-Pano_Grammatical_Morphemes	C703	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Maw	-ma	
-Pano_Grammatical_Morphemes	C704	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Yaw	-ma-	
-Pano_Grammatical_Morphemes	C705	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Kor	-me	
-Pano_Grammatical_Morphemes	C706	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Mat	-me	
-Pano_Grammatical_Morphemes	C707	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	MatMay	-me	
-Pano_Grammatical_Morphemes	C708	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	MatMay	-pa	
-Pano_Grammatical_Morphemes	C709	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Ama	ʔa-	
-Pano_Grammatical_Morphemes	C710	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	HanKax	a-	
-Pano_Grammatical_Morphemes	C711	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Maw	a-	
-Pano_Grammatical_Morphemes	C712	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Kor	ak-	
-Pano_Grammatical_Morphemes	C713	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Mat	ak-	
-Pano_Grammatical_Morphemes	C714	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	MatMay	ak-	
-Pano_Grammatical_Morphemes	C715	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	HanKax	wa-,-wa	
-Pano_Grammatical_Morphemes	C716	16	ERGATIVE	ERGATIVE		**-N[a]	MatMay	-n	
-Pano_Grammatical_Morphemes	C717	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	Ama	=çon	
-Pano_Grammatical_Morphemes	C718	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	HanKax	=ʂun	
-Pano_Grammatical_Morphemes	C719	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	Mat	=ʂun	
-Pano_Grammatical_Morphemes	C720	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	MatMay	=ʂun	
-Pano_Grammatical_Morphemes	C721	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	Ama	-wɨ,-wɨtã	
-Pano_Grammatical_Morphemes	C722	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	HanKax	-bɨ,-bɨtã	
-Pano_Grammatical_Morphemes	C723	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	Maw	-fɨta,fɨtã	
-Pano_Grammatical_Morphemes	C724	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	**bɨta	MatMay	-bid (S),-bɨta (O),-bɨtan (A)	
-Takana_Grammatical_Morphemes	D725	1	1st SG 'I'	1st SG 'I'	11	**Ɂɨ	ProTa	e	
-Takana_Grammatical_Morphemes	D726	1	1st SG 'I'	1st SG 'I'	11	**Ɂɨ	Tac	e-ma	
-Takana_Grammatical_Morphemes	D727	1	1st SG 'I'	1st SG 'I'	11	**Ɂɨ	ReyMar	e-me/éme	
-Takana_Grammatical_Morphemes	D728	1	1st SG 'I'	1st SG 'I'	11	**Ɂɨ	Aro	ema,yama	
-Takana_Grammatical_Morphemes	D729	1	1st SG 'I'	1st SG 'I'	11	**Ɂɨ	Cav	e-ra	
-Takana_Grammatical_Morphemes	D730	1	1st SG 'I'	1st SG 'I'	11	**Ɂɨ	Ese	ea,eyaya	
-Takana_Grammatical_Morphemes	D731	2	2nd SG 'you'	2nd SG 'you'	72	**mi	ProTa	mi	Girard additionally lists -mikia for Arasa.
-Takana_Grammatical_Morphemes	D732	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Tac	mi-ke	
-Takana_Grammatical_Morphemes	D733	2	2nd SG 'you'	2nd SG 'you'	72	**mi	ReyMar	mibe/mive	
-Takana_Grammatical_Morphemes	D734	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Aro	mitya	
-Takana_Grammatical_Morphemes	D735	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Cav	mi-kwana	
-Takana_Grammatical_Morphemes	D736	2	2nd SG 'you'	2nd SG 'you'	72	**mi	Ese	mi-a	
-Takana_Grammatical_Morphemes	D737	3	DEMONSTRATIVE 'this' 'he'	DEMONSTRATIVE 'this' 'he'	14	**ʔu-	ProTa	u-	
-Takana_Grammatical_Morphemes	D738	3	DEMONSTRATIVE 'this' 'he'	DEMONSTRATIVE 'this' 'he'	14	**ʔu-	Tac	u-ha	
-Takana_Grammatical_Morphemes	D739	3	DEMONSTRATIVE 'this' 'he'	DEMONSTRATIVE 'this' 'he'	14	**ʔu-	Cav	o-ho	
-Takana_Grammatical_Morphemes	D740	3	DEMONSTRATIVE 'this' 'he'	DEMONSTRATIVE 'this' 'he'	14	**ʔu-	Ese	o-haya	
-Takana_Grammatical_Morphemes	D741	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	ProTa	ree-	
-Takana_Grammatical_Morphemes	D742	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	Tac	ye	
-Takana_Grammatical_Morphemes	D743	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	Cav	reeke	
-Takana_Grammatical_Morphemes	D744	4	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	**Nɨ-	Ese	hikio	
-Takana_Grammatical_Morphemes	D745	5	GENITIVE	GENITIVE	44	**-gʷi-n	ProTa	-kʷe	Girard additionally lists -kwe for Warayo.
-Takana_Grammatical_Morphemes	D746	5	GENITIVE	GENITIVE	44	**-gʷi-n	Tac	-ke	
-Takana_Grammatical_Morphemes	D747	5	GENITIVE	GENITIVE	44	**-gʷi-n	ReyMar	ki-/-	'possessive prefix'
-Takana_Grammatical_Morphemes	D748	5	GENITIVE	GENITIVE	44	**-gʷi-n	Cav	-kwe	
-Takana_Grammatical_Morphemes	D749	5	GENITIVE	GENITIVE	44	**-gʷi-n	Ese	-kwe	
-Takana_Grammatical_Morphemes	D750	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	ProTa	-kʷe	Girard additionally lists -he for Warisa.
-Takana_Grammatical_Morphemes	D751	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Tac	-ke	
-Takana_Grammatical_Morphemes	D752	6	IMPERATIVE	IMPERATIVE	43	**-gʷɨ	Cav	-kwe	
-Takana_Grammatical_Morphemes	D753	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	ProTa	-bu,-bute	For first form, Girard additionally lists -anibuteni for Warisa. For second form, see footnote 67.
-Takana_Grammatical_Morphemes	D754	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	Tac	e-bute-hi,-ute	
-Takana_Grammatical_Morphemes	D755	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	ReyMar	-/animabotia,-bute/-	
-Takana_Grammatical_Morphemes	D756	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	Aro	-bote	
-Takana_Grammatical_Morphemes	D757	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	Cav	e-bote,-bute/-butya	
-Takana_Grammatical_Morphemes	D758	7	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD		**-but[ɨ]	Ese	'oke/-'okya	
-Takana_Grammatical_Morphemes	D759	8	DO COMING	DO COMING		**-bɨ	ProTa	-be	Guillaume 2017:233
-Takana_Grammatical_Morphemes	D760	8	DO COMING	DO COMING		**-bɨ	Tac	-be	
-Takana_Grammatical_Morphemes	D761	8	DO COMING	DO COMING		**-bɨ	ReyMar	-bebe/-	
-Takana_Grammatical_Morphemes	D762	8	DO COMING	DO COMING		**-bɨ	Cav	-be	
-Takana_Grammatical_Morphemes	D763	8	DO COMING	DO COMING		**-bɨ	Ese	-jebe	
-Takana_Grammatical_Morphemes	D764	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	ProTa	-katsa	
-Takana_Grammatical_Morphemes	D765	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Tac	-tsa	
-Takana_Grammatical_Morphemes	D766	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Aro	-hae	
-Takana_Grammatical_Morphemes	D767	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Cav	-kara	
-Takana_Grammatical_Morphemes	D768	9	DESIDERATIVE	DESIDERATIVE	53	**-katsa	Ese	-sa	
-Takana_Grammatical_Morphemes	D769	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	ProTa	-(a)ma	verbal and nominal
-Takana_Grammatical_Morphemes	D770	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Tac	-(a)ma	
-Takana_Grammatical_Morphemes	D771	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Cav	-(a)ma	
-Takana_Grammatical_Morphemes	D772	10	NEGATIVE	NEGATIVE	61	**-(...a)ma	Ese	-(a)ma	
-Takana_Grammatical_Morphemes	D773	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	ProTa	-me[re]	Girard reconstructs *-me[re] based on Tacana –meand Cavineña –mere. To this we can now add Ese’ Ejja -mee and Araona -me.
-Takana_Grammatical_Morphemes	D774	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Tac	-me	
-Takana_Grammatical_Morphemes	D775	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Aro	-me	
-Takana_Grammatical_Morphemes	D776	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Cav	-mere	
-Takana_Grammatical_Morphemes	D777	11	CAUSATIVE	CAUSATIVE		**-m[a/e]	Ese	-mee	
-Takana_Grammatical_Morphemes	D778	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	ProTa	-pa	
-Takana_Grammatical_Morphemes	D779	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	Tac	-pa	
-Takana_Grammatical_Morphemes	D780	12	AUGMENTATIVE	AUGMENTATIVE	81	**-pa	Cav	-pa	
-Takana_Grammatical_Morphemes	D781	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	ProTa	a-	Girard additionally lists age for Warisa.
-Takana_Grammatical_Morphemes	D782	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Tac	a-	
-Takana_Grammatical_Morphemes	D783	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Cav	a-	
-Takana_Grammatical_Morphemes	D784	13	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	**ʔak-	Ese	a-ka-	
-Takana_Grammatical_Morphemes	D785	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	ProTa	-a	Girard additionally lists -a(-) for the Warayo.
-Takana_Grammatical_Morphemes	D786	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	Tac	-a(-)	
-Takana_Grammatical_Morphemes	D787	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	ReyMar	-a(-)/-	
-Takana_Grammatical_Morphemes	D788	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	Cav	-a(-)	
-Takana_Grammatical_Morphemes	D789	14	TRANSITIVIZER	TRANSITIVIZER	1	**-[w]a	Ese	-a(-)	
-Takana_Grammatical_Morphemes	D790	15	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE		**-t[i]	ProTa	-ti	
-Takana_Grammatical_Morphemes	D791	15	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE		**-t[i]	Tac	-ti	
-Takana_Grammatical_Morphemes	D792	15	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE		**-t[i]	Cav	-ti	
-Takana_Grammatical_Morphemes	D793	15	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE		**-t[i]	Ese	-ki	
-Takana_Grammatical_Morphemes	D794	16	ERGATIVE	ERGATIVE		**-N[a]	ProTa	-ra	Girard additionally lists -a for Warayo.
-Takana_Grammatical_Morphemes	D795	16	ERGATIVE	ERGATIVE		**-N[a]	Tac	-a	
-Takana_Grammatical_Morphemes	D796	16	ERGATIVE	ERGATIVE		**-N[a]	Cav	-ra	
-Takana_Grammatical_Morphemes	D797	16	ERGATIVE	ERGATIVE		**-N[a]	Ese	-(y)a	
-Takana_Grammatical_Morphemes	D798	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	ProTa	-ṭṣu	
-Takana_Grammatical_Morphemes	D799	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	Tac	-su	
-Takana_Grammatical_Morphemes	D800	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	Aro	-tso	
-Takana_Grammatical_Morphemes	D801	17	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT		**-ṣu	Cav	-atsu~-tsu	
-Takana_Grammatical_Morphemes	D802	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	**bɨta	ProTa	beta	Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.
-Takana_Grammatical_Morphemes	D803	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	**bɨta	Tac	beta	
-Takana_Grammatical_Morphemes	D804	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	**bɨta	ReyMar	mbeta/beta	
-Takana_Grammatical_Morphemes	D805	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	**bɨta	Aro	beta	
-Takana_Grammatical_Morphemes	D806	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	**bɨta	Cav	beta	
-Takana_Grammatical_Morphemes	D807	18	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	**bɨta	Ese	beka	
+ID	ALIGNMENT	COGID	TOKENS	SUBGROUP	CONCEPT	CONCEPTINSOURCE	SHELL	DOCULECT	FORM	VALUE	NOTE
+1	h e gʷ i ( - - )	45	h e gʷ i	None	Tree	Tree	47	Proto-Pano-Takana	hegʷi	hegʷi	None
+2	h i w i ( - - )	45	h i w i	Panoan	Tree	Tree	47	Proto-Pano	hiwi	hiwi	None
+3	- i - - ( - - )	45	i	Panoan	Tree	Tree	47	Kakataibo	i	i	None
+4	h i w i ( - - )	45	h i w i	Panoan	Tree	Tree	47	ShipiboKonibo	hiwi	hiwi	None
+5	h i w i ( - - )	45	h i w i	Panoan	Tree	Tree	47	Kapanawa	hiwi	hiwi	None
+6	- i w i ( - - )	45	i w i	Panoan	Tree	Tree	47	Marubo	iwi	iwi	None
+7	h i w i ( - - )	45	h i w i	Panoan	Tree	Tree	47	Chacobo	hiwi	hiwi	None
+8	h i w i ( - - )	45	h i w i	Panoan	Tree	Tree	47	Kaxarari	hiwi	hiwi	None
+9	- i ɸ i ( - - )	45	i ɸ i	Panoan	Tree	Tree	47	Yaminawa	iɸi	iɸi	None
+10	- i ɸ i ( - - )	45	i ɸ i	Panoan	Tree	Tree	47	Sharanawa	iɸi	iɸi	None
+11	( - - ) ʂ ɨ ( - - - )	44	ʂ ɨ	None	Tooth	Tooth	96	Proto-Pano-Takana	ʂɨ-	ʂɨ-	None
+12	( - - ) ʂ ɨ ( - - - )	44	ʂ ɨ	Panoan	Tooth	Tooth	96	Proto-Pano	ʂɨ-	ʂɨ-	None
+13	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Kakataibo	ʂɨta	ʂɨta	None
+14	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	ShipiboKonibo	ʂɨta	ʂɨta	None
+15	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Kapanawa	ʂɨta	ʂɨta	None
+16	( - - ) ʃ ɨ ( - t a )	44	ʃ ɨ t a	Panoan	Tooth	Tooth	96	Marubo	ʃɨta	ʃɨta	None
+17	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Chacobo	ʂɨta	ʂɨta	None
+18	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Kaxarari	ʂɨta	ʂɨta	None
+19	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Sharanawa	ʂɨta	ʂɨta	None
+20	( - - - ) b ɨ t a ( - - - - )	46	b ɨ t a	None	Two	Two	24	Proto-Pano-Takana	bɨta	bɨta	None
+21	( r a + ) β ɨ t a ( - - - - )	46	r a + β ɨ t a	Panoan	Two	Two	24	Proto-Pano	ra-βɨta	ra-βɨta	None
+22	( r a - ) β ɨ - - ( - - - - )	46	r a β ɨ	Panoan	Two	Two	24	Kakataibo	raβɨ	raβɨ	None
+23	( r a - ) β ɨ - - ( - - - - )	46	r a β ɨ	Panoan	Two	Two	24	ShipiboKonibo	raβɨ	raβɨ	None
+24	( r a - ) β ɨ - - ( - - - - )	46	r a β ɨ	Panoan	Two	Two	24	Kapanawa	raβɨ	raβɨ	None
+25	( r a - ) β ɨ - - ( β a k ĩ )	46	r a β ɨ β a k ĩ	Panoan	Two	Two	24	Marubo	ravɨvakĩ	ravɨvakĩ	None
+26	( r a - ) β ɨ - - ( - - - - )	46	r a β ɨ	Panoan	Two	Two	24	Chacobo	raβɨ	raβɨ	None
+27	( tʃ a - ) b ɨ t a ( - - - - )	46	tʃ a b ɨ t a	Panoan	Two	Two	24	Kaxarari	tʃabɨta	tʃabɨta	None
+28	( r a - ) ɸ ɨ - - ( - - - - )	46	r a ɸ ɨ	Panoan	Two	Two	24	Yaminawa	raɸɨ	raɸɨ	None
+29	( r a - ) ɸ ɨ - - ( - - - - )	46	r a ɸ ɨ	Panoan	Two	Two	24	Chaninawa	raɸɨ	raɸɨ	None
+30	( r a - ) ɸ ɨ - - ( - - - - )	46	r a ɸ ɨ	Panoan	Two	Two	24	Sharanawa	raɸɨ	raɸɨ	None
+31	( - - ) t a kʷ a	33	t a kʷ a	None	Liver	Liver	104	Proto-Pano-Takana	takʷa	takʷa	None
+32	( - - ) t a kʷ a	33	t a kʷ a	Panoan	Liver	Liver	104	Proto-Pano	takʷa	takʷa	None
+33	( - - ) t a kʷ a	33	t a kʷ a	Panoan	Liver	Liver	104	Kakataibo	takʷa	takʷa	None
+34	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	ShipiboKonibo	taka	taka	None
+35	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Kapanawa	taka	taka	None
+36	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Marubo	taka	taka	None
+37	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Chacobo	taka	taka	None
+38	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Kaxarari	taka	taka	None
+39	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Chaninawa	taka	taka	None
+40	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Sharanawa	taka	taka	None
+41	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	None	Leaf, to fan	Leaf	None	Proto-Pano-Takana	pɨʔi	pɨʔi	None
+42	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Panoan	Leaf, to fan	Leaf	None	Proto-Pano	pɨʔi	pɨʔi	None
+43	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Kakataibo	pɨi	pɨi	None
+44	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	ShipiboKonibo	pɨi	pɨi	None
+45	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Panoan	Leaf, to fan	Leaf	None	Kapanawa	pɨʔi	pɨʔi	None
+46	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Marubo	pɨi	pɨi	None
+47	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Panoan	Leaf, to fan	Leaf	None	Chacobo	pɨʔi	pɨʔi	None
+48	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Panoan	Leaf, to fan	Leaf	None	Kaxarari	pɨʔi	pɨʔi	None
+49	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Yaminawa	pɨi	pɨi	None
+50	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Chaninawa	pɨi	pɨi	None
+51	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Sharanawa	pɨi	pɨi	None
+52	( - - - ) ʂ a ( - ) u	5	ʂ a u	None	Bone	Bone	93	Proto-Pano-Takana	ʂau	ʂau	None
+53	( - - - ) ʂ a ( - ) o	5	ʂ a o	Panoan	Bone	Bone	93	Proto-Pano	ʂao	ʂao	None
+54	( - - - ) ʂ !ɔː/ɔ ( - ) -	5	ʂ !ɔː/ɔ	Panoan	Bone	Bone	93	Kakataibo	ʂɔː	ʂɔː	None
+55	( - - - ) ʂ a ( - ) o	5	ʂ a o	Panoan	Bone	Bone	93	ShipiboKonibo	ʂao	ʂao	None
+56	( - - - ) ʂ a ( - ) o	5	ʂ a o	Panoan	Bone	Bone	93	Kapanawa	ʂao	ʂao	None
+57	( - - - ) ʃ a ( - ) u	5	ʃ a u	Panoan	Bone	Bone	93	Marubo	ʃau	ʃau	None
+58	( - - - ) ʂ a ( - ) o	5	ʂ a o	Panoan	Bone	Bone	93	Chacobo	ʂao	ʂao	None
+59	( - - - ) ʂ a ( hʷ ) u	5	ʂ a hʷ u	Panoan	Bone	Bone	93	Kaxarari	ʂahʷu	ʂahʷu	None
+60	( - - - ) ʂ a ( - ) o	5	ʂ a o	Panoan	Bone	Bone	93	Yaminawa	ʂao	ʂao	None
+61	( - - - ) ʃ a ( - ) o	5	ʃ a o	Panoan	Bone	Bone	93	Chaninawa	ʃao	ʃao,ʂao	None
+62	( - - - ) ʂ a ( - ) o	5	ʂ a o	Panoan	Bone	Bone	93	Sharanawa	ʂao	ʂao	None
+63	( - - - ) h a n ( - ) a	43	h a n a	None	Tongue	Tongue	46	Proto-Pano-Takana	hana	hana	None
+64	( - - - ) h a n ( - ) a	43	h a n a	Panoan	Tongue	Tongue	46	Proto-Pano	hana	hana	None
+65	( - - - ) - a n ( - ) a	43	a n a	Panoan	Tongue	Tongue	46	Kakataibo	ana	ana	None
+66	( - - - ) h a n ( - ) a	43	h a n a	Panoan	Tongue	Tongue	46	ShipiboKonibo	hana	hana	None
+67	( - - - ) h a n ( - ) a	43	h a n a	Panoan	Tongue	Tongue	46	Kapanawa	hana	hana	None
+68	( - - - ) - a n ( - ) a	43	a n a	Panoan	Tongue	Tongue	46	Marubo	ana	ana	None
+69	( - - - ) h a n ( - ) a	43	h a n a	Panoan	Tongue	Tongue	46	Chacobo	hana	hana	None
+70	( - - - ) h a n ( - ) a	43	h a n a	Panoan	Tongue	Tongue	46	Kaxarari	hana	hana	None
+71	( - - - ) - a n ( - ) a	43	a n a	Panoan	Tongue	Tongue	46	Yaminawa	ana	ana	None
+72	( - - - ) - a d ( - ) a	43	a d a	Panoan	Tongue	Tongue	46	Chaninawa	ada	ada	None
+73	( - - - ) - a n ( - ) a	43	a n a	Panoan	Tongue	Tongue	46	Sharanawa	ana	ana	None
+74	( - - ) m ɨ ( - - - - - - )	27	m ɨ	None	Hand	Hand	70	Proto-Pano-Takana	mɨ-	mɨ-	None
+75	( - - ) m ɨ ( - - - - - - )	27	m ɨ	Panoan	Hand	Hand	70	Proto-Pano	mɨ-	mɨ-	None
+76	( - - ) m ɨ ( k ɨ ~ - - - )	27	m ɨ k ɨ ~	Panoan	Hand	Hand	70	Kakataibo	mɨkɨ̃	mɨkɨ̃	None
+77	( - - ) m ɨ ( k ɨ ~ - - - )	27	m ɨ k ɨ ~	Panoan	Hand	Hand	70	ShipiboKonibo	mɨkɨ̃	mɨkɨ̃	None
+78	( - - ) m ɨ ( k ɨ n - - - )	27	m ɨ k ɨ n	Panoan	Hand	Hand	70	Kapanawa	mɨkɨn	mɨkɨn	None
+79	( - - ) m ɨ ( k ɨ n - ɨ - )	27	m ɨ k ɨ n ɨ	Panoan	Hand	Hand	70	Chacobo	mɨkɨnɨ	mɨkɨnɨ	None
+80	( - - ) m ɨ ( k ɨ l - ɨ - )	27	m ɨ k ɨ l ɨ	Panoan	Hand	Hand	70	Kaxarari	mɨkɨlɨ	mɨkɨlɨ	None
+81	( - - ) m ɨ ( k ɨ ~ - - - )	27	m ɨ k ɨ ~	Panoan	Hand	Hand	70	Yaminawa	mɨkɨ̃	mɨkɨ̃	None
+82	( - - ) m ɨ ( k ɨ - - - - )	27	m ɨ k ɨ	Panoan	Hand	Hand	70	Chaninawa	mɨkɨ	mɨkɨ	None
+83	( - - ) m ɨ ( k ɨ - - - - )	27	m ɨ k ɨ	Panoan	Hand	Hand	70	Sharanawa	mɨkɨ	mɨkɨ	None
+84	( - - - ) m ɨ t a ( - - - - - )	37	m ɨ t a	None	Night	Night	71	Proto-Pano-Takana	mɨta	mɨta	None
+85	( - j a ) m ɨ t - ( - - - - - )	37	j a m ɨ t	Panoan	Night	Night	71	Proto-Pano	yamɨt	yamɨtV	None
+86	( - - i ) m ɨ - - ( - - - - - )	37	i m ɨ	Panoan	Night	Night	71	Kakataibo	imɨ	imɨ	None
+87	( - j a ) m ɨ - - ( - - - - - )	37	j a m ɨ	Panoan	Night	Night	71	ShipiboKonibo	yamɨ	yamɨ	None
+88	( - j a ) m ɨ - - ( - - - - - )	37	j a m ɨ	Panoan	Night	Night	71	Kapanawa	yamɨ	yamɨ	None
+89	( - j a ) m ɨ - - ( - - - - - )	37	j a m ɨ	Panoan	Night	Night	71	Marubo	yamɨ	yamɨ	None
+90	( - j a ) m ɨ t a ( - - - - - )	37	j a m ɨ t a	Panoan	Night	Night	71	Kaxarari	yamɨta	yamɨta	None
+91	( - j a ) m ɨ - a ( - - - - - )	37	j a m ɨ a	Panoan	Night	Night	71	Yaminawa	yamɨa	yamɨa	None
+92	( - j a ) b ɨ - - ( - - - - - )	37	j a b ɨ	Panoan	Night	Night	71	Chaninawa	yabɨ	yabɨ	None
+93	( - j a ) m ɨ - - ( - - - - - )	37	j a m ɨ	Panoan	Night	Night	71	Sharanawa	yamɨ	yamɨ	None
+94	( - - ) b i ts i	39	b i ts i	None	Skin	Skin	22	Proto-Pano-Takana	bitsi	bitsi	None
+95	( - - ) β i ts i	39	β i ts i	Panoan	Skin	Skin	22	Proto-Pano	βitsi	βitsi	None
+96	( - - ) β i tʃ i	39	β i tʃ i	Panoan	Skin	Skin	22	Kakataibo	βitʃi	βitʃi	None
+97	( - - ) β i tʃ i	39	β i tʃ i	Panoan	Skin	Skin	22	ShipiboKonibo	βitʃi	βitʃi	None
+98	( - - ) β i tʃ i	39	β i tʃ i	Panoan	Skin	Skin	22	Kapanawa	βitʃi	βitʃi	None
+99	( - - ) β i tʃ i	39	β i tʃ i	Panoan	Skin	Skin	22	Marubo	vitʃi	vitʃi	None
+100	( - - ) β i tʃ i	39	β i tʃ i	Panoan	Skin	Skin	22	Chacobo	βitʃi	βitʃi	None
+101	( - - ) b i tʃ i	39	b i tʃ i	Panoan	Skin	Skin	22	Kaxarari	bitʃi	bitʃi	None
+102	( - - ) ɸ i tʃ i	39	ɸ i tʃ i	Panoan	Skin	Skin	22	Chaninawa	ɸitʃi	ɸitʃi	None
+103	( - - ) ɸ i tʃ i	39	ɸ i tʃ i	Panoan	Skin	Skin	22	Sharanawa	ɸitʃi	ɸitʃi	None
+104	( - - ) ts i ʔ i ( - - - )	22	ts i ʔ i	None	Fire	Fire	None	Proto-Pano-Takana	tsiʔi	tsiʔi	None
+105	( - - ) ts i ʔ i ( - - - )	22	ts i ʔ i	Panoan	Fire	Fire	None	Proto-Pano	tsiʔi	tsiʔi	None
+106	( - - ) tʃ i - i ( - - - )	22	tʃ i i	Panoan	Fire	Fire	None	Kakataibo	tʃii	tʃii	None
+107	( - - ) tʃ i - i ( - - - )	22	tʃ i i	Panoan	Fire	Fire	None	ShipiboKonibo	tʃii	tʃii	None
+108	( - - ) tʃ i ʔ i ( - - - )	22	tʃ i ʔ i	Panoan	Fire	Fire	None	Kapanawa	tʃiʔi	tʃiʔi	None
+109	( - - ) tʃ i - - ( - - - )	22	tʃ i	Panoan	Fire	Fire	None	Marubo	tʃi	tʃi	None
+110	( - - ) tʃ i ʔ i ( - - - )	22	tʃ i ʔ i	Panoan	Fire	Fire	None	Chacobo	tʃiʔi	tʃiʔi	None
+111	( - - ) tʃ i ʔ i ( - - - )	22	tʃ i ʔ i	Panoan	Fire	Fire	None	Kaxarari	tʃiʔi	tʃiʔi	None
+112	( - - ) tʃ i - i ( - - - )	22	tʃ i i	Panoan	Fire	Fire	None	Yaminawa	tʃii	tʃii	None
+113	( - - ) tʃ i - i ( - - - )	22	tʃ i i	Panoan	Fire	Fire	None	Chaninawa	tʃii	tʃii	None
+114	( - - ) tʃ i - i ( - - - )	22	tʃ i i	Panoan	Fire	Fire	None	Sharanawa	tʃii	tʃii	None
+115	( - - - - - ) d a n ( - - - - - )	30	d a n	None	Knee	Knee	37	Proto-Pano-Takana	da-n	da-n	None
+116	( - - - - - ) r a ∼ ( - - - - - )	30	r a ∼	Panoan	Knee	Knee	37	Proto-Pano	rã-	rã-	None
+117	( - - - - - ) r a ∼ ( β o ʂ - o )	30	r a ∼ β o ʂ o	Panoan	Knee	Knee	37	Kakataibo	rãβoʂo	rãβoʂo	None
+118	( - - - - - ) r a ∼ ( β o ʂ - o )	30	r a ∼ β o ʂ o	Panoan	Knee	Knee	37	ShipiboKonibo	rãβoʂo	rãβoʂo	None
+119	( - - - - - ) r a ∼ ( β o ʂ - o )	30	r a ∼ β o ʂ o	Panoan	Knee	Knee	37	Kapanawa	rãβoʂo	rãβoʂo	None
+120	( - - - - - ) r a - ( β u ʃ ɨ - )	30	r a β u ʃ ɨ	Panoan	Knee	Knee	37	Marubo	ravuʃɨ	ravuʃɨ	None
+121	( - - - - - ) tʃ a ∼ ( b u r - u )	30	tʃ a ∼ b u r u	Panoan	Knee	Knee	37	Kaxarari	tʃãburu	tʃãburu	None
+122	h e m i	4	h e m i	None	Blood	Blood	48	Proto-Pano-Takana	hemi	hemi	None
+123	h i m i	4	h i m i	Panoan	Blood	Blood	48	Proto-Pano	himi	himi	None
+124	- i m i	4	i m i	Panoan	Blood	Blood	48	Kakataibo	imi	imi	None
+125	h i m i	4	h i m i	Panoan	Blood	Blood	48	ShipiboKonibo	himi	himi	None
+126	h i m i	4	h i m i	Panoan	Blood	Blood	48	Kapanawa	himi	himi	None
+127	- i m.b i	4	i m.b i	Panoan	Blood	Blood	48	Marubo	imbi	imbi	/b/ as superscript bb
+128	h i m i	4	h i m i	Panoan	Blood	Blood	48	Chacobo	himi	himi	None
+129	h i m i	4	h i m i	Panoan	Blood	Blood	48	Kaxarari	himi	himi	None
+130	- i m -	4	i m	Panoan	Blood	Blood	48	Yaminawa	im	im	None
+131	- i b i	4	i b i	Panoan	Blood	Blood	48	Chaninawa	ibi	ibi	None
+132	- i m i	4	i m i	Panoan	Blood	Blood	48	Sharanawa	imi	imi	None
+133	a s u ( - - )	6	a s u	None	Breast	Breast	None	Proto-Pano-Takana	aṣu	aṣu	None
+134	- ʂ o ( - - )	6	ʂ o	Panoan	Breast	Breast	None	Proto-Pano	ʂo	ʂo	None
+135	- ʂ o ( m a )	6	ʂ o m a	Panoan	Breast	Breast	None	Kakataibo	ʂoma	ʂoma	None
+136	- ʂ o ( m a )	6	ʂ o m a	Panoan	Breast	Breast	None	ShipiboKonibo	ʂoma	ʂoma	None
+137	- ʂ o ( m a )	6	ʂ o m a	Panoan	Breast	Breast	None	Kapanawa	ʂoma	ʂoma	None
+138	- ʂ o ( m a )	6	ʂ o m a	Panoan	Breast	Breast	None	Marubo	ʂoma	ʂoma	None
+139	- ʂ o ( m a )	6	ʂ o m a	Panoan	Breast	Breast	None	Chacobo	ʂoma	ʂoma	None
+140	- ʂ o ( m a )	6	ʂ o m a	Panoan	Breast	Breast	None	Chaninawa	ʂoma	ʂoma	None
+141	- ʂ o ( m a )	6	ʂ o m a	Panoan	Breast	Breast	None	Sharanawa	ʂoma	ʂoma	None
+142	b a d i ( - - )	40	b a d i	None	Moon, Sun	Sun	16	Proto-Pano-Takana	badi	badi	None
+143	β a r i ( - - )	40	β a r i	Panoan	Moon, Sun	Sun	16	Proto-Pano	βari	βari	None
+144	β a ɾ i ( - - )	40	β a ɾ i	Panoan	Moon, Sun	Sun	16	Kakataibo	βaɾi	βaɾi	None
+145	β a ɾ i ( - - )	40	β a ɾ i	Panoan	Moon, Sun	Sun	16	ShipiboKonibo	βaɾi	βaɾi	None
+146	β a ɾ i ( - - )	40	β a ɾ i	Panoan	Moon, Sun	Sun	16	Kapanawa	βaɾi	βaɾi	None
+147	β a ɾ i ( - - )	40	β a ɾ i	Panoan	Moon, Sun	Sun	16	Marubo	vaɾi	vaɾi	None
+148	β a ɾ i ( - - )	40	β a ɾ i	Panoan	Moon, Sun	Sun	16	Chacobo	βaɾi	βaɾi	None
+149	β a tʃ i ( - - )	40	β a tʃ i	Panoan	Moon, Sun	Sun	16	Kaxarari	βatʃi	βatʃi	None
+150	ɸ a ɾ i ( - - )	40	ɸ a ɾ i	Panoan	Moon, Sun	Sun	16	Chaninawa	ɸaɾi	ɸaɾi	None
+151	ɸ a r i ( - - )	40	ɸ a r i	Panoan	Moon, Sun	Sun	16	Sharanawa	ɸari	ɸari	None
+152	m i ( - - - - - )	47	m i	None	You	You	72	Proto-Pano-Takana	mi	mi	None
+153	m i ( - - - - - )	47	m i	Panoan	You	You	72	Proto-Pano	mi	mi	None
+154	m !iː/i ( - - - - - )	47	m !iː/i	Panoan	You	You	72	Kakataibo	miː	miː	None
+155	m i ( - - a - - )	47	m i a	Panoan	You	You	72	ShipiboKonibo	mia	mia	None
+156	m i ( - - a - - )	47	m i a	Panoan	You	You	72	Kapanawa	mia	mia	None
+157	m i ( - - a - - )	47	m i a	Panoan	You	You	72	Chacobo	mia	mia	object form
+158	b ɨ	10	b ɨ	None	Come	Come	24	Proto-Pano-Takana	bɨ-	bɨ-	None
+159	β ɨ	10	β ɨ	Panoan	Come	Come	24	Proto-Pano	βɨ-	βɨ-	'come,bring'
+160	β ɨ	10	β ɨ	Panoan	Come	Come	24	Kakataibo	βɨ-	βɨ-	None
+161	β ɨ	10	β ɨ	Panoan	Come	Come	24	ShipiboKonibo	βɨ-	βɨ-	None
+162	β ɨ	10	β ɨ	Panoan	Come	Come	24	Kapanawa	βɨ-	βɨ-	None
+163	β ɨ	10	β ɨ	Panoan	Come	Come	24	Chacobo	βɨ-	βɨ-	None
+164	b ɨ	10	b ɨ	Panoan	Come	Come	24	Kaxarari	bɨ-	bɨ-	None
+165	ɸ ɨ	10	ɸ ɨ	Panoan	Come	Come	24	Yaminawa	ɸɨ-	ɸɨ-	None
+166	ɸ ɨ	10	ɸ ɨ	Panoan	Come	Come	24	Chaninawa	ɸɨ-	ɸɨ-	None
+167	ɸ ɨ	10	ɸ ɨ	Panoan	Come	Come	24	Sharanawa	ɸɨ-	ɸɨ-	None
+168	ʔ ɨ ( - - - )	28	ʔ ɨ	None	I	I	11	Proto-Pano-Takana	ʔɨ	ʔɨ	None
+169	ʔ ɨ ( - - - )	28	ʔ ɨ	Panoan	I	I	11	Proto-Pano	ʔɨ	ʔɨ	None
+170	ʔ ɨ ( - - - )	28	ʔ ɨ	Panoan	I	I	11	Kakataibo	ʔɨ	ʔɨ	None
+171	ʔ ɨ ( - - - )	28	ʔ ɨ	Panoan	I	I	11	ShipiboKonibo	ʔɨ	ʔɨ	None
+172	ʔ ɨ ( - - - )	28	ʔ ɨ	Panoan	I	I	11	Kapanawa	ʔɨ	ʔɨ	None
+173	- ɨ ( - - - )	28	ɨ	Panoan	I	I	11	Chacobo	ɨ	ɨ	None
+174	( - - ) !N/n a m i	23	!N/n a m i	None	Flesh	Flesh	78	Proto-Pano-Takana	Nami	Nami	None
+175	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Proto-Pano	nami	nami	Additional cognates refering to body parts
+176	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Kakataibo	nami	nami	None
+177	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	ShipiboKonibo	nami	nami	None
+178	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Kapanawa	nami	nami	None
+179	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Marubo	nami	nami	None
+180	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Chacobo	nami	nami	None
+181	( - - ) l a m i	23	l a m i	Panoan	Flesh	Flesh	78	Kaxarari	lami	lami	None
+182	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Yaminawa	nami	nami,nãmi	None
+183	( - - ) n a b i	23	n a b i	Panoan	Flesh	Flesh	78	Chaninawa	nabi	nabi,dami	None
+184	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Sharanawa	nami	nami,namin	None
+185	( - - ) ʂ ɨ !N/n i	20	ʂ ɨ !N/n i	None	Fat	Fat	99	Proto-Pano-Takana	ʂɨNi	ʂɨNi	None
+186	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Proto-Pano	ʂɨni	ʂɨni	None
+187	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Kakataibo	ʂɨni	ʂɨni	None
+188	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	ShipiboKonibo	ʂɨni	ʂɨni	None
+189	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Kapanawa	ʂɨni	ʂɨni	None
+190	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Marubo	ʂɨni	ʂɨni	None
+191	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Chacobo	ʂɨni	ʂɨni	None
+192	( - - ) ʂ ɨ n !ĩ/i	20	ʂ ɨ n !ĩ/i	Panoan	Fat	Fat	99	Yaminawa	ʂɨnĩ	ʂɨnĩ	None
+193	( - - ) ʃ ɨ d i	20	ʃ ɨ d i	Panoan	Fat	Fat	99	Chaninawa	ʃɨdi	ʃɨdi,ʃidi,ʂidi	None
+194	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Sharanawa	ʂɨni	ʂɨni	None
+195	( - - ) m ɨ - ( + ) ts i z i ( - - - - - )	21	m ɨ + ts i z i	None	Fingernail	Fingernail	None	Proto-Pano-Takana	mɨ-tsizi	mɨ-tsizi	None
+196	( - - ) m ɨ ∼ ( + ) ts i s i ( - - - - - )	21	m ɨ ∼ + ts i s i	Panoan	Fingernail	Fingernail	None	Proto-Pano	mɨ̃-tsisi	mɨ̃-tsis[i]	None
+197	( - - ) - u n ( - ) ts i s - ( - - - - - )	21	u n ts i s	Panoan	Fingernail	Fingernail	None	Kakataibo	Untsis	Untsis,untsɨs	None
+198	( - - ) m ɨ ∼ ( - ) ts i s - ( - - - - - )	21	m ɨ ∼ ts i s	Panoan	Fingernail	Fingernail	None	ShipiboKonibo	mɨ̃ntsis	mɨ̃ntsis,mɨ̃tsis	None
+199	( - - ) m !ɨ̃/ɨ n ( - ) ts i s - ( - - - - - )	21	m !ɨ̃/ɨ n ts i s	Panoan	Fingernail	Fingernail	None	Kapanawa	mɨ̃ntsis	mɨ̃ntsis	None
+200	( - - ) m ɨ ∼ ( - ) ts i s i ( - - - - - )	21	m ɨ ∼ ts i s i	Panoan	Fingernail	Fingernail	None	Marubo	mɨ̃tsisi	mɨ̃tsisi	None
+201	( - - ) m ɨ ∼ ( - ) ts i s - ( - - - - - )	21	m ɨ ∼ ts i s	Panoan	Fingernail	Fingernail	None	Chacobo	mɨ̃tsis	mɨ̃tsis,mɨ̃tsisi	None
+202	( - - ) m ɨ ∼ ( - ) tʃ i s i ( - - - - - )	21	m ɨ ∼ tʃ i s i	Panoan	Fingernail	Fingernail	None	Kaxarari	mɨ̃tʃisi	mɨ̃tʃisi	None
+203	( - - ) m i - ( - ) ts i s - ( - - - - - )	21	m i ts i s	Panoan	Fingernail	Fingernail	None	Yaminawa	mitsis	mitsis,mitsisi	None
+204	( - - ) b i - ( - ) ts i s - ( - - - - - )	21	b i ts i s	Panoan	Fingernail	Fingernail	None	Chaninawa	bitsis	bitsis(otsis)	None
+205	( - - ) m ɨ - ( - ) ts i s i ( - - - - - )	21	m ɨ ts i s i	Panoan	Fingernail	Fingernail	None	Sharanawa	mɨtsisi	mɨtsisi,otsisi	None
+206	( - - - - ) t a ( - - - - - - - )	24	t a	None	Foot,leg	Foot,leg	103	Proto-Pano-Takana	ta-	ta-	None
+207	( - - - - ) t a ( - - - - - - - )	24	t a	Panoan	Foot,leg	Foot,leg	103	Proto-Pano	ta-	ta-	'foot'
+208	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Kakataibo	taɨ	taɨ	None
+209	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	ShipiboKonibo	taɨ	taɨ	None
+210	( - - - - ) t a ( ʔ ɨ - - - - - )	24	t a ʔ ɨ	Panoan	Foot,leg	Foot,leg	103	Kapanawa	taʔɨ	taʔɨ	None
+211	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Marubo	taɨ	taɨ	None
+212	( - - - - ) t a ( ʔ ɨ - - - - - )	24	t a ʔ ɨ	Panoan	Foot,leg	Foot,leg	103	Chacobo	taʔɨ	taʔɨ	None
+213	( - - - - ) t a ( ʔ ɨ - - - - - )	24	t a ʔ ɨ	Panoan	Foot,leg	Foot,leg	103	Kaxarari	taʔɨ	taʔɨ	None
+214	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Yaminawa	taɨ	taɨ,taɨ̃	None
+215	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Chaninawa	taɨ	taɨ	None
+216	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Sharanawa	taɨ	taɨ,taɨn	None
+217	( - - ) kʷ ɨ ( - - - - - - - - )	32	kʷ ɨ	None	Lip,edge	Lip,edge	59	Proto-Pano-Takana	kʷɨ	kʷɨ~kɨ-	None
+218	( - - ) kʷ ɨ ( - - - - - - - - )	32	kʷ ɨ	Panoan	Lip,edge	Lip,edge	59	Proto-Pano	kʷɨ-	kʷɨ-	None
+219	( - - ) kʷ ɨ ( β i - - - - - - )	32	kʷ ɨ β i	Panoan	Lip,edge	Lip,edge	59	Kakataibo	kʷɨβi-	kʷɨβi-	None
+220	( - - ) k ɨ ( β i - - - - - - )	32	k ɨ β i	Panoan	Lip,edge	Lip,edge	59	ShipiboKonibo	kɨβi-	kɨβi-	None
+221	( - - ) k ɨ ( β i tʃ i - - - - )	32	k ɨ β i tʃ i	Panoan	Lip,edge	Lip,edge	59	Chacobo	kɨβitʃi	kɨβitʃi	None
+222	( - - ) k u ( ɸ i r i s i k a )	32	k u ɸ i r i s i k a	Panoan	Lip,edge	Lip,edge	59	Sharanawa	kuɸirisika	kuɸirisika	None
+223	( - - - - ) t a m u	9	t a m u	None	Cheek	Cheek	105	Proto-Pano-Takana	tamu	tamu	None
+224	( - - - - ) t a m o	9	t a m o	Panoan	Cheek	Cheek	105	Proto-Pano	tamo	tamo	None
+225	( - - - - ) t a m o	9	t a m o	Panoan	Cheek	Cheek	105	Kakataibo	tamo	tamo	None
+226	( - - - - ) t a m o	9	t a m o	Panoan	Cheek	Cheek	105	ShipiboKonibo	tamo	tamo	None
+227	( - - - - ) t a m o	9	t a m o	Panoan	Cheek	Cheek	105	Kapanawa	tamo	tamo	None
+228	( - - - - ) t a m.b o	9	t a m.b o	Panoan	Cheek	Cheek	105	Marubo	tambo	tambo	/m/ as superscript
+229	( - - - - ) t a m o	9	t a m o	Panoan	Cheek	Cheek	105	Chacobo	tamo	tamo	None
+230	( - - - - ) t a m u	9	t a m u	Panoan	Cheek	Cheek	105	Kaxarari	tamu	tamu	None
+231	( - - - - ) t a m o	9	t a m o	Panoan	Cheek	Cheek	105	Yaminawa	tamo	tamo,tamõ	None
+232	( - - - - ) t a m o	9	t a m o	Panoan	Cheek	Cheek	105	Sharanawa	tamo	tamo,tamon	None
+233	( - - ) kʷ e ʂ a ( - - )	35	kʷ e ʂ a	None	Mouth	Mouth	None	Proto-Pano-Takana	kʷeʂa	kʷeʂa	None
+234	( - - ) kʷ ɨ ʂ a ( - - )	35	kʷ ɨ ʂ a	Panoan	Mouth	Mouth	None	Proto-Pano	kʷɨʂa	kʷɨʂa[CV]	None
+235	( - - ) kʷ ɨ ʂ a ( - - )	35	kʷ ɨ ʂ a	Panoan	Mouth	Mouth	None	Kakataibo	kʷɨʂa	kʷɨʂa	None
+236	( - - ) k ɨ ʂ a ( - - )	35	k ɨ ʂ a	Panoan	Mouth	Mouth	None	ShipiboKonibo	kɨʂa	kɨʂa	None
+237	( - - ) k ɨ ʂ a ( - - )	35	k ɨ ʂ a	Panoan	Mouth	Mouth	None	Kapanawa	kɨʂa	kɨʂa	None
+238	( - - ) k ɨ ʃ a ( - - )	35	k ɨ ʃ a	Panoan	Mouth	Mouth	None	Marubo	kɨʃa	kɨʃa	None
+239	( - - ) k ɨ ʂ a ( k a )	35	k ɨ ʂ a k a	Panoan	Mouth	Mouth	None	Kaxarari	kɨʂaka	kɨʂaka	None
+240	( - - ) k ɨ ʂ !ã/a ( - - )	35	k ɨ ʂ !ã/a	Panoan	Mouth	Mouth	None	Yaminawa	kɨʂã	kɨʂã,kɨʂamã	None
+241	( - - ) k ɨ ʃ a ( - - )	35	k ɨ ʃ a	Panoan	Mouth	Mouth	None	Chaninawa	kɨʃa	kɨʃa,kɨʂa	None
+242	( - - ) k ɨ ʂ a ( - - )	35	k ɨ ʂ a	Panoan	Mouth	Mouth	None	Sharanawa	kɨʂa	kɨʂa,kɨʂan	None
+243	( - - - - - - ) b a ( - ) s u ( - - - - - - - - - )	19	b a s u	None	Elbow	Elbow	None	Proto-Pano-Takana	baṣu	baṣu	None
+244	( - - - - - - ) β a ( - ) ʂ - ( - - - - - - - - - )	19	β a ʂ	Panoan	Elbow	Elbow	None	Proto-Pano	βaʂ-	βaʂ(u)-	None
+245	( - - - b a n ) b u ( - ) x u ( - - - - - - - - - )	19	b a n b u x u	Panoan	Elbow	Elbow	None	Kakataibo	banbuxu	banbuxu	None
+246	( - - - - - - ) - - ( - ) - - ( p !õ/o - t o ~ - k o )	19	p !õ/o t o ~ k o	Panoan	Elbow	Elbow	None	ShipiboKonibo	põtõko	põtõko	None
+247	( - - - - - - ) b a ( - ) ʂ - ( p o ʂ - - - - k o )	19	b a ʂ p o ʂ k o	Panoan	Elbow	Elbow	None	Kapanawa	baʂpoʂko	baʂpoʂko	None
+248	( - - - - - - ) b a ( - ) s - ( p o - t o - - - - )	19	b a s p o t o	Panoan	Elbow	Elbow	None	Chacobo	baspoto	baspoto	None
+249	( - - - - - - ) p a ( - ) x u ( x u - - - - - - - )	19	p a x u x u	Panoan	Elbow	Elbow	None	Kaxarari	paxuxu	paxuxu	None
+250	( - - - - - - ) - - ( - ) - - ( p o + t o + ʃ k o )	19	p o + t o + ʃ k o	Panoan	Elbow	Elbow	None	Yaminawa	po-to-ṣ̌ko	po-to-ṣ̌ko	None
+251	- i w i ( - - )	45	i w i	Panoan	Tree	Tree	47	Shanenawa	iwi	iwi	None
+252	h i w i ( - - )	45	h i w i	Panoan	Tree	Tree	47	Katukina	hiwi	hiwi	None
+253	- i w i ( - - )	45	i w i	Panoan	Tree	Tree	47	Poyanawa	iwi	iwi	None
+254	h !iː/i - - ( - - )	45	h !iː/i	Panoan	Tree	Tree	47	Amawaka	hiː	hiː	None
+255	h i - - ( - - )	45	h i	Panoan	Tree	Tree	47	Kaxinawa	hi	hi	None
+256	- i w i ( - - )	45	i w i	Panoan	Tree	Tree	47	Marinawa	iwi	iwi	None
+257	- i w i ( - - )	45	i w i	Panoan	Tree	Tree	47	Korubo	iwi	iwi	None
+258	- i w i ( - - )	45	i w i	Panoan	Tree	Tree	47	Matses	iwi	iwi	None
+259	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Shanenawa	ʂɨta	ʂɨta	None
+260	( - - ) ʂ i ( - t a )	44	ʂ i t a	Panoan	Tooth	Tooth	96	Katukina	ʂita	ʂita	None
+261	( - - ) x ɨ ( - t a )	44	x ɨ t a	Panoan	Tooth	Tooth	96	Amawaka	xɨta	xɨta	None
+262	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Kaxinawa	ʂɨta	ʂɨta	None
+263	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Marinawa	ʂɨta	ʂɨta	None
+264	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Yawanawa	ʂɨta	ʂɨta	None
+265	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Korubo	ʂɨta	ʂɨta	None
+266	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Matis	ʂɨta	ʂɨta	None
+267	( - - ) ʂ ɨ ( - t a )	44	ʂ ɨ t a	Panoan	Tooth	Tooth	96	Matses	ʂɨta	ʂɨta	None
+268	( r a - ) f u - - ( - - - - )	46	r a f u	Panoan	Two	Two	24	Shanenawa	rafu	rafu	None
+269	( r a - ) β i - - ( - - - - )	46	r a β i	Panoan	Two	Two	24	Katukina	raβi	raβi	None
+270	( r a - ) β u - - ( - - - - )	46	r a β u	Panoan	Two	Two	24	Poyanawa	raβu	raβu	None
+271	( r a - ) β ɨ - - ( - - - - )	46	r a β ɨ	Panoan	Two	Two	24	Amawaka	raβɨ	raβɨ	None
+272	( r a - ) ɸ ɨ - - ( - - - - )	46	r a ɸ ɨ	Panoan	Two	Two	24	Marinawa	raɸɨ	raɸɨ	None
+273	( r a - ) β ɨ - - ( - - - - )	46	r a β ɨ	Panoan	Two	Two	24	Yawanawa	raβɨ	raβɨ	None
+274	( ɬ a - ) β ɨ t - ( p a - - )	46	ɬ a β ɨ t p a	Panoan	Two	Two	24	Korubo	ɬaβɨtpa	ɬaβɨtpa	None
+275	( d a - ) b ɨ d - ( p a - - )	46	d a b ɨ d p a	Panoan	Two	Two	24	Matis	dabɨdpa	dabɨdpa	None
+276	( d a - ) - ɨ d - ( - - - - )	46	d a ɨ d	Panoan	Two	Two	24	Matses	daɨd	daɨd	None
+277	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Shanenawa	taka	taka	None
+278	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Katukina	taka	taka	None
+279	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Poyanawa	taka	taka	None
+280	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Amawaka	taka	taka	None
+281	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Kaxinawa	taka	taka	None
+282	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Marinawa	taka	taka	None
+283	( - - ) t a k a	33	t a k a	Panoan	Liver	Liver	104	Yawanawa	taka	taka	None
+284	( - - ) t a kʷ a	33	t a kʷ a	Panoan	Liver	Liver	104	Korubo	takʷa	takʷa	None
+285	( - - ) t a kʷ a	33	t a kʷ a	Panoan	Liver	Liver	104	Matis	takua	takua	None
+286	( - - ) t a kʷ a	33	t a kʷ a	Panoan	Liver	Liver	104	Matses	takʷa	takʷa	None
+287	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Shanenawa	pɨj	pɨj	None
+288	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Katukina	pɨi	pɨi	None
+289	( - - ) p u - i	31	p u i	Panoan	Leaf, to fan	Leaf	None	Poyanawa	puy	puy	None
+290	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Panoan	Leaf, to fan	Leaf	None	Amawaka	pɨʔi	pɨʔi	None
+291	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Kaxinawa	pɨi	pɨi	None
+292	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Marinawa	pɨi	pɨi	None
+293	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Yawanawa	pɨi	pɨi	None
+294	( - - ) p ɨ - i	31	p ɨ i	Panoan	Leaf, to fan	Leaf	None	Matis	pɨi	pɨi	None
+295	( - - ) p ɨ - -	31	p ɨ	Panoan	Leaf, to fan	Leaf	None	Matses	pɨ	pɨ	None
+296	( - - - ) ʂ a ( - ) !w/o	5	ʂ a !w/o	Panoan	Bone	Bone	93	Shanenawa	ʂaw	ʂaw	Shell (1975: 174, 398) and Oliveira (2014: 459, 398) reconstruct *ʂao. Kasharari presents the form ʂahu [ʂa'hwu] (Lanes 2005, in Oliveira 2014). For Matses/Mayoruna we consider as evidence the final consonant in mɨ-ʂ‘wrist bone’, taɨ-ʂ‘ankle bone’, and ʂomoʂ‘needle made of bone’ (Fleck et al. 2012).
+297	( - - - ) ʃ a ( - ) u	5	ʃ a u	Panoan	Bone	Bone	93	Katukina	ʃau	ʃau	None
+298	( - - - ) h a ( - ) !w/u	5	h a !w/u	Panoan	Bone	Bone	93	Poyanawa	haw	haw	None
+299	( - - - ) x a ( - ) o	5	x a o	Panoan	Bone	Bone	93	Amawaka	xao	xao	None
+300	( - - - ) ʂ a ( - ) u	5	ʂ a u	Panoan	Bone	Bone	93	Kaxinawa	ʂau	ʂau	None
+301	( - - - ) ʂ a ( - ) o	5	ʂ a o	Panoan	Bone	Bone	93	Marinawa	ʂao	ʂao	None
+302	( - - - ) ʃ a ( - ) u	5	ʃ a u	Panoan	Bone	Bone	93	Yawanawa	ʃau	ʃau	None
+303	( m ɨ + ) ʂ - ( - ) -	5	m ɨ + ʂ	Panoan	Bone	Bone	93	Matses	mɨ-ʂ	mɨ-ʂ,taɨ-ʂ,ʂomoʂ	'wrist bone','ankle bone','needle made of bone'
+304	( - - - ) - a n ( - ) a	43	a n a	Panoan	Tongue	Tongue	46	Shanenawa	ana	ana	None
+305	( - - - ) - a n ( - ) a	43	a n a	Panoan	Tongue	Tongue	46	Katukina	ana	ana	None
+306	( - - - ) - a ~.d ( - ) a	43	a ~.d a	Panoan	Tongue	Tongue	46	Poyanawa	ãda	ãda	None
+307	( - - - ) h a n ( - ) a	43	h a n a	Panoan	Tongue	Tongue	46	Amawaka	hana	hana	None
+308	( - - - ) h a n ( - ) a	43	h a n a	Panoan	Tongue	Tongue	46	Kaxinawa	hana	hana	None
+309	( - - - ) - a n ( - ) a	43	a n a	Panoan	Tongue	Tongue	46	Marinawa	ana	ana	None
+310	( - - - ) - a n ( n ) a	43	a n n a	Panoan	Tongue	Tongue	46	Yawanawa	anna	anna	None
+311	( - - - ) - a n ( - ) a	43	a n a	Panoan	Tongue	Tongue	46	Korubo	ana	ana	None
+312	( - - - ) - a n ( - ) a	43	a n a	Panoan	Tongue	Tongue	46	Matis	ana	ana	None
+313	( - - ) m ɨ ( k ɨ ~ - - - )	27	m ɨ k ɨ ~	Panoan	Hand	Hand	70	Amawaka	mɨkɨ̃	mɨkɨ̃	None
+314	( - - ) m ɨ ( k ɨ ~ - - - )	27	m ɨ k ɨ ~	Panoan	Hand	Hand	70	Kaxinawa	mɨkɨ̃	mɨkɨ̃	None
+315	( - - ) m ɨ ( k ɨ - - - - )	27	m ɨ k ɨ	Panoan	Hand	Hand	70	Marinawa	mɨkɨ	mɨkɨ	None
+316	( - - ) m ɨ ( k ɨ n - - - )	27	m ɨ k ɨ n	Panoan	Hand	Hand	70	Matis	mɨkɨn	mɨkɨn	None
+317	( - - ) m ɨ ( d a n t e - )	27	m ɨ d a n t e	Panoan	Hand	Hand	70	Matses	mɨdante	mɨdante	None
+318	( - j a ) m ɨ - - ( - - - - - )	37	j a m ɨ	Panoan	Night	Night	71	Shanenawa	yamɨ	yamɨ	None
+319	( - j a ) m ɨ - - ( - - - - - )	37	j a m ɨ	Panoan	Night	Night	71	Katukina	yamɨ	yamɨ	None
+320	( - i a ) ~.b u - - ( - - - - - )	37	i a ~.b u	Panoan	Night	Night	71	Poyanawa	iãvu	iãvu	None
+321	( - j a ) m !ɨː/ɨ - - ( - - - - - )	37	j a m !ɨː/ɨ	Panoan	Night	Night	71	Amawaka	yamɨː	yamɨː	None
+322	( - j a ) m ɨ - - ( - - - - - )	37	j a m ɨ	Panoan	Night	Night	71	Kaxinawa	yamɨ	yamɨ	None
+323	( - j a ) m ɨ - - ( - - - - - )	37	j a m ɨ	Panoan	Night	Night	71	Marinawa	yamɨ	yamɨ	None
+324	( - i a ) m ɨ - - ( - - - - - )	37	i a m ɨ	Panoan	Night	Night	71	Yawanawa	iamɨ	iamɨ	None
+325	( - - i ) m ɨ t - ( - - - - - )	37	i m ɨ t	Panoan	Night	Night	71	Korubo	imɨt	imɨt	None
+326	( - - i ) m ɨ d - ( - - - - - )	37	i m ɨ d	Panoan	Night	Night	71	Matis	imɨd	imɨd	None
+327	( - - ) f i tʃ i	39	f i tʃ i	Panoan	Skin	Skin	22	Shanenawa	fitʃi	fitʃi	None
+328	( - - ) b i tʃ i	39	b i tʃ i	Panoan	Skin	Skin	22	Kaxinawa	bitʃi	bitʃi	None
+329	( - - ) ɸ i tʃ i	39	ɸ i tʃ i	Panoan	Skin	Skin	22	Marinawa	ɸitʃi	ɸitʃi	None
+330	( - - ) β ɨ tʃ i	39	β ɨ tʃ i	Panoan	Skin	Skin	22	Yawanawa	βɨtʃi	βɨtʃi	None
+331	( - - ) b i ts i	39	b i ts i	Panoan	Skin	Skin	22	Matis	bitsi	bitsi	None
+332	( - - ) b i ts i	39	b i ts i	Panoan	Skin	Skin	22	Matses	bitsi	bitsi	None
+333	( - - ) tʃ i - - ( - - - )	22	tʃ i	Panoan	Fire	Fire	None	Shanenawa	tʃi	tʃi	None
+334	( - - ) tʃ i - i ( - - - )	22	tʃ i i	Panoan	Fire	Fire	None	Katukina	tʃii	tʃii	None
+335	( - - ) tʃ i ʔ i ( - - - )	22	tʃ i ʔ i	Panoan	Fire	Fire	None	Amawaka	tʃiʔi	tʃiʔi	None
+336	( - - ) tʃ i - - ( - - - )	22	tʃ i	Panoan	Fire	Fire	None	Kaxinawa	tʃi	tʃi	None
+337	( - - ) tʃ i - - ( - - - )	22	tʃ i	Panoan	Fire	Fire	None	Marinawa	tʃi	tʃi	None
+338	( - - ) tʃ i - - ( - - - )	22	tʃ i	Panoan	Fire	Fire	None	Yawanawa	tʃi	tʃi	None
+339	( - - - - - ) r a - ( β ɨ ʂ - o )	30	r a β ɨ ʂ o	Panoan	Knee	Knee	37	Katukina	raβɨʂo	raβɨʂo	None
+340	( - - - - - ) r a - ( w o x k o )	30	r a w o x k o	Panoan	Knee	Knee	37	Amawaka	rawoxko	rawoxko	None
+341	- i m i	4	i m i	Panoan	Blood	Blood	48	Shanenawa	imi	imi	None
+342	h i m i	4	h i m i	Panoan	Blood	Blood	48	Katukina	himi	himi	None
+343	- i b i	4	i b i	Panoan	Blood	Blood	48	Poyanawa	ibi	ibi	None
+344	h i m i	4	h i m i	Panoan	Blood	Blood	48	Amawaka	himi	himi	None
+345	h i m i	4	h i m i	Panoan	Blood	Blood	48	Kaxinawa	himi	himi	None
+346	- i m i	4	i m i	Panoan	Blood	Blood	48	Marinawa	imi	imi	None
+347	- i m i	4	i m i	Panoan	Blood	Blood	48	Yawanawa	imi	imi	None
+348	- i n.t a	4	i n.t a	Panoan	Blood	Blood	48	Korubo	inta	inta	None
+349	- i m i	4	i m i	Panoan	Blood	Blood	48	Matis	imi	imi	None
+350	- i m i	4	i m i	Panoan	Blood	Blood	48	Matses	imi	imi	None
+351	- ʂ u ( m a )	6	ʂ u m a	Panoan	Breast	Breast	None	Shanenawa	ʂuma	ʂuma	None
+352	- ʃ u ( m a )	6	ʃ u m a	Panoan	Breast	Breast	None	Katukina	ʃuma	ʃuma	None
+353	- h u ( ~.b a )	6	h u ~.b a	Panoan	Breast	Breast	None	Poyanawa	hũba	hũba	None
+354	- x o ( m a )	6	x o m a	Panoan	Breast	Breast	None	Amawaka	xoma	xoma	None
+355	- ʂ u ( m a )	6	ʂ u m a	Panoan	Breast	Breast	None	Kaxinawa	ʂuma	ʂuma	None
+356	- ʂ o ( m a )	6	ʂ o m a	Panoan	Breast	Breast	None	Marinawa	ʂoma	ʂoma	None
+357	- ʃ u ( m a )	6	ʃ u m a	Panoan	Breast	Breast	None	Yawanawa	ʃuma	ʃuma	None
+358	- ʂ u ( m a )	6	ʂ u m a	Panoan	Breast	Breast	None	Korubo	ʂuma	ʂuma	None
+359	- ʂ u ( m a )	6	ʂ u m a	Panoan	Breast	Breast	None	Matis	ʂuma	ʂuma	None
+360	- ʂ u ( m a )	6	ʂ u m a	Panoan	Breast	Breast	None	Matses	ʂuma	ʂuma	None
+361	f a ɾ i ( - - )	40	f a ɾ i	Panoan	Moon, Sun	Sun	16	Shanenawa	faɾi	faɾi	None
+362	β a ɾ i ( - - )	40	β a ɾ i	Panoan	Moon, Sun	Sun	16	Katukina	βaɾi	βaɾi	None
+363	β a ɾ i ( - - )	40	β a ɾ i	Panoan	Moon, Sun	Sun	16	Poyanawa	βaɾi	βaɾi	None
+364	b a r i ( - - )	40	b a r i	Panoan	Moon, Sun	Sun	16	Amawaka	bari	bari	None
+365	b a d i ( - - )	40	b a d i	Panoan	Moon, Sun	Sun	16	Kaxinawa	badi	badi	None
+366	ɸ a ɾ i ( - - )	40	ɸ a ɾ i	Panoan	Moon, Sun	Sun	16	Marinawa	ɸaɾi	ɸaɾi	None
+367	β a ɾ i ( - - )	40	β a ɾ i	Panoan	Moon, Sun	Sun	16	Yawanawa	βaɾi	βaɾi	None
+368	β a ɬ i ( - - )	40	β a ɬ i	Panoan	Moon, Sun	Sun	16	Korubo	βaɬi	βaɬi	None
+369	b a d i ( - - )	40	b a d i	Panoan	Moon, Sun	Sun	16	Matis	badi	badi	None
+370	b a d i ( a d )	40	b a d i a d	Panoan	Moon, Sun	Sun	16	Matses	badiad	badiad	None
+371	m i ( j - a - - )	47	m i j a	Panoan	You	You	72	Amawaka	miya	miya	None
+372	m i ( - - a - - )	47	m i a	Panoan	You	You	72	Kaxinawa	mia	mia	None
+373	m i ( - - a - - )	47	m i a	Panoan	You	You	72	Marinawa	mia	mia	None
+374	m i ( - - - - - )	47	m i	Panoan	You	You	72	Korubo	mi	mi	None
+375	m i ( - - - - - )	47	m i	Panoan	You	You	72	Matis	mi_	mi (minbi,mibi,min)	None
+376	m i ( - - - - - )	47	m i	Panoan	You	You	72	Matses	mi_	mi (minbi,mibi,min)	None
+377	β ɨ	10	β ɨ	Panoan	Come	Come	24	Amawaka	βɨ-	βɨ-	None
+378	b ɨ	10	b ɨ	Panoan	Come	Come	24	Kaxinawa	bɨ-	bɨ-	None
+379	ɸ ɨ	10	ɸ ɨ	Panoan	Come	Come	24	Marinawa	ɸɨ-	ɸɨ-	None
+380	β ɨ	10	β ɨ	Panoan	Come	Come	24	Yawanawa	βɨ-	βɨ-	None
+381	β ɨ	10	β ɨ	Panoan	Come	Come	24	Korubo	βɨ-	βɨ-	None
+382	β ɨ	10	β ɨ	Panoan	Come	Come	24	Matis	βɨ-	βɨ-	None
+383	b ɨ	10	b ɨ	Panoan	Come	Come	24	Matses	bɨ-	bɨ-	None
+384	- ɨ ( - - - )	28	ɨ	Panoan	I	I	11	Amawaka	ɨ	ɨ	None
+385	- ɨ ( - - - )	28	ɨ	Panoan	I	I	11	Kaxinawa	ɨ	ɨ	None
+386	- ɨ ( - - - )	28	ɨ	Panoan	I	I	11	Marinawa	ɨ	ɨ	None
+387	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Shanenawa	nami	nami	None
+388	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Katukina	nami	nami	None
+389	( - - ) n a ~.b i	23	n a ~.b i	Panoan	Flesh	Flesh	78	Poyanawa	nãbi	nãbi	None
+390	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Amawaka	nami	nami	None
+391	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Kaxinawa	nami	nami	None
+392	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Marinawa	nami	nami	None
+393	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Yawanawa	nami	nami	None
+394	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Matis	nami	nami	None
+395	( - - ) n a m i	23	n a m i	Panoan	Flesh	Flesh	78	Matses	nami	nami	None
+396	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Shanenawa	ʂɨni	ʂɨni	None
+397	( - - ) ʃ ɨ n i	20	ʃ ɨ n i	Panoan	Fat	Fat	99	Katukina	ʃɨni	ʃɨni	None
+398	( - - ) h a ~.d i	20	h a ~.d i	Panoan	Fat	Fat	99	Poyanawa	hãdi	hãdi	None
+399	( - - ) x ɨ n i	20	x ɨ n i	Panoan	Fat	Fat	99	Amawaka	xɨni	xɨni	None
+400	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Kaxinawa	ʂɨni	ʂɨni	None
+401	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Marinawa	ʂɨni	ʂɨni	None
+402	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Yawanawa	ʂɨni	ʂɨni	None
+403	( - - ) ʃ ɨ n i	20	ʃ ɨ n i	Panoan	Fat	Fat	99	Korubo	ʃɨni	ʃɨni	None
+404	( - - ) ʂ ɨ n i	20	ʂ ɨ n i	Panoan	Fat	Fat	99	Matis	ʂɨni	ʂɨni	None
+405	( - - ) m ɨ - ( - ) tʃ i ʃ i ( - - - - - )	21	m ɨ tʃ i ʃ i	Panoan	Fingernail	Fingernail	None	Shanenawa	mɨtʃiʃi	mɨtʃiʃi	None
+406	( - - ) m ɨ ∼ ( - ) tʃ i ʃ i ( - - - - - )	21	m ɨ ∼ tʃ i ʃ i	Panoan	Fingernail	Fingernail	None	Katukina	mɨ̃tʃiʃi	mɨ̃tʃiʃi	None
+407	( - - ) m ɨ n ( - ) ts i s - ( - - - - - )	21	m ɨ n ts i s	Panoan	Fingernail	Fingernail	None	Amawaka	mɨntsis	mɨntsis	None
+408	( - - ) m ɨ ∼ ( - ) ts i s - ( - - - - - )	21	m ɨ ∼ ts i s	Panoan	Fingernail	Fingernail	None	Kaxinawa	mɨ̃tsis	mɨ̃tsis	None
+409	( - - ) m ɨ ∼ ( - ) ts i s i ( - - - - - )	21	m ɨ ∼ ts i s i	Panoan	Fingernail	Fingernail	None	Marinawa	mɨ̃tsisi	mɨ̃tsisi	None
+410	( - - ) m ɨ - ( - ) ts i s i ( - - - - - )	21	m ɨ ts i s i	Panoan	Fingernail	Fingernail	None	Yawanawa	mɨtsisi	mɨtsisi	None
+411	( - - ) m ɨ - ( - ) tʃ i - - ( u n - - - )	21	m ɨ tʃ i u n	Panoan	Fingernail	Fingernail	None	Korubo	mɨtʃiun	mɨtʃiun	None
+412	( - - ) m ɨ n ( - ) t i s - ( - - - - - )	21	m ɨ n t i s	Panoan	Fingernail	Fingernail	None	Matis	mɨntis	mɨntis	None
+413	( - - ) m ɨ n ( - ) ts i s - ( - - - - - )	21	m ɨ n ts i s	Panoan	Fingernail	Fingernail	None	Matses	mɨntsis	mɨntsis	None
+414	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Shanenawa	taɨ	taɨ	None
+415	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Katukina	taɨ	taɨ	None
+416	( - - - - ) t a ( - j - - - - - )	24	t a j	Panoan	Foot,leg	Foot,leg	103	Poyanawa	tay	tay	None
+417	( - - - - ) t a ( ʔ ɨ - - - - - )	24	t a ʔ ɨ	Panoan	Foot,leg	Foot,leg	103	Amawaka	taʔɨ	taʔɨ	None
+418	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Kaxinawa	taɨ	taɨ	None
+419	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Marinawa	taɨ	taɨ	None
+420	( - - - - ) t a ( - i - - - - - )	24	t a i	Panoan	Foot,leg	Foot,leg	103	Yawanawa	tai	tai	None
+421	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Korubo	taɨ	taɨ	None
+422	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Matis	taɨ	taɨ	None
+423	( - - - - ) t a ( - ɨ - - - - - )	24	t a ɨ	Panoan	Foot,leg	Foot,leg	103	Matses	taɨ	taɨ	None
+424	( - - ) k ɨ ( b i tʃ i - - - - )	32	k ɨ b i tʃ i	Panoan	Lip,edge	Lip,edge	59	Kaxinawa	kɨbitʃi	kɨbitʃi	None
+425	( - - ) kʷ i ( b i - - - - - - )	32	kʷ i b i	Panoan	Lip,edge	Lip,edge	59	Matses	kwibi	kwibi	None
+426	( - - - - ) t a m u	9	t a m u	Panoan	Cheek	Cheek	105	Katukina	tamu	tamu	None
+427	( - - - - ) t !ã/a b u	9	t !ã/a b u	Panoan	Cheek	Cheek	105	Poyanawa	tãbu	tãbu	None
+428	( - - - - ) t a m o	9	t a m o	Panoan	Cheek	Cheek	105	Amawaka	tamo	tamo	None
+429	( - - - - ) t a m u	9	t a m u	Panoan	Cheek	Cheek	105	Kaxinawa	tamu	tamu	None
+430	( - - - - ) t a m o	9	t a m o	Panoan	Cheek	Cheek	105	Marinawa	tamo	tamo	None
+431	( - - - - ) t a m.b u	9	t a m.b u	Panoan	Cheek	Cheek	105	Matses	tambu	tambu	'beard'
+432	( - - ) k ɨ ʂ a ( - - )	35	k ɨ ʂ a	Panoan	Mouth	Mouth	None	Shanenawa	kɨʂa	kɨʂa	None
+433	( - - ) k ɨ ʂ a ( - - )	35	k ɨ ʂ a	Panoan	Mouth	Mouth	None	Katukina	kɨʂa	kɨʂa	None
+434	( - - ) k ɨ x a ( - a )	35	k ɨ x a a	Panoan	Mouth	Mouth	None	Poyanawa	kɨxaa	kɨxaa	None
+435	( - - ) k ɨ ʂ a ( - - )	35	k ɨ ʂ a	Panoan	Mouth	Mouth	None	Amawaka	kɨʂa	kɨʂa	None
+436	( - - ) k ɨ ʂ !ã/a ( - - )	35	k ɨ ʂ !ã/a	Panoan	Mouth	Mouth	None	Kaxinawa	kɨʂ̃a	kɨʂ̃a	None
+437	( - - ) k ɨ ʃ a ( - - )	35	k ɨ ʃ a	Panoan	Mouth	Mouth	None	Marinawa	kɨʃa	kɨʃa	None
+438	( - - ) k ɨ h a ( - - )	35	k ɨ h a	Panoan	Mouth	Mouth	None	Yawanawa	kɨha	kɨha	None
+439	( - - - - - - ) b a ( - ) - - ( p o x k o - - - - )	19	b a p o x k o	Panoan	Elbow	Elbow	None	Amawaka	vapoxko	vapoxko	None
+440	( - - - - - - ) b a ( - ) ʂ - ( t u n - - - - k u )	19	b a ʂ t u n k u	Panoan	Elbow	Elbow	None	Kaxinawa	baʂtunku	baʂtunku	None
+441	( m ɨ n tʂ i n ) β u ( - ) r u ( - - - - - - - - - )	19	m ɨ n tʂ i n β u r u	Panoan	Elbow	Elbow	None	Matis	mɨntʂinβuru	mɨntʂinβuru	None
+442	( m ɨ n - - - ) - - ( - ) - - ( ts i m p i - - - s )	19	m ɨ n ts i m p i s	Panoan	Elbow	Elbow	None	Matses	mɨntsimpis	mɨntsimpis	None
+443	- a kʷ i ( - - )	45	a kʷ i	Tacanan	Tree	Tree	47	Proto-Takana	akʷi	akʷi	None
+444	- a k i ( - - )	45	a k i	Tacanan	Tree	Tree	47	Tacanan	aki	aki	None
+445	- e k e ( n á )	45	e k e n a	Tacanan	Tree	Tree	47	Reyesano	ekená	-/ekená	None
+446	- a kʷ i ( - - )	45	a kʷ i	Tacanan	Tree	Tree	47	Araona	acui	acui	None
+447	- a kʷ i ( - - )	45	a kʷ i	Tacanan	Tree	Tree	47	Mabenaro	akwi	akwi	None
+448	- a kʷ i ( - - )	45	a kʷ i	Tacanan	Tree	Tree	47	Cavinena	akwi	akwi	None
+449	- a kʷ i ( - - )	45	a kʷ i	Tacanan	Tree	Tree	47	EseEjja	akwi	akwi	None
+450	- a kʷ i ( - - )	45	a kʷ i	Tacanan	Tree	Tree	47	Warayo	akwi	akwi	None
+451	- a kʷ i ( - - )	45	a kʷ i	Tacanan	Tree	Tree	47	Arasa	akui	akui	None
+452	( e + ) tʂ e ( - - - )	44	e + tʂ e	Tacanan	Tooth	Tooth	96	Proto-Takana	e-ce	e-ce	None
+453	( e + ) tʂ e ( - - - )	44	e + ts e	Tacanan	Tooth	Tooth	96	Reyesano	e-ce	e-ce/etre	None
+454	( e - ) tʃ e ( e - - )	44	e tʃ e e	Tacanan	Tooth	Tooth	96	Sapibokona	echee	echee	None
+455	( i - ) ts i ( - - - )	44	i ts i	Tacanan	Tooth	Tooth	96	Mabenaro	itsi	itsi	None
+456	( e + ) tʂ e ( - - - )	44	e + ts e	Tacanan	Tooth	Tooth	96	Cavinena	e-ce	e-ce	None
+457	( e + ) s e ( - - - )	44	e + s e	Tacanan	Tooth	Tooth	96	EseEjja	e-se	e-se	None
+458	( e + ) s !é/e ( - - - )	44	e + s !é/e	Tacanan	Tooth	Tooth	96	Warayo	e-sé	e-sé	None
+459	( e - ) s e ( - - - )	44	e s e	Tacanan	Tooth	Tooth	96	Tiatinawa	ese	ese	None
+460	( e + ) s !é/e ( - - - )	44	e + s !é/e	Tacanan	Tooth	Tooth	96	Chama	e-sé	e-sé	None
+461	( e - ) s e ( - - - )	44	e s e	Tacanan	Tooth	Tooth	96	Arasa	ese	ese	None
+462	( - - - ) b e t a ( - - - - )	46	b e t a	Tacanan	Two	Two	24	Proto-Takana	beta	beta	None
+463	( - - - ) b e t a ( - - - - )	46	b e t a	Tacanan	Two	Two	24	Tacanan	beta	beta	None
+464	( - - - ) m.b e t a ( - - - - )	46	m.b e t a	Tacanan	Two	Two	24	Reyesano	mbeta	mbeta/beta	None
+465	( - - - ) b e t a ( - - - - )	46	b e t a	Tacanan	Two	Two	24	Sapibokona	beta	beta	None
+466	( - - - ) b e t a ( - - - - )	46	b e t a	Tacanan	Two	Two	24	Araona	beta	beta	None
+467	( - - - ) b e t a ( - - - - )	46	b e t a	Tacanan	Two	Two	24	Cavinena	beta	beta	None
+468	( - - - ) b e k a ( - - - - )	46	b e k a	Tacanan	Two	Two	24	EseEjja	beka	beka	None
+469	( - - - ) b e - a ( b u !é/e - )	46	b e a b u !é/e	Tacanan	Two	Two	24	Warayo	beabué	beabué	None
+470	( - - - ) b i k a ( p i a i )	46	b i k a p i a i	Tacanan	Two	Two	24	Tiatinawa	bikapiai	bikapiai	None
+471	( - - - ) b !é/e k a ( - - - - )	46	b !é/e k a	Tacanan	Two	Two	24	Chama	béka	béka	None
+472	( - - ) t a kʷ a	33	t a kʷ a	Tacanan	Liver	Liver	104	Proto-Takana	takʷa	takʷa	None
+473	( e + ) t a kʷ a	33	e + t a kʷ a	Tacanan	Liver	Liver	104	Tacanan	e-takwa	e-takwa	None
+474	( e + ) t a kʷ a	33	e + t a kʷ a	Tacanan	Liver	Liver	104	Reyesano	e-takwa	e-takwa/-	None
+475	( e + ) t a kʷ a	33	e + t a kʷ a	Tacanan	Liver	Liver	104	Cavinena	e-takwa	e-takwa	None
+476	( e + ) k a kʷ a	33	e + k a kʷ a	Tacanan	Liver	Liver	104	EseEjja	e-kakwa	e-kakwa	None
+477	( e + ) t a kʷ e	33	e + t a kʷ e	Tacanan	Liver	Liver	104	Warayo	e-takwe	e-takwe	None
+478	( e - ) t !á/a kʷ a	33	e t !á/a kʷ a	Tacanan	Liver	Liver	104	Arasa	etákua	etákua	None
+479	( - - ) p e - i	31	p e i	Tacanan	Leaf, to fan	To fan	None	Proto-Takana	pei	pei	None
+480	( - - ) p e - i	31	p e i	Tacanan	Leaf, to fan	To fan	None	Cavinena	pei-	pei-	None
+481	( e + ) p e x i	31	e + p e x i	Tacanan	Leaf, to fan	To fan	None	EseEjja	e-pexi	e-pexi	None
+482	( - - ) p i - o	31	p i o	Tacanan	Leaf, to fan	To fan	None	Warayo	pio-	pio-	None
+483	( - - - ) tʂ a ( - ) u	5	tʂ a u	Tacanan	Bone	Bone	93	Proto-Takana	tʂau	tʂau	None
+484	( - e + ) tʂ a ( - ) u	5	e + ʈʂ a u	Tacanan	Bone	Bone	93	Tacanan	e-cau	e-cau	None
+485	( - e + ) ts a ( - ) o	5	e + ts a o	Tacanan	Bone	Bone	93	Reyesano	e-cao	e-cao/etrá	None
+486	( - e + ) tʂ a ( - ) o	5	e + ts a o	Tacanan	Bone	Bone	93	Cavinena	e-cao	e-cao	None
+487	( - e + ) s !á/a ( - ) -	5	e + s !á/a	Tacanan	Bone	Bone	93	EseEjja	e-sá	e-sá	None
+488	( - e + ) s !á/a ( - ) -	5	e + s !á/a	Tacanan	Bone	Bone	93	Warayo	e-sá	e-sá	None
+489	( - - - ) - a n ( - ) a	43	a n a	Tacanan	Tongue	Tongue	46	Proto-Takana	ana	ana	None
+490	( - j + ) - a n ( - ) a	43	j + a n a	Tacanan	Tongue	Tongue	46	Tacanan	y-ana	y-ana	None
+491	( - j + ) - a n ( - ) a	43	j + a n a	Tacanan	Tongue	Tongue	46	Reyesano	y-ana	y-ana/eana	None
+492	( - - e ) - a n ( - ) a	43	e a n a	Tacanan	Tongue	Tongue	46	Sapibokona	eana	eana	None
+493	( - j + ) - a n ( - ) a	43	j + a n a	Tacanan	Tongue	Tongue	46	Cavinena	y-ana	y-ana	None
+494	( e j - ) - a n ( - ) a	43	e j a n a	Tacanan	Tongue	Tongue	46	EseEjja	eyana	eyana	None
+495	( - j + ) - a n ( - ) a	43	j + a n a	Tacanan	Tongue	Tongue	46	Warayo	y-ana	y-ana	None
+496	( - j - ) - a n ( - ) a	43	j a n a	Tacanan	Tongue	Tongue	46	Tiatinawa	yana	yana	None
+497	( e - - ) - !á/a n ( - ) a	43	e !á/a n a	Tacanan	Tongue	Tongue	46	Arasa	eána	eána	None
+498	( - - ) m e ( - - - - - - )	27	m e	Tacanan	Hand	Hand	70	Proto-Takana	me-	me-	None
+499	( e + ) m e ( - - - - - - )	27	e + m e	Tacanan	Hand	Hand	70	Tacanan	e-me	e-me	None
+500	( e - ) m e ( - - tʃ u j a )	27	e m e tʃ u j a	Tacanan	Hand	Hand	70	Reyesano	emechuja	-/emechuja	None
+501	( e - ) m e ( - - - - - - )	27	e m e	Tacanan	Hand	Hand	70	Sapibokona	eme	eme	None
+502	( e - ) m e ( - - - - - - )	27	e m e	Tacanan	Hand	Hand	70	Araona	eme	eme	None
+503	( e + ) m e ( - - - - - - )	27	e + m e	Tacanan	Hand	Hand	70	Cavinena	e-me	e-me	None
+504	( e + ) m e ( - - - - - - )	27	e + m e	Tacanan	Hand	Hand	70	EseEjja	e-me	e-me	None
+505	( e + ) m !é/e ( - - - - - - )	27	e + m !é/e	Tacanan	Hand	Hand	70	Warayo	e-mé	e-mé	None
+506	( e - ) m !ã/a ( - - - - - - )	27	e m !ã/a	Tacanan	Hand	Hand	70	Arasa	emã	emã	None
+507	( - - - ) m e t a ( - - - - - )	37	m e t a	Tacanan	Night	Night,tomorrow	71	Proto-Takana	meta	meta	None
+508	( - - - ) m ue t a ( - - - - - )	37	m ue t a	Tacanan	Night	Night,tomorrow	71	Tacanan	mueta	mueta	None
+509	( - - - ) m ai t a ( - - - - - )	37	m ai t a	Tacanan	Night	Night,tomorrow	71	Reyesano	maita	-/maita	None
+510	( - - - ) m ae t a ( h e - - - )	37	m ae t a h e	Tacanan	Night	Night,tomorrow	71	Sapibokona	maetahe	maetahe	None
+511	( - - - ) m e t a ( - - - - - )	37	m e t a	Tacanan	Night	Night,tomorrow	71	Cavinena	meta	meta	None
+512	( - - - ) m e k a ( + w a x e )	37	m e k a + w a x e	Tacanan	Night	Night,tomorrow	71	EseEjja	meka-waxe	meka-waxe	None
+513	( e - - ) m !é/e t e ( - - - - - )	37	e m !é/e t e	Tacanan	Night	Night,tomorrow	71	Arasa	eméte	eméte	None
+514	( - - ) b i t i	39	b i t i	Tacanan	Skin	Skin	22	Proto-Takana	biti	biti	None
+515	( e + ) b i t i	39	e + b i t i	Tacanan	Skin	Skin	22	Tacanan	e-biti	e-biti	None
+516	( e + ) m.b i t i	39	e + m.b i t i	Tacanan	Skin	Skin	22	Reyesano	e-mbiti	e-mbiti/embiti	None
+517	( e + ) b i t i	39	e + b i t i	Tacanan	Skin	Skin	22	Cavinena	e-biti	e-biti	None
+518	( - - ) t i - - ( - - - )	22	t i	Tacanan	Fire	Fire	None	Proto-Takana	ti	ti	None
+519	( e + ) t i - - ( + ɽ e )	22	e + t i + ɽ e	Tacanan	Fire	Fire	None	Tacanan	e-ti-ře	e-ti-ře	None
+520	( - - ) t i - - ( - - - )	22	t i	Tacanan	Fire	Fire	None	Reyesano	-ti-	-ti-/-	None
+521	( e - ) t e - - ( - s i )	22	e t e s i	Tacanan	Fire	Fire	None	Araona	etesi	etesi	None
+522	( e + ) t i - - ( - k i )	22	e + t i k i	Tacanan	Fire	Fire	None	Cavinena	e-tiki	e-tiki	None
+523	( - - - - - ) d a - ( - - - - - )	30	d a	Tacanan	Knee	Knee	37	Proto-Takana	da	da	None
+524	( e + m a + ) d a + ( kʷ a - - - )	30	e + m a + d a + kʷ a	Tacanan	Knee	Knee	37	Tacanan	e-ma-da-cua	e-ma-da-cua	None
+525	- a m i	4	a m i	Tacanan	Blood	Blood	48	Proto-Takana	ami	ami	None
+526	- a m i	4	a m i	Tacanan	Blood	Blood	48	Tacanan	ami	ami	None
+527	- a m i	4	a m i	Tacanan	Blood	Blood	48	Reyesano	ami	ami/ami	None
+528	- a m i	4	a m i	Tacanan	Blood	Blood	48	Cavinena	ami	ami	None
+529	a ts u ( - - )	6	a ts u	Tacanan	Breast	Breast	None	Proto-Takana	aṭṣu	aṭṣu	None
+530	b a d i ( - - )	40	b a d i	Tacanan	Moon, Sun	Moon	16	Proto-Takana	badi	badi	None
+531	b a d i ( - - )	40	b a d i	Tacanan	Moon, Sun	Moon	16	Tacanan	badi	badi	None
+532	m.b a n.dz i ( - - )	40	m.b a n.dz i	Tacanan	Moon, Sun	Moon	16	Reyesano	mbandzi	mbandzi/bansri	None
+533	b a r i ( - - )	40	b a r i	Tacanan	Moon, Sun	Moon	16	Sapibokona	bari	bari	None
+534	b a d i ( - - )	40	b a d i	Tacanan	Moon, Sun	Moon	16	Araona	badi	badi	None
+535	b a d i ( - - )	40	b a d i	Tacanan	Moon, Sun	Moon	16	Cavinena	badi	badi	None
+536	b a ʔ i ( - - )	40	b a ʔ i	Tacanan	Moon, Sun	Moon	16	EseEjja	baʔi	baʔi	None
+537	m !á/a - i ( - - )	40	m !á/a i	Tacanan	Moon, Sun	Moon	16	Chama	mái	mái	None
+538	m i ( - - - - - )	47	m i	Tacanan	You	You	72	Proto-Takana	mi	mi	None
+539	m i ( + k e - - )	47	m i + k e	Tacanan	You	You	72	Tacanan	mi-ke	mi-ke	None
+540	m i ( b - e - - )	47	m i b e	Tacanan	You	You	72	Reyesano	mibe	mibe/mive	None
+541	m i ( t j a - - )	47	m i t j a	Tacanan	You	You	72	Araona	mitya	mitya	None
+542	m i ( + kʷ a n a )	47	m i + kʷ a n a	Tacanan	You	You	72	Cavinena	mi-kwana	mi-kwana	None
+543	m i ( + - a - - )	47	m i + a	Tacanan	You	You	72	EseEjja	mi-a	mi-a	None
+544	m i ( - k i - a )	47	m i k i a	Tacanan	You	You	72	Arasa	mikia	mikia	None
+545	b e	10	b e	Tacanan	Come	Come	24	Proto-Takana	be-	be-	'bring'
+546	- e ( - - - )	28	e	Tacanan	I	I	11	Proto-Takana	e	e	None
+547	- e ( + m a )	28	e + m a	Tacanan	I	I	11	Tacanan	e-ma	e-ma	None
+548	- e ( + m e )	28	e + m e	Tacanan	I	I	11	Reyesano	e-me	e-me/éme	None
+549	- e ( - m a )	28	e m a	Tacanan	I	I	11	Araona	ema	ema,yama	None
+550	- e ( + r a )	28	e + r a	Tacanan	I	I	11	Cavinena	e-ra	e-ra	None
+551	- e ( - - a )	28	e a	Tacanan	I	I	11	EseEjja	ea	ea,eyaya	None
+552	( - - ) ɾ a m i	23	ɾ a m i	Tacanan	Flesh	Flesh	78	Proto-Takana	ɾami	ɾami	None
+553	( - - ) j a m i	23	j a m i	Tacanan	Flesh	Flesh	78	Tacanan	yami	yami	None
+554	( - - ) j a m i	23	j a m i	Tacanan	Flesh	Flesh	78	Reyesano	yami	yami/eami	None
+555	( - - ) j a m i	23	j a m i	Tacanan	Flesh	Flesh	78	Araona	yami	yami	None
+556	( e + ) r a m i	23	e + r a m i	Tacanan	Flesh	Flesh	78	Cavinena	e-rami	e-rami	None
+557	( e - ) j a m i	23	e j a m i	Tacanan	Flesh	Flesh	78	EseEjja	eyami	eyami	None
+558	( e - ) j a m i	23	e j a m i	Tacanan	Flesh	Flesh	78	Warayo	eyami	eyami	None
+559	( !é/e - ) - a m i	23	!é/e a m i	Tacanan	Flesh	Flesh	78	Arasa	éami	éami	None
+560	( - - ) ts e r i	20	ts e r i	Tacanan	Fat	Fat	99	Proto-Takana	ṭṣeri	ṭṣeri	None
+561	( e + ) tʂ e - i	20	e + ʈʂ e i	Tacanan	Fat	Fat	99	Tacanan	e-cei	e-cei	None
+562	( e + ) tʂ e r i	20	e + ts e r i	Tacanan	Fat	Fat	99	Cavinena	e-ceri	e-ceri	None
+563	( e + ) s e - i	20	e + s e i	Tacanan	Fat	Fat	99	EseEjja	e-sei	e-sei	None
+564	( !é/e - ) s e - !j/i	20	!é/e s e !j/i	Tacanan	Fat	Fat	99	Arasa	ésey	ésey	None
+565	( - - ) m e - ( - ) t i j i ( - - - - - )	21	m e t i j i	Tacanan	Fingernail	Fingernail	None	Proto-Takana	metiji	metiji	None
+566	( e + ) m e - ( - ) - - - - ( + h a tʂ a )	21	e + m e + h a ʈʂ a	Tacanan	Fingernail	Fingernail	None	Tacanan	e-me-haca	e-me-haca	None
+567	( e - ) m e - ( - ) t i tʃ i ( - - - - - )	21	e m e t i tʃ i	Tacanan	Fingernail	Fingernail	None	Reyesano	emetichi	-/emechuja,emetichi	'fingers','nails'
+568	( e + ) m e - ( + ) - - - - ( ʃ o r o - )	21	e + m e + ʃ o r o	Tacanan	Fingernail	Fingernail	None	Cavinena	e-me-šoro	e-me-šoro	'nail'
+569	( e + ) m e - ( + ) k i ʃ e ( - - - - - )	21	e + m e + k i ʃ e	Tacanan	Fingernail	Fingernail	None	EseEjja	e-me-kiše	e-me-kiše	'nail'
+570	( - - - - ) t a ( - - - - - - - )	24	t a	Tacanan	Foot,leg	Foot,leg	103	Proto-Takana	ta-	ta-	'leg'
+571	( e + - - ) t a ( - - + b u tʂ e )	24	e + t a + b u ʈʂ e	Tacanan	Foot,leg	Foot,leg	103	Tacanan	e-ta-buce	e-ta-buce	'shin bone'
+572	( - - i - ) tʰ a ( - - - - - - - )	24	i tʰ a	Tacanan	Foot,leg	Foot,leg	103	Mabenaro	itha	itha	None
+573	( a w a + ) t a ( - - k a - - - )	24	a w a + t a k a	Tacanan	Foot,leg	Foot,leg	103	Cavinena	awa-taka	awa-taka	'tapir-foot (plant)'
+574	( - - ) kʷ e ( - - - - - - - - )	32	kʷ e	Tacanan	Lip,edge	Lip,edge	59	Proto-Takana	kʷe-	kʷe(i)-	None
+575	( e + ) k e ( + k e - - - - - )	32	e + k e + k e	Tacanan	Lip,edge	Lip,edge	59	Tacanan	e-ke-ke	e-ke-ke	None
+576	( - - ) kʷ e ( - s a - - - - - )	32	kʷ e s a	Tacanan	Lip,edge	Lip,edge	59	Reyesano	kwesa	kwesa/euesa	'beard'/'beard'
+577	( - - ) kʷ e ( - s a - - - - - )	32	kʷ e s a	Tacanan	Lip,edge	Lip,edge	59	Cavinena	kwesa	kwesa	'beard'
+578	( e + ) kʷ e ( + ʃ a - - - - - )	32	e + kʷ e + ʃ a	Tacanan	Lip,edge	Lip,edge	59	EseEjja	e-kwe-ša	e-kwe-ša	'beard'
+579	( - - - - ) t a m u	9	t a m u	Tacanan	Cheek	Cheek	105	Proto-Takana	tamu	tamu	None
+580	( e b u + ) t a m u	9	e b u + t a m u	Tacanan	Cheek	Cheek	105	Reyesano	ebu-tamu	ebu-tamu/-	None
+581	( - - - - ) t a m u	9	t a m u	Tacanan	Cheek	Cheek	105	Cavinena	-tamu	-tamu	None
+582	( - - - - ) ʃ e m o	9	ʃ e m o	Tacanan	Cheek	Cheek	105	EseEjja	-shemo	-shemo	None
+583	( - - ) kʷ a tʂ a ( - - )	35	kʷ a tʂ a	Tacanan	Mouth	Mouth	None	Proto-Takana	kʷatʂa	kʷatʂa	None
+584	( e + ) kʷ a tʂ a ( - - )	35	e + kʷ a ʈʂ a	Tacanan	Mouth	Mouth	None	Tacanan	e-kwaca	e-kwaca	None
+585	( e + ) kʷ a tʂ a ( - - )	35	e + kʷ a ts a	Tacanan	Mouth	Mouth	None	Reyesano	e-kwaca	e-kwaca/ekuatra	None
+586	( e - ) kʷ a tʃ a ( - - )	35	e kʷ a tʃ a	Tacanan	Mouth	Mouth	None	Sapibokona	ecuacha	ecuacha	None
+587	( i - ) kʷ a ts a ( - - )	35	i kʷ a ts a	Tacanan	Mouth	Mouth	None	Mabenaro	ikwatsa	ikwatsa	None
+588	( e + ) kʷ a tʂ a ( - - )	35	e + kʷ a ts a	Tacanan	Mouth	Mouth	None	Cavinena	e-kwaca	e-kwaca	None
+589	( e + ) kʷ a s a ( - - )	35	e + kʷ a s a	Tacanan	Mouth	Mouth	None	EseEjja	e-kwasa	e-kwasa	None
+590	( e + ) kʷ a s a ( - - )	35	e + kʷ a s a	Tacanan	Mouth	Mouth	None	Warayo	e-kwasa	e-kwasa	None
+591	( - - - - - - ) b a ( - ) ts u ( - - - - - - - - - )	19	b a ts u	Tacanan	Elbow	Elbow	None	Proto-Takana	-baṭṣu	-baṭṣu	None
+592	( - - - - e + ) b a ( + ) tʂ u ( - - - - - - - - - )	19	e + b a + ʈʂ u	Tacanan	Elbow	Elbow	None	Tacanan	e-ba-cu	e-ba-cu	None
+593	( - - - - e + ) m.b a ( + ) ts o ( - - - - - - - - - )	19	e + m.b a + ts o	Tacanan	Elbow	Elbow	None	Reyesano	e-mba-co	e-mba-co/-	None
+594	( - - - - e + ) b a ( - ) ʃ o ( - - - - - - - - - )	19	e + b a ʃ o	Tacanan	Elbow	Elbow	None	EseEjja	e-bašo	e-bašo	None
+595	( - - - - e + ) b a ( - ) ʃ o ( - - - - - - - - - )	19	e + b a ʃ o	Tacanan	Elbow	Elbow	None	Warayo	e-bašo	e-bašo	None
+596	( - - - - - - ) w a ( - ) ts u ( - - - - - - - - - )	19	w a ts u	Tacanan	Elbow	Elbow	None	Tiatinawa	wacu	wacu	None
+597	( - - - - e - ) b a ( - ) ʃ a ( - - - - - - - - - )	19	e b a ʃ a	Tacanan	Elbow	Elbow	None	Arasa	ebaša	ebaša	None
+598	ʔ ɨ ( - - - )	1	ʔ ɨ	None	1st SG 'I'	1st SG 'I'	11	Proto-Pano-Takana	ʔɨ	ʔɨ	None
+599	ʔ ɨ ( - - - )	1	ʔ ɨ	Panoan	1st SG 'I'	1st SG 'I'	11	Proto-Pano	ʔɨ	ʔɨ	None
+600	ʔ ɨ ( - - - )	1	ʔ ɨ	Panoan	1st SG 'I'	1st SG 'I'	11	Kakataibo	ʔɨ	ʔɨ	None
+601	ʔ ɨ ( - - - )	1	ʔ ɨ	Panoan	1st SG 'I'	1st SG 'I'	11	ShipiboKonibo	ʔɨ	ʔɨ	None
+602	ʔ ɨ ( - - - )	1	ʔ ɨ	Panoan	1st SG 'I'	1st SG 'I'	11	Kapanawa	ʔɨ	ʔɨ	None
+603	- ɨ ( - - - )	1	ɨ	Panoan	1st SG 'I'	1st SG 'I'	11	Chacobo	ɨ	ɨ	None
+604	- !ɨ̃/ɨ ( - - - )	1	!ɨ̃/ɨ	Panoan	1st SG 'I'	1st SG 'I'	11	Yaminawa	ɨ̃	ɨ̃	None
+605	m i ( - - - - - )	2	m i	None	2nd SG 'you'	2nd SG 'you'	72	Proto-Pano-Takana	mi	mi	None
+606	m i ( - - - - - )	2	m i	Panoan	2nd SG 'you'	2nd SG 'you'	72	Proto-Pano	mi	mi	None
+607	m i ( - - i - - )	2	m i i	Panoan	2nd SG 'you'	2nd SG 'you'	72	Kakataibo	mii	mii	None
+608	m i ( - - a - - )	2	m i a	Panoan	2nd SG 'you'	2nd SG 'you'	72	ShipiboKonibo	mia	mia	None
+609	m i ( - - a - - )	2	m i a	Panoan	2nd SG 'you'	2nd SG 'you'	72	Kapanawa	mia	mia	None
+610	m i ( - - a - - )	2	m i a	Panoan	2nd SG 'you'	2nd SG 'you'	72	Chacobo	mia	mia	object form
+611	m !ĩ/i ( - - - - - )	2	m !ĩ/i	Panoan	2nd SG 'you'	2nd SG 'you'	72	Yaminawa	mĩ	mĩ	None
+612	ʔ u ( - - - - - )	11	ʔ u	None	DEMONSTRATIVE	DEMONSTRATIVE distal	14	Proto-Pano-Takana	ʔu-	ʔu-	None
+613	ʔ o ( - - - - - )	11	ʔ o	Panoan	DEMONSTRATIVE	DEMONSTRATIVE distal	14	Proto-Pano	ʔo-	ʔo-	None
+614	- u ( - - - n - )	11	u n	Panoan	DEMONSTRATIVE	DEMONSTRATIVE distal	14	Kakataibo	un_	un (A),ux (S),u (O)	None
+615	- o ( - - a - - )	11	o a	Panoan	DEMONSTRATIVE	DEMONSTRATIVE distal	14	ShipiboKonibo	oa	oa	None
+616	- o ( - - a - - )	11	o a	Panoan	DEMONSTRATIVE	DEMONSTRATIVE distal	14	Chacobo	oa	oa	None
+617	- o ( - - a - - )	11	o a	Panoan	DEMONSTRATIVE	DEMONSTRATIVE distal	14	Yaminawa	oa	oa	None
+618	( - ) !N/n ɨ ( - - - - )	13	!N/n ɨ	None	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	Proto-Pano-Takana	Nɨ-	Nɨ-	None
+619	( - ) n ɨ ( - - - - )	13	n ɨ	Panoan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	Proto-Pano	nɨ-	nɨ-	None
+620	( ɨ ) n ɨ ( - n - - )	13	ɨ n ɨ n	Panoan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	Kakataibo	ɨnɨn_	ɨnɨn (A),ɨnɨx (S),ɨnɨ (O)	None
+621	( - ) n ɨ ( - - - - )	13	n ɨ	Panoan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	ShipiboKonibo	nɨ-	nɨ-~nato	None
+622	( - ) n o ( - a - - )	13	n o a	Panoan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	Chacobo	noa	noa,toa	None
+623	( - ) n a ( - - - - )	13	n a	Panoan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	Yaminawa	na	na	None
+624	gʷ i ( + ) n ( - )	25	gʷ i + n	None	GENITIVE	GENITIVE	44	Proto-Pano-Takana	-gʷi-n	-gʷi-n	None
+625	w ɨ ( - ) ∼ ( - )	25	w ɨ ∼	Panoan	GENITIVE	GENITIVE	44	Proto-Pano	-wɨ̃	-wɨ̃	None
+626	- - ( - ) n ( - )	25	n	Panoan	GENITIVE	GENITIVE	44	Kakataibo	=n	=(a)n	None
+627	- - ( - ) n ( - )	25	n	Panoan	GENITIVE	GENITIVE	44	ShipiboKonibo	-n	-n	None
+628	- - ( - ) n ( a )	25	n a	Panoan	GENITIVE	GENITIVE	44	Yaminawa	-na	-na,-fɨna	None
+629	gʷ ɨ	29	gʷ ɨ	None	IMPERATIVE	IMPERATIVE	43	Proto-Pano-Takana	-gʷɨ	-gʷɨ	None
+630	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Proto-Pano	-wɨ	-wɨ	None
+631	- ɨ	29	ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Kakataibo	-ɨ	-ɨ	None
+632	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	ShipiboKonibo	-wɨ	-wɨ	None
+633	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Kapanawa	-wɨ	-wɨ	None
+634	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Marubo	-wɨ	-wɨ	None
+635	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Chacobo	-wɨ	-wɨ	None
+636	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Kaxarari	-wɨ	-wɨ	None
+637	ɸ ɨ	29	ɸ ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Yaminawa	-ɸɨ	-ɸɨ	None
+638	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Sharanawa	-wɨ	-wɨ	None
+639	( - - ) b u t ɨ ( - - - )	26	b u t ɨ	None	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	Proto-Pano-Takana	-butɨ	-but[ɨ]	None
+640	( - - ) β u t - ( - - - )	26	β u t	Panoan	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	Proto-Pano	-βut	-βut	For  pP  Girard  (1971:  163,  26)  proposes  *-bu  ‘down’,  while  we  consider  *-but  more  accurate  based  on Matses/Mayoruna -budand Kakataibo -but.
+641	( - - ) b u t - ( - - - )	26	b u t	Panoan	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	Kakataibo	-but	-but	None
+642	( - - ) b ɨ ( - - - - )	17	b ɨ	None	DO COMING	DO COMING	None	Proto-Pano-Takana	-bɨ	-bɨ	None
+643	( - - ) β ɨ ( - - - - )	17	β ɨ	Panoan	DO COMING	DO COMING	None	Proto-Pano	-βɨ	-βɨ[...]	Guillaume 2017:254
+644	( - - ) b ɨ ( ts - i n )	17	b ɨ ts i n	Panoan	DO COMING	DO COMING	None	Kakataibo	-bɨtsin	-bɨtsin	None
+645	( - - ) b ɨ ( i r a n )	17	b ɨ i r a n	Panoan	DO COMING	DO COMING	None	ShipiboKonibo	-bɨiran	-bɨiran	None
+646	( - - ) b ɨ ( n - a - )	17	b ɨ n a	Panoan	DO COMING	DO COMING	None	Chacobo	-bɨna	-bɨna	None
+647	( - - ) ɸ ɨ ( - r a n )	17	ɸ ɨ r a n	Panoan	DO COMING	DO COMING	None	Yaminawa	-ɸɨran	-ɸɨran	None
+648	k a ts a ( - - - - )	14	k a ts a	None	DESIDERATIVE	DESIDERATIVE	53	Proto-Pano-Takana	-katsa	-katsa	None
+649	k a ts a ( - - - - )	14	k a ts a	Panoan	DESIDERATIVE	DESIDERATIVE	53	Proto-Pano	-katsa	-katsa	None
+650	k a s - ( - - - - )	14	k a s	Panoan	DESIDERATIVE	DESIDERATIVE	53	Kakataibo	-kas	-kas,-katsi	None
+651	k a s - ( - - - - )	14	k a s	Panoan	DESIDERATIVE	DESIDERATIVE	53	ShipiboKonibo	-kas	-kas	None
+652	k a ts i ( ʔ - - - )	14	k a ts i ʔ	Panoan	DESIDERATIVE	DESIDERATIVE	53	Kapanawa	-katsiʔ-	-katsiʔ-,-katsiʔki-	None
+653	k a ts i ( - - - - )	14	k a ts i	Panoan	DESIDERATIVE	DESIDERATIVE	53	Marubo	-katsi	-katsi	None
+654	k a s - ( - - - - )	14	k a s	Panoan	DESIDERATIVE	DESIDERATIVE	53	Chacobo	-kas-	-kas-	None
+655	k a ts a ( - - - - )	14	k a ts a	Panoan	DESIDERATIVE	DESIDERATIVE	53	Kaxarari	-katsa	-katsa	None
+656	k a s - ( - m a - )	14	k a s m a	Panoan	DESIDERATIVE	DESIDERATIVE	53	Yaminawa	kasma	kasma,kaspa,katsa	'not to want','desiderative negative','to have'
+657	k a s - ( + m a i )	14	k a s + m a i	Panoan	DESIDERATIVE	DESIDERATIVE	53	Sharanawa	-kas-mai	-kas-mai	'not to want'
+658	( - - ) m a ( - )	36	m a	None	NEGATIVE	NEGATIVE	61	Proto-Pano-Takana	-ma	-(...a)ma	None
+659	( j a ) m a ( - )	36	j a m a	Panoan	NEGATIVE	NEGATIVE	61	Proto-Pano	-yama	-[ya]ma	verbal
+660	( - - ) m a ( - )	36	m a	Panoan	NEGATIVE	NEGATIVE	61	Kakataibo	-ma	-ma	None
+661	( j a ) m a ( - )	36	j a m a	Panoan	NEGATIVE	NEGATIVE	61	ShipiboKonibo	-yama	-yama	None
+662	( j a ) m a ( - )	36	j a m a	Panoan	NEGATIVE	NEGATIVE	61	Kapanawa	yama	yama	None
+663	( - - ) m a ( - )	36	m a	Panoan	NEGATIVE	NEGATIVE	61	Marubo	-ma	-ma,-ama	None
+664	( j a ) m a ( - )	36	j a m a	Panoan	NEGATIVE	NEGATIVE	61	Chacobo	-yama	-yama	None
+665	( - - ) m a ( - )	36	m a	Panoan	NEGATIVE	NEGATIVE	61	Kaxarari	-ma	-ma,maʔa	None
+666	( - - ) m a ( a )	36	m a a	Panoan	NEGATIVE	NEGATIVE	61	Yaminawa	maa	maa,ma,yama	'not','negative','negative prohibitive'
+667	( - - ) m a ( - )	36	m a	Panoan	NEGATIVE	NEGATIVE	61	Sharanawa	-ma	-ma,-yama	'no','imperative,negative,prohibitive'
+668	m a ( - - )	7	m a	None	CAUSATIVE	CAUSATIVE	None	Proto-Pano-Takana	-ma	-m[a/e]	None
+669	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Proto-Pano	-ma	-m[a]	None
+670	m i ( - - )	7	m i	Panoan	CAUSATIVE	CAUSATIVE	None	Kakataibo	-mi-	-mi-	None
+671	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	ShipiboKonibo	-ma-	-ma-	None
+672	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Kapanawa	-ma-	-ma-	None
+673	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Marubo	-ma	-ma	None
+674	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Chacobo	-ma	-ma	None
+675	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Yaminawa	-ma	-ma	None
+676	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Sharanawa	-ma-	-ma-	None
+677	( - - - ) p ( - ) a ( - )	3	p a	None	AUGMENTATIVE	AUGMENTATIVE	81	Proto-Pano-Takana	-pa	-pa	None
+678	( - - - ) p ( - ) a ( - )	3	p a	Panoan	AUGMENTATIVE	AUGMENTATIVE	81	Proto-Pano	pa	pa	None
+679	( n + e ) w ( - ) !á/a ( - )	3	n + e w !á/a	Panoan	AUGMENTATIVE	AUGMENTATIVE	81	ShipiboKonibo	-n_ewá	-n ewá	None
+680	( - a h ) h ( u ) a ( n )	3	a h h u a n	Panoan	AUGMENTATIVE	AUGMENTATIVE	81	Kapanawa	-ahhuan	-ahhuan	None
+681	( - - - ) w ( - ) a ( - )	3	w a	Panoan	AUGMENTATIVE	AUGMENTATIVE	81	Chacobo	-wa	-wa	None
+682	( n - - ) f ( - ) !ã/a ( - )	3	n f !ã/a	Panoan	AUGMENTATIVE	AUGMENTATIVE	81	Yaminawa	-nfã	-nfã	None
+683	( ʔ ) a ( - ) k ( - )	16	ʔ a k	None	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Proto-Pano-Takana	ʔak-	ʔak-	None
+684	( ʔ ) a ( - ) k ( - )	16	ʔ a k	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Proto-Pano	ʔak-	ʔak-	None
+685	( ʔ ) a ( - ) - ( - )	16	ʔ a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Kakataibo	ʔa-	ʔa-	None
+686	( ʔ ) a ( - ) - ( - )	16	ʔ a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	ShipiboKonibo	ʔa-	ʔa-	None
+687	( ʔ ) a ( - ) - ( - )	16	ʔ a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Kapanawa	ʔa-	ʔa-	None
+688	( - ) a ( - ) - ( - )	16	a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Marubo	a	a	None
+689	( ʔ ) a ( - ) - ( - )	16	ʔ a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Chacobo	ʔa-	ʔa-	None
+690	( - ) a ( - ) - ( - )	16	a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Kaxarari	a-	a-	None
+691	( - ) a ( - ) k ( - )	16	a k	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Yaminawa	ak-	ak-	None
+692	( - ) a ( - ) - ( - )	16	a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Chaninawa	a-	a-	None
+693	( - ) a ( - ) - ( - )	16	a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Sharanawa	a-	a-	None
+694	w a	41	w a	None	TRANSITIVIZER	TRANSITIVIZER	1	Proto-Pano-Takana	-wa	-[w]a	None
+695	w a	41	w a	Panoan	TRANSITIVIZER	TRANSITIVIZER	1	Proto-Pano	-wa	-wa	None
+696	- ɔ	41	ɔ	Panoan	TRANSITIVIZER	TRANSITIVIZER	1	Kakataibo	-ɔ	-ɔ	None
+697	w a	41	w a	Panoan	TRANSITIVIZER	TRANSITIVIZER	1	Chacobo	-wa	-wa	None
+698	t i	15	t i	None	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE	None	Proto-Pano-Takana	-ti	-t[i]	None
+699	t -	15	t	Panoan	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE	None	Proto-Pano	-t	-t	None
+700	t -	15	t	Panoan	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE	None	Kakataibo	-t	-t	None
+701	t -	15	t	Panoan	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE	None	ShipiboKonibo	-t	-t	None
+702	!N/n a	18	!N/n a	None	ERGATIVE	ERGATIVE	None	Proto-Pano-Takana	-Na	-N[a]	None
+703	n -	18	n	Panoan	ERGATIVE	ERGATIVE	None	Proto-Pano	-n	-n	None
+704	n -	18	n	Panoan	ERGATIVE	ERGATIVE	None	Kakataibo	=n	=(a)n	None
+705	n -	18	n	Panoan	ERGATIVE	ERGATIVE	None	ShipiboKonibo	=n	=n	None
+706	n -	18	n	Panoan	ERGATIVE	ERGATIVE	None	Kapanawa	-n	-n	None
+707	( - ) s u ( - - )	38	s u	None	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Proto-Pano-Takana	-ṣu	-ṣu	None
+708	( - ) ʂ o ( + n )	38	ʂ o + n	Panoan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Proto-Pano	-ʂo-n	-ʂo-n	None
+709	( - ) ʂ u ( - n )	38	ʂ u n	Panoan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Kakataibo	-ʂun	-ʂun	None
+710	( - ) ʂ o ( - n )	38	ʂ o n	Panoan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	ShipiboKonibo	-ʂon	-ʂon	None
+711	( - ) ʂ o ( - - )	38	ʂ o	Panoan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Chacobo	-ʂo	-ʂo	None
+712	( - ) ʂ u ( - - )	38	ʂ u	Panoan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Kaxarari	-ʂu	-ʂu	None
+713	b ɨ t a	8	b ɨ t a	None	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	Proto-Pano-Takana	bɨta	bɨta	None
+714	β ɨ t a	8	β ɨ t a	Panoan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	Proto-Pano	βɨta	βɨta	None
+715	b ɨ - -	8	b ɨ	Panoan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	Kakataibo	-bɨ	-bɨ~-bɨtan	None
+716	b ɨ - -	8	b ɨ	Panoan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	ShipiboKonibo	-bɨ	-bɨ	None
+717	b ɨ t a	8	b ɨ t a	Panoan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	Chacobo	-bɨta	-bɨta	None
+718	f ɨ t !ã/a	8	f ɨ t !ã/a	Panoan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	Yaminawa	-fɨtã	-fɨtã	None
+719	- ɨ ( - - - )	1	ɨ	Panoan	1st SG 'I'	1st SG 'I'	11	Amawaka	ɨ	ɨ	None
+720	- ɨ ( - - - )	1	ɨ	Panoan	1st SG 'I'	1st SG 'I'	11	Kaxinawa	ɨ	ɨ	None
+721	- ɨ ( - - - )	1	ɨ	Panoan	1st SG 'I'	1st SG 'I'	11	Marinawa	ɨ	ɨ	None
+722	m i ( j - a - - )	2	m i j a	Panoan	2nd SG 'you'	2nd SG 'you'	72	Amawaka	miya	miya	None
+723	m i ( - - a - - )	2	m i a	Panoan	2nd SG 'you'	2nd SG 'you'	72	Kaxinawa	mia	mia	None
+724	m i ( - - a - - )	2	m i a	Panoan	2nd SG 'you'	2nd SG 'you'	72	Marinawa	mia	mia	None
+725	m i ( - - - - - )	2	m i	Panoan	2nd SG 'you'	2nd SG 'you'	72	Korubo	mi	mi	None
+726	m i ( - - - - - )	2	m i	Panoan	2nd SG 'you'	2nd SG 'you'	72	Matis	mi_	mi (minbi,mibi,min)	None
+727	m i ( - - - - - )	2	m i	Panoan	2nd SG 'you'	2nd SG 'you'	72	Matses	mi_	mi (minbi,mibi,min)	None
+728	- u ( - - - i d )	11	u i d	Panoan	DEMONSTRATIVE	DEMONSTRATIVE distal	14	Matses	uid	uid	None
+729	( - ) n ɨ ( - i d - )	13	n ɨ i d	Panoan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	Matses	nɨid	nɨid	None
+730	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Shanenawa	-wɨ	-wɨ	None
+731	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Katukina	wɨ	wɨ	None
+732	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Kaxinawa	-wɨ	-wɨ	None
+733	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Marinawa	-wɨ	-wɨ	None
+734	w ɨ	29	w ɨ	Panoan	IMPERATIVE	IMPERATIVE	43	Yawanawa	-wɨ	-wɨ	None
+735	( - - ) b u d - ( - - - )	26	b u d	Panoan	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	Matses	-bud	-bud	None
+736	( - - ) b ɨ ( r a n - )	17	b ɨ r a n	Panoan	DO COMING	DO COMING	None	Amawaka	-vɨran	-vɨran	None
+737	( - - ) b ɨ ( ts - e n )	17	b ɨ ts e n	Panoan	DO COMING	DO COMING	None	Matses	-bɨtsen	-bɨtsen	None
+738	k a ts i ( - - - - )	14	k a ts i	Panoan	DESIDERATIVE	DESIDERATIVE	53	Amawaka	-katsi	-katsi	None
+739	k a s - ( - - - - )	14	k a s	Panoan	DESIDERATIVE	DESIDERATIVE	53	Matses	-kas-	-kas-,katsi	None
+740	( - - ) m a ( - )	36	m a	Panoan	NEGATIVE	NEGATIVE	61	Shanenawa	-ma	-ma,-yama,	'negación general','negación de imperativo
+741	( j a ) m a ( - )	36	j a m a	Panoan	NEGATIVE	NEGATIVE	61	Katukina	yama	yama,ma	'no tener,negativo','no'
+742	( - - ) b a ( - )	36	b a	Panoan	NEGATIVE	NEGATIVE	61	Poyanawa	ba	ba	'asertivo negativo'
+743	( j a ) m a ( - )	36	j a m a	Panoan	NEGATIVE	NEGATIVE	61	Amawaka	-yama	-yama	None
+744	( - - ) m a ( - )	36	m a	Panoan	NEGATIVE	NEGATIVE	61	Kaxinawa	-ma	-ma,-yama	None
+745	( - - ) m a ( - )	36	m a	Panoan	NEGATIVE	NEGATIVE	61	Marinawa	-ma	-ma	None
+746	( - - ) m a ( - )	36	m a	Panoan	NEGATIVE	NEGATIVE	61	Yawanawa	-ma	-ma	'negación'
+747	( - - ) m a ( - )	36	m a	Panoan	NEGATIVE	NEGATIVE	61	Korubo	-ma	-ma	'negación pasado'
+748	( - a ) m a ( - )	36	a m a	Panoan	NEGATIVE	NEGATIVE	61	Matis	-ama	-ama	'negación pasado'
+749	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Shanenawa	-ma	-ma	None
+750	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Amawaka	-ma-	-ma-	None
+751	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Kaxinawa	-ma-	-ma-	None
+752	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Marinawa	-ma	-ma	None
+753	m a ( - - )	7	m a	Panoan	CAUSATIVE	CAUSATIVE	None	Yawanawa	-ma-	-ma-	None
+754	m e ( - - )	7	m e	Panoan	CAUSATIVE	CAUSATIVE	None	Korubo	-me	-me	None
+755	m e ( - - )	7	m e	Panoan	CAUSATIVE	CAUSATIVE	None	Matis	-me	-me	None
+756	m e ( - - )	7	m e	Panoan	CAUSATIVE	CAUSATIVE	None	Matses	-me	-me	None
+757	( - - - ) p ( - ) a ( - )	3	p a	Panoan	AUGMENTATIVE	AUGMENTATIVE	81	Matses	-pa	-pa	None
+758	( ʔ ) a ( - ) - ( - )	16	ʔ a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Amawaka	ʔa-	ʔa-	None
+759	( - ) a ( - ) - ( - )	16	a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Kaxinawa	a-	a-	None
+760	( - ) a ( - ) - ( - )	16	a	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Marinawa	a-	a-	None
+761	( - ) a ( - ) k ( - )	16	a k	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Korubo	ak-	ak-	None
+762	( - ) a ( - ) k ( - )	16	a k	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Matis	ak-	ak-	None
+763	( - ) a ( - ) k ( - )	16	a k	Panoan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Matses	ak-	ak-	None
+764	w a	41	w a	Panoan	TRANSITIVIZER	TRANSITIVIZER	1	Kaxinawa	wa-	wa-,-wa	None
+765	n -	18	n	Panoan	ERGATIVE	ERGATIVE	None	Matses	-n	-n	None
+766	( - ) ts o ( - n )	38	ts o n	Panoan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Amawaka	=çon	=çon	None
+767	( - ) ʂ u ( - n )	38	ʂ u n	Panoan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Kaxinawa	=ʂun	=ʂun	None
+768	( - ) ʂ u ( - n )	38	ʂ u n	Panoan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Matis	=ʂun	=ʂun	None
+769	( - ) ʂ u ( - n )	38	ʂ u n	Panoan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Matses	=ʂun	=ʂun	None
+770	w ɨ - -	8	w ɨ	Panoan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	Amawaka	-wɨ	-wɨ,-wɨtã	None
+771	b ɨ - -	8	b ɨ	Panoan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	Kaxinawa	-bɨ	-bɨ,-bɨtã	None
+772	f ɨ t a	8	f ɨ t a	Panoan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	Marinawa	-fɨta	-fɨta,fɨtã	None
+773	b i d -	8	b i d	Panoan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH	24	Matses	-bid_	-bid (S),-bɨta (O),-bɨtan (A)	None
+774	- e ( - - - )	1	e	Tacanan	1st SG 'I'	1st SG 'I'	11	Proto-Takana	e	e	None
+775	- e ( + m a )	1	e + m a	Tacanan	1st SG 'I'	1st SG 'I'	11	Tacanan	e-ma	e-ma	None
+776	- e ( + m e )	1	e + m e	Tacanan	1st SG 'I'	1st SG 'I'	11	Reyesano	e-me	e-me/éme	None
+777	- e ( - m a )	1	e m a	Tacanan	1st SG 'I'	1st SG 'I'	11	Araona	ema	ema,yama	None
+778	- e ( + r a )	1	e + r a	Tacanan	1st SG 'I'	1st SG 'I'	11	Cavinena	e-ra	e-ra	None
+779	- e ( - - a )	1	e a	Tacanan	1st SG 'I'	1st SG 'I'	11	EseEjja	ea	ea,eyaya	None
+780	m i ( - - - - - )	2	m i	Tacanan	2nd SG 'you'	2nd SG 'you'	72	Proto-Takana	mi	mi	Girard additionally lists -mikia for Arasa.
+781	m i ( + k e - - )	2	m i + k e	Tacanan	2nd SG 'you'	2nd SG 'you'	72	Tacanan	mi-ke	mi-ke	None
+782	m i ( b - e - - )	2	m i b e	Tacanan	2nd SG 'you'	2nd SG 'you'	72	Reyesano	mibe	mibe/mive	None
+783	m i ( t j a - - )	2	m i t j a	Tacanan	2nd SG 'you'	2nd SG 'you'	72	Araona	mitya	mitya	None
+784	m i ( + kʷ a n a )	2	m i + kʷ a n a	Tacanan	2nd SG 'you'	2nd SG 'you'	72	Cavinena	mi-kwana	mi-kwana	None
+785	m i ( + - a - - )	2	m i + a	Tacanan	2nd SG 'you'	2nd SG 'you'	72	EseEjja	mi-a	mi-a	None
+786	- u ( - - - - - )	11	u	Tacanan	DEMONSTRATIVE	DEMONSTRATIVE 'this' 'he'	14	Proto-Takana	u-	u-	None
+787	- u ( + h a - - )	11	u + h a	Tacanan	DEMONSTRATIVE	DEMONSTRATIVE 'this' 'he'	14	Tacanan	u-ha	u-ha	None
+788	- o ( + h o - - )	11	o + h o	Tacanan	DEMONSTRATIVE	DEMONSTRATIVE 'this' 'he'	14	Cavinena	o-ho	o-ho	None
+789	- o ( + h a j a )	11	o + h a j a	Tacanan	DEMONSTRATIVE	DEMONSTRATIVE 'this' 'he'	14	EseEjja	o-haya	o-haya	None
+790	( - ) r e ( e - - - )	13	r e e	Tacanan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	Proto-Takana	ree-	ree-	None
+791	( - ) j e ( - - - - )	13	j e	Tacanan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	Tacanan	ye	ye	None
+792	( - ) r e ( e k e - )	13	r e e k e	Tacanan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	Cavinena	reeke	reeke	None
+793	( - ) h i ( - k i o )	13	h i k i o	Tacanan	DEMONSTRATIVE proximate	DEMONSTRATIVE proximate	79	EseEjja	hikio	hikio	None
+794	kʷ e ( - ) - ( - )	25	kʷ e	Tacanan	GENITIVE	GENITIVE	44	Proto-Takana	-kʷe	-kʷe	Girard additionally lists -kwe for Warayo.
+795	k e ( - ) - ( - )	25	k e	Tacanan	GENITIVE	GENITIVE	44	Tacanan	-ke	-ke	None
+796	k i ( - ) - ( - )	25	k i	Tacanan	GENITIVE	GENITIVE	44	Reyesano	ki-	ki-/-	'possessive prefix'
+797	kʷ e ( - ) - ( - )	25	kʷ e	Tacanan	GENITIVE	GENITIVE	44	Cavinena	-kwe	-kwe	None
+798	kʷ e ( - ) - ( - )	25	kʷ e	Tacanan	GENITIVE	GENITIVE	44	EseEjja	-kwe	-kwe	None
+799	kʷ e	29	kʷ e	Tacanan	IMPERATIVE	IMPERATIVE	43	Proto-Takana	-kʷe	-kʷe	Girard additionally lists -he for Warisa.
+800	k e	29	k e	Tacanan	IMPERATIVE	IMPERATIVE	43	Tacanan	-ke	-ke	None
+801	kʷ e	29	kʷ e	Tacanan	IMPERATIVE	IMPERATIVE	43	Cavinena	-kwe	-kwe	None
+802	( - - ) b u t e ( - - - )	26	b u t e	Tacanan	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	Proto-Takana	-bu	-bu,-bute	For first form, Girard additionally lists -anibuteni for Warisa. For second form, see footnote 67.
+803	( e + ) b u t e ( + h i )	26	e + b u t e + h i	Tacanan	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	Tacanan	e-bute-hi	e-bute-hi,-ute	None
+804	( - - ) b u t e ( - - - )	26	b u t e	Tacanan	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	Reyesano	bute	-/animabotia,-bute/-	None
+805	( - - ) b o t e ( - - - )	26	b o t e	Tacanan	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	Araona	-bote	-bote	None
+806	( e + ) b o t e ( - - - )	26	e + b o t e	Tacanan	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	Cavinena	e-bote	e-bote,-bute/-butya	None
+807	( - - ) - o k e ( - - - )	26	o k e	Tacanan	GOING DOWN,DOWNWARD	GOING DOWN,DOWNWARD	None	EseEjja	'oke	'oke/-'okya	None
+808	( - - ) b e ( - - - - )	17	b e	Tacanan	DO COMING	DO COMING	None	Proto-Takana	-be	-be	Guillaume 2017:233
+809	( - - ) b e ( - - - - )	17	b e	Tacanan	DO COMING	DO COMING	None	Tacanan	-be	-be	None
+810	( - - ) b e ( b - e - )	17	b e b e	Tacanan	DO COMING	DO COMING	None	Reyesano	-bebe	-bebe/-	None
+811	( - - ) b e ( - - - - )	17	b e	Tacanan	DO COMING	DO COMING	None	Cavinena	-be	-be	None
+812	( j e ) b e ( - - - - )	17	j e b e	Tacanan	DO COMING	DO COMING	None	EseEjja	-jebe	-jebe	None
+813	k a ts a ( - - - - )	14	k a ts a	Tacanan	DESIDERATIVE	DESIDERATIVE	53	Proto-Takana	-katsa	-katsa	None
+814	- - ts a ( - - - - )	14	ts a	Tacanan	DESIDERATIVE	DESIDERATIVE	53	Tacanan	-tsa	-tsa	None
+815	h a - e ( - - - - )	14	h a e	Tacanan	DESIDERATIVE	DESIDERATIVE	53	Araona	-hae	-hae	None
+816	k a r a ( - - - - )	14	k a r a	Tacanan	DESIDERATIVE	DESIDERATIVE	53	Cavinena	-kara	-kara	None
+817	- - s a ( - - - - )	14	s a	Tacanan	DESIDERATIVE	DESIDERATIVE	53	EseEjja	-sa	-sa	None
+818	( - - ) m a ( - )	36	m a	Tacanan	NEGATIVE	NEGATIVE	61	Proto-Takana	-ma	-(a)ma	verbal and nominal
+819	( - - ) m a ( - )	36	m a	Tacanan	NEGATIVE	NEGATIVE	61	Tacanan	-ma	-(a)ma	None
+820	( - - ) m a ( - )	36	m a	Tacanan	NEGATIVE	NEGATIVE	61	Cavinena	-ma	-(a)ma	None
+821	( - - ) m a ( - )	36	m a	Tacanan	NEGATIVE	NEGATIVE	61	EseEjja	-ma	-(a)ma	None
+822	m e ( r e )	7	m e r e	Tacanan	CAUSATIVE	CAUSATIVE	None	Proto-Takana	-mere	-me[re]	Girard reconstructs *-me[re] based on Tacana –meand Cavineña –mere. To this we can now add Ese’ Ejja -mee and Araona -me.
+823	m e ( - - )	7	m e	Tacanan	CAUSATIVE	CAUSATIVE	None	Tacanan	-me	-me	None
+824	m e ( - - )	7	m e	Tacanan	CAUSATIVE	CAUSATIVE	None	Araona	-me	-me	None
+825	m e ( r e )	7	m e r e	Tacanan	CAUSATIVE	CAUSATIVE	None	Cavinena	-mere	-mere	None
+826	m e ( - e )	7	m e e	Tacanan	CAUSATIVE	CAUSATIVE	None	EseEjja	-mee	-mee	None
+827	( - - - ) p ( - ) a ( - )	3	p a	Tacanan	AUGMENTATIVE	AUGMENTATIVE	81	Proto-Takana	-pa	-pa	None
+828	( - - - ) p ( - ) a ( - )	3	p a	Tacanan	AUGMENTATIVE	AUGMENTATIVE	81	Tacanan	-pa	-pa	None
+829	( - - - ) p ( - ) a ( - )	3	p a	Tacanan	AUGMENTATIVE	AUGMENTATIVE	81	Cavinena	-pa	-pa	None
+830	( - ) a ( - ) - ( - )	16	a	Tacanan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Proto-Takana	a-	a-	Girard additionally lists age for Warisa.
+831	( - ) a ( - ) - ( - )	16	a	Tacanan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Tacanan	a-	a-	None
+832	( - ) a ( - ) - ( - )	16	a	Tacanan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	Cavinena	a-	a-	None
+833	( - ) a ( + ) k ( a )	16	a + k a	Tacanan	DO (TR.),AUXILIARY (TR.)	DO (TR.),AUXILIARY (TR.)	1	EseEjja	a-ka-	a-ka-	None
+834	- a	41	a	Tacanan	TRANSITIVIZER	TRANSITIVIZER	1	Proto-Takana	-a	-a	Girard additionally lists -a(-) for the Warayo.
+835	- a	41	a	Tacanan	TRANSITIVIZER	TRANSITIVIZER	1	Tacanan	-a	-a(-)	None
+836	- a	41	a	Tacanan	TRANSITIVIZER	TRANSITIVIZER	1	Reyesano	-a	-a(-)/-	None
+837	- a	41	a	Tacanan	TRANSITIVIZER	TRANSITIVIZER	1	Cavinena	-a	-a(-)	None
+838	- a	41	a	Tacanan	TRANSITIVIZER	TRANSITIVIZER	1	EseEjja	-a	-a(-)	None
+839	t i	15	t i	Tacanan	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE	None	Proto-Takana	-ti	-ti	None
+840	t i	15	t i	Tacanan	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE	None	Tacanan	-ti	-ti	None
+841	t i	15	t i	Tacanan	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE	None	Cavinena	-ti	-ti	None
+842	k i	15	k i	Tacanan	DETRANSITIVIZER,REFLEXIVE	DETRANSITIVIZER,REFLEXIVE	None	EseEjja	-ki	-ki	None
+843	r a	18	r a	Tacanan	ERGATIVE	ERGATIVE	None	Proto-Takana	-ra	-ra	Girard additionally lists -a for Warayo.
+844	- a	18	a	Tacanan	ERGATIVE	ERGATIVE	None	Tacanan	-a	-a	None
+845	r a	18	r a	Tacanan	ERGATIVE	ERGATIVE	None	Cavinena	-ra	-ra	None
+846	- a	18	a	Tacanan	ERGATIVE	ERGATIVE	None	EseEjja	-a	-(y)a	None
+847	( - ) ts u ( - - )	38	ts u	Tacanan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Proto-Takana	-ṭṣu	-ṭṣu	None
+848	( - ) s u ( - - )	38	s u	Tacanan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Tacanan	-su	-su	None
+849	( - ) ts o ( - - )	38	ts o	Tacanan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Araona	-tso	-tso	None
+850	( a ) ts u ( - - )	38	a ts u	Tacanan	PREVIOUS EVENT, SAME-SUBJECT	PREVIOUS EVENT, SAME-SUBJECT	None	Cavinena	-atsu	-atsu~-tsu	None
+851	b e t a	8	b e t a	Tacanan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	Proto-Takana	beta	beta	Girard additionally lists beta, beabué and béka for Sapibokona, Warayo and Chama respectively.
+852	b e t a	8	b e t a	Tacanan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	Tacanan	beta	beta	None
+853	m.b e t a	8	m.b e t a	Tacanan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	Reyesano	mbeta	mbeta/beta	None
+854	b e t a	8	b e t a	Tacanan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	Araona	beta	beta	None
+855	b e t a	8	b e t a	Tacanan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	Cavinena	beta	beta	None
+856	b e k a	8	b e k a	Tacanan	COMITATIVE,ALONG WITH	COMITATIVE,ALONG WITH TWO	24	EseEjja	beka	beka	None
