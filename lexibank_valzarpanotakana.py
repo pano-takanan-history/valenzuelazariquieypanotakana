@@ -1,6 +1,5 @@
 import attr
 import pathlib
-from collections import defaultdict
 from clldutils.misc import slug
 from lingpy import Wordlist
 from pylexibank import Dataset as BaseDataset
@@ -9,24 +8,29 @@ from pylexibank import Language, Lexeme, Concept
 from pylexibank import FormSpec
 from pyedictor import fetch
 
+
 @attr.s
 class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
-#    Sources = attr.ib(default=None)
+
+
+@attr.s
+class CustomConcept(Concept):
+    Table = attr.ib(default=None)
 
 
 @attr.s
 class CustomLexeme(Lexeme):
-    Table = attr.ib(default=None)
     Alignment = attr.ib(default=None)
-    NumberInSource = attr.ib(default=None)
-    #FormFromProto = attr.ib(default=None)
+    Shell = attr.ib(default=None)
+    ConceptInSource = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "valzarpanotakana"
+    concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
     form_spec = FormSpec(
@@ -55,10 +59,9 @@ class Dataset(BaseDataset):
                         "ALIGNMENT",
                         "COGID",
                         "TOKENS",
-                        #"SUBGROUP",
                         "CONCEPT",
-                        #"PROTO_FORM",
-                        #"NUMBERING_IN_SOURCE", #Not quite sure whether we keep this column
+                        "CONCEPTINSOURCE",
+                        "SHELL",
                         "DOCULECT",
                         "FORM",
                         "VALUE",
@@ -81,9 +84,9 @@ class Dataset(BaseDataset):
                 ID=idx,
                 Name=concept["ENGLISH"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
-                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                Table=concept["TABLE"]
             )
-
 
         args.log.info("added concepts")
 
@@ -92,7 +95,6 @@ class Dataset(BaseDataset):
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
-        data.renumber("CONCEPT", "cogid")
 
         # add data
         for (
@@ -100,10 +102,9 @@ class Dataset(BaseDataset):
             alignment,
             cogid,
             tokens,
-            #subgroup,
             concept,
-            #proto_form,
-            #numbering_in_source,
+            conceptinsource,
+            shell,
             doculect,
             form,
             value,
@@ -113,10 +114,9 @@ class Dataset(BaseDataset):
                 "alignment",
                 "cogid",
                 "tokens",
-                #"subgroup",
                 "concept",
-                #"proto_form",
-                #"numbering_in_source",
+                "conceptinsource",
+                "shell",
                 "doculect",
                 "form",
                 "value",
@@ -128,14 +128,13 @@ class Dataset(BaseDataset):
                 Language_ID=languages[doculect],
                 Parameter_ID=concepts[(concept)],
                 Form=form.strip(),
-                    Value=value.strip() or form.strip(),
+                Value=value.strip() or form.strip(),
                 Segments=tokens,
-                #FormFromProto=proto_form,
+                Shell=shell,
                 Comment=note,
                 Cognacy=cogid,
                 Alignment=" ".join(alignment),
-                #SubGroup=subgroup,
-                #NumberingInSource=numbering_in_source,
+                ConceptInSource=conceptinsource,
                 Source="Valenzuela2023"
             )
 
@@ -143,5 +142,8 @@ class Dataset(BaseDataset):
                 lexeme=lexeme,
                 Cognateset_ID=cogid,
                 Cognate_Detection_Method="expert",
+                Alignment=alignment,
+                Alignment_Method="false",
+                Alignment_Source="expert",
                 Source="Valenzuela2023"
                 )

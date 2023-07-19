@@ -32,7 +32,7 @@ Available online at https://doi.org/10.20396/liames.v23i00.8670150
 - **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
 - **Tokens:** 3,098
-- **Segments:** 64 (6 BIPA errors, 6 CTLS sound class errors, 58 CLTS modified)
+- **Segments:** 64 (6 BIPA errors, 6 CLTS sound class errors, 58 CLTS modified)
 - **Inventory size (avg):** 19.18
 
 # Contributors
@@ -51,4 +51,4 @@ Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

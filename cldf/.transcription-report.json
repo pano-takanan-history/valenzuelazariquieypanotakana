@@ -3867,8 +3867,8 @@
         },
         "Poy": {
             "bipa_errors": [
-                "~.d",
-                "~.b"
+                "~.b",
+                "~.d"
             ],
             "general_errors": 5,
             "replacements": {
@@ -4048,8 +4048,8 @@
                 ]
             },
             "sclass_errors": [
-                "~.d",
-                "~.b"
+                "~.b",
+                "~.d"
             ],
             "segments": {
                 "!w/u": 1,
@@ -6862,12 +6862,12 @@
         ],
         "bad_words_count": 20,
         "bipa_errors": [
-            "n.dz",
             "n.t",
-            "~",
-            "~.d",
             "m.b",
-            "~.b"
+            "n.dz",
+            "~.b",
+            "~",
+            "~.d"
         ],
         "general_errors": 21,
         "invalid_words": [],
@@ -7050,12 +7050,12 @@
             ]
         },
         "sclass_errors": [
-            "n.dz",
             "n.t",
-            "~",
-            "~.d",
             "m.b",
-            "~.b"
+            "n.dz",
+            "~.b",
+            "~",
+            "~.d"
         ],
         "segments": {
             "!N/n": 4,

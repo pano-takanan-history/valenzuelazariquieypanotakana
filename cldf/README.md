@@ -12,9 +12,9 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.20396/liames.v23i00.8670150
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/pano-tacanan-history/valzarpanotakana
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/pano-tacanan-history/valzarpanotakana/tree/58ddbfc">pano-tacanan-history/valzarpanotakana 58ddbfc</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.7">Glottolog v4.7</a></li><li><a href="https://github.com/MuffinLinwist/concepticon-data/tree/v3.0.0">Concepticon v3.0.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/8b92f99">CLTS v1.4-161-g8b92f99</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.8.8</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/pano-tacanan-history/valzarpanotakana/
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/pano-tacanan-history/valzarpanotakana//tree/1f73177">pano-tacanan-history/valzarpanotakana/ 1f73177</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.7">Glottolog v4.7</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.11.4</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | valzarpanotakana
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -44,9 +44,9 @@ Name/Property | Datatype | Description
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
 `Profile` | `string` | 
-`Table` | `string` | 
 `Alignment` | `string` | 
-`NumberInSource` | `string` | 
+`Shell` | `string` | 
+`ConceptInSource` | `string` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
@@ -88,6 +88,7 @@ Name/Property | Datatype | Description
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Concepticon_ID](http://cldf.clld.org/v1.0/terms.rdf#concepticonReference) | `string` | 
 `Concepticon_Gloss` | `string` | 
+`Table` | `string` | 
 
 ## <a name="table-cognatescsv"></a>Table [cognates.csv](./cognates.csv)
 

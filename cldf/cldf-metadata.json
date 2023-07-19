@@ -9,12 +9,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Valenzuela, Pilar and Roberto Zariquiey's \"Classifica\u00e7\u00e3o das l\u00ednguas na Amaz\u00f4nia Ocidental: avan\u00e7os a favor da hip\u00f3tese Pano-Takana\" from 2023",
-    "dcat:accessURL": "https://github.com/pano-tacanan-history/valzarpanotakana",
+    "dcat:accessURL": "https://github.com/pano-tacanan-history/valzarpanotakana/",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/pano-tacanan-history/valzarpanotakana",
+            "rdf:about": "https://github.com/pano-tacanan-history/valzarpanotakana/",
             "rdf:type": "prov:Entity",
-            "dc:created": "58ddbfc",
+            "dc:created": "1f73177",
             "dc:title": "Repository"
         },
         {
@@ -24,15 +24,15 @@
             "dc:title": "Glottolog"
         },
         {
-            "rdf:about": "https://github.com/MuffinLinwist/concepticon-data",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0.0",
+            "dc:created": "v3.1.0",
             "dc:title": "Concepticon"
         },
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.4-161-g8b92f99",
+            "dc:created": "v2.2.0",
             "dc:title": "CLTS"
         }
     ],
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.8"
+            "dc:description": "3.11.4"
         },
         {
             "dc:title": "python-packages",
@@ -52,9 +52,6 @@
     ],
     "rdf:ID": "valzarpanotakana",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
@@ -130,15 +127,15 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Table"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Alignment"
                     },
                     {
                         "datatype": "string",
-                        "name": "NumberInSource"
+                        "name": "Shell"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "ConceptInSource"
                     }
                 ],
                 "foreignKeys": [
@@ -189,7 +186,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -209,8 +206,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -219,8 +216,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -263,12 +260,16 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
                         "name": "Concepticon_ID"
                     },
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Table"
                     }
                 ],
                 "primaryKey": [
