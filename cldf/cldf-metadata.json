@@ -1,20 +1,19 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Valenzuela, Pilar and Zariquiey, Roberto (2023). Classifica\u00e7\u00e3o das l\u00ednguas na Amaz\u00f4nia Ocidental: avan\u00e7os a favor da hip\u00f3tese Pano-Takana. LIAMES: L\u00ednguas Ind\u00edgenas Americanas, Campinas, SP.",
+    "dc:bibliographicCitation": "Valenzuela, Pilar and Zariquiey, Roberto (2023). Language classification in Western Amazonia: advances in favor of the Pano-Takana Hypothesis. LIAMES: L\u00ednguas Ind\u00edgenas Americanas, Campinas, SP. https://doi.org/10.20396/liames.v23i00.8670150",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:identifier": "https://doi.org/10.20396/liames.v23i00.8670150",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Valenzuela, Pilar and Roberto Zariquiey's \"Classifica\u00e7\u00e3o das l\u00ednguas na Amaz\u00f4nia Ocidental: avan\u00e7os a favor da hip\u00f3tese Pano-Takana\" from 2023",
+    "dc:title": "CLDF dataset derived from Valenzuela, Pilar and Roberto Zariquiey's \" Language classification in Western Amazonia: advances in favor of the Pano-Takana Hypothesis\" from 2023",
     "dcat:accessURL": "https://github.com/pano-tacanan-history/valenzuelazariquieypanotakana",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/pano-tacanan-history/valenzuelazariquieypanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "dafe054",
+            "dc:created": "4657f48",
             "dc:title": "Repository"
         },
         {
