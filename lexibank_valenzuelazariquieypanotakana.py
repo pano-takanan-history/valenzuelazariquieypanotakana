@@ -9,6 +9,14 @@ from pylexibank import FormSpec
 from pyedictor import fetch
 
 
+def unmerge(sequence):
+    out = []
+    for tok in sequence:
+        out += tok.split('.')
+
+    return out
+
+
 @attr.s
 class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
@@ -25,11 +33,12 @@ class CustomLexeme(Lexeme):
     Alignment = attr.ib(default=None)
     Shell = attr.ib(default=None)
     ConceptInSource = attr.ib(default=None)
+    GroupedSounds = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    id = "valzarpanotakana"
+    id = "valenzuelazariquieypanotakana"
     concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
@@ -129,7 +138,8 @@ class Dataset(BaseDataset):
                 Parameter_ID=concepts[(concept)],
                 Form=form.strip(),
                 Value=value.strip() or form.strip(),
-                Segments=tokens,
+                Segments=unmerge(tokens),
+                GroupedSounds=tokens,
                 Shell=shell,
                 Comment=note,
                 Cognacy=cogid,

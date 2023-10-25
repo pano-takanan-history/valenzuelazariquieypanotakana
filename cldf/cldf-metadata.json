@@ -9,18 +9,18 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Valenzuela, Pilar and Roberto Zariquiey's \"Classifica\u00e7\u00e3o das l\u00ednguas na Amaz\u00f4nia Ocidental: avan\u00e7os a favor da hip\u00f3tese Pano-Takana\" from 2023",
-    "dcat:accessURL": "https://github.com/pano-tacanan-history/valzarpanotakana/",
+    "dcat:accessURL": "https://github.com/pano-tacanan-history/valenzuelazariquieypanotakana",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/pano-tacanan-history/valzarpanotakana/",
+            "rdf:about": "https://github.com/pano-tacanan-history/valenzuelazariquieypanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "1f73177",
+            "dc:created": "dafe054",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.7",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         },
         {
@@ -43,14 +43,14 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.4"
+            "dc:description": "3.11.6"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "valzarpanotakana",
+    "rdf:ID": "valenzuelazariquieypanotakana",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
@@ -136,6 +136,10 @@
                     {
                         "datatype": "string",
                         "name": "ConceptInSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GroupedSounds"
                     }
                 ],
                 "foreignKeys": [
