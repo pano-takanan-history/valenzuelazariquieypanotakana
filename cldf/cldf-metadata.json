@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/valenzuelazariquieypanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "4657f48",
+            "dc:created": "073e7a7",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.6"
+            "dc:description": "3.12.0"
         },
         {
             "dc:title": "python-packages",
