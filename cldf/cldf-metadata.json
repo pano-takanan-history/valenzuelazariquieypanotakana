@@ -8,12 +8,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Valenzuela, Pilar and Roberto Zariquiey's \" Language classification in Western Amazonia: advances in favor of the Pano-Takana Hypothesis\" from 2023",
-    "dcat:accessURL": "https://github.com/pano-tacanan-history/valenzuelazariquieypanotakana",
+    "dcat:accessURL": "https://github.com/pano-tacanan-history/valzarpanotakana/",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/pano-tacanan-history/valenzuelazariquieypanotakana",
+            "rdf:about": "https://github.com/pano-tacanan-history/valzarpanotakana/",
             "rdf:type": "prov:Entity",
-            "dc:created": "073e7a7",
+            "dc:created": "v1.0.0",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.0"
+            "dc:description": "3.11.7"
         },
         {
             "dc:title": "python-packages",
