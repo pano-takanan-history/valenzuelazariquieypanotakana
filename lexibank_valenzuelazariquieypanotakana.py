@@ -85,17 +85,18 @@ class Dataset(BaseDataset):
         args.log.info("added sources")
 
         # add conceptlists
+
         concepts = {}
-        for concept in self.concepts:
-            idx = concept["NUMBER"]+"_"+slug(concept["ENGLISH"])
-            concepts[concept["ENGLISH"]] = idx
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
                 ID=idx,
-                Name=concept["ENGLISH"],
-                Concepticon_ID=concept["CONCEPTICON_ID"],
-                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                Table=concept["TABLE"]
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+                Table=concept.attributes["table"]
             )
+            concepts[concept.english] = idx
 
         args.log.info("added concepts")
 

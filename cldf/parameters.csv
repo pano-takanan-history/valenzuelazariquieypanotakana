@@ -3,7 +3,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Table
 2_tooth,Tooth,1380,TOOTH,lexical
 3_two,Two,1498,TWO,lexical
 4_liver,Liver,1224,LIVER,lexical
-5_leaftofan,"Leaf, to fan",,,lexical
+5_leaftofan,"Leaf,To fan",,,lexical
 6_bone,Bone,1394,BONE,lexical
 7_tongue,Tongue,1205,TONGUE,lexical
 8_hand,Hand,1277,HAND,lexical
@@ -17,14 +17,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Table
 16_you,You,1215,THOU,lexical
 17_come,Come,1446,COME,lexical
 18_i,I,1209,I,lexical
-19_flesh,Flesh,2259,FLESH,bodyparts
-20_fat,Fat,323,FAT (ORGANIC SUBSTANCE),bodyparts
-21_fingernail,Fingernail,1258,FINGERNAIL,bodyparts
-22_footleg,"Foot,leg",2098,FOOT OR LEG,bodyparts
-23_lipedge,"Lip,edge",,,bodyparts
-24_cheek,Cheek,1730,CHEEK,bodyparts
-25_mouth,Mouth,674,MOUTH,bodyparts
-26_elbow,Elbow,981,ELBOW,bodyparts
+19_flesh,Flesh,2259,FLESH,body-parts
+20_fat,Fat,323,FAT (ORGANIC SUBSTANCE),body-parts
+21_fingernail,Fingernail,1258,FINGERNAIL,body-parts
+22_footleg,"Foot,leg",2098,FOOT OR LEG,body-parts
+23_lipedge,"Lip,edge",,,body-parts
+24_cheek,Cheek,1730,CHEEK,body-parts
+25_mouth,Mouth,674,MOUTH,body-parts
+26_elbow,Elbow,981,ELBOW,body-parts
 27_1stsgi,1st SG 'I',,,morphological
 28_2ndsgyou,2nd SG 'you',,,morphological
 29_demonstrative,DEMONSTRATIVE,,,morphological

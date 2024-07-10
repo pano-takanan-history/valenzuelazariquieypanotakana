@@ -39,17 +39,17 @@ ID	ALIGNMENT	COGID	TOKENS	CONCEPT	CONCEPTINSOURCE	SHELL	DOCULECT	FORM	VALUE	NOTE
 38	( - - ) t a k a	33	t a k a	Liver	Liver	104	Kaxarari	taka	taka	None
 39	( - - ) t a k a	33	t a k a	Liver	Liver	104	Chaninawa	taka	taka	None
 40	( - - ) t a k a	33	t a k a	Liver	Liver	104	Sharanawa	taka	taka	None
-41	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf, to fan	Leaf	None	Proto-Pano-Takana	pɨʔi	pɨʔi	None
-42	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf, to fan	Leaf	None	Proto-Pano	pɨʔi	pɨʔi	None
-43	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Kakataibo	pɨi	pɨi	None
-44	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	ShipiboKonibo	pɨi	pɨi	None
-45	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf, to fan	Leaf	None	Kapanawa	pɨʔi	pɨʔi	None
-46	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Marubo	pɨi	pɨi	None
-47	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf, to fan	Leaf	None	Chacobo	pɨʔi	pɨʔi	None
-48	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf, to fan	Leaf	None	Kaxarari	pɨʔi	pɨʔi	None
-49	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Yaminawa	pɨi	pɨi	None
-50	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Chaninawa	pɨi	pɨi	None
-51	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Sharanawa	pɨi	pɨi	None
+41	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf,To fan	Leaf	None	Proto-Pano-Takana	pɨʔi	pɨʔi	None
+42	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf,To fan	Leaf	None	Proto-Pano	pɨʔi	pɨʔi	None
+43	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Kakataibo	pɨi	pɨi	None
+44	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	ShipiboKonibo	pɨi	pɨi	None
+45	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf,To fan	Leaf	None	Kapanawa	pɨʔi	pɨʔi	None
+46	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Marubo	pɨi	pɨi	None
+47	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf,To fan	Leaf	None	Chacobo	pɨʔi	pɨʔi	None
+48	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf,To fan	Leaf	None	Kaxarari	pɨʔi	pɨʔi	None
+49	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Yaminawa	pɨi	pɨi	None
+50	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Chaninawa	pɨi	pɨi	None
+51	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Sharanawa	pɨi	pɨi	None
 52	( - - - ) ʂ a ( - ) u	5	ʂ a u	Bone	Bone	93	Proto-Pano-Takana	ʂau	ʂau	None
 53	( - - - ) ʂ a ( - ) o	5	ʂ a o	Bone	Bone	93	Proto-Pano	ʂao	ʂao	None
 54	( - - - ) ʂ !ɔː/ɔ ( - ) -	5	ʂ !ɔː/ɔ	Bone	Bone	93	Kakataibo	ʂɔː	ʂɔː	None
@@ -285,15 +285,15 @@ ID	ALIGNMENT	COGID	TOKENS	CONCEPT	CONCEPTINSOURCE	SHELL	DOCULECT	FORM	VALUE	NOTE
 284	( - - ) t a kʷ a	33	t a kʷ a	Liver	Liver	104	Korubo	takʷa	takʷa	None
 285	( - - ) t a kʷ a	33	t a kʷ a	Liver	Liver	104	Matis	takua	takua	None
 286	( - - ) t a kʷ a	33	t a kʷ a	Liver	Liver	104	Matses	takʷa	takʷa	None
-287	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Shanenawa	pɨj	pɨj	None
-288	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Katukina	pɨi	pɨi	None
-289	( - - ) p u - i	31	p u i	Leaf, to fan	Leaf	None	Poyanawa	puy	puy	None
-290	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf, to fan	Leaf	None	Amawaka	pɨʔi	pɨʔi	None
-291	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Kaxinawa	pɨi	pɨi	None
-292	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Marinawa	pɨi	pɨi	None
-293	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Yawanawa	pɨi	pɨi	None
-294	( - - ) p ɨ - i	31	p ɨ i	Leaf, to fan	Leaf	None	Matis	pɨi	pɨi	None
-295	( - - ) p ɨ - -	31	p ɨ	Leaf, to fan	Leaf	None	Matses	pɨ	pɨ	None
+287	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Shanenawa	pɨj	pɨj	None
+288	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Katukina	pɨi	pɨi	None
+289	( - - ) p u - i	31	p u i	Leaf,To fan	Leaf	None	Poyanawa	puy	puy	None
+290	( - - ) p ɨ ʔ i	31	p ɨ ʔ i	Leaf,To fan	Leaf	None	Amawaka	pɨʔi	pɨʔi	None
+291	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Kaxinawa	pɨi	pɨi	None
+292	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Marinawa	pɨi	pɨi	None
+293	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Yawanawa	pɨi	pɨi	None
+294	( - - ) p ɨ - i	31	p ɨ i	Leaf,To fan	Leaf	None	Matis	pɨi	pɨi	None
+295	( - - ) p ɨ - -	31	p ɨ	Leaf,To fan	Leaf	None	Matses	pɨ	pɨ	None
 296	( - - - ) ʂ a ( - ) !w/o	5	ʂ a !w/o	Bone	Bone	93	Shanenawa	ʂaw	ʂaw	Shell (1975: 174, 398) and Oliveira (2014: 459, 398) reconstruct *ʂao. Kasharari presents the form ʂahu [ʂa'hwu] (Lanes 2005, in Oliveira 2014). For Matses/Mayoruna we consider as evidence the final consonant in mɨ-ʂ‘wrist bone’, taɨ-ʂ‘ankle bone’, and ʂomoʂ‘needle made of bone’ (Fleck et al. 2012).
 297	( - - - ) ʃ a ( - ) u	5	ʃ a u	Bone	Bone	93	Katukina	ʃau	ʃau	None
 298	( - - - ) h a ( - ) !w/u	5	h a !w/u	Bone	Bone	93	Poyanawa	haw	haw	None
@@ -477,10 +477,10 @@ ID	ALIGNMENT	COGID	TOKENS	CONCEPT	CONCEPTINSOURCE	SHELL	DOCULECT	FORM	VALUE	NOTE
 476	( e + ) k a kʷ a	33	e + k a kʷ a	Liver	Liver	104	EseEjja	e-kakwa	e-kakwa	None
 477	( e + ) t a kʷ e	33	e + t a kʷ e	Liver	Liver	104	Warayo	e-takwe	e-takwe	None
 478	( e - ) t !á/a kʷ a	33	e t !á/a kʷ a	Liver	Liver	104	Arasa	etákua	etákua	None
-479	( - - ) p e - i	31	p e i	Leaf, to fan	To fan	None	Proto-Takana	pei	pei	None
-480	( - - ) p e - i	31	p e i	Leaf, to fan	To fan	None	Cavinena	pei-	pei-	None
-481	( e + ) p e x i	31	e + p e x i	Leaf, to fan	To fan	None	EseEjja	e-pexi	e-pexi	None
-482	( - - ) p i - o	31	p i o	Leaf, to fan	To fan	None	Warayo	pio-	pio-	None
+479	( - - ) p e - i	31	p e i	Leaf,To fan	To fan	None	Proto-Takana	pei	pei	None
+480	( - - ) p e - i	31	p e i	Leaf,To fan	To fan	None	Cavinena	pei-	pei-	None
+481	( e + ) p e x i	31	e + p e x i	Leaf,To fan	To fan	None	EseEjja	e-pexi	e-pexi	None
+482	( - - ) p i - o	31	p i o	Leaf,To fan	To fan	None	Warayo	pio-	pio-	None
 483	( - - - ) tʂ a ( - ) u	5	tʂ a u	Bone	Bone	93	Proto-Takana	tʂau	tʂau	None
 484	( - e + ) tʂ a ( - ) u	5	e + ʈʂ a u	Bone	Bone	93	Tacanan	e-cau	e-cau	None
 485	( - e + ) ts a ( - ) o	5	e + ts a o	Bone	Bone	93	Reyesano	e-cao	e-cao/etrá	None
