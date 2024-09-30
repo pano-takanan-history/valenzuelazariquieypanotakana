@@ -1,4 +1,4 @@
-# CLDF dataset derived from Valenzuela, Pilar and Roberto Zariquiey's " Language classification in Western Amazonia: advances in favor of the Pano-Takana Hypothesis" from 2023
+# CLDF dataset derived from Valenzuela and Zariquiey's " Language classification in Western Amazonia: advances in favor of the Pano-Takana Hypothesis" from 2023
 
 [![CLDF validation](https://github.com/pano-tacanan-history/valzarpanotakana//workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/valzarpanotakana//actions?query=workflow%3ACLDF-validation)
 
