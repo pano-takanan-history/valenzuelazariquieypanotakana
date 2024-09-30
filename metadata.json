@@ -1,6 +1,7 @@
 {
     "id": "valenzuelazariquieypanotakana",
-    "title": "CLDF dataset derived from Valenzuela, Pilar and Roberto Zariquiey's \" Language classification in Western Amazonia: advances in favor of the Pano-Takana Hypothesis\" from 2023",
+    "title": "CLDF dataset derived from Valenzuela and Zariquiey's \" Language classification in Western Amazonia: advances in favor of the Pano-Takana Hypothesis\" from 2023",
     "license": "CC-BY-4.0",
+    "conceptlist": "Valenzuela-2023-44",
     "citation": "Valenzuela, Pilar and Zariquiey, Roberto (2023). Language classification in Western Amazonia: advances in favor of the Pano-Takana Hypothesis. LIAMES: Línguas Indígenas Americanas, Campinas, SP. https://doi.org/10.20396/liames.v23i00.8670150"
 }
