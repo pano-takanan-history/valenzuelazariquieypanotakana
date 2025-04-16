@@ -1,6 +1,6 @@
 # CLDF dataset derived from Valenzuela and Zariquiey's " Language classification in Western Amazonia: advances in favor of the Pano-Takana Hypothesis" from 2023
 
-[![CLDF validation](https://github.com/pano-tacanan-history/valzarpanotakana//workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/valzarpanotakana//actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/pano-takanan-history/valenzuelazariquieypanotakana/workflows/CLDF-validation/badge.svg)](https://github.com/pano-takanan-history/valenzuelazariquieypanotakana/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -20,7 +20,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/pano-tacanan-history/valzarpanotakana//workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/valzarpanotakana//actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/pano-takanan-history/valenzuelazariquieypanotakana/workflows/CLDF-validation/badge.svg)](https://github.com/pano-takanan-history/valenzuelazariquieypanotakana/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 89%](https://img.shields.io/badge/Glottolog-89%25-yellowgreen.svg "Glottolog: 89%")
 ![Concepticon: 62%](https://img.shields.io/badge/Concepticon-62%25-orange.svg "Concepticon: 62%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
